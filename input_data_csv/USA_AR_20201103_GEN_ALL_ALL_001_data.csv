@@ -1,0 +1,2592 @@
+IS_AUDITED,COUNTY_NAME,PRECINCT_NAME,PRECINCT_CODE,USA_AR_20201103_GEN_PRE_REP_TRUMP,USA_AR_20201103_GEN_PRE_DEM_BIDEN,USA_AR_20201103_GEN_PRE_LIB_JORGENSEN,USA_AR_20201103_GEN_PRE_GRE_HAWKINS,USA_AR_20201103_GEN_PRE_CON_BLANKENSHIP,USA_AR_20201103_GEN_PRE_ASP_CARROLL,USA_AR_20201103_GEN_PRE_LLP_MYERS,USA_AR_20201103_GEN_PRE_SLP_RIVA,USA_AR_20201103_GEN_PRE_IND_WEST,USA_AR_20201103_GEN_PRE_IND_COLLINS,USA_AR_20201103_GEN_PRE_IND_PIERCE,USA_AR_20201103_GEN_PRE_IND_GAMMON,USA_AR_20201103_GEN_PRE_IND_FUENTE,USA_AR_20201103_GEN_USS_REP_COTTON,USA_AR_20201103_GEN_USS_LIB_HARRINGTON
+0,_Arkansas,_11 - McFall,_11 - McFall,38,7,0,0,0,0,0,0,1,0,0,0,1,40,7
+0,_Arkansas,_12 - Crockett,_12 - Crockett,32,9,0,0,0,0,0,0,0,0,0,0,0,36,4
+0,_Arkansas,_13 - Keaton,_13 - Keaton,241,83,2,0,1,0,0,0,0,1,0,1,0,244,76
+0,_Arkansas,_14 - Mill Bayou,_14 - Mill Bayou,88,14,1,0,0,0,0,0,1,1,0,0,0,88,16
+0,_Arkansas,_15 - Almyra,_15 - Almyra,96,10,2,0,0,0,0,1,0,0,0,0,0,96,12
+0,_Arkansas,_21 - Prairie,_21 - Prairie,147,23,0,0,1,0,0,0,1,1,0,0,0,155,19
+0,_Arkansas,_22 - Lagrue,_22 - Lagrue,410,51,4,0,0,1,0,0,0,1,0,0,0,416,45
+0,_Arkansas,_23 - St. Charles,_23 - St. Charles,74,8,0,0,0,0,0,0,0,1,0,0,0,76,6
+0,_Arkansas,_31 - Chester,_31 - Chester,77,16,1,0,0,0,0,0,0,0,0,0,0,81,11
+0,_Arkansas,_32 - Arkansas,_32 - Arkansas,34,11,0,0,0,0,0,0,0,0,0,0,0,34,8
+0,_Arkansas,_33 - Stanley,_33 - Stanley,7,4,0,0,0,0,0,0,0,0,0,0,0,7,4
+0,_Arkansas,_34 - Gillett Ward 1,_34 - Gillett Ward 1,50,17,0,0,1,0,0,0,0,1,0,0,0,53,15
+0,_Arkansas,_35 - Gillett Ward 2,_35 - Gillett Ward 2,90,20,1,0,0,0,0,0,0,0,0,0,0,92,18
+0,_Arkansas,_36 - Gillett Ward 3,_36 - Gillett Ward 3,41,23,1,0,0,0,0,0,1,0,0,0,0,44,21
+0,_Arkansas,_37 - PT Deluce,_37 - PT Deluce,87,6,0,1,0,0,0,0,0,0,0,0,0,87,7
+0,_Arkansas,_38 - Bayou Meto,_38 - Bayou Meto,67,9,1,1,0,0,0,0,0,0,0,0,0,69,8
+0,_Arkansas,_41 - Morris,_41 - Morris,86,10,0,0,0,0,0,0,0,0,0,0,0,85,10
+0,_Arkansas,_42 - Gum Pond,_42 - Gum Pond,130,26,1,0,0,0,1,1,0,0,0,0,1,137,21
+0,_Arkansas,_43 - Barton,_43 - Barton,72,5,1,0,0,0,0,0,0,0,0,0,0,71,7
+0,_Arkansas,_44 - Henton,_44 - Henton,80,11,1,0,0,0,0,1,0,0,0,0,0,79,12
+0,_Arkansas,_45 - Brewer,_45 - Brewer,24,1,1,0,0,0,0,0,0,0,0,0,0,22,3
+0,_Arkansas,_46 - Garland,_46 - Garland,63,7,0,0,0,0,0,0,0,0,0,0,0,63,7
+0,_Arkansas,_47 - Humphrey Ward 1,_47 - Humphrey Ward 1,18,36,1,0,0,0,0,2,1,0,0,0,0,26,30
+0,_Arkansas,_48 - Humphrey Ward 3,_48 - Humphrey Ward 3,15,10,0,0,0,0,0,0,0,0,0,1,0,15,10
+0,_Arkansas,_51 - DeWitt 1,_51 - DeWitt 1,62,123,2,0,0,0,0,3,2,3,0,0,1,86,90
+0,_Arkansas,_53 - Dewitt 2,_53 - Dewitt 2,226,71,2,1,1,0,0,1,0,2,0,1,0,242,48
+0,_Arkansas,_55 - Dewitt 3,_55 - Dewitt 3,300,67,1,1,0,0,0,0,2,2,1,1,0,304,57
+0,_Arkansas,_71 - Stuttgart 1,_71 - Stuttgart 1,193,498,3,4,2,1,2,7,4,7,0,5,2,262,400
+0,_Arkansas,_81 - Stuttgart 2,_81 - Stuttgart 2,689,343,7,4,3,1,1,5,6,1,2,2,2,746,281
+0,_Arkansas,_91 - Stuttgart 3,_91 - Stuttgart 3,767,299,13,4,0,4,0,2,0,1,1,2,0,811,248
+0,_Ashley,_01 - Crossett Ward 1,_01 - Crossett Ward 1,182,297,1,2,4,0,5,2,9,7,1,5,0,221,266
+0,_Ashley,_02 - Crossett Ward 2,_02 - Crossett Ward 2,298,323,2,2,4,0,4,5,7,4,0,0,2,344,289
+0,_Ashley,_03 - Crossett Ward 3,_03 - Crossett Ward 3,685,175,6,0,3,1,0,1,1,1,0,4,1,701,175
+0,_Ashley,_04 - North Crossett East,_04 - North Crossett East,379,77,0,0,1,0,0,0,4,2,0,0,0,377,78
+0,_Ashley,_05 - North Crossett West,_05 - North Crossett West,212,50,0,0,0,0,0,0,2,0,1,0,1,212,50
+0,_Ashley,_06 - West Crossett Rural,_06 - West Crossett Rural,406,178,0,0,2,0,0,1,2,2,0,3,0,429,148
+0,_Ashley,_07 - VO - Tech,_07 - VO - Tech,212,62,2,0,2,0,0,1,2,1,0,0,0,212,68
+0,_Ashley,_08 - Cooter,_08 - Cooter,177,34,3,0,0,0,0,0,0,0,0,0,0,181,30
+0,_Ashley,_09 - Hickory Grove,_09 - Hickory Grove,418,45,2,0,1,0,0,0,0,1,0,0,0,414,42
+0,_Ashley,_10 - Crossroads,_10 - Crossroads,355,42,2,0,1,1,0,1,2,1,0,2,1,352,50
+0,_Ashley,_11 - Hamburg Ward 3,_11 - Hamburg Ward 3,309,76,1,2,2,0,1,0,1,1,0,0,1,319,72
+0,_Ashley,_12 - Hamburg Ward 2,_12 - Hamburg Ward 2,189,55,1,1,0,0,0,2,1,3,1,1,2,207,44
+0,_Ashley,_13 - Hamburg Ward 1,_13 - Hamburg Ward 1,45,160,0,0,2,2,0,2,2,4,0,4,0,67,145
+0,_Ashley,_14 - Hamburg Rural,_14 - Hamburg Rural,547,74,1,0,1,1,0,1,0,1,1,2,0,556,68
+0,_Ashley,_15 - Mt. Zion,_15 - Mt. Zion,142,11,0,0,0,0,0,0,0,1,0,1,0,144,10
+0,_Ashley,_16 - Milo,_16 - Milo,345,47,2,0,2,0,0,0,0,0,1,0,0,344,49
+0,_Ashley,_17 - Beech Creek,_17 - Beech Creek,22,3,0,0,0,0,0,0,0,1,0,0,0,23,2
+0,_Ashley,_18 - Mist,_18 - Mist,83,5,0,0,0,0,0,0,0,0,0,0,0,80,6
+0,_Ashley,_19 - Fountain Hill City,_19 - Fountain Hill City,34,23,0,0,0,0,0,1,0,1,0,1,0,40,20
+0,_Ashley,_20 - Fountain Hill Rural,_20 - Fountain Hill Rural,211,39,0,1,0,0,1,0,0,0,0,1,0,216,31
+0,_Ashley,_21 - Portland City,_21 - Portland City,84,84,0,0,0,1,0,0,0,3,0,1,0,100,66
+0,_Ashley,_22 - Portland Rural,_22 - Portland Rural,24,8,0,0,0,0,0,0,1,0,0,0,0,27,6
+0,_Ashley,_23 - Boydell,_23 - Boydell,7,4,0,0,0,0,0,0,0,0,0,0,0,8,3
+0,_Ashley,_24 - Snyder / Trafalgar,_24 - Snyder / Trafalgar,41,5,0,0,1,0,1,0,0,1,0,0,0,40,8
+0,_Ashley,_25 - Montrose City,_25 - Montrose City,19,69,1,0,0,1,0,3,0,3,0,0,0,30,49
+0,_Ashley,_26 - Montrose Rural,_26 - Montrose Rural,5,3,0,0,0,0,0,0,0,0,0,0,0,5,3
+0,_Ashley,_27 - Parkdale City,_27 - Parkdale City,29,55,0,0,0,3,1,1,2,0,0,2,0,37,51
+0,_Ashley,_28 - Parkdale Rural,_28 - Parkdale Rural,7,6,0,0,0,0,0,0,2,0,0,0,0,8,7
+0,_Ashley,_29 - Wilmot City,_29 - Wilmot City,40,100,1,1,3,0,3,6,5,6,0,7,1,58,103
+0,_Ashley,_30 - Wilmot Rural,_30 - Wilmot Rural,41,15,0,0,1,0,1,0,0,0,0,0,0,49,10
+0,_Baxter,_01-1,_01-1,639,115,1,1,2,0,1,0,6,2,0,0,1,634,114
+0,_Baxter,_01-2,_01-2,638,156,6,1,4,2,0,0,2,0,3,0,0,642,147
+0,_Baxter,_01-3,_01-3,332,116,5,0,2,1,1,0,1,0,2,1,0,338,108
+0,_Baxter,_02-1,_02-1,601,112,2,1,2,2,0,1,2,1,1,0,2,605,99
+0,_Baxter,_02-2,_02-2,616,138,9,0,3,1,0,2,5,1,1,0,1,614,137
+0,_Baxter,_02-3,_02-3,369,94,3,0,2,0,1,0,1,0,1,0,0,378,80
+0,_Baxter,_03-1,_03-1,391,86,4,0,1,1,0,0,0,0,1,0,1,398,77
+0,_Baxter,_03-2,_03-2,248,55,2,1,1,0,0,1,2,1,0,0,0,246,56
+0,_Baxter,_03-3,_03-3,741,224,11,1,5,2,0,1,4,0,4,0,1,764,208
+0,_Baxter,_03-4,_03-4,197,33,4,0,1,0,0,0,2,1,0,0,0,199,36
+0,_Baxter,_04-1,_04-1,1053,388,21,3,7,3,2,1,7,2,5,4,2,1082,360
+0,_Baxter,_04-2,_04-2,391,126,1,0,0,0,0,0,1,1,2,0,0,391,115
+0,_Baxter,_05-1,_05-1,412,186,8,1,1,0,0,0,5,1,1,2,3,439,159
+0,_Baxter,_05-2,_05-2,339,154,9,3,2,0,0,1,1,2,2,0,1,355,139
+0,_Baxter,_05-3,_05-3,47,11,1,0,2,0,0,0,0,0,0,0,0,45,12
+0,_Baxter,_05-4,_05-4,216,84,10,3,1,0,0,0,2,0,1,0,0,213,89
+0,_Baxter,_06-1,_06-1,741,265,8,1,1,1,0,0,1,6,1,0,1,764,227
+0,_Baxter,_06-2,_06-2,476,122,7,1,0,2,0,0,1,1,1,1,1,488,113
+0,_Baxter,_06-3,_06-3,209,50,2,0,1,2,0,0,2,2,0,0,0,204,57
+0,_Baxter,_07-1,_07-1,753,279,8,3,6,1,0,0,4,2,2,1,1,782,244
+0,_Baxter,_07-2,_07-2,398,122,3,1,4,0,1,1,2,0,0,0,1,404,109
+0,_Baxter,_07-3,_07-3,251,102,2,0,3,1,0,0,1,0,0,2,0,259,91
+0,_Baxter,_08-1,_08-1,975,252,5,4,1,3,0,0,1,3,4,0,2,997,219
+0,_Baxter,_08-2,_08-2,130,24,2,1,3,0,0,0,0,0,0,0,0,129,28
+0,_Baxter,_08-3,_08-3,112,42,0,1,0,1,0,0,0,0,0,0,1,114,41
+0,_Baxter,_08-4,_08-4,216,66,0,1,1,0,0,1,1,0,0,0,0,224,52
+0,_Baxter,_08-5,_08-5,50,21,1,1,0,0,0,0,1,0,0,0,1,47,25
+0,_Baxter,_09-1,_09-1,697,212,5,3,7,0,2,0,1,1,0,0,1,725,181
+0,_Baxter,_09-2,_09-2,631,178,5,3,2,1,0,1,2,0,0,2,1,635,168
+0,_Baxter,_09-3,_09-3,85,17,1,0,1,0,0,0,0,0,0,0,0,86,14
+0,_Baxter,_09-4,_09-4,186,42,3,0,2,0,0,0,2,0,0,0,0,184,48
+0,_Baxter,_10-1,_10-1,292,107,4,2,1,0,0,0,1,0,0,1,0,295,103
+0,_Baxter,_10-2,_10-2,616,148,12,0,2,1,0,0,3,0,0,1,0,606,151
+0,_Baxter,_10-3,_10-3,285,61,4,0,0,0,0,0,2,0,0,0,0,281,68
+0,_Baxter,_11-1,_11-1,146,69,4,0,0,0,0,0,2,0,2,1,0,144,66
+0,_Baxter,_11-2,_11-2,491,143,5,2,1,1,2,0,0,1,2,0,1,485,138
+0,_Baxter,_11-3,_11-3,314,87,3,1,1,0,0,0,2,1,1,0,0,321,81
+0,_Baxter,_11-4,_11-4,188,49,0,0,1,0,0,0,2,0,1,0,0,192,46
+0,_Baxter,_11-5,_11-5,46,14,1,2,1,0,0,0,0,1,0,0,1,44,20
+0,_Baxter,_11-6,_11-6,32,5,0,0,0,0,0,0,0,0,1,0,0,31,6
+0,_Baxter,_11-7,_11-7,30,3,0,0,0,1,0,0,0,0,1,0,0,34,1
+0,_Baxter,_11-8,_11-8,65,22,0,0,0,0,0,0,0,1,0,0,0,67,18
+0,_Baxter,_11-9,_11-9,191,55,1,1,3,0,1,0,0,0,1,0,0,209,41
+0,_Benton,_Precinct 01,_Precinct 01,1210,229,14,1,0,0,1,0,5,3,2,0,0,1169,281
+0,_Benton,_Precinct 02,_Precinct 02,311,69,6,2,1,0,0,0,1,0,0,0,0,310,81
+0,_Benton,_Precinct 03,_Precinct 03,466,553,22,8,1,1,0,4,2,4,5,2,5,510,539
+0,_Benton,_Precinct 04,_Precinct 04,812,267,11,4,2,0,1,2,5,2,4,1,0,830,273
+0,_Benton,_Precinct 05,_Precinct 05,860,484,12,2,0,1,0,1,6,1,2,2,1,877,466
+0,_Benton,_Precinct 06,_Precinct 06,616,159,11,0,3,0,0,1,2,0,1,0,3,619,171
+0,_Benton,_Precinct 07,_Precinct 07,519,208,11,0,1,4,4,1,1,2,1,0,2,518,220
+0,_Benton,_Precinct 08,_Precinct 08,749,320,39,0,2,13,1,1,7,0,1,0,1,778,339
+0,_Benton,_Precinct 09,_Precinct 09,572,246,17,3,0,5,1,1,9,2,2,1,2,587,265
+0,_Benton,_Precinct 10,_Precinct 10,607,240,10,3,3,0,2,0,3,0,5,2,2,617,241
+0,_Benton,_Precinct 100,_Precinct 100,629,392,27,4,0,2,1,1,2,3,6,1,5,660,408
+0,_Benton,_Precinct 101,_Precinct 101,351,133,7,2,0,1,0,0,1,0,0,1,0,365,107
+0,_Benton,_Precinct 102,_Precinct 102,669,398,20,2,0,1,0,0,6,0,1,0,3,684,398
+0,_Benton,_Precinct 103,_Precinct 103,505,250,14,3,2,0,2,1,1,0,2,4,0,517,249
+0,_Benton,_Precinct 104,_Precinct 104,349,280,15,0,0,2,0,0,4,0,1,0,0,359,275
+0,_Benton,_Precinct 105,_Precinct 105,767,608,26,4,0,1,0,0,9,1,3,1,0,803,572
+0,_Benton,_Precinct 106,_Precinct 106,651,382,18,0,1,4,2,0,5,2,4,1,0,704,346
+0,_Benton,_Precinct 107,_Precinct 107,904,447,13,2,0,1,2,0,6,0,3,1,1,950,412
+0,_Benton,_Precinct 108,_Precinct 108,427,364,8,2,1,6,0,3,2,2,3,1,4,430,369
+0,_Benton,_Precinct 109,_Precinct 109,826,242,11,1,1,1,0,0,3,2,2,0,1,824,249
+0,_Benton,_Precinct 11,_Precinct 11,862,325,25,4,0,5,2,2,4,0,1,2,1,876,346
+0,_Benton,_Precinct 110,_Precinct 110,552,329,5,0,0,1,0,0,5,1,0,0,0,574,303
+0,_Benton,_Precinct 111,_Precinct 111,423,253,14,0,3,4,2,0,1,0,3,1,0,456,238
+0,_Benton,_Precinct 112,_Precinct 112,1050,388,14,1,3,5,1,0,6,1,4,1,1,1053,406
+0,_Benton,_Precinct 113,_Precinct 113,351,389,9,3,4,3,1,1,1,1,0,0,0,359,387
+0,_Benton,_Precinct 114,_Precinct 114,541,218,5,0,1,0,0,0,0,2,2,2,1,562,188
+0,_Benton,_Precinct 115,_Precinct 115,620,558,20,5,1,0,1,0,7,1,0,1,1,657,533
+0,_Benton,_Precinct 116,_Precinct 116,496,459,20,2,1,2,1,1,2,0,5,1,1,502,461
+0,_Benton,_Precinct 117,_Precinct 117,637,360,14,3,1,2,1,2,1,0,1,1,1,648,360
+0,_Benton,_Precinct 12,_Precinct 12,851,343,26,1,2,0,1,4,3,1,6,2,1,874,340
+0,_Benton,_Precinct 13,_Precinct 13,608,239,11,5,0,1,1,2,0,0,2,1,0,608,246
+0,_Benton,_Precinct 14,_Precinct 14,813,228,18,2,1,1,1,1,5,2,0,0,0,814,250
+0,_Benton,_Precinct 15,_Precinct 15,442,82,1,0,0,0,0,0,1,0,2,1,0,439,85
+0,_Benton,_Precinct 16,_Precinct 16,459,89,5,2,0,1,2,0,1,0,4,0,1,477,84
+0,_Benton,_Precinct 17,_Precinct 17,447,85,8,1,1,0,0,0,1,0,0,0,1,442,94
+0,_Benton,_Precinct 18,_Precinct 18,862,483,18,1,0,4,1,2,1,0,2,2,0,892,439
+0,_Benton,_Precinct 19,_Precinct 19,488,125,6,4,0,0,0,1,2,1,0,0,0,478,134
+0,_Benton,_Precinct 20,_Precinct 20,684,320,21,1,1,1,0,1,1,1,3,0,0,675,340
+0,_Benton,_Precinct 21,_Precinct 21,959,482,17,2,3,1,1,1,2,2,4,1,3,1002,430
+0,_Benton,_Precinct 22,_Precinct 22,747,469,21,3,0,0,0,0,4,1,4,1,1,771,456
+0,_Benton,_Precinct 23,_Precinct 23,583,138,11,2,0,0,0,1,0,0,1,0,0,574,154
+0,_Benton,_Precinct 24,_Precinct 24,1057,446,9,1,1,5,0,0,3,1,7,3,0,1085,404
+0,_Benton,_Precinct 25,_Precinct 25,988,406,8,1,1,2,0,1,2,1,4,0,2,1024,354
+0,_Benton,_Precinct 26,_Precinct 26,447,296,14,3,0,1,0,1,0,0,3,0,1,446,296
+0,_Benton,_Precinct 27,_Precinct 27,597,377,16,5,4,0,0,0,4,2,3,0,0,630,353
+0,_Benton,_Precinct 28,_Precinct 28,868,482,23,4,0,2,0,1,0,1,0,1,2,873,490
+0,_Benton,_Precinct 29,_Precinct 29,852,512,16,0,0,3,1,1,1,1,2,1,0,874,481
+0,_Benton,_Precinct 30,_Precinct 30,806,506,19,2,1,4,1,0,4,0,2,1,1,828,493
+0,_Benton,_Precinct 31,_Precinct 31,793,395,22,2,0,1,1,2,4,0,7,0,0,828,375
+0,_Benton,_Precinct 32,_Precinct 32,520,526,27,4,0,0,1,0,5,2,2,1,0,560,507
+0,_Benton,_Precinct 33,_Precinct 33,1297,374,34,0,2,0,1,2,3,2,3,1,2,1293,409
+0,_Benton,_Precinct 34,_Precinct 34,888,609,31,3,4,2,0,0,3,2,3,3,1,914,607
+0,_Benton,_Precinct 35,_Precinct 35,586,295,18,2,1,2,0,0,2,2,4,1,1,588,312
+0,_Benton,_Precinct 36,_Precinct 36,367,322,8,1,0,0,0,0,1,1,3,0,0,372,318
+0,_Benton,_Precinct 37,_Precinct 37,427,622,21,7,0,0,0,0,3,1,3,1,3,474,583
+0,_Benton,_Precinct 38,_Precinct 38,583,492,28,4,2,0,4,2,5,0,2,1,3,610,485
+0,_Benton,_Precinct 39,_Precinct 39,506,406,9,4,0,0,1,0,1,0,5,1,0,506,394
+0,_Benton,_Precinct 40,_Precinct 40,491,368,30,1,1,0,2,3,3,3,2,0,0,511,369
+0,_Benton,_Precinct 41,_Precinct 41,802,435,25,4,0,3,0,1,2,2,0,0,2,824,417
+0,_Benton,_Precinct 42,_Precinct 42,822,506,34,3,2,2,2,0,4,1,3,0,5,837,516
+0,_Benton,_Precinct 43,_Precinct 43,647,280,10,1,0,0,1,1,5,0,0,0,0,691,238
+0,_Benton,_Precinct 44,_Precinct 44,239,246,12,0,1,0,1,2,3,0,0,0,2,228,264
+0,_Benton,_Precinct 45,_Precinct 45,509,235,10,2,0,1,0,0,1,2,4,0,0,515,235
+0,_Benton,_Precinct 46,_Precinct 46,336,360,10,5,2,1,2,1,2,1,4,3,3,336,347
+0,_Benton,_Precinct 47,_Precinct 47,668,709,17,7,2,5,3,2,2,1,2,2,5,715,677
+0,_Benton,_Precinct 48,_Precinct 48,346,226,12,2,0,0,1,1,1,0,1,2,1,350,230
+0,_Benton,_Precinct 49,_Precinct 49,699,553,34,0,2,2,1,1,6,4,4,0,4,722,571
+0,_Benton,_Precinct 50,_Precinct 50,324,279,2,3,0,2,0,1,0,1,2,1,2,353,253
+0,_Benton,_Precinct 51,_Precinct 51,444,229,11,1,0,0,1,0,2,0,1,1,0,450,213
+0,_Benton,_Precinct 52,_Precinct 52,377,348,20,2,1,5,0,1,2,1,0,1,2,398,346
+0,_Benton,_Precinct 53,_Precinct 53,849,527,26,4,4,0,1,1,3,2,4,1,2,868,518
+0,_Benton,_Precinct 54,_Precinct 54,547,541,17,7,2,0,1,3,3,1,0,1,1,568,517
+0,_Benton,_Precinct 55,_Precinct 55,675,576,18,4,1,4,0,3,6,0,4,2,2,727,542
+0,_Benton,_Precinct 56,_Precinct 56,609,528,18,5,2,1,2,2,2,1,3,0,2,626,530
+0,_Benton,_Precinct 57,_Precinct 57,502,189,8,0,0,2,0,0,0,1,0,1,1,501,182
+0,_Benton,_Precinct 58,_Precinct 58,775,193,20,2,0,0,3,1,2,2,1,0,1,773,220
+0,_Benton,_Precinct 59,_Precinct 59,557,503,24,6,3,3,0,0,4,2,2,1,2,579,505
+0,_Benton,_Precinct 60,_Precinct 60,595,319,25,3,1,1,0,1,1,1,4,3,1,590,351
+0,_Benton,_Precinct 61,_Precinct 61,1001,565,22,0,1,0,1,0,4,2,2,0,0,1053,495
+0,_Benton,_Precinct 62,_Precinct 62,678,449,19,2,0,0,0,0,2,0,0,0,2,715,416
+0,_Benton,_Precinct 63,_Precinct 63,1164,664,18,2,1,4,1,0,3,0,5,1,2,1187,641
+0,_Benton,_Precinct 64,_Precinct 64,653,407,14,0,0,0,0,0,6,1,3,0,1,689,372
+0,_Benton,_Precinct 65,_Precinct 65,618,310,15,2,3,0,1,0,1,3,5,3,0,643,294
+0,_Benton,_Precinct 66,_Precinct 66,762,372,22,6,1,2,0,2,2,0,2,0,0,772,373
+0,_Benton,_Precinct 67,_Precinct 67,543,512,23,2,2,2,1,1,3,1,8,1,5,561,514
+0,_Benton,_Precinct 68,_Precinct 68,765,663,27,3,3,1,1,0,7,0,1,1,0,837,611
+0,_Benton,_Precinct 69,_Precinct 69,427,441,16,4,2,1,0,2,1,2,2,0,2,460,431
+0,_Benton,_Precinct 70,_Precinct 70,977,452,34,0,0,4,0,0,3,3,2,1,3,1001,464
+0,_Benton,_Precinct 71,_Precinct 71,736,462,26,3,0,1,1,1,4,2,2,0,4,780,447
+0,_Benton,_Precinct 72,_Precinct 72,693,311,17,0,1,2,0,0,4,0,3,3,0,709,309
+0,_Benton,_Precinct 73,_Precinct 73,304,79,3,1,0,0,0,0,0,1,4,0,0,295,84
+0,_Benton,_Precinct 74,_Precinct 74,870,536,19,2,1,1,0,3,7,0,1,0,3,904,526
+0,_Benton,_Precinct 75,_Precinct 75,276,399,13,4,0,0,1,0,1,1,1,0,2,287,395
+0,_Benton,_Precinct 76,_Precinct 76,625,286,7,1,1,0,2,1,1,0,0,0,0,630,272
+0,_Benton,_Precinct 77,_Precinct 77,975,468,32,1,1,2,2,1,8,0,1,1,1,998,486
+0,_Benton,_Precinct 78,_Precinct 78,576,307,14,1,2,0,2,0,2,3,4,2,2,593,307
+0,_Benton,_Precinct 79,_Precinct 79,464,372,19,2,0,0,0,0,4,1,3,1,1,500,342
+0,_Benton,_Precinct 80,_Precinct 80,293,207,9,2,1,0,1,1,3,0,1,2,0,304,207
+0,_Benton,_Precinct 81,_Precinct 81,936,482,35,6,3,5,0,1,3,1,3,0,3,940,517
+0,_Benton,_Precinct 82,_Precinct 82,477,286,16,0,0,0,1,0,1,1,0,1,1,494,267
+0,_Benton,_Precinct 83,_Precinct 83,490,424,11,3,1,3,0,1,3,1,1,3,1,520,406
+0,_Benton,_Precinct 84,_Precinct 84,660,407,20,2,0,3,0,0,4,2,1,0,1,686,402
+0,_Benton,_Precinct 85,_Precinct 85,632,166,13,0,3,0,0,1,3,0,0,1,1,641,166
+0,_Benton,_Precinct 86,_Precinct 86,802,213,25,3,0,0,1,0,1,0,0,0,0,797,227
+0,_Benton,_Precinct 87,_Precinct 87,489,204,9,1,0,1,1,0,1,1,2,1,0,489,206
+0,_Benton,_Precinct 88,_Precinct 88,535,338,9,2,0,0,0,1,0,0,3,0,1,541,322
+0,_Benton,_Precinct 89,_Precinct 89,400,336,12,2,0,0,1,1,1,0,2,1,1,419,322
+0,_Benton,_Precinct 90,_Precinct 90,389,358,11,4,1,3,1,1,3,3,5,0,5,418,340
+0,_Benton,_Precinct 91,_Precinct 91,472,196,17,1,0,0,1,2,1,2,0,0,1,480,205
+0,_Benton,_Precinct 92,_Precinct 92,455,671,22,3,0,2,2,8,2,2,6,2,7,516,631
+0,_Benton,_Precinct 93,_Precinct 93,387,252,13,1,1,0,2,2,1,1,3,2,2,404,233
+0,_Benton,_Precinct 94,_Precinct 94,456,371,13,5,0,0,0,0,1,0,1,0,0,484,345
+0,_Benton,_Precinct 95,_Precinct 95,689,181,13,8,1,1,0,0,3,0,7,1,2,697,201
+0,_Benton,_Precinct 96,_Precinct 96,833,232,13,0,1,2,0,2,2,2,0,3,0,840,234
+0,_Benton,_Precinct 97,_Precinct 97,514,222,15,2,3,1,0,0,2,0,0,1,2,534,209
+0,_Benton,_Precinct 98,_Precinct 98,298,175,2,0,0,0,0,0,0,0,2,0,0,316,149
+0,_Benton,_Precinct 99,_Precinct 99,981,624,47,6,1,1,2,3,2,0,3,1,0,1023,612
+0,_Boone,_District 1.1,_District 1.1,938,304,19,4,2,3,2,0,6,1,3,3,0,940,313
+0,_Boone,_District 1.2,_District 1.2,34,10,0,0,0,0,0,0,0,0,0,0,0,33,11
+0,_Boone,_District 10.1/10.2/10.7,_District 10.1/10.2/10.7,876,157,11,3,2,4,0,1,0,0,3,3,0,888,149
+0,_Boone,_District 10.3/10.4/10.6,_District 10.3/10.4/10.6,528,71,4,0,2,1,0,0,1,0,1,0,1,524,78
+0,_Boone,_District 10.5,_District 10.5,25,9,2,0,1,0,0,0,0,0,0,0,0,30,5
+0,_Boone,_District 11.1-11.4,_District 11.1-11.4,976,162,6,3,0,1,2,1,1,1,0,0,0,992,144
+0,_Boone,_District 12.1/12.2/12.3,_District 12.1/12.2/12.3,296,75,3,2,0,1,0,0,0,0,1,0,0,305,68
+0,_Boone,_District 12.4,_District 12.4,9,8,0,0,0,0,0,0,0,0,0,0,0,7,8
+0,_Boone,_District 2.1,_District 2.1,1279,460,19,7,2,6,1,0,5,4,0,1,2,1338,429
+0,_Boone,_District 2.2,_District 2.2,43,10,0,0,0,0,0,0,0,0,0,0,0,39,10
+0,_Boone,_District 3.1/3.3,_District 3.1/3.3,686,238,12,4,1,1,0,2,4,1,0,4,1,690,248
+0,_Boone,_District 3.2,_District 3.2,28,11,0,1,0,1,0,0,0,0,1,0,0,29,12
+0,_Boone,_District 4.1,_District 4.1,1089,290,17,3,0,5,1,1,6,4,4,1,2,1091,296
+0,_Boone,_District 4.2,_District 4.2,33,9,0,1,1,0,0,0,0,0,0,0,0,35,9
+0,_Boone,_District 5.1/5.2/5.3/5.9,_District 5.1/5.2/5.3/5.9,680,104,4,4,0,0,2,0,1,2,1,0,1,692,97
+0,_Boone,_District 5.4,_District 5.4,12,1,0,0,0,0,0,0,0,0,0,0,0,11,1
+0,_Boone,_District 5.5/5.7/5.8,_District 5.5/5.7/5.8,514,119,3,2,1,0,0,0,3,2,0,1,0,526,108
+0,_Boone,_District 5.6,_District 5.6,135,28,1,1,0,0,0,1,1,0,0,0,0,132,29
+0,_Boone,_District 6.1,_District 6.1,190,24,1,2,0,0,0,0,1,2,0,0,0,186,30
+0,_Boone,_District 6.2/6.5/6.8,_District 6.2/6.5/6.8,392,46,2,0,0,1,0,0,2,1,0,0,0,389,49
+0,_Boone,_District 6.3/6.4,_District 6.3/6.4,152,12,2,1,0,0,0,0,0,1,0,1,0,150,17
+0,_Boone,_District 6.6/6.7,_District 6.6/6.7,695,90,7,2,0,0,2,0,2,1,0,1,0,689,102
+0,_Boone,_District 7.1,_District 7.1,70,8,1,0,1,0,0,0,0,0,0,0,0,68,9
+0,_Boone,_District 7.2/7.3/7.8,_District 7.2/7.3/7.8,798,149,7,3,0,2,1,0,1,1,0,2,2,799,141
+0,_Boone,_District 7.4-7.7,_District 7.4-7.7,407,64,8,2,0,2,0,1,1,0,0,0,0,405,75
+0,_Boone,_District 8.1/8.5,_District 8.1/8.5,939,202,9,3,1,3,1,0,0,1,1,1,1,943,201
+0,_Boone,_District 8.2/8.3/8.4,_District 8.2/8.3/8.4,537,143,9,3,0,1,0,1,3,0,0,0,1,535,146
+0,_Boone,_District 9.1/9.2/9.3/9.6,_District 9.1/9.2/9.3/9.6,1024,201,3,4,3,1,1,1,1,0,5,3,1,1017,214
+0,_Boone,_District 9.4,_District 9.4,191,33,1,0,0,4,0,0,0,0,0,0,0,197,29
+0,_Boone,_District 9.5,_District 9.5,76,26,2,0,0,0,0,0,0,0,0,0,0,73,26
+0,_Bradley,_01 - Warren Ward 1,_01 - Warren Ward 1,128,346,5,2,0,0,1,1,6,3,1,0,0,172,289
+0,_Bradley,_02 - Warren Ward 2,_02 - Warren Ward 2,318,229,8,1,3,1,1,4,3,3,3,0,0,349,213
+0,_Bradley,_03 - Warren Ward 3,_03 - Warren Ward 3,205,300,7,1,3,1,0,6,2,2,3,0,0,247,272
+0,_Bradley,_04 - North,_04 - North,594,80,3,0,1,0,0,0,4,0,1,0,0,598,74
+0,_Bradley,_05 - South,_05 - South,287,39,4,0,0,0,0,0,0,0,1,0,0,292,35
+0,_Bradley,_06 - Banks City,_06 - Banks City,35,9,0,0,0,0,0,0,0,0,0,0,0,37,6
+0,_Bradley,_07 - Banks Rural,_07 - Banks Rural,103,43,2,0,0,0,0,1,0,0,0,0,0,109,31
+0,_Bradley,_08 - Springhill,_08 - Springhill,137,9,0,0,0,0,0,0,0,1,0,0,0,137,7
+0,_Bradley,_09 - Hermitage City,_09 - Hermitage City,63,46,0,0,0,2,0,0,0,1,0,0,0,71,37
+0,_Bradley,_10 - Hermitage Rural,_10 - Hermitage Rural,194,24,0,0,0,0,2,0,0,0,1,0,0,195,25
+0,_Bradley,_11 - Eagle Lake,_11 - Eagle Lake,54,11,1,0,0,1,0,0,0,0,0,0,0,56,11
+0,_Bradley,_12 - Jersey,_12 - Jersey,60,38,1,0,1,1,0,0,0,0,0,0,0,63,38
+0,_Bradley,_13 - Johnsville,_13 - Johnsville,81,36,1,0,0,0,0,2,0,0,0,1,0,83,35
+0,_Bradley,_14 - Marion,_14 - Marion,76,4,1,0,0,0,0,0,0,0,0,0,0,76,5
+0,_Calhoun,_Chambersville,_Chambersville,124,26,0,0,0,1,0,0,0,0,1,0,0,126,24
+0,_Calhoun,_Chambersville West,_Chambersville West,25,1,0,0,0,0,0,0,0,1,0,0,0,26,1
+0,_Calhoun,_Champagnolle,_Champagnolle,255,45,1,0,0,0,1,0,2,1,1,0,0,262,40
+0,_Calhoun,_Dr. Rhine Park,_Dr. Rhine Park,28,2,0,0,0,0,0,0,0,0,0,0,0,30,2
+0,_Calhoun,_Hampton City,_Hampton City,158,64,2,1,1,1,0,2,0,0,2,0,0,168,59
+0,_Calhoun,_Hampton Rural,_Hampton Rural,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0
+0,_Calhoun,_Hampton South City,_Hampton South City,86,94,2,0,0,0,1,0,1,1,0,3,1,103,76
+0,_Calhoun,_Hampton South Rural,_Hampton South Rural,21,0,0,0,0,0,0,0,1,0,0,0,0,22,0
+0,_Calhoun,_Harrell City,_Harrell City,74,41,1,1,0,0,0,0,1,1,0,0,0,82,36
+0,_Calhoun,_Harrell Rural 7,_Harrell Rural 7,11,9,0,0,0,0,0,0,0,0,0,0,1,12,9
+0,_Calhoun,_Harrell Rural 8,_Harrell Rural 8,102,30,2,0,0,0,0,0,2,1,2,0,0,110,24
+0,_Calhoun,_Locust,_Locust,190,46,2,2,0,1,0,0,2,0,2,0,0,200,40
+0,_Calhoun,_Locust North,_Locust North,42,4,0,1,0,0,0,0,0,0,0,0,0,42,5
+0,_Calhoun,_Thornton City,_Thornton City,75,71,1,2,0,0,0,0,0,1,0,1,0,87,64
+0,_Calhoun,_Thornton Rural,_Thornton Rural,71,7,0,0,1,0,0,0,0,0,1,0,0,74,5
+0,_Calhoun,_Tinsman City,_Tinsman City,15,3,0,0,0,0,0,0,0,0,0,0,0,14,3
+0,_Calhoun,_Tinsman Rural,_Tinsman Rural,62,7,1,0,0,0,0,0,0,0,0,0,0,62,5
+0,_Calhoun,_Tinsman Watson,_Tinsman Watson,54,13,1,0,0,0,0,0,1,0,0,0,0,56,12
+0,_Calhoun,_Tinsman West,_Tinsman West,104,6,2,0,0,0,0,0,1,0,0,0,0,100,9
+0,_Calhoun,_Woodberry,_Woodberry,133,10,1,1,0,0,0,0,1,0,0,0,1,132,14
+0,_Carroll,_Beaver/Packard Springs/Winona,_Beaver/Packard Springs/Winona,427,423,9,3,4,1,0,1,4,4,0,1,1,444,434
+0,_Carroll,_Berryville,_Berryville,1102,446,17,5,2,1,6,2,4,4,3,3,6,1141,430
+0,_Carroll,_Carrollton,_Carrollton,268,41,4,3,1,1,0,0,2,0,1,0,1,266,49
+0,_Carroll,_Coin/Liberty/Long Creek,_Coin/Liberty/Long Creek,438,84,4,3,0,0,1,0,1,0,1,2,0,447,80
+0,_Carroll,_Dry Fork/Omega/Osage/Piney,_Dry Fork/Omega/Osage/Piney,422,102,1,3,0,5,2,0,4,1,0,2,2,430,107
+0,_Carroll,_Eureka Springs,_Eureka Springs,354,820,13,11,4,5,2,1,7,3,0,0,3,380,817
+0,_Carroll,_Green Forest,_Green Forest,380,150,5,3,1,1,5,1,3,0,0,3,2,414,122
+0,_Carroll,_Hickory,_Hickory,591,130,6,0,2,3,1,0,2,1,0,2,2,599,132
+0,_Carroll,_Holiday Island,_Holiday Island,955,736,16,7,1,4,5,0,4,3,2,3,3,1007,687
+0,_Carroll,_Johnson Springs,_Johnson Springs,609,629,11,4,5,1,2,0,2,3,1,0,1,636,608
+0,_Carroll,_Kings River/Polo,_Kings River/Polo,747,205,7,2,0,1,3,0,4,1,0,0,0,764,199
+0,_Carroll,_Prairie/Cabanal,_Prairie/Cabanal,777,219,7,1,4,4,3,0,1,1,1,3,1,793,212
+0,_Carroll,_Yocum North/South,_Yocum North/South,354,38,0,3,2,1,0,0,2,1,0,1,0,355,39
+0,_Chicot,_101 - Carlton 1,_101 - Carlton 1,120,261,3,0,0,1,0,1,2,0,1,0,1,141,208
+0,_Chicot,_102 - Carlton 2,_102 - Carlton 2,16,200,0,0,0,2,0,2,4,0,2,1,0,44,146
+0,_Chicot,_103 - Carlton 3,_103 - Carlton 3,201,217,3,0,0,1,0,0,5,1,0,1,1,208,170
+0,_Chicot,_104 - Carlton Rural,_104 - Carlton Rural,857,210,4,4,2,1,1,2,1,1,1,0,0,863,159
+0,_Chicot,_201 - Planters 1,_201 - Planters 1,26,135,2,0,0,1,0,0,1,1,1,0,0,46,99
+0,_Chicot,_202 - Planters 2,_202 - Planters 2,21,167,0,0,1,1,0,0,2,0,1,0,0,39,129
+0,_Chicot,_203 - Planters 3,_203 - Planters 3,3,145,1,0,0,0,1,0,0,1,1,0,0,12,113
+0,_Chicot,_204 - Planters 4,_204 - Planters 4,4,166,0,0,0,0,1,0,0,0,1,0,0,21,112
+0,_Chicot,_205 - Planters Rural,_205 - Planters Rural,295,111,0,1,0,0,0,0,0,0,3,0,0,298,75
+0,_Chicot,_301 - Bowie 1,_301 - Bowie 1,22,197,1,0,0,0,0,0,2,0,1,0,0,49,148
+0,_Chicot,_302 - Bowie 2,_302 - Bowie 2,43,255,1,0,0,1,0,2,2,1,1,0,0,73,194
+0,_Chicot,_303 - Bowie 3,_303 - Bowie 3,69,171,2,0,2,0,0,0,1,0,2,0,0,79,133
+0,_Chicot,_304 - Bowie Rural,_304 - Bowie Rural,75,25,0,0,0,0,1,0,0,0,1,0,0,72,23
+0,_Clark,_Amity City,_Amity City,160,32,1,3,1,0,1,0,0,1,0,1,0,161,33
+0,_Clark,_Arkadelphia Ward 1,_Arkadelphia Ward 1,128,136,5,2,0,3,2,1,0,0,0,0,0,145,124
+0,_Clark,_Arkadelphia Ward 2,_Arkadelphia Ward 2,289,412,9,7,2,4,0,0,5,5,2,0,1,345,349
+0,_Clark,_Arkadelphia Ward 3,_Arkadelphia Ward 3,211,311,9,2,1,1,0,1,1,2,0,2,2,245,277
+0,_Clark,_Arkadelphia Ward 4,_Arkadelphia Ward 4,213,568,8,2,5,2,0,1,6,9,0,0,5,271,484
+0,_Clark,_Arkadelphia Ward 5,_Arkadelphia Ward 5,443,485,8,2,4,3,2,1,6,9,4,1,0,524,411
+0,_Clark,_Caddo Valley Ward 1,_Caddo Valley Ward 1,40,21,0,0,0,0,0,0,1,0,0,0,0,39,21
+0,_Clark,_Caddo Valley Ward 2,_Caddo Valley Ward 2,47,27,3,1,1,0,0,0,1,0,0,0,0,54,24
+0,_Clark,_Caddo Valley Ward 3,_Caddo Valley Ward 3,51,47,1,1,1,0,0,1,1,2,0,0,0,56,47
+0,_Clark,_Central 1,_Central 1,389,122,3,2,1,0,0,0,1,3,0,2,0,407,111
+0,_Clark,_Curtis 1,_Curtis 1,192,76,4,0,0,0,1,0,1,3,0,0,1,202,67
+0,_Clark,_East County 1,_East County 1,230,252,6,4,1,1,1,0,2,2,0,1,1,260,209
+0,_Clark,_Gum Springs 1,_Gum Springs 1,12,26,0,0,1,0,0,0,0,1,1,1,0,15,24
+0,_Clark,_Gum Springs Outside 1,_Gum Springs Outside 1,165,71,1,3,1,1,0,0,1,3,0,0,1,184,58
+0,_Clark,_Gurdon Gen 1,_Gurdon Gen 1,221,58,2,1,2,2,0,0,1,0,0,0,0,231,49
+0,_Clark,_Gurdon Ward 1,_Gurdon Ward 1,71,48,0,0,1,0,0,0,0,0,0,0,0,82,31
+0,_Clark,_Gurdon Ward 2,_Gurdon Ward 2,71,45,0,1,2,0,0,2,2,1,0,0,0,77,42
+0,_Clark,_Gurdon Ward 3,_Gurdon Ward 3,16,96,1,0,0,1,0,1,1,1,0,0,0,30,75
+0,_Clark,_Gurdon Ward 4,_Gurdon Ward 4,107,47,2,1,0,0,0,0,0,2,0,0,0,110,45
+0,_Clark,_Gurdon Ward 5,_Gurdon Ward 5,51,66,1,1,0,0,0,0,2,4,0,0,0,67,53
+0,_Clark,_Hollywood 1,_Hollywood 1,135,46,0,2,0,1,0,1,0,0,0,0,0,140,41
+0,_Clark,_North County,_North County,451,61,7,6,2,2,0,1,0,6,1,2,0,459,68
+0,_Clark,_North East County,_North East County,487,195,1,2,2,0,3,1,3,6,0,1,1,520,168
+0,_Clark,_Okolona City 1,_Okolona City 1,34,14,2,1,0,0,0,0,2,2,0,0,0,36,18
+0,_Clark,_South County 1,_South County 1,197,42,2,1,1,1,1,0,0,2,2,1,1,204,43
+0,_Clark,_West County 1,_West County 1,179,132,3,3,0,2,0,1,0,2,0,0,0,199,105
+0,_Clark,_Whelen Springs 1,_Whelen Springs 1,26,2,0,0,0,0,0,0,0,0,0,0,0,26,1
+0,_Clay,_01 - North St Francis,_01 - North St Francis,815,210,11,2,5,0,0,1,2,1,2,1,0,833,201
+0,_Clay,_02 - South St Francis,_02 - South St Francis,423,124,5,1,1,0,0,0,3,3,1,0,0,450,102
+0,_Clay,_03 - E Oak Bluff & Blue Cane,_03 - E Oak Bluff & Blue Cane,325,87,2,1,1,0,1,1,1,1,0,0,0,330,83
+0,_Clay,_04 - West Oak Bluff,_04 - West Oak Bluff,327,128,7,2,1,0,0,0,1,0,0,1,0,331,127
+0,_Clay,_05 - Bennett & Lemmons,_05 - Bennett & Lemmons,129,17,1,1,2,0,0,0,1,0,1,0,0,132,19
+0,_Clay,_06 - Bradshaw & Haywood,_06 - Bradshaw & Haywood,196,21,0,1,0,1,0,1,1,0,0,0,0,201,20
+0,_Clay,_07 - Johnson,_07 - Johnson,93,14,0,0,1,0,0,0,0,0,1,0,0,92,14
+0,_Clay,_08 - Knob,_08 - Knob,52,8,1,0,0,0,0,0,0,0,0,0,0,52,8
+0,_Clay,_09 - Liddell & Chalk Bluff,_09 - Liddell & Chalk Bluff,155,30,4,0,1,0,0,0,0,0,0,0,0,156,28
+0,_Clay,_10 - Payne & Swain,_10 - Payne & Swain,95,26,0,0,1,0,2,0,0,0,2,0,0,103,18
+0,_Clay,_11 - Pollard,_11 - Pollard,201,35,3,0,1,1,1,0,0,1,0,0,0,208,29
+0,_Clay,_12 - Brown & Carpenter,_12 - Brown & Carpenter,86,27,2,0,0,1,1,0,1,0,0,0,0,90,27
+0,_Clay,_13 - Cache & Wilson,_13 - Cache & Wilson,64,16,0,0,3,0,0,0,0,0,0,0,1,67,16
+0,_Clay,_14 - Clark,_14 - Clark,39,7,0,0,1,0,0,0,0,1,0,0,0,40,8
+0,_Clay,_15 - Nelson,_15 - Nelson,42,13,0,0,0,0,0,0,0,1,0,0,0,40,13
+0,_Clay,_16 - Cleveland & N Kilgore,_16 - Cleveland & N Kilgore,582,102,12,2,0,0,2,0,0,4,2,2,0,597,100
+0,_Clay,_17 - Gleghorn & S Kilgore,_17 - Gleghorn & S Kilgore,462,97,5,1,1,0,1,0,1,1,0,0,0,474,90
+0,_Cleburne,_02 - North Cadron Inside,_02 - North Cadron Inside,101,20,4,0,1,0,0,0,1,0,0,0,0,101,25
+0,_Cleburne,_03 - North Cadron Outside,_03 - North Cadron Outside,238,22,2,0,1,0,0,0,0,3,0,0,1,244,21
+0,_Cleburne,_04 - South Cadron Inside,_04 - South Cadron Inside,138,38,3,0,1,0,1,0,2,2,1,1,0,148,36
+0,_Cleburne,_05 - South Cadron Outside,_05 - South Cadron Outside,201,26,1,0,0,1,0,0,1,2,0,3,0,208,25
+0,_Cleburne,_06 - California,_06 - California,170,10,0,0,0,1,0,0,0,0,0,1,0,171,10
+0,_Cleburne,_07 - Center Post,_07 - Center Post,328,53,4,0,1,0,0,0,1,0,0,0,0,327,55
+0,_Cleburne,_08 - Clayton,_08 - Clayton,435,88,3,0,1,1,1,0,0,3,1,0,1,443,88
+0,_Cleburne,_09 - Francis,_09 - Francis,338,50,1,0,3,0,1,1,1,6,0,2,0,350,49
+0,_Cleburne,_10 - Grassey Inside,_10 - Grassey Inside,86,9,2,0,2,0,0,0,1,3,0,0,0,92,11
+0,_Cleburne,_11 - Grassey Outside,_11 - Grassey Outside,278,42,10,0,2,1,0,0,0,0,0,0,0,276,54
+0,_Cleburne,_12 - Greers Ferry Giles,_12 - Greers Ferry Giles,329,87,2,1,2,0,0,0,2,2,2,0,0,345,76
+0,_Cleburne,_13 - Giles,_13 - Giles,275,40,1,0,1,1,0,0,1,4,0,0,0,284,40
+0,_Cleburne,_14 - Healing Springs,_14 - Healing Springs,387,47,1,1,1,1,2,0,1,4,0,1,0,387,54
+0,_Cleburne,_15 - Heber Springs Ward 1,_15 - Heber Springs Ward 1,548,138,13,0,4,1,5,0,0,4,0,3,0,562,146
+0,_Cleburne,_16 - Heber Springs Ward 2,_16 - Heber Springs Ward 2,555,135,5,0,6,1,0,0,1,5,1,0,0,581,121
+0,_Cleburne,_17 - Heber Springs Ward 3,_17 - Heber Springs Ward 3,723,206,14,1,5,3,3,0,1,5,2,1,0,770,187
+0,_Cleburne,_18 - Heber Springs Ward 4,_18 - Heber Springs Ward 4,658,184,5,2,6,1,3,0,3,6,2,2,0,678,183
+0,_Cleburne,_19 - Heber Springs Outside,_19 - Heber Springs Outside,1172,188,12,0,4,3,0,0,3,4,0,3,2,1173,206
+0,_Cleburne,_20 - McJester,_20 - McJester,180,27,0,0,1,0,0,0,1,1,0,1,0,178,30
+0,_Cleburne,_21 - Morgan Outside,_21 - Morgan Outside,170,52,0,0,1,0,0,0,0,0,0,0,0,178,45
+0,_Cleburne,_22 - Mountain,_22 - Mountain,324,40,2,0,0,1,0,0,1,2,1,0,0,326,41
+0,_Cleburne,_23 - East Peter Creek,_23 - East Peter Creek,314,29,0,0,1,2,0,0,0,0,0,0,0,309,38
+0,_Cleburne,_24 - West Peter Creek,_24 - West Peter Creek,440,94,2,3,5,2,1,0,1,4,0,0,1,462,83
+0,_Cleburne,_25 - Pickens,_25 - Pickens,242,43,4,1,2,0,0,0,1,3,0,0,0,246,46
+0,_Cleburne,_26 - Pine,_26 - Pine,100,14,0,0,0,2,0,1,1,0,0,1,0,102,16
+0,_Cleburne,_27 - Piney,_27 - Piney,488,59,6,0,4,1,0,0,1,3,0,1,0,508,53
+0,_Cleburne,_28 - Poff,_28 - Poff,23,3,1,0,0,0,0,0,0,0,0,0,0,22,5
+0,_Cleburne,_29 - Saline Inside,_29 - Saline Inside,62,16,0,0,1,0,0,0,0,0,0,0,0,64,15
+0,_Cleburne,_30 - Saline Outside,_30 - Saline Outside,198,36,2,0,0,0,0,0,1,2,0,1,1,208,31
+0,_Cleburne,_31 - Sugar Camp,_31 - Sugar Camp,171,37,3,0,0,1,0,0,0,1,0,0,0,179,33
+0,_Cleburne,_32 - Sugar Loaf,_32 - Sugar Loaf,278,64,0,0,1,0,0,0,2,0,0,3,0,285,59
+0,_Cleburne,_33 - Valley,_33 - Valley,183,34,1,0,0,0,0,0,1,3,0,0,0,186,37
+0,_Cleburne,_34 - Wilburn,_34 - Wilburn,113,26,1,0,0,2,1,0,0,0,0,1,1,120,21
+0,_Cleburne,_35 - Morgan Inside,_35 - Morgan Inside,82,31,0,1,0,0,1,0,0,2,0,0,0,89,26
+0,_Cleveland,_01A - Rison Inside,_01A - Rison Inside,242,162,5,2,1,0,3,0,2,2,2,1,2,279,130
+0,_Cleveland,_01B - Rison Outside,_01B - Rison Outside,93,18,1,2,0,2,0,0,0,2,2,0,1,102,15
+0,_Cleveland,_02A - Kingsland Inside,_02A - Kingsland Inside,96,59,1,0,1,0,0,0,0,0,1,0,0,106,45
+0,_Cleveland,_02B - Kingsland Outside,_02B - Kingsland Outside,202,15,1,0,0,0,1,0,0,1,0,0,0,202,17
+0,_Cleveland,_03 - Bowman,_03 - Bowman,122,57,2,0,0,0,2,0,0,0,0,0,0,132,51
+0,_Cleveland,_04 - Harper,_04 - Harper,197,31,3,0,0,0,0,1,1,0,0,0,0,199,32
+0,_Cleveland,_05 - Hudgin,_05 - Hudgin,112,17,0,0,0,0,0,0,0,0,0,0,0,117,12
+0,_Cleveland,_06 - Hurricane,_06 - Hurricane,194,15,3,0,1,0,0,0,0,0,0,0,1,196,18
+0,_Cleveland,_07 - Lee,_07 - Lee,123,33,0,2,0,0,0,0,0,0,1,1,0,133,27
+0,_Cleveland,_08 - Miller,_08 - Miller,287,31,4,0,1,0,0,0,0,1,2,0,0,291,34
+0,_Cleveland,_09 - Niven,_09 - Niven,121,27,1,0,1,0,0,0,0,0,0,0,0,122,25
+0,_Cleveland,_10 - Redland,_10 - Redland,215,64,4,1,0,0,0,0,0,0,1,0,0,228,54
+0,_Cleveland,_11 - Rowell,_11 - Rowell,154,11,1,0,0,0,1,0,1,1,0,0,1,157,10
+0,_Cleveland,_12 - Saline,_12 - Saline,17,7,0,0,0,0,0,0,0,0,0,0,0,17,7
+0,_Cleveland,_14 - Smith,_14 - Smith,176,23,0,1,0,0,1,0,0,0,1,0,0,176,23
+0,_Cleveland,_15 - Whiteoak,_15 - Whiteoak,138,24,0,0,0,0,0,0,1,0,0,0,0,145,17
+0,_Cleveland,_16 - Whiteville,_16 - Whiteville,378,57,1,0,0,0,0,0,0,1,1,0,0,385,53
+0,_Columbia,_Columbia North,_Columbia North,1113,259,5,10,7,2,0,1,1,2,2,1,3,1146,215
+0,_Columbia,_Columbia South,_Columbia South,640,361,2,13,2,3,1,2,1,4,1,1,0,661,297
+0,_Columbia,_Emerson City,_Emerson City,48,41,3,1,1,2,0,1,0,0,0,0,0,51,38
+0,_Columbia,_Emerson Township,_Emerson Township,521,108,4,4,3,0,0,0,2,4,1,0,0,524,103
+0,_Columbia,_Mag Ward 1,_Mag Ward 1,463,359,8,3,8,1,2,5,7,4,3,1,6,508,296
+0,_Columbia,_Mag Ward 2,_Mag Ward 2,110,500,6,10,8,3,2,2,1,2,0,1,8,168,363
+0,_Columbia,_Mag Ward 3,_Mag Ward 3,656,218,10,1,1,0,3,0,1,1,0,0,0,675,192
+0,_Columbia,_Mag Ward 4,_Mag Ward 4,732,321,9,7,3,2,1,0,3,1,1,4,4,758,281
+0,_Columbia,_McNeil City,_McNeil City,68,64,1,1,0,0,0,0,1,1,0,0,2,78,50
+0,_Columbia,_McNeil Township,_McNeil Township,244,127,1,2,1,0,0,0,1,0,2,0,0,248,106
+0,_Columbia,_Taylor City,_Taylor City,218,19,1,0,1,0,0,0,0,1,0,0,0,224,14
+0,_Columbia,_Taylor Township,_Taylor Township,342,67,1,8,2,0,1,0,0,2,0,0,0,351,57
+0,_Columbia,_Waldo City,_Waldo City,104,275,1,7,6,3,0,0,1,4,1,1,3,134,225
+0,_Columbia,_Waldo Township,_Waldo Township,241,95,1,4,4,1,0,1,0,0,0,0,1,250,78
+0,_Conway,_001 - Austin,_001 - Austin,116,7,0,2,0,0,1,0,1,1,0,1,0,120,9
+0,_Conway,_002 - Bentley City,_002 - Bentley City,237,47,5,0,1,0,1,1,0,3,1,0,1,233,61
+0,_Conway,_003 - Welbourne West,_003 - Welbourne West,197,83,1,0,0,0,2,0,3,3,0,2,2,211,82
+0,_Conway,_004 - St Vincent,_004 - St Vincent,206,90,3,0,1,1,1,0,2,5,1,1,1,239,69
+0,_Conway,_005 - Steele,_005 - Steele,206,45,1,0,1,0,1,0,0,1,0,0,1,212,43
+0,_Conway,_006 - Menifee City,_006 - Menifee City,14,122,0,1,1,0,4,0,1,5,0,1,0,28,120
+0,_Conway,_007 - Howard City,_007 - Howard City,182,150,2,0,1,0,3,0,0,7,3,1,2,189,150
+0,_Conway,_008 - Higgins,_008 - Higgins,30,4,1,0,0,0,0,0,0,0,0,0,1,29,7
+0,_Conway,_009 - Cedar Falls,_009 - Cedar Falls,104,62,2,0,0,0,2,0,1,0,1,0,1,109,63
+0,_Conway,_010 - Gregory,_010 - Gregory,149,33,0,0,0,0,0,0,0,1,0,0,0,150,32
+0,_Conway,_011 - Griffin,_011 - Griffin,155,44,1,0,1,1,1,0,3,1,0,1,2,164,46
+0,_Conway,_012 - Lick Mountain,_012 - Lick Mountain,232,55,4,1,0,0,1,0,0,2,3,2,0,229,65
+0,_Conway,_013 - Washington East,_013 - Washington East,391,110,9,5,0,0,1,0,3,4,4,0,2,397,121
+0,_Conway,_014 - McClaren,_014 - McClaren,78,19,0,0,1,0,0,0,1,0,0,0,0,77,21
+0,_Conway,_015 - Howard Rural,_015 - Howard Rural,170,107,1,0,1,0,2,0,3,7,0,1,0,190,102
+0,_Conway,_016 - White Eagle,_016 - White Eagle,18,5,0,0,0,0,0,0,0,0,0,0,0,19,4
+0,_Conway,_017 - Morrilton Ward 3,_017 - Morrilton Ward 3,293,271,7,0,2,2,6,0,1,12,1,1,2,313,275
+0,_Conway,_018 - Morrilton Ward 4,_018 - Morrilton Ward 4,472,307,8,0,1,1,3,0,1,11,0,1,4,499,292
+0,_Conway,_019 - Martin,_019 - Martin,48,4,0,0,0,0,0,0,0,0,0,0,0,47,5
+0,_Conway,_020 - Morrilton Ward 2,_020 - Morrilton Ward 2,268,174,10,2,3,0,4,0,3,4,1,1,1,290,173
+0,_Conway,_021 - Union,_021 - Union,244,103,2,0,2,0,1,0,2,4,1,0,0,254,98
+0,_Conway,_022 - Bentley Rural,_022 - Bentley Rural,200,32,0,3,0,2,1,0,0,1,0,0,1,198,39
+0,_Conway,_023 - Washington West,_023 - Washington West,127,55,1,3,0,0,3,1,1,2,1,0,1,128,63
+0,_Conway,_024 - Bird,_024 - Bird,246,71,0,0,0,1,3,2,0,0,1,0,2,255,61
+0,_Conway,_025 - Catholic Point,_025 - Catholic Point,143,47,1,1,1,0,0,1,1,2,1,0,3,148,50
+0,_Conway,_026 - Petit Jean,_026 - Petit Jean,25,15,1,0,0,0,0,0,1,1,0,0,0,26,17
+0,_Conway,_027 - Nichols,_027 - Nichols,206,61,1,0,1,0,0,0,0,1,0,2,3,202,64
+0,_Conway,_028 - Old Hickory,_028 - Old Hickory,64,15,0,0,0,0,0,0,1,0,0,1,0,60,14
+0,_Conway,_029 - Morrilton Ward 1,_029 - Morrilton Ward 1,333,254,13,0,2,0,5,0,1,3,4,1,3,359,246
+0,_Conway,_030 - Welbourne East,_030 - Welbourne East,488,201,3,0,2,0,3,0,1,6,0,3,1,508,191
+0,_Conway,_031 - Menifee Rural,_031 - Menifee Rural,52,22,1,0,0,0,0,0,0,1,0,0,0,53,23
+0,_Craighead,_01,_01,254,277,6,6,0,1,0,0,3,0,1,0,0,261,275
+0,_Craighead,_02,_02,294,274,12,2,1,0,0,3,2,0,1,2,1,312,266
+0,_Craighead,_03,_03,303,303,12,4,2,0,0,0,2,0,0,1,0,320,292
+0,_Craighead,_04,_04,313,260,9,3,1,4,1,1,4,0,1,2,0,319,270
+0,_Craighead,_05,_05,393,235,11,2,0,1,0,1,3,2,0,2,0,416,220
+0,_Craighead,_06,_06,712,208,9,1,1,0,0,1,3,2,0,0,0,740,188
+0,_Craighead,_07,_07,1031,295,9,1,2,2,0,0,8,1,2,0,0,1040,298
+0,_Craighead,_08,_08,755,265,14,3,1,0,0,1,4,0,0,1,0,775,259
+0,_Craighead,_09,_09,586,215,10,2,2,0,0,2,5,0,0,0,0,616,195
+0,_Craighead,_10,_10,461,233,9,2,0,4,0,1,2,1,0,0,0,478,226
+0,_Craighead,_11,_11,627,199,9,1,0,0,0,0,2,0,2,1,0,626,203
+0,_Craighead,_12,_12,503,230,10,1,0,1,0,0,3,1,0,3,0,514,218
+0,_Craighead,_13,_13,461,363,13,5,1,3,0,1,5,1,1,0,0,482,362
+0,_Craighead,_14,_14,176,269,12,3,1,2,0,0,4,1,0,1,0,193,264
+0,_Craighead,_15,_15,449,344,5,1,1,6,0,0,5,1,2,2,0,474,331
+0,_Craighead,_16,_16,438,244,7,1,1,1,0,1,0,1,0,1,0,453,230
+0,_Craighead,_17,_17,510,272,9,1,1,1,3,0,3,1,1,0,0,539,250
+0,_Craighead,_18,_18,456,269,8,5,1,3,0,0,6,0,0,1,0,481,254
+0,_Craighead,_19,_19,126,217,5,2,6,2,0,2,5,2,0,1,0,160,195
+0,_Craighead,_20,_20,427,274,8,3,1,1,2,0,1,0,0,0,0,472,236
+0,_Craighead,_21,_21,493,337,8,2,1,0,0,0,2,0,4,1,0,512,319
+0,_Craighead,_22,_22,494,335,8,2,1,3,0,3,5,1,0,1,1,510,333
+0,_Craighead,_23,_23,361,268,7,3,2,0,0,0,2,0,1,2,0,369,265
+0,_Craighead,_24,_24,361,268,10,4,0,1,0,0,2,0,0,0,1,388,251
+0,_Craighead,_25,_25,374,281,5,2,0,0,0,0,2,1,0,1,1,394,255
+0,_Craighead,_26,_26,180,279,7,2,4,1,0,1,9,1,3,0,0,203,268
+0,_Craighead,_27,_27,329,299,19,2,1,2,0,1,4,2,0,1,2,370,285
+0,_Craighead,_28,_28,568,272,11,2,0,1,1,0,0,0,0,1,0,580,266
+0,_Craighead,_29,_29,675,364,11,2,2,4,0,0,4,0,1,2,1,690,366
+0,_Craighead,_30,_30,1073,334,13,1,2,0,0,0,3,2,0,1,0,1070,343
+0,_Craighead,_31,_31,667,105,6,0,0,1,0,0,0,0,1,0,1,674,108
+0,_Craighead,_32,_32,79,247,5,5,3,2,0,3,3,1,0,2,1,113,228
+0,_Craighead,_33,_33,287,250,6,2,2,1,0,1,3,2,0,1,1,300,241
+0,_Craighead,_34,_34,190,291,4,5,4,2,0,4,6,1,0,2,0,229,260
+0,_Craighead,_35,_35,275,271,11,5,0,1,0,1,6,1,1,0,0,299,260
+0,_Craighead,_36,_36,554,210,4,3,0,0,0,3,2,0,0,1,1,559,203
+0,_Craighead,_37,_37,808,164,6,1,5,3,1,0,1,0,0,0,0,813,171
+0,_Craighead,_38,_38,597,149,10,0,0,1,0,0,2,1,1,0,0,590,156
+0,_Craighead,_39,_39,535,167,16,3,2,0,0,0,2,0,0,1,1,538,177
+0,_Craighead,_40,_40,630,117,7,1,0,1,1,0,2,2,0,1,0,622,129
+0,_Craighead,_41,_41,658,114,6,2,2,1,0,0,2,2,0,1,0,668,115
+0,_Craighead,_42,_42,511,98,4,3,2,1,0,0,1,0,0,0,0,520,89
+0,_Craighead,_43,_43,746,155,6,1,0,0,0,1,2,0,1,0,1,745,163
+0,_Craighead,_44,_44,498,166,4,1,1,2,0,3,3,0,0,0,2,517,155
+0,_Craighead,_45,_45,550,239,4,4,2,0,1,3,4,1,0,0,0,556,232
+0,_Craighead,_46,_46,757,262,27,1,1,0,0,0,3,0,1,3,0,756,287
+0,_Craighead,_47,_47,911,141,4,2,5,0,1,0,3,2,1,0,1,914,145
+0,_Craighead,_48,_48,627,172,10,3,2,1,0,1,3,3,0,2,0,636,183
+0,_Craighead,_49,_49,194,50,2,0,0,0,0,0,0,0,0,0,0,201,45
+0,_Craighead,_50,_50,469,114,4,3,0,1,0,0,1,2,0,0,1,487,100
+0,_Craighead,_51,_51,516,97,3,3,4,2,0,0,1,0,2,1,0,525,94
+0,_Craighead,_52,_52,110,28,3,1,0,0,0,1,2,0,0,0,0,119,26
+0,_Craighead,_53,_53,206,31,2,1,0,0,0,0,2,1,0,0,0,204,38
+0,_Crawford,_Alma 01,_Alma 01,522,155,7,1,0,1,1,0,4,3,2,0,1,538,156
+0,_Crawford,_Alma 02,_Alma 02,198,45,3,1,1,0,0,0,1,0,2,0,0,206,47
+0,_Crawford,_Alma 03,_Alma 03,1019,252,10,2,0,1,0,0,3,1,1,0,0,1030,258
+0,_Crawford,_Alma 04,_Alma 04,607,140,8,2,1,0,0,0,3,2,2,0,0,621,145
+0,_Crawford,_Bidville,_Bidville,28,2,0,0,0,0,0,0,0,0,0,0,0,26,4
+0,_Crawford,_Cedar Creek,_Cedar Creek,164,27,4,0,0,0,0,0,0,0,0,1,0,160,34
+0,_Crawford,_Cedarville,_Cedarville,658,116,10,1,0,0,0,0,0,1,0,2,1,660,125
+0,_Crawford,_Chester,_Chester,147,52,3,0,0,0,1,0,0,0,0,0,0,144,57
+0,_Crawford,_Cove City,_Cove City,173,32,3,0,0,0,0,1,1,0,0,0,0,181,30
+0,_Crawford,_Dean Springs,_Dean Springs,762,136,14,0,2,0,0,1,0,1,0,1,2,766,151
+0,_Crawford,_Dora,_Dora,507,163,14,0,0,0,1,0,1,0,0,0,0,527,161
+0,_Crawford,_Dyer,_Dyer,542,146,9,3,1,0,0,0,2,0,0,2,1,556,151
+0,_Crawford,_Eagle Crest,_Eagle Crest,259,53,4,1,0,0,0,0,0,0,0,1,0,256,61
+0,_Crawford,_Figure Five,_Figure Five,190,31,0,0,0,0,2,0,0,1,0,0,0,185,40
+0,_Crawford,_Jasper,_Jasper,918,176,11,1,0,0,0,0,6,3,0,0,0,901,206
+0,_Crawford,_Kibler,_Kibler,642,96,6,2,0,1,0,0,0,0,0,0,1,623,122
+0,_Crawford,_Lancaster,_Lancaster,407,68,1,0,1,0,0,0,0,0,1,0,2,404,77
+0,_Crawford,_Lee Creek,_Lee Creek,213,31,2,0,1,0,0,1,1,1,0,0,2,215,37
+0,_Crawford,_Locke,_Locke,97,20,2,3,0,0,0,0,1,0,0,0,0,102,20
+0,_Crawford,_Mountain,_Mountain,651,197,8,1,0,0,1,0,0,0,0,1,1,653,209
+0,_Crawford,_Mulberry 01,_Mulberry 01,95,12,0,0,0,0,0,0,0,0,0,0,0,93,13
+0,_Crawford,_Mulberry 02,_Mulberry 02,58,21,0,0,0,0,0,0,0,1,0,0,0,59,21
+0,_Crawford,_Mulberry 03,_Mulberry 03,357,96,2,1,1,1,0,0,2,3,0,2,0,362,105
+0,_Crawford,_Oliver Springs,_Oliver Springs,431,102,5,0,1,0,0,0,1,0,0,0,1,438,98
+0,_Crawford,_Porter,_Porter,82,35,0,0,0,0,0,0,0,0,0,0,0,83,34
+0,_Crawford,_Rudy,_Rudy,507,106,6,3,0,0,1,0,3,1,0,0,0,516,106
+0,_Crawford,_Union,_Union,338,66,4,0,1,0,0,0,0,1,0,0,1,332,79
+0,_Crawford,_Upper,_Upper,41,3,0,0,0,0,0,0,0,0,0,0,0,40,5
+0,_Crawford,_Van Buren 01,_Van Buren 01,423,163,12,0,0,0,0,0,0,2,0,2,0,431,167
+0,_Crawford,_Van Buren 02,_Van Buren 02,604,234,13,0,0,2,0,0,0,2,0,1,1,626,230
+0,_Crawford,_Van Buren 03,_Van Buren 03,1418,410,20,2,1,2,1,0,5,1,3,4,3,1431,430
+0,_Crawford,_Van Buren 04,_Van Buren 04,227,124,3,0,2,0,1,0,0,1,3,1,1,237,126
+0,_Crawford,_Van Buren 05,_Van Buren 05,917,287,21,5,2,0,1,4,3,3,3,0,2,935,313
+0,_Crawford,_Van Buren 06,_Van Buren 06,486,164,12,1,1,0,1,0,3,2,2,0,0,492,177
+0,_Crawford,_Van Buren 07,_Van Buren 07,353,160,9,2,3,1,0,0,1,0,3,0,0,362,163
+0,_Crawford,_Van Buren 08,_Van Buren 08,401,118,3,0,1,0,0,0,1,1,1,1,1,410,118
+0,_Crawford,_Van Buren 09,_Van Buren 09,477,156,9,1,0,0,0,1,3,1,0,0,0,495,156
+0,_Crawford,_Van Buren 10,_Van Buren 10,625,223,7,2,1,0,1,0,2,3,1,1,1,636,227
+0,_Crawford,_Van Buren 11,_Van Buren 11,537,188,9,0,1,0,0,0,0,1,1,0,2,547,191
+0,_Crawford,_Van Buren 12,_Van Buren 12,915,250,16,0,0,0,0,0,1,2,2,1,1,932,256
+0,_Crawford,_Vine Prairie,_Vine Prairie,186,26,1,0,0,0,0,0,0,0,0,0,0,186,27
+0,_Crawford,_Whitley,_Whitley,397,75,3,0,0,0,0,0,1,1,1,1,1,399,81
+0,_Crawford,_Winfrey,_Winfrey,28,2,0,0,0,0,0,0,0,0,1,0,0,29,2
+0,_Crittenden,_Anthonyville/Bob Ward 2,_Anthonyville/Bob Ward 2,3,55,0,0,0,0,0,0,2,0,0,0,0,7,46
+0,_Crittenden,_Bob Ward 1,_Bob Ward 1,129,120,2,0,0,1,0,1,3,1,0,0,2,132,105
+0,_Crittenden,_Clarkdale/Jericho/Wappanocca,_Clarkdale/Jericho/Wappanocca,200,72,1,2,0,0,0,1,1,1,0,5,0,206,66
+0,_Crittenden,_E&W Black Oak/South Fogleman,_E&W Black Oak/South Fogleman,136,196,0,2,0,1,3,1,1,0,0,0,1,163,158
+0,_Crittenden,_Earle Ward 4,_Earle Ward 4,12,145,0,1,0,0,0,0,0,0,0,1,0,20,83
+0,_Crittenden,_Earle Wards 1-3/N&S Tyronza,_Earle Wards 1-3/N&S Tyronza,149,391,3,0,0,2,3,3,11,7,1,4,2,200,303
+0,_Crittenden,_Jackson 1&2,_Jackson 1&2,331,163,6,0,2,2,2,1,5,0,0,3,0,349,142
+0,_Crittenden,_Jasper 1/Jasper CB 1&2,_Jasper 1/Jasper CB 1&2,1241,795,19,8,1,3,2,1,11,5,0,6,2,1281,721
+0,_Crittenden,_Jasper 2/Lakes/Jasper CB 5,_Jasper 2/Lakes/Jasper CB 5,733,829,18,2,1,2,2,1,14,7,3,3,3,802,771
+0,_Crittenden,_Jasper 3/Jasper CB 3&4/Mound City/Sunset,_Jasper 3/Jasper CB 3&4/Mound City/Sunset,1645,915,20,2,2,3,1,1,24,2,2,5,2,1712,856
+0,_Crittenden,_Jennette,_Jennette,3,55,1,0,0,0,0,1,2,0,0,0,1,10,45
+0,_Crittenden,_Lucas,_Lucas,127,21,3,0,0,0,1,0,2,1,0,1,0,135,19
+0,_Crittenden,_Lucas Estates (Horseshoe Lake),_Lucas Estates (Horseshoe Lake),127,23,1,2,1,1,0,0,0,0,1,0,0,121,26
+0,_Crittenden,_North Fogleman,_North Fogleman,31,67,0,0,0,0,0,1,1,1,0,1,0,35,47
+0,_Crittenden,_West Memphis Ward 1-1/1-2,_West Memphis Ward 1-1/1-2,676,321,7,0,5,0,0,0,2,6,3,1,2,711,268
+0,_Crittenden,_West Memphis Ward 2-1/2-2,_West Memphis Ward 2-1/2-2,113,855,6,3,1,1,0,1,10,3,1,7,3,161,683
+0,_Crittenden,_West Memphis Ward 2-3,_West Memphis Ward 2-3,10,432,0,0,0,1,0,1,5,0,0,5,2,35,340
+0,_Crittenden,_West Memphis Ward 3-2,_West Memphis Ward 3-2,233,197,2,1,2,1,2,0,2,2,0,0,0,250,171
+0,_Crittenden,_West Memphis Ward 4-1/4-2,_West Memphis Ward 4-1/4-2,64,937,2,1,1,2,2,2,5,2,1,6,5,135,723
+0,_Crittenden,_West Memphis Ward 5-1,_West Memphis Ward 5-1,11,378,2,1,0,0,0,2,2,0,1,2,3,40,285
+0,_Crittenden,_West Memphis Ward 5-2,_West Memphis Ward 5-2,64,412,2,0,0,1,0,2,6,1,1,4,3,86,312
+0,_Crittenden,_WM Ward 1-3/1-4/3-1/3-3/MS CB/Proctor,_WM Ward 1-3/1-4/3-1/3-3/MS CB/Proctor,1295,1135,17,4,9,3,1,2,19,6,4,9,4,1378,971
+0,_Cross,_Bay Village / Birdeye,_Bay Village / Birdeye,136,34,0,0,0,0,1,0,0,0,0,0,0,135,35
+0,_Cross,_Bedford,_Bedford,181,33,2,0,1,0,0,0,0,1,1,0,0,177,39
+0,_Cross,_Brushy Lake,_Brushy Lake,92,12,1,0,0,0,2,0,0,0,0,1,0,93,14
+0,_Cross,_Cherry Valley,_Cherry Valley,186,37,2,0,0,0,1,0,0,1,0,0,0,174,46
+0,_Cross,_Ellis,_Ellis,162,11,5,1,1,0,0,0,1,0,1,0,0,157,23
+0,_Cross,_Fair Oaks,_Fair Oaks,68,8,0,0,0,1,0,0,0,0,0,0,0,69,6
+0,_Cross,_Hickory Ridge City,_Hickory Ridge City,91,13,0,1,0,0,0,0,1,1,1,0,0,94,12
+0,_Cross,_Hickory Ridge Township,_Hickory Ridge Township,94,11,1,0,1,1,1,0,0,1,1,0,0,96,11
+0,_Cross,_Mitchell,_Mitchell,170,27,0,0,0,0,1,0,0,1,0,0,0,171,25
+0,_Cross,_Parkin Ward 1,_Parkin Ward 1,33,108,2,0,0,0,3,0,4,2,0,1,0,50,95
+0,_Cross,_Parkin Ward 2,_Parkin Ward 2,35,61,2,0,1,0,1,0,2,1,1,0,0,40,56
+0,_Cross,_Parkin Ward 3,_Parkin Ward 3,10,78,1,1,0,0,2,0,1,1,0,0,0,21,59
+0,_Cross,_Searcy,_Searcy,439,79,2,1,3,1,3,0,1,5,3,0,1,448,83
+0,_Cross,_Smith,_Smith,698,76,5,0,1,1,4,0,2,0,0,0,0,693,84
+0,_Cross,_Tyronza / Twist,_Tyronza / Twist,44,21,0,0,0,1,0,0,4,0,0,0,0,46,19
+0,_Cross,_Wynne Township,_Wynne Township,558,119,7,2,1,1,4,0,5,0,0,2,0,568,118
+0,_Cross,_Wynne Ward 1,_Wynne Ward 1,384,147,2,0,0,1,2,0,1,1,3,0,0,406,127
+0,_Cross,_Wynne Ward 2,_Wynne Ward 2,537,173,2,0,2,0,7,0,3,2,3,0,0,554,161
+0,_Cross,_Wynne Ward 3,_Wynne Ward 3,144,205,5,1,0,0,4,2,7,4,3,1,0,177,174
+0,_Cross,_Wynne Ward 4,_Wynne Ward 4,122,326,4,1,1,2,6,3,2,5,2,0,2,152,292
+0,_Cross,_Wynne Ward 5,_Wynne Ward 5,762,193,5,0,2,0,1,0,3,4,2,0,1,764,197
+0,_Dallas,_101 - District 1,_101 - District 1,25,151,0,0,0,0,1,1,2,0,4,0,1,42,120
+0,_Dallas,_201 - District 2,_201 - District 2,77,175,1,1,1,1,1,4,1,0,5,3,1,103,148
+0,_Dallas,_301 - District 3,_301 - District 3,47,101,1,0,2,0,2,1,2,1,1,1,1,65,81
+0,_Dallas,_401 - District 4,_401 - District 4,185,105,2,0,1,0,0,1,3,3,0,0,0,206,87
+0,_Dallas,_501 - District 5,_501 - District 5,253,92,2,0,2,1,2,0,1,0,1,0,0,276,68
+0,_Dallas,_601 - District 6,_601 - District 6,125,149,5,0,1,0,3,0,1,2,2,0,1,139,133
+0,_Dallas,_701 - District 7,_701 - District 7,171,109,1,0,0,0,3,0,1,1,2,2,0,189,88
+0,_Dallas,_801 - District 8,_801 - District 8,312,52,1,2,1,1,3,1,6,0,2,2,0,335,48
+0,_Dallas,_901 - District 9,_901 - District 9,378,29,1,0,1,0,2,1,2,1,1,0,1,375,37
+0,_Desha,_01 - Bowie W1,_01 - Bowie W1,375,137,4,0,2,0,2,2,2,1,3,0,1,404,114
+0,_Desha,_02 - Bowie W2,_02 - Bowie W2,293,244,4,1,2,0,3,0,2,1,9,0,2,350,191
+0,_Desha,_03 - Bowie W3,_03 - Bowie W3,60,270,3,2,1,1,5,5,3,2,6,0,7,116,230
+0,_Desha,_04 - Bowie Rural,_04 - Bowie Rural,27,24,0,0,0,0,0,0,0,0,0,0,0,27,22
+0,_Desha,_05 - Clayton McArthur,_05 - Clayton McArthur,67,60,0,0,0,0,1,0,0,0,2,0,0,79,43
+0,_Desha,_06 - Clayton Reed,_06 - Clayton Reed,2,52,0,0,0,0,2,0,1,0,2,1,1,9,44
+0,_Desha,_07 - Clayton Tillar,_07 - Clayton Tillar,5,2,0,0,0,0,0,0,0,0,1,0,0,6,2
+0,_Desha,_08 - Franklin,_08 - Franklin,61,74,0,2,0,0,2,2,1,0,2,1,2,81,59
+0,_Desha,_09 - Halley,_09 - Halley,63,21,0,0,0,0,0,1,0,1,0,0,0,68,19
+0,_Desha,_10 - Jefferson,_10 - Jefferson,70,17,0,0,0,0,0,1,0,0,0,0,0,73,13
+0,_Desha,_11 - Mississippi,_11 - Mississippi,5,4,0,0,0,0,0,0,0,0,0,0,0,4,4
+0,_Desha,_12 - Mitcheville,_12 - Mitcheville,2,93,1,0,0,0,0,2,0,0,2,1,4,13,66
+0,_Desha,_13 - Rand W1,_13 - Rand W1,113,230,1,3,3,0,3,4,6,0,3,0,4,155,197
+0,_Desha,_14 - Rand W2,_14 - Rand W2,41,270,1,0,0,1,10,7,4,3,5,2,4,91,242
+0,_Desha,_15 - Rand W3,_15 - Rand W3,192,156,1,1,0,0,4,4,0,0,1,0,3,225,129
+0,_Desha,_16 - Rand W4,_16 - Rand W4,127,211,1,0,0,2,0,6,2,0,3,0,2,157,186
+0,_Desha,_17 - Rand Rural,_17 - Rand Rural,24,14,0,0,0,0,0,0,0,0,0,0,0,23,14
+0,_Desha,_18 - Redfork,_18 - Redfork,125,73,1,1,1,1,2,1,0,1,1,0,0,141,68
+0,_Desha,_19 - Richland,_19 - Richland,100,17,0,0,0,0,1,1,1,0,0,0,1,102,16
+0,_Desha,_20 - Silver Lake,_20 - Silver Lake,121,32,1,0,1,0,0,1,2,0,0,0,2,128,29
+0,_Desha,_21 - Walnut Lake,_21 - Walnut Lake,48,15,0,0,0,0,0,0,0,1,0,0,0,47,16
+0,_Drew,_01 - Ward 1,_01 - Ward 1,222,443,5,0,0,2,0,0,6,2,1,0,0,269,379
+0,_Drew,_02 - Ward 2,_02 - Ward 2,669,338,2,1,0,0,2,0,3,1,0,0,0,705,289
+0,_Drew,_03 - Ward 3,_03 - Ward 3,244,319,3,5,1,1,0,1,2,0,2,0,1,281,279
+0,_Drew,_04 - Ward 4,_04 - Ward 4,360,288,7,4,0,1,1,0,6,2,1,0,0,388,262
+0,_Drew,_05 - Collins,_05 - Collins,75,24,1,0,0,0,1,0,0,0,1,0,0,78,19
+0,_Drew,_06 - Enon,_06 - Enon,150,12,1,0,0,0,0,0,0,0,0,0,0,148,11
+0,_Drew,_07 - Jerome,_07 - Jerome,13,3,0,0,0,0,0,0,0,0,0,0,0,13,2
+0,_Drew,_08 - Lacey,_08 - Lacey,235,55,0,2,0,0,0,0,1,0,0,0,0,232,54
+0,_Drew,_09 - Mar N Box 1,_09 - Mar N Box 1,606,243,4,5,0,0,1,0,6,1,1,0,0,631,218
+0,_Drew,_10 - Mar N Box 2,_10 - Mar N Box 2,335,90,2,0,0,0,1,0,2,0,0,0,0,342,81
+0,_Drew,_11 - Marion South,_11 - Marion South,509,128,2,0,0,0,1,1,2,0,0,0,0,514,122
+0,_Drew,_12 - Ozment,_12 - Ozment,116,22,0,0,1,0,0,0,0,0,0,0,0,122,17
+0,_Drew,_13 - Plantersville,_13 - Plantersville,211,40,0,1,0,0,0,0,0,0,2,0,0,207,41
+0,_Drew,_14 - Selma,_14 - Selma,205,89,0,0,0,0,0,0,2,1,0,0,1,212,76
+0,_Drew,_15 - Tillar,_15 - Tillar,52,21,0,1,0,0,0,0,1,2,0,0,0,56,18
+0,_Drew,_16 - Wilmar,_16 - Wilmar,326,222,0,2,0,1,1,1,2,2,1,0,0,341,191
+0,_Drew,_17 - Winchester,_17 - Winchester,21,89,0,0,0,1,0,1,5,3,1,0,1,28,85
+0,_Faulkner,_1c-North Conway City 41,_1c-North Conway City 41,186,418,10,3,1,1,1,3,1,0,0,0,1,217,397
+0,_Faulkner,_1c-South Conway City 42,_1c-South Conway City 42,720,713,38,6,3,1,3,2,7,3,1,0,1,761,704
+0,_Faulkner,_1e-East Conway City 43,_1e-East Conway City 43,946,893,30,7,2,2,4,3,7,2,0,1,2,986,872
+0,_Faulkner,_1e-West Conway City 44,_1e-West Conway City 44,944,636,29,7,1,5,2,1,12,4,2,0,1,1006,596
+0,_Faulkner,_2a Conway City 07,_2a Conway City 07,154,486,3,6,0,0,0,1,6,3,4,0,4,179,458
+0,_Faulkner,_2b Conway City 06,_2b Conway City 06,385,578,33,5,0,3,4,3,7,0,4,0,1,411,594
+0,_Faulkner,_2c Conway City 49,_2c Conway City 49,455,638,21,8,1,1,2,3,2,1,0,1,0,494,611
+0,_Faulkner,_2d Conway City 40,_2d Conway City 40,661,672,23,6,0,1,0,4,9,0,2,0,0,711,640
+0,_Faulkner,_3a Conway City 10,_3a Conway City 10,982,696,26,7,2,3,2,3,0,2,2,0,0,1052,635
+0,_Faulkner,_3b Conway City 08,_3b Conway City 08,303,146,4,0,3,0,0,0,1,0,1,0,2,300,145
+0,_Faulkner,_3c-East Conway City 09,_3c-East Conway City 09,642,687,34,4,1,3,1,1,6,4,2,0,1,682,671
+0,_Faulkner,_3c-West Conway City 46,_3c-West Conway City 46,743,477,20,3,2,5,0,0,5,0,1,0,1,784,457
+0,_Faulkner,_3d Conway City 50,_3d Conway City 50,1020,693,25,3,4,5,4,2,3,3,1,0,0,1053,678
+0,_Faulkner,_3e Conway City 45,_3e Conway City 45,541,294,12,2,0,0,0,1,5,0,0,0,1,567,278
+0,_Faulkner,_3f Conway City 53,_3f Conway City 53,728,379,15,1,0,2,0,0,6,1,0,0,0,751,369
+0,_Faulkner,_3g Conway City 54,_3g Conway City 54,292,264,14,0,0,1,0,1,4,1,1,0,1,296,269
+0,_Faulkner,_4a Conway City 01,_4a Conway City 01,617,628,24,5,1,6,2,0,3,4,2,0,0,679,584
+0,_Faulkner,_4b Conway City 02,_4b Conway City 02,289,428,21,7,0,5,0,4,4,2,1,0,0,311,436
+0,_Faulkner,_4c Conway City 11,_4c Conway City 11,655,724,19,11,3,0,1,5,7,1,2,1,1,697,693
+0,_Faulkner,_4d Conway City 04,_4d Conway City 04,222,441,19,1,1,2,3,2,4,0,3,2,2,253,434
+0,_Faulkner,_4e Conway City 03,_4e Conway City 03,796,769,22,4,2,3,0,1,3,3,1,0,0,838,734
+0,_Faulkner,_4f Conway City 05,_4f Conway City 05,1042,603,22,1,0,9,1,1,7,3,2,0,3,1077,604
+0,_Faulkner,_Benedict 15,_Benedict 15,321,78,0,0,0,0,0,0,2,0,0,1,0,321,72
+0,_Faulkner,_Benton 16,_Benton 16,360,54,6,0,0,0,0,0,1,0,0,0,4,351,70
+0,_Faulkner,_Bristol 17,_Bristol 17,102,24,2,0,0,0,0,0,0,2,0,0,0,104,20
+0,_Faulkner,_California 18,_California 18,783,172,9,4,4,3,3,0,4,0,1,0,2,780,196
+0,_Faulkner,_Clifton 19,_Clifton 19,1385,341,14,0,2,1,1,1,5,2,0,0,2,1390,348
+0,_Faulkner,_Cypress Rural 22,_Cypress Rural 22,1195,184,21,3,1,1,0,0,2,4,0,0,2,1186,213
+0,_Faulkner,_Danley City (Mayflower) 24,_Danley City (Mayflower) 24,653,265,10,3,0,2,1,2,7,0,0,0,1,660,273
+0,_Faulkner,_Danley Rural 23,_Danley Rural 23,736,368,12,1,3,1,5,0,1,1,1,3,1,759,343
+0,_Faulkner,_E Cadron A 12,_E Cadron A 12,1375,528,50,8,1,3,2,0,3,4,3,0,1,1366,590
+0,_Faulkner,_E Cadron B 13,_E Cadron B 13,943,535,28,2,0,2,6,2,13,0,1,2,4,974,524
+0,_Faulkner,_E Cadron C 48,_E Cadron C 48,672,456,21,4,3,3,0,3,1,2,1,0,1,685,455
+0,_Faulkner,_Eagle 25,_Eagle 25,1008,208,16,2,1,1,0,0,1,2,0,0,1,996,224
+0,_Faulkner,_East Fork 26,_East Fork 26,1127,268,26,3,2,2,1,2,1,3,1,1,1,1136,284
+0,_Faulkner,_Enola 27,_Enola 27,284,36,3,0,0,0,1,0,0,0,2,0,0,280,40
+0,_Faulkner,_Hardin City East (GB) 29,_Hardin City East (GB) 29,1180,260,20,4,2,2,3,3,4,1,1,0,4,1177,287
+0,_Faulkner,_Hardin City West (GB) 55,_Hardin City West (GB) 55,677,142,15,4,0,0,0,0,2,0,0,0,0,677,152
+0,_Faulkner,_Hardin Rural 28,_Hardin Rural 28,973,216,6,1,1,3,1,0,1,1,1,0,2,964,230
+0,_Faulkner,_Harve 30,_Harve 30,319,64,7,1,0,1,1,0,4,0,1,0,1,316,78
+0,_Faulkner,_Matthews 31,_Matthews 31,389,46,5,0,0,1,0,0,0,0,0,0,1,386,51
+0,_Faulkner,_Mount Vernon 33,_Mount Vernon 33,207,39,2,1,1,0,0,0,1,2,0,0,0,207,45
+0,_Faulkner,_Mountain 32,_Mountain 32,124,19,2,0,0,0,0,1,0,0,0,0,0,121,25
+0,_Faulkner,_Newton 34,_Newton 34,351,69,3,0,1,1,0,0,3,4,0,0,0,348,80
+0,_Faulkner,_Palarm 39,_Palarm 39,1579,343,38,2,0,1,1,1,4,5,2,0,0,1578,381
+0,_Faulkner,_Pine Mt 36,_Pine Mt 36,795,547,12,7,2,0,4,3,6,3,1,1,1,824,506
+0,_Faulkner,_Union 37,_Union 37,941,161,4,0,0,1,2,1,7,1,0,0,1,957,149
+0,_Faulkner,_Vilonia City 21,_Vilonia City 21,1561,318,28,6,1,1,1,0,6,3,1,2,1,1566,340
+0,_Faulkner,_Walker 38,_Walker 38,315,122,3,1,0,2,1,1,0,0,1,0,1,322,119
+0,_Faulkner,_West Cadron 14,_West Cadron 14,114,95,2,1,0,1,1,0,0,1,0,0,2,117,93
+0,_Faulkner,_Wilson 35,_Wilson 35,629,126,11,4,1,0,2,0,1,0,1,0,0,625,145
+0,_Franklin,_1-A (Oz Wd 1),_1-A (Oz Wd 1),279,79,4,1,2,1,0,0,0,0,0,0,0,268,93
+0,_Franklin,_1-B (Oz Wd 3),_1-B (Oz Wd 3),193,51,4,3,0,0,0,0,1,1,0,0,0,194,57
+0,_Franklin,_1-C (Oz WD 2),_1-C (Oz WD 2),35,2,0,0,0,1,0,0,0,0,1,0,1,38,3
+0,_Franklin,_2-A (Oz Wd 2),_2-A (Oz Wd 2),303,79,1,0,1,0,0,0,0,0,0,0,2,294,87
+0,_Franklin,_2-B (Oz Rural),_2-B (Oz Rural),107,16,0,0,0,0,0,0,0,0,0,0,0,100,20
+0,_Franklin,_2-C (Lonelm/Cravens),_2-C (Lonelm/Cravens),28,3,0,0,0,0,0,0,0,0,0,0,0,28,3
+0,_Franklin,_2-D (Wallace/Ivy),_2-D (Wallace/Ivy),50,6,1,0,0,0,0,0,0,0,0,0,0,48,8
+0,_Franklin,_2-E (Oz Wd 3),_2-E (Oz Wd 3),120,41,2,1,0,0,0,0,1,0,0,0,2,118,45
+0,_Franklin,_3-A (Lonelm/Cravens),_3-A (Lonelm/Cravens),201,34,2,1,0,0,0,0,0,0,0,0,0,202,35
+0,_Franklin,_3-B (Fern),_3-B (Fern),65,13,3,0,0,0,0,0,0,0,0,0,0,65,17
+0,_Franklin,_3-C (Boston),_3-C (Boston),100,30,0,0,0,1,0,0,0,0,0,0,0,103,27
+0,_Franklin,_3-D (Jethro),_3-D (Jethro),197,26,2,1,0,3,0,0,0,0,0,0,0,189,38
+0,_Franklin,_3-E (Watalula),_3-E (Watalula),12,5,0,0,0,0,0,0,0,0,0,0,0,12,5
+0,_Franklin,_3-F (Mountain),_3-F (Mountain),82,11,0,1,0,1,0,0,0,0,0,0,0,79,15
+0,_Franklin,_4-A (Philpot),_4-A (Philpot),166,45,3,0,0,0,0,0,0,1,0,1,1,165,49
+0,_Franklin,_4-B (Watalula),_4-B (Watalula),146,20,0,0,0,0,0,0,0,0,1,0,0,140,27
+0,_Franklin,_4-C (WV Rural),_4-C (WV Rural),54,15,0,0,0,0,0,0,1,0,0,0,0,51,19
+0,_Franklin,_4-D (Oz Rural),_4-D (Oz Rural),313,84,2,0,0,0,2,0,1,1,1,0,0,306,92
+0,_Franklin,_5-A (Wallace/Ivy),_5-A (Wallace/Ivy),328,66,2,0,0,0,0,0,0,2,1,0,1,324,71
+0,_Franklin,_5-B (Oz Rural),_5-B (Oz Rural),37,0,1,0,0,0,0,0,0,0,0,0,0,37,1
+0,_Franklin,_5-C (Webb City),_5-C (Webb City),353,72,0,0,0,2,0,0,3,1,0,1,1,355,77
+0,_Franklin,_6-A (Altus Rural),_6-A (Altus Rural),203,46,0,0,0,0,0,0,0,2,1,0,0,210,39
+0,_Franklin,_6-B (Altus City),_6-B (Altus City),177,58,6,0,1,1,1,0,0,0,0,1,1,179,65
+0,_Franklin,_6-C (Denning),_6-C (Denning),49,17,2,0,0,0,0,0,1,0,0,0,1,53,16
+0,_Franklin,_6-D (Weiderkehr Village),_6-D (Weiderkehr Village),20,7,0,0,0,0,0,0,0,0,0,0,0,20,6
+0,_Franklin,_7-A (Cecil),_7-A (Cecil),320,58,6,0,1,1,0,0,1,1,0,0,0,319,66
+0,_Franklin,_7-B (Webb City),_7-B (Webb City),139,21,1,0,1,0,0,0,0,1,0,0,0,137,26
+0,_Franklin,_7-C (Etna),_7-C (Etna),76,12,2,0,0,0,0,0,0,1,0,0,0,75,15
+0,_Franklin,_7-D (Donald Rural),_7-D (Donald Rural),205,46,3,0,3,1,0,0,1,1,0,0,0,206,51
+0,_Franklin,_8-A (Branch City),_8-A (Branch City),87,28,1,0,1,0,0,0,0,0,0,0,0,87,29
+0,_Franklin,_8-B (Charleston Wd 1),_8-B (Charleston Wd 1),271,60,4,0,0,0,0,0,0,0,0,0,0,268,61
+0,_Franklin,_8-C (Charleston Rural),_8-C (Charleston Rural),131,27,0,0,0,0,0,0,0,2,0,0,0,133,27
+0,_Franklin,_8-D (Vesta),_8-D (Vesta),185,36,6,0,0,0,0,0,0,0,0,0,0,181,45
+0,_Franklin,_8-E (Donald Rural),_8-E (Donald Rural),22,7,0,0,0,0,0,0,0,0,0,0,0,23,5
+0,_Franklin,_8-F (Cecil),_8-F (Cecil),12,5,0,0,0,0,0,0,0,0,0,0,0,13,4
+0,_Franklin,_8-G (Donald Rural),_8-G (Donald Rural),4,3,0,0,0,0,0,0,0,0,0,0,0,4,3
+0,_Franklin,_9-A (Charleston Wd 2),_9-A (Charleston Wd 2),328,86,5,1,1,3,0,0,1,3,0,1,0,338,86
+0,_Franklin,_9-B (Charleston Wd 3),_9-B (Charleston Wd 3),170,65,3,0,0,0,0,0,0,0,0,0,0,174,61
+0,_Franklin,_9-C (Charleston Rural),_9-C (Charleston Rural),109,20,1,0,0,0,0,0,0,0,0,0,0,109,20
+0,_Fulton,_Benton - Union,_Benton - Union,889,303,8,1,3,0,0,1,2,5,8,0,3,910,281
+0,_Fulton,_Cherokee Village,_Cherokee Village,290,108,1,1,1,0,0,0,0,1,2,0,1,296,99
+0,_Fulton,_Cleveland,_Cleveland,146,30,1,0,0,0,1,0,0,0,0,0,0,146,26
+0,_Fulton,_Fulton - Mt. Calm,_Fulton - Mt. Calm,428,74,9,0,2,0,1,0,1,0,1,0,0,423,70
+0,_Fulton,_MS - Afton,_MS - Afton,758,218,6,1,4,0,1,1,1,3,7,2,2,778,200
+0,_Fulton,_Myatt,_Myatt,66,16,3,0,1,0,0,0,0,0,0,0,0,72,13
+0,_Fulton,_PR-SB,_PR-SB,647,134,5,1,0,1,0,2,2,1,6,0,0,664,123
+0,_Fulton,_Southfork - Wilson,_Southfork - Wilson,259,71,2,0,1,0,0,1,1,0,1,0,0,255,72
+0,_Fulton,_Vidette - Big Creek,_Vidette - Big Creek,336,46,2,0,1,0,1,0,2,0,4,0,0,342,35
+0,_Fulton,_Washington,_Washington,142,35,1,0,1,0,0,0,0,0,0,0,1,144,33
+0,_Garland,_011,_011,325,346,6,6,0,1,2,2,0,1,0,0,0,351,325
+0,_Garland,_012,_012,297,487,3,2,7,2,2,1,1,5,1,2,0,333,457
+0,_Garland,_013,_013,276,206,6,2,3,1,0,0,3,2,0,1,0,303,192
+0,_Garland,_014,_014,557,161,6,2,1,0,0,1,1,0,1,3,1,568,166
+0,_Garland,_021,_021,263,477,10,4,4,3,3,4,4,0,1,2,1,323,428
+0,_Garland,_022,_022,167,493,5,6,6,2,3,3,1,1,2,1,1,201,467
+0,_Garland,_023,_023,148,49,1,1,0,0,0,0,0,0,0,0,0,145,53
+0,_Garland,_024,_024,22,20,0,0,0,0,0,0,1,0,2,0,0,28,18
+0,_Garland,_031,_031,15,10,2,0,0,0,0,0,1,0,0,0,0,14,14
+0,_Garland,_032,_032,366,189,6,2,1,0,1,0,2,0,1,1,0,391,177
+0,_Garland,_033,_033,544,529,7,6,7,1,0,2,2,1,5,3,1,590,497
+0,_Garland,_034,_034,284,379,7,5,2,0,1,0,5,0,3,4,2,330,340
+0,_Garland,_041,_041,384,320,11,2,0,0,2,2,2,2,2,0,2,411,306
+0,_Garland,_042,_042,585,460,10,1,5,2,2,0,5,2,1,3,4,640,430
+0,_Garland,_043,_043,452,235,4,0,2,0,0,1,1,2,3,0,0,465,222
+0,_Garland,_044,_044,624,417,14,2,3,0,0,2,2,2,3,1,1,685,372
+0,_Garland,_051,_051,75,117,3,1,1,0,0,0,0,0,3,0,0,86,115
+0,_Garland,_052,_052,151,119,3,2,1,1,0,2,0,1,0,1,0,155,121
+0,_Garland,_053,_053,681,397,15,6,1,1,0,0,5,2,3,1,2,734,363
+0,_Garland,_054,_054,1153,582,19,4,4,2,0,1,4,5,2,4,4,1199,576
+0,_Garland,_061,_061,158,82,3,0,1,0,0,0,0,1,0,0,0,159,83
+0,_Garland,_062,_062,198,156,1,1,0,0,0,0,1,0,1,0,0,200,147
+0,_Garland,_063,_063,1081,521,22,4,4,2,1,1,2,1,2,1,2,1121,512
+0,_Garland,_064,_064,1121,502,13,0,4,2,2,0,6,4,1,3,0,1168,479
+0,_Garland,_065,_065,42,21,0,0,0,0,0,0,0,0,0,0,0,43,16
+0,_Garland,_071,_071,270,76,2,0,0,1,0,0,1,1,0,0,0,259,87
+0,_Garland,_072,_072,697,270,3,1,1,0,1,0,2,0,0,1,0,722,255
+0,_Garland,_073,_073,837,358,12,2,3,1,0,1,1,1,2,4,0,879,334
+0,_Garland,_074,_074,976,379,15,1,1,0,1,0,1,1,4,0,0,1020,352
+0,_Garland,_081,_081,319,69,1,2,4,0,1,0,0,1,1,1,0,317,81
+0,_Garland,_082,_082,1133,341,13,4,4,0,1,0,5,2,3,1,0,1163,338
+0,_Garland,_083,_083,915,313,7,0,2,4,0,0,1,1,1,1,1,949,289
+0,_Garland,_084,_084,499,159,5,3,5,1,0,0,0,0,2,1,0,521,147
+0,_Garland,_091,_091,353,99,7,1,0,1,0,0,1,0,3,2,0,359,102
+0,_Garland,_092,_092,714,182,11,0,1,1,0,0,0,0,0,1,0,719,188
+0,_Garland,_093,_093,1099,428,16,4,2,2,0,1,7,5,4,5,1,1155,404
+0,_Garland,_094,_094,551,185,5,1,1,1,0,0,1,1,1,0,0,576,177
+0,_Garland,_095,_095,116,40,5,0,0,0,0,1,0,0,0,0,0,112,50
+0,_Garland,_101,_101,568,137,3,0,4,1,0,0,0,0,1,0,0,581,134
+0,_Garland,_102,_102,530,126,3,2,3,0,0,0,0,0,3,0,0,541,123
+0,_Garland,_103,_103,799,370,14,4,7,2,0,0,0,3,2,1,0,806,387
+0,_Garland,_104,_104,357,152,1,3,3,1,0,0,1,0,2,1,2,375,140
+0,_Garland,_111,_111,252,38,0,0,1,0,0,0,0,3,2,1,0,253,42
+0,_Garland,_112,_112,132,32,2,0,1,0,0,0,1,0,0,0,0,131,36
+0,_Garland,_113,_113,1438,519,17,4,5,0,1,0,3,4,2,5,0,1515,469
+0,_Garland,_114,_114,1110,579,17,1,7,3,0,1,3,2,4,6,0,1197,507
+0,_Garland,_115,_115,270,155,1,1,1,1,0,1,1,1,1,0,0,286,129
+0,_Garland,_121,_121,550,187,9,2,6,1,2,1,2,0,2,4,0,572,193
+0,_Garland,_122,_122,879,309,10,3,4,0,3,0,3,1,3,2,2,914,299
+0,_Garland,_123,_123,540,108,4,0,1,2,1,0,0,0,0,0,0,538,115
+0,_Garland,_124,_124,1,2,0,0,0,0,0,0,0,0,0,0,0,1,2
+0,_Garland,_125,_125,103,52,1,0,0,0,0,0,0,0,0,0,0,111,41
+0,_Garland,_131,_131,352,104,5,0,3,0,0,0,0,1,1,0,0,357,107
+0,_Garland,_132,_132,1363,598,11,2,2,4,0,0,1,4,1,3,0,1452,506
+0,_Garland,_133,_133,1130,331,12,1,7,4,0,0,3,0,6,2,0,1145,347
+0,_Garland,_134,_134,247,72,7,1,1,0,1,0,1,0,0,0,0,251,79
+0,_Grant,_01 - Calvert,_01 - Calvert,593,58,6,1,0,1,1,0,0,1,0,1,2,587,74
+0,_Grant,_02 - Davis,_02 - Davis,125,21,1,1,1,1,0,0,0,0,0,0,0,130,20
+0,_Grant,_03 - Dekalb 1,_03 - Dekalb 1,116,17,0,1,0,0,0,0,0,0,0,0,0,116,16
+0,_Grant,_04 - Dekalb 2,_04 - Dekalb 2,179,54,2,0,0,0,0,0,0,1,1,0,0,185,49
+0,_Grant,_05 - Darysaw,_05 - Darysaw,238,64,2,0,0,0,3,1,0,1,0,0,0,244,66
+0,_Grant,_08 - Fenter,_08 - Fenter,352,43,0,0,1,0,0,1,1,0,0,1,0,354,42
+0,_Grant,_09 - Franklin,_09 - Franklin,110,15,0,0,0,0,1,0,0,0,1,1,0,115,13
+0,_Grant,_10 - Madison,_10 - Madison,225,36,1,0,0,0,2,0,0,0,1,1,0,222,44
+0,_Grant,_11 - Merry Green 1,_11 - Merry Green 1,578,93,4,1,0,0,2,0,2,1,1,0,1,579,100
+0,_Grant,_12 - Merry Green 2,_12 - Merry Green 2,507,73,2,0,0,0,0,0,0,2,0,0,0,510,71
+0,_Grant,_13 - River,_13 - River,405,103,4,1,2,3,1,1,1,1,1,3,1,427,98
+0,_Grant,_14 - Simpson 1,_14 - Simpson 1,524,84,8,0,1,1,0,0,0,1,0,1,0,521,94
+0,_Grant,_15 - Simpson 2,_15 - Simpson 2,376,47,3,0,0,0,0,0,1,0,0,0,1,367,60
+0,_Grant,_17 - Tennessee,_17 - Tennessee,223,33,2,0,0,0,0,0,0,0,0,0,1,236,22
+0,_Grant,_19 - Washington,_19 - Washington,624,103,3,0,0,0,2,0,1,1,1,0,0,636,96
+0,_Grant,_20 - Ward 1,_20 - Ward 1,638,152,6,0,0,0,0,0,2,1,1,1,1,648,150
+0,_Grant,_21 - Ward 2,_21 - Ward 2,546,136,5,3,1,0,1,0,1,0,0,0,2,560,129
+0,_Grant,_22 - Ward 3,_22 - Ward 3,435,136,7,0,0,0,0,0,0,1,0,0,1,446,134
+0,_Greene,_Bagwell Lake 1,_Bagwell Lake 1,8,1,0,0,0,0,0,0,0,0,0,0,0,7,2
+0,_Greene,_Bagwell Lake 2,_Bagwell Lake 2,65,16,0,0,0,0,0,0,0,0,0,0,0,70,10
+0,_Greene,_Bagwell Lake 3,_Bagwell Lake 3,14,5,0,0,0,0,0,0,0,0,0,0,0,13,6
+0,_Greene,_Bagwell Lake 4,_Bagwell Lake 4,22,7,0,0,0,0,0,0,0,0,0,0,0,22,7
+0,_Greene,_Bagwell Lake 5,_Bagwell Lake 5,304,51,0,0,0,1,0,0,0,0,0,0,1,301,47
+0,_Greene,_Bagwell Lake 6,_Bagwell Lake 6,14,4,0,0,0,0,0,0,0,0,0,0,0,14,4
+0,_Greene,_Bagwell Lake 7,_Bagwell Lake 7,28,4,1,0,0,0,0,0,0,0,0,0,0,27,5
+0,_Greene,_Bagwell Lake 8,_Bagwell Lake 8,51,11,0,0,0,0,0,0,0,0,0,0,0,50,12
+0,_Greene,_Bagwell Lake 9,_Bagwell Lake 9,257,62,7,0,0,0,0,0,1,2,0,1,0,258,57
+0,_Greene,_Bula 1,_Bula 1,254,41,4,0,0,1,0,1,1,0,0,0,0,261,38
+0,_Greene,_Bula 2,_Bula 2,111,19,0,0,0,0,0,0,0,0,0,0,0,108,19
+0,_Greene,_Campground 1,_Campground 1,539,84,5,0,0,1,0,0,2,0,1,1,0,542,72
+0,_Greene,_Campground 2,_Campground 2,230,42,4,1,0,0,0,0,0,1,0,1,0,231,44
+0,_Greene,_Campground 3,_Campground 3,26,7,0,0,0,0,0,0,0,0,0,0,0,27,5
+0,_Greene,_Campground 4,_Campground 4,95,22,2,1,0,0,0,0,0,0,0,1,0,95,23
+0,_Greene,_Crowley Ridge 1,_Crowley Ridge 1,366,57,2,0,0,0,0,0,0,0,0,0,0,365,58
+0,_Greene,_Crowley Ridge 2,_Crowley Ridge 2,88,27,1,0,0,0,0,0,0,0,0,0,0,91,22
+0,_Greene,_Crowley Ridge 3,_Crowley Ridge 3,31,6,0,0,0,0,0,0,0,0,0,0,0,32,4
+0,_Greene,_Crowley Ridge 4,_Crowley Ridge 4,617,77,7,0,0,1,0,1,3,1,0,0,0,614,84
+0,_Greene,_Crowley Ridge 5,_Crowley Ridge 5,293,52,0,0,1,0,1,0,0,0,2,0,0,294,54
+0,_Greene,_Crowley Ridge 6,_Crowley Ridge 6,38,6,2,0,0,0,0,0,0,0,0,0,0,39,6
+0,_Greene,_Crowley Ridge 7,_Crowley Ridge 7,13,1,0,0,0,0,0,0,0,0,0,0,0,14,0
+0,_Greene,_Dalton 1,_Dalton 1,124,12,0,0,0,0,0,0,0,0,0,0,0,118,14
+0,_Greene,_Dalton 10,_Dalton 10,5,2,0,0,0,0,0,0,0,0,0,0,0,3,4
+0,_Greene,_Dalton 11,_Dalton 11,295,45,0,1,0,0,0,0,1,0,0,0,0,292,50
+0,_Greene,_Dalton 12,_Dalton 12,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+0,_Greene,_Dalton 13,_Dalton 13,63,22,1,0,0,0,0,0,0,0,0,0,0,62,23
+0,_Greene,_Dalton 14,_Dalton 14,34,3,0,1,0,0,0,0,0,0,0,0,0,33,4
+0,_Greene,_Dalton 15,_Dalton 15,107,16,0,0,1,0,0,0,0,2,0,0,0,105,19
+0,_Greene,_Dalton 17,_Dalton 17,11,0,1,1,0,0,0,0,0,0,0,0,0,13,0
+0,_Greene,_Dalton 2,_Dalton 2,120,20,0,0,0,0,0,0,0,0,0,0,0,117,18
+0,_Greene,_Dalton 3,_Dalton 3,301,53,1,1,0,0,0,0,1,0,1,1,1,301,51
+0,_Greene,_Dalton 4,_Dalton 4,8,0,0,0,0,0,0,0,0,0,0,0,0,8,0
+0,_Greene,_Dalton 5,_Dalton 5,28,7,1,0,0,0,0,0,0,0,0,0,0,30,6
+0,_Greene,_Dalton 6,_Dalton 6,7,7,1,0,0,0,0,0,0,0,0,0,0,7,6
+0,_Greene,_Dalton 7,_Dalton 7,17,3,0,0,0,0,0,0,0,0,0,0,0,16,5
+0,_Greene,_Dalton 8,_Dalton 8,96,18,2,1,0,0,0,0,1,0,0,1,0,95,21
+0,_Greene,_Dalton 9,_Dalton 9,3,1,0,0,0,0,0,0,0,0,0,0,0,2,2
+0,_Greene,_Rush Island 1,_Rush Island 1,81,31,1,0,0,0,0,0,0,0,0,1,0,88,25
+0,_Greene,_Rush Island 2,_Rush Island 2,415,52,3,0,0,0,0,1,0,0,0,0,0,415,53
+0,_Greene,_Rush Island 3,_Rush Island 3,67,9,1,1,0,0,0,0,0,0,0,0,0,62,13
+0,_Greene,_Ward 1-1,_Ward 1-1,81,42,2,0,0,0,0,0,0,0,0,0,0,80,37
+0,_Greene,_Ward 1-2,_Ward 1-2,852,236,15,0,3,0,1,2,3,1,3,0,0,863,230
+0,_Greene,_Ward 1-3,_Ward 1-3,183,46,1,0,0,0,0,0,2,0,0,0,1,193,38
+0,_Greene,_Ward 1A-1,_Ward 1A-1,539,199,11,5,0,0,1,0,4,2,2,1,0,568,179
+0,_Greene,_Ward 1A-2,_Ward 1A-2,598,184,10,1,1,0,0,1,2,1,0,1,0,602,187
+0,_Greene,_Ward 2-1,_Ward 2-1,988,384,29,6,0,0,1,0,6,4,1,1,1,1017,376
+0,_Greene,_Ward 2-2,_Ward 2-2,11,2,0,0,0,0,0,0,0,1,0,0,0,13,1
+0,_Greene,_Ward 2-3,_Ward 2-3,213,62,6,0,0,1,0,0,1,1,0,1,1,222,61
+0,_Greene,_Ward 2-4,_Ward 2-4,26,11,0,0,0,0,0,0,0,0,0,0,0,28,8
+0,_Greene,_Ward 2A-1,_Ward 2A-1,241,64,7,1,0,1,0,0,2,1,0,0,0,245,64
+0,_Greene,_Ward 2A-2,_Ward 2A-2,469,107,10,0,0,0,0,0,0,2,0,1,0,477,106
+0,_Greene,_Ward 3-1,_Ward 3-1,138,52,0,2,0,2,1,0,2,1,1,1,1,146,53
+0,_Greene,_Ward 3-2,_Ward 3-2,266,110,5,2,1,1,2,0,0,3,2,1,1,283,99
+0,_Greene,_Ward 3-3,_Ward 3-3,120,32,2,0,0,0,0,0,0,0,1,0,0,119,31
+0,_Greene,_Ward 3-4,_Ward 3-4,191,49,1,1,0,0,0,0,0,2,0,0,0,189,54
+0,_Greene,_Ward 3A-1,_Ward 3A-1,6,3,0,0,0,0,0,0,0,0,0,0,0,6,3
+0,_Greene,_Ward 4-1,_Ward 4-1,147,20,3,0,0,0,0,0,2,0,0,0,0,146,23
+0,_Greene,_Ward 4-2,_Ward 4-2,989,247,18,5,2,0,0,0,5,4,1,2,0,1002,252
+0,_Greene,_Ward 4-3,_Ward 4-3,103,18,3,0,0,0,0,0,0,0,0,0,0,106,18
+0,_Greene,_Ward 4-4,_Ward 4-4,78,15,0,0,0,0,0,0,0,0,1,0,0,78,15
+0,_Greene,_Ward 4A-1,_Ward 4A-1,327,71,7,1,0,0,0,0,2,1,0,0,0,329,75
+0,_Greene,_Ward 4A-2,_Ward 4A-2,708,153,10,1,0,0,0,0,1,6,1,0,1,710,160
+0,_Greene,_Ward 4B-2,_Ward 4B-2,11,6,0,0,0,0,0,0,0,0,0,0,0,11,5
+0,_Greene,_Ward 4C,_Ward 4C,136,42,1,0,0,0,0,0,1,0,0,0,0,142,34
+0,_Hempstead,_01 Hope 1,_01 Hope 1,226,353,1,1,2,0,1,0,14,4,2,8,5,278,296
+0,_Hempstead,_02 Hope 2,_02 Hope 2,74,259,0,3,0,0,0,0,2,1,3,3,1,109,210
+0,_Hempstead,_03 Hope 3,_03 Hope 3,295,138,4,0,0,0,1,0,2,1,2,2,3,319,124
+0,_Hempstead,_04 Hope 4,_04 Hope 4,60,218,3,2,1,1,0,0,6,0,2,1,2,87,179
+0,_Hempstead,_05 Hope 5,_05 Hope 5,274,225,5,4,0,0,3,1,8,2,3,2,0,307,196
+0,_Hempstead,_06 Hope 6,_06 Hope 6,209,35,0,0,0,0,0,0,1,1,0,0,0,207,35
+0,_Hempstead,_07 Hope 7,_07 Hope 7,398,112,5,3,0,1,2,1,3,1,0,0,0,423,98
+0,_Hempstead,_08 Bingen,_08 Bingen,276,50,0,0,0,1,1,0,1,0,1,0,0,281,43
+0,_Hempstead,_09 Blevins,_09 Blevins,288,44,5,1,1,0,1,0,2,2,2,0,1,283,54
+0,_Hempstead,_10 Columbus,_10 Columbus,44,51,2,0,0,0,1,0,0,2,1,1,0,54,44
+0,_Hempstead,_11 Crossroads,_11 Crossroads,92,23,0,0,0,1,3,2,1,0,1,1,0,98,24
+0,_Hempstead,_12 Deann,_12 Deann,204,44,4,1,0,0,2,0,1,0,0,0,1,207,46
+0,_Hempstead,_13 Fulton,_13 Fulton,86,96,0,1,0,0,1,0,2,1,0,2,1,94,88
+0,_Hempstead,_14 Guernsey,_14 Guernsey,91,33,0,0,0,0,0,0,2,0,1,0,0,91,30
+0,_Hempstead,_15 McCaskill,_15 McCaskill,209,41,1,2,0,1,1,0,0,0,2,0,0,214,38
+0,_Hempstead,_16 McNab,_16 McNab,25,17,0,0,0,0,0,0,0,1,0,0,0,26,15
+0,_Hempstead,_17 Ozan,_17 Ozan,110,109,0,2,0,0,2,0,3,2,1,2,0,126,100
+0,_Hempstead,_18 Patmos,_18 Patmos,185,40,0,0,0,0,0,0,0,0,0,1,1,191,36
+0,_Hempstead,_19 Perrytown,_19 Perrytown,156,28,0,1,0,0,0,0,0,0,0,0,0,158,24
+0,_Hempstead,_20 Rocky Mound,_20 Rocky Mound,152,48,0,0,0,0,1,0,0,0,1,0,1,157,39
+0,_Hempstead,_21 Saratoga,_21 Saratoga,92,35,1,0,0,0,0,0,0,0,0,0,0,94,32
+0,_Hempstead,_22 Shover Springs,_22 Shover Springs,193,25,0,0,1,0,0,0,1,0,1,0,0,195,23
+0,_Hempstead,_23 Spring Hill,_23 Spring Hill,653,42,0,3,0,0,0,0,4,1,4,2,2,654,44
+0,_Hempstead,_24 Washington,_24 Washington,78,72,0,0,1,0,2,0,5,0,1,0,0,89,60
+0,_Hot Spring,_Antioch,_Antioch,144,20,1,0,0,0,0,0,1,0,1,0,0,142,22
+0,_Hot Spring,_Big Creek,_Big Creek,217,17,0,0,0,0,0,0,0,0,0,0,0,213,21
+0,_Hot Spring,_Bismarck,_Bismarck,780,229,13,0,0,1,0,1,3,0,0,1,0,792,219
+0,_Hot Spring,_Brown Springs,_Brown Springs,82,15,0,0,0,0,0,0,0,0,1,0,0,84,14
+0,_Hot Spring,_Butterfield,_Butterfield,352,84,3,0,0,0,0,0,1,0,1,0,0,361,78
+0,_Hot Spring,_Central,_Central,331,76,3,0,0,1,1,0,1,1,2,1,0,337,74
+0,_Hot Spring,_Clear Creek,_Clear Creek,121,24,1,0,1,0,0,0,1,0,1,0,1,121,28
+0,_Hot Spring,_Deroche,_Deroche,500,116,3,1,0,2,1,0,1,2,0,0,0,498,122
+0,_Hot Spring,_Donaldson City,_Donaldson City,78,9,3,0,0,0,0,0,2,0,0,1,0,76,18
+0,_Hot Spring,_Dover,_Dover,283,38,0,0,0,0,0,0,1,0,0,0,1,283,38
+0,_Hot Spring,_Fenter A,_Fenter A,381,114,4,1,0,0,0,0,1,1,1,0,1,392,102
+0,_Hot Spring,_Fenter B,_Fenter B,273,80,4,0,0,0,0,0,0,1,1,0,0,286,70
+0,_Hot Spring,_Fenter C,_Fenter C,27,71,0,0,1,1,0,0,0,0,0,0,0,29,65
+0,_Hot Spring,_Friendship City,_Friendship City,59,11,1,0,1,0,0,0,0,0,0,0,0,61,11
+0,_Hot Spring,_Gifford,_Gifford,433,61,2,0,0,0,0,1,1,2,1,0,0,427,70
+0,_Hot Spring,_Glen Rose,_Glen Rose,659,111,5,1,0,0,1,0,2,0,2,2,0,665,111
+0,_Hot Spring,_Harrison,_Harrison,90,20,2,0,0,0,0,0,0,0,1,2,0,92,22
+0,_Hot Spring,_Henderson,_Henderson,264,60,2,1,1,0,0,0,0,1,0,0,0,262,63
+0,_Hot Spring,_Lone Hill,_Lone Hill,302,63,1,1,0,0,0,0,1,1,0,1,0,302,67
+0,_Hot Spring,_Magnet,_Magnet,1035,227,8,1,3,1,0,0,1,1,1,0,0,1036,232
+0,_Hot Spring,_Malvern W-1A,_Malvern W-1A,219,364,6,1,1,0,1,2,3,0,4,1,0,257,326
+0,_Hot Spring,_Malvern W-1B,_Malvern W-1B,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Hot Spring,_Malvern W-2,_Malvern W-2,526,337,9,3,1,1,1,1,6,4,1,3,0,555,324
+0,_Hot Spring,_Malvern W-3,_Malvern W-3,357,233,4,1,1,0,1,1,6,3,5,1,1,390,215
+0,_Hot Spring,_Malvern W-4,_Malvern W-4,314,385,2,3,2,2,2,0,3,4,6,1,0,346,357
+0,_Hot Spring,_Midway City,_Midway City,138,15,1,0,0,0,0,0,1,1,1,0,0,141,16
+0,_Hot Spring,_Midway City 2,_Midway City 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Hot Spring,_Montgomery,_Montgomery,426,112,7,2,0,0,0,0,0,0,2,0,0,416,120
+0,_Hot Spring,_Ouachita,_Ouachita,125,14,0,0,0,0,0,0,0,1,0,2,0,130,11
+0,_Hot Spring,_Perla City,_Perla City,21,51,0,0,0,0,0,0,0,0,1,1,1,26,48
+0,_Hot Spring,_Prairie,_Prairie,206,29,0,0,2,0,0,0,0,1,1,0,1,203,31
+0,_Hot Spring,_Rockport W-1,_Rockport W-1,262,64,4,0,0,0,0,0,1,2,2,0,0,264,65
+0,_Hot Spring,_Rockport W-1-4,_Rockport W-1-4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Hot Spring,_Rockport W-2,_Rockport W-2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Hot Spring,_Valley,_Valley,197,32,4,0,1,2,0,0,1,0,1,0,0,201,33
+0,_Howard,_01 - Umpire,_01 - Umpire,98,10,1,0,0,0,0,0,0,1,0,0,0,100,10
+0,_Howard,_03 - Burg,_03 - Burg,27,2,0,0,0,0,0,0,0,0,0,0,0,25,4
+0,_Howard,_05 - Mountain,_05 - Mountain,87,5,3,0,0,0,0,0,1,1,0,0,0,87,7
+0,_Howard,_06 - Clay,_06 - Clay,57,4,1,0,0,0,0,0,0,0,0,0,0,58,3
+0,_Howard,_08 - Blue Ridge,_08 - Blue Ridge,67,18,0,0,0,0,0,0,1,0,0,0,0,71,13
+0,_Howard,_09 - Madison,_09 - Madison,161,15,0,1,0,0,0,0,0,1,0,0,0,161,15
+0,_Howard,_10 - Holly Creek,_10 - Holly Creek,102,6,0,0,0,1,0,0,0,1,0,0,0,105,4
+0,_Howard,_12 - Muddy Fork,_12 - Muddy Fork,66,2,0,0,0,0,0,0,0,0,0,1,0,64,3
+0,_Howard,_14 - Brewer,_14 - Brewer,168,18,1,0,0,0,0,0,0,0,0,0,0,165,19
+0,_Howard,_15 - Center Point 1,_15 - Center Point 1,140,40,2,0,0,0,0,0,2,0,0,1,1,147,35
+0,_Howard,_17 - Center Point 2,_17 - Center Point 2,65,5,0,0,0,0,0,0,0,0,1,0,0,66,4
+0,_Howard,_19 - Saline,_19 - Saline,60,14,0,0,0,0,0,0,0,0,0,0,0,59,14
+0,_Howard,_20 - Blue Bayou,_20 - Blue Bayou,35,6,0,0,0,0,0,0,0,0,0,0,0,35,6
+0,_Howard,_21 - County Line,_21 - County Line,232,31,1,1,2,0,0,0,2,0,1,1,0,242,26
+0,_Howard,_22 - Dillard,_22 - Dillard,105,12,1,0,0,0,0,0,0,0,0,0,0,104,10
+0,_Howard,_24 - Nashville Ward 1,_24 - Nashville Ward 1,230,69,1,1,1,0,0,0,1,1,1,0,0,237,57
+0,_Howard,_25 - Nashville Ward 2,_25 - Nashville Ward 2,63,77,0,2,2,0,0,1,1,1,0,0,0,79,59
+0,_Howard,_26 - Nashville Ward 3,_26 - Nashville Ward 3,27,135,1,0,1,1,0,0,0,0,2,1,0,49,106
+0,_Howard,_28 - Nashville Ward 4,_28 - Nashville Ward 4,59,79,1,0,0,0,0,3,1,2,0,0,0,66,72
+0,_Howard,_30 - Nashville Ward 5,_30 - Nashville Ward 5,165,91,3,3,1,0,0,2,1,0,1,0,0,176,86
+0,_Howard,_32 - Nashville Ward 6,_32 - Nashville Ward 6,152,96,0,1,1,0,0,2,0,1,1,0,0,164,80
+0,_Howard,_34 - Nashville TWP II,_34 - Nashville TWP II,167,24,2,0,0,0,0,0,1,0,1,0,0,167,22
+0,_Howard,_38 - Nashville TWP I,_38 - Nashville TWP I,439,77,1,1,2,0,0,0,0,0,0,0,0,453,63
+0,_Howard,_39 - Mineral Springs 3,_39 - Mineral Springs 3,48,75,0,0,0,0,0,3,1,1,0,1,1,64,60
+0,_Howard,_40 - Mineral Springs TWP,_40 - Mineral Springs TWP,20,11,0,0,0,0,0,0,0,0,1,0,0,20,12
+0,_Howard,_41 - Mineral Springs 1,_41 - Mineral Springs 1,10,60,4,1,1,2,0,0,2,3,0,0,0,24,54
+0,_Howard,_42 - Mineral Springs 2,_42 - Mineral Springs 2,73,66,0,0,1,0,0,1,1,0,1,0,0,84,50
+0,_Howard,_43 - Buck Range,_43 - Buck Range,76,55,2,0,0,0,0,1,0,0,0,0,0,83,43
+0,_Howard,_45 - Blackland,_45 - Blackland,32,15,0,0,0,0,0,0,0,0,0,2,0,34,14
+0,_Howard,_47 - Saratoga,_47 - Saratoga,29,47,0,0,0,0,1,0,0,0,0,0,0,30,41
+0,_Howard,_48 - Franklin,_48 - Franklin,27,27,0,0,1,0,0,0,1,2,0,0,0,32,23
+0,_Howard,_50 - Dierks Ward 1,_50 - Dierks Ward 1,59,20,0,0,0,0,0,1,0,0,0,1,0,62,19
+0,_Howard,_51 - Dierks Ward 2,_51 - Dierks Ward 2,62,3,0,0,0,0,0,0,1,0,0,0,0,59,7
+0,_Howard,_52 - Dierks Ward 3,_52 - Dierks Ward 3,137,9,2,0,0,0,0,0,0,4,0,0,0,146,8
+0,_Howard,_53 - Tollette,_53 - Tollette,0,111,0,0,0,0,0,0,0,1,0,0,0,9,93
+0,_Howard,_55 - Duckett,_55 - Duckett,22,5,0,0,0,0,0,0,0,0,0,0,0,22,5
+0,_Independence,_Ashley,_Ashley,402,72,4,1,1,2,2,1,3,2,2,1,0,418,69
+0,_Independence,_Barren,_Barren,595,94,11,0,1,0,0,0,5,6,2,0,0,591,112
+0,_Independence,_Big Bottom / Wycough / Logan,_Big Bottom / Wycough / Logan,271,27,1,0,1,0,0,0,2,4,0,0,0,274,31
+0,_Independence,_Big Bottom Ward 1,_Big Bottom Ward 1,290,71,2,1,3,0,0,0,1,1,1,0,0,293,69
+0,_Independence,_Big Bottom Ward 2,_Big Bottom Ward 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Independence,_Big Bottom Ward 3,_Big Bottom Ward 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Independence,_Black River / Marshall,_Black River / Marshall,132,13,0,0,0,0,0,0,0,2,0,1,0,127,16
+0,_Independence,_Cushman / Union,_Cushman / Union,448,68,7,1,1,0,0,0,4,4,2,0,1,456,68
+0,_Independence,_Departee,_Departee,49,19,0,0,0,0,0,0,0,0,1,0,0,51,19
+0,_Independence,_Dota,_Dota,344,71,3,0,1,0,0,1,1,1,0,0,0,344,70
+0,_Independence,_Fairview,_Fairview,459,47,7,2,1,1,0,0,2,5,1,2,0,467,54
+0,_Independence,_Gainsboro,_Gainsboro,344,62,2,1,2,1,0,0,1,3,3,0,0,340,72
+0,_Independence,_Greenbrier - Desha,_Greenbrier - Desha,288,63,6,0,1,0,0,0,1,3,2,0,0,295,61
+0,_Independence,_Greenbrier - Jamestown,_Greenbrier - Jamestown,92,22,1,0,0,0,0,0,0,3,0,0,0,96,20
+0,_Independence,_Greenbrier - Locust Grove,_Greenbrier - Locust Grove,202,23,1,1,1,0,0,0,2,3,0,2,0,202,27
+0,_Independence,_Hill,_Hill,133,11,0,0,0,0,0,0,0,0,0,0,1,134,9
+0,_Independence,_Huff,_Huff,219,43,4,0,1,0,0,0,3,4,2,1,0,226,45
+0,_Independence,_Jefferson,_Jefferson,66,24,0,1,0,0,0,0,0,2,1,0,0,69,24
+0,_Independence,_Liberty,_Liberty,383,40,2,0,0,0,0,1,1,1,0,1,0,383,41
+0,_Independence,_Magness,_Magness,182,27,2,0,1,0,0,0,0,4,0,0,0,186,24
+0,_Independence,_McHue,_McHue,1110,263,16,1,0,2,2,1,5,5,6,2,1,1150,248
+0,_Independence,_McHue 3,_McHue 3,153,40,1,0,0,0,0,0,3,1,1,0,0,161,36
+0,_Independence,_Moorefield,_Moorefield,458,114,5,1,2,0,0,1,1,4,4,0,0,465,117
+0,_Independence,_Moorefield Ward 1,_Moorefield Ward 1,533,232,3,0,1,4,0,1,3,3,1,0,0,562,199
+0,_Independence,_Moorefield Ward 4,_Moorefield Ward 4,185,82,5,0,1,0,0,0,2,1,3,0,1,195,82
+0,_Independence,_Oil Trough,_Oil Trough,190,56,1,0,1,0,0,0,1,1,1,0,0,195,52
+0,_Independence,_Relief,_Relief,154,21,0,1,1,0,1,0,0,2,0,0,1,157,21
+0,_Independence,_Rosie,_Rosie,220,29,1,0,1,0,0,0,0,2,1,0,0,219,26
+0,_Independence,_Ruddell Rural,_Ruddell Rural,438,112,6,0,3,0,0,1,2,3,2,1,0,447,115
+0,_Independence,_Ruddell Ward 1,_Ruddell Ward 1,375,166,5,1,1,1,0,0,2,4,0,0,1,393,154
+0,_Independence,_Ruddell Ward 2,_Ruddell Ward 2,515,284,9,4,1,0,0,1,3,6,2,1,0,532,264
+0,_Independence,_Ruddell Ward 3,_Ruddell Ward 3,400,198,9,2,1,2,0,0,1,5,2,2,0,428,176
+0,_Independence,_Ruddell Ward 4,_Ruddell Ward 4,338,176,10,0,1,0,0,0,4,4,2,1,0,367,158
+0,_Independence,_Salado,_Salado,322,62,4,1,0,2,0,1,1,2,2,1,0,325,64
+0,_Independence,_Washington,_Washington,395,83,7,3,0,0,1,0,1,2,0,0,0,401,89
+0,_Independence,_White River,_White River,565,91,12,1,0,1,1,0,3,6,1,1,0,581,87
+0,_Izard,_Big Spring,_Big Spring,91,30,0,0,0,0,0,0,0,0,0,0,0,97,23
+0,_Izard,_Boswell,_Boswell,90,14,1,0,1,0,1,1,0,1,0,0,0,93,13
+0,_Izard,_Brockwell,_Brockwell,142,30,5,0,1,0,0,0,0,0,1,0,0,142,32
+0,_Izard,_Calico Rock Rural,_Calico Rock Rural,182,29,3,0,0,1,0,0,0,0,0,0,0,184,28
+0,_Izard,_Calico Rock Ward 1,_Calico Rock Ward 1,38,12,0,0,0,0,0,0,0,0,0,0,0,39,10
+0,_Izard,_Calico Rock Ward 2,_Calico Rock Ward 2,111,22,3,1,0,1,0,0,1,0,1,1,0,113,26
+0,_Izard,_Calico Rock Ward 3,_Calico Rock Ward 3,87,17,0,0,1,0,1,0,0,0,0,0,0,87,18
+0,_Izard,_Calico Rock Ward 4,_Calico Rock Ward 4,82,23,1,1,1,0,1,1,0,0,0,0,0,85,23
+0,_Izard,_Claiborne,_Claiborne,58,13,3,1,0,0,0,0,0,0,0,0,0,58,16
+0,_Izard,_Dolph,_Dolph,104,16,1,0,2,0,0,0,0,0,0,0,0,103,13
+0,_Izard,_Franklin City,_Franklin City,88,18,1,0,2,0,0,0,0,0,0,0,0,91,15
+0,_Izard,_Franklin Rural,_Franklin Rural,53,25,1,0,1,0,0,0,0,0,0,0,0,54,22
+0,_Izard,_Gid,_Gid,107,4,1,0,3,0,0,0,0,0,0,0,1,105,9
+0,_Izard,_Guion City,_Guion City,21,4,0,0,1,0,2,0,0,0,0,0,0,23,5
+0,_Izard,_Guion Rural,_Guion Rural,23,5,0,0,0,0,0,0,0,0,0,0,0,22,5
+0,_Izard,_Horseshoe Bend Rural,_Horseshoe Bend Rural,19,3,0,0,0,0,1,0,0,0,0,0,0,19,4
+0,_Izard,_Horseshoe Bend Ward 1,_Horseshoe Bend Ward 1,88,26,3,0,1,0,1,0,0,0,0,1,0,90,26
+0,_Izard,_Horseshoe Bend Ward 2,_Horseshoe Bend Ward 2,262,62,4,0,0,1,1,0,0,0,0,0,0,272,51
+0,_Izard,_Horseshoe Bend Ward 3,_Horseshoe Bend Ward 3,147,55,1,0,2,0,1,0,0,0,2,1,0,155,49
+0,_Izard,_Horseshoe Bend Ward 4,_Horseshoe Bend Ward 4,269,70,0,0,0,1,0,0,2,1,0,2,0,274,62
+0,_Izard,_Knob Creek,_Knob Creek,18,5,0,0,0,0,0,0,0,0,0,0,0,18,5
+0,_Izard,_Lacrosse,_Lacrosse,73,16,2,0,0,0,0,0,0,0,0,0,0,70,19
+0,_Izard,_Lafferty,_Lafferty,22,1,0,0,0,0,0,0,0,0,0,0,0,20,3
+0,_Izard,_Larkin,_Larkin,48,9,0,0,1,0,0,0,0,0,0,0,0,48,8
+0,_Izard,_Melbourne Rural,_Melbourne Rural,176,39,4,0,0,0,1,0,0,0,0,0,0,182,36
+0,_Izard,_Melbourne Ward 1,_Melbourne Ward 1,156,46,2,0,2,3,1,0,0,0,0,0,1,158,51
+0,_Izard,_Melbourne Ward 2,_Melbourne Ward 2,129,31,0,0,0,0,0,0,0,2,1,0,0,136,27
+0,_Izard,_Melbourne Ward 3,_Melbourne Ward 3,87,24,1,0,0,0,1,0,0,0,0,0,0,85,25
+0,_Izard,_Melbourne Ward 4,_Melbourne Ward 4,227,46,0,0,0,0,0,0,3,1,0,1,0,232,40
+0,_Izard,_Mt. Pleasant City,_Mt. Pleasant City,156,29,4,0,0,0,0,0,0,1,0,1,0,159,25
+0,_Izard,_Mt. Pleasant Rural,_Mt. Pleasant Rural,164,24,2,0,1,0,1,0,1,2,0,0,0,176,19
+0,_Izard,_Myron,_Myron,35,15,0,0,1,0,0,0,0,0,0,0,0,40,11
+0,_Izard,_Newburg,_Newburg,71,13,0,0,1,0,0,0,1,0,0,0,0,77,10
+0,_Izard,_Oxford City,_Oxford City,218,32,1,1,0,1,0,0,2,1,0,0,0,224,31
+0,_Izard,_Oxford City in Brockwell,_Oxford City in Brockwell,3,0,0,0,0,0,0,0,0,1,0,0,0,2,2
+0,_Izard,_Oxford Rural,_Oxford Rural,57,16,0,0,0,0,0,0,1,0,0,0,0,60,13
+0,_Izard,_Pineville City,_Pineville City,61,21,0,0,1,0,0,0,0,1,0,0,0,61,18
+0,_Izard,_Pineville Rural,_Pineville Rural,113,27,0,0,0,1,0,0,0,1,0,0,0,115,24
+0,_Izard,_Sage,_Sage,151,24,1,0,1,0,0,0,1,0,1,0,0,149,29
+0,_Izard,_Sage in Melbourne Ward 4,_Sage in Melbourne Ward 4,3,3,0,0,0,0,0,0,0,0,0,0,0,3,3
+0,_Izard,_Strawberry,_Strawberry,55,20,0,0,0,0,0,0,1,0,0,0,0,55,18
+0,_Izard,_Sylamore,_Sylamore,115,21,2,0,0,1,0,0,0,0,0,0,0,111,24
+0,_Izard,_Twin Creek,_Twin Creek,33,15,0,0,1,0,0,0,1,0,0,0,0,36,14
+0,_Izard,_Violet Hill,_Violet Hill,160,18,4,0,0,0,0,0,0,0,0,0,0,159,22
+0,_Izard,_Wideman,_Wideman,44,3,0,0,1,0,0,0,0,0,0,0,0,44,1
+0,_Izard,_Wiseman,_Wiseman,42,9,0,0,2,0,0,0,0,0,0,1,0,42,9
+0,_Izard,_Zion,_Zion,152,36,4,0,2,2,0,0,0,0,0,0,0,156,37
+0,_Jackson,_01 - Airbase,_01 - Airbase,29,13,0,0,0,0,1,0,0,1,0,0,1,29,15
+0,_Jackson,_02 - Alcorn,_02 - Alcorn,31,57,0,0,0,0,0,0,0,0,0,0,0,35,41
+0,_Jackson,_03 - Algoa,_03 - Algoa,10,2,0,0,0,0,0,0,0,0,0,0,0,11,1
+0,_Jackson,_04 - Amagon,_04 - Amagon,24,6,0,0,0,0,0,0,1,0,0,0,0,27,3
+0,_Jackson,_05 - Auvergne,_05 - Auvergne,30,13,0,0,0,0,0,0,1,0,0,0,0,27,15
+0,_Jackson,_07 - Beedeville,_07 - Beedeville,77,12,1,0,1,0,2,0,1,1,0,1,1,79,16
+0,_Jackson,_08 - Blackville,_08 - Blackville,3,3,0,0,0,0,0,0,0,0,0,0,0,3,3
+0,_Jackson,_09 - Campbell Station,_09 - Campbell Station,60,14,0,0,1,0,0,0,0,0,0,0,0,60,11
+0,_Jackson,_11 - Crossroads -37,_11 - Crossroads -37,183,14,2,0,1,0,0,0,0,0,0,0,0,181,18
+0,_Jackson,_12 - Denmark,_12 - Denmark,54,15,0,0,1,2,0,0,0,0,0,0,0,53,19
+0,_Jackson,_14 - Diaz,_14 - Diaz,272,128,1,1,1,0,0,0,0,0,0,0,0,282,108
+0,_Jackson,_15 - Gourdneck - Citizenship,_15 - Gourdneck - Citizenship,33,2,1,0,0,0,0,0,0,0,0,0,0,32,5
+0,_Jackson,_16 - Greenhaw,_16 - Greenhaw,24,3,1,0,1,0,0,0,0,0,0,0,0,27,2
+0,_Jackson,_17 - Grubbs,_17 - Grubbs,139,25,0,0,1,0,1,0,0,0,0,0,0,141,24
+0,_Jackson,_18 - Hickory Grove,_18 - Hickory Grove,37,8,0,0,0,0,0,0,0,0,0,0,0,38,6
+0,_Jackson,_19 - Horseshoe,_19 - Horseshoe,14,3,0,0,0,0,0,0,0,0,0,0,0,15,2
+0,_Jackson,_20 - Ingleside,_20 - Ingleside,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+0,_Jackson,_21 - Island,_21 - Island,45,6,0,0,0,0,0,0,1,0,0,0,0,48,3
+0,_Jackson,_22 - Jacksonport,_22 - Jacksonport,52,15,2,0,0,0,0,0,0,0,0,0,0,51,11
+0,_Jackson,_24 - Liberty,_24 - Liberty,53,5,0,0,0,0,0,0,0,0,0,0,0,52,6
+0,_Jackson,_25 - Macks,_25 - Macks,6,3,1,0,0,0,0,0,1,0,0,0,0,9,2
+0,_Jackson,_26 - New Glaise,_26 - New Glaise,251,32,1,0,1,0,1,0,2,0,1,0,1,253,36
+0,_Jackson,_28 - Newport Ward 2-A,_28 - Newport Ward 2-A,47,44,0,0,0,0,0,1,1,0,0,0,0,50,39
+0,_Jackson,_30 - Newport Ward 1-B,_30 - Newport Ward 1-B,31,110,0,1,0,0,0,0,2,1,0,0,0,47,82
+0,_Jackson,_31 - Newport Ward 1-A,_31 - Newport Ward 1-A,12,53,1,0,0,0,0,2,2,0,0,1,0,19,40
+0,_Jackson,_33 - Newport Ward 3-A,_33 - Newport Ward 3-A,34,29,0,0,1,0,0,0,0,0,0,0,0,38,18
+0,_Jackson,_34 - Newport Ward 3-B,_34 - Newport Ward 3-B,67,40,1,0,0,0,0,0,0,0,0,0,0,70,34
+0,_Jackson,_35 - Newport Ward 3-C,_35 - Newport Ward 3-C,29,58,1,1,1,0,0,0,1,0,0,1,0,36,48
+0,_Jackson,_36 - Newport Ward 2-C,_36 - Newport Ward 2-C,192,69,1,0,1,3,0,1,1,1,0,0,1,195,64
+0,_Jackson,_37 - Newport Ward 2-B,_37 - Newport Ward 2-B,141,93,3,0,2,2,0,0,4,1,0,0,0,152,86
+0,_Jackson,_38 - Newport Ward 4-A,_38 - Newport Ward 4-A,312,84,4,0,0,1,0,0,1,2,0,0,0,316,74
+0,_Jackson,_39 - Newport Ward 4-B,_39 - Newport Ward 4-B,249,97,4,0,4,0,0,0,1,0,0,0,0,259,76
+0,_Jackson,_40 - Old Glaise,_40 - Old Glaise,24,1,0,0,0,0,0,0,0,0,0,0,0,24,1
+0,_Jackson,_41 - Olyphant,_41 - Olyphant,2,1,0,0,0,0,0,0,0,0,0,0,0,2,1
+0,_Jackson,_42 - Penninghton Balch,_42 - Penninghton Balch,51,11,0,0,0,0,0,0,0,0,0,0,0,51,10
+0,_Jackson,_43 - Remmel,_43 - Remmel,57,13,0,0,0,0,0,0,0,0,0,0,0,59,11
+0,_Jackson,_44 - Shoffner,_44 - Shoffner,7,2,0,0,0,0,1,1,0,0,0,0,0,7,4
+0,_Jackson,_45 - Swifton,_45 - Swifton,267,82,3,1,1,0,2,0,2,1,1,0,0,276,77
+0,_Jackson,_46 - Tuckerman Ward 1,_46 - Tuckerman Ward 1,123,42,1,0,0,0,0,0,1,1,0,0,0,136,28
+0,_Jackson,_47 - Tuckerman Ward 2,_47 - Tuckerman Ward 2,218,58,4,1,0,0,0,0,0,0,0,0,2,233,44
+0,_Jackson,_48 - Tuckerman Ward 3,_48 - Tuckerman Ward 3,124,55,3,0,0,0,1,0,1,1,0,0,2,127,56
+0,_Jackson,_49 - Tuckerman Outside,_49 - Tuckerman Outside,64,27,0,0,1,0,0,0,1,0,0,0,0,70,20
+0,_Jackson,_50 - Tupelo,_50 - Tupelo,40,8,1,0,0,0,0,0,0,0,0,0,0,39,10
+0,_Jackson,_51 - Waters Store,_51 - Waters Store,51,6,0,0,0,0,1,0,0,0,0,0,0,51,6
+0,_Jackson,_52 - Weldon,_52 - Weldon,23,3,0,0,0,0,1,0,0,0,0,0,0,21,6
+0,_Jefferson,_0001,_0001,71,18,0,0,1,0,0,0,0,0,0,0,0,72,17
+0,_Jefferson,_0002,_0002,8,86,1,0,0,1,0,1,2,1,0,1,1,23,60
+0,_Jefferson,_0003,_0003,16,2,0,0,0,0,0,0,0,0,0,0,0,16,2
+0,_Jefferson,_0004,_0004,28,38,0,0,1,0,0,0,0,0,0,0,0,34,26
+0,_Jefferson,_0005,_0005,45,16,1,0,0,0,0,0,0,0,0,0,0,51,11
+0,_Jefferson,_0007,_0007,12,19,0,0,0,0,0,0,0,0,0,0,0,12,14
+0,_Jefferson,_0008,_0008,11,3,0,0,0,0,0,0,0,0,0,0,0,11,3
+0,_Jefferson,_0009,_0009,19,2,0,0,0,0,0,0,0,0,0,0,0,20,1
+0,_Jefferson,_0010,_0010,19,5,0,0,0,0,0,0,0,0,0,0,0,17,7
+0,_Jefferson,_0011,_0011,30,18,0,0,0,0,0,0,0,0,0,0,0,31,15
+0,_Jefferson,_0026,_0026,36,75,0,0,0,0,0,1,0,0,0,0,0,39,70
+0,_Jefferson,_0027,_0027,33,12,0,0,0,0,0,0,0,0,0,0,0,34,11
+0,_Jefferson,_0028,_0028,81,130,0,0,0,0,0,0,0,0,0,1,0,94,108
+0,_Jefferson,_0029,_0029,41,50,0,0,0,0,0,0,0,0,0,0,1,45,40
+0,_Jefferson,_0030,_0030,0,8,0,0,0,0,0,0,0,0,0,0,0,0,7
+0,_Jefferson,_0031,_0031,24,51,0,0,0,0,0,0,0,0,0,1,0,26,45
+0,_Jefferson,_0032,_0032,0,3,0,0,0,0,0,0,0,0,0,0,0,1,1
+0,_Jefferson,_0033,_0033,7,4,0,0,0,0,0,0,0,0,0,1,1,8,4
+0,_Jefferson,_0034,_0034,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+0,_Jefferson,_0036,_0036,12,4,0,0,0,0,0,0,0,0,0,0,0,12,4
+0,_Jefferson,_0037,_0037,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_0040,_0040,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_0041,_0041,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_0045,_0045,37,9,0,0,0,0,0,0,0,0,0,0,0,37,9
+0,_Jefferson,_0050,_0050,426,336,3,0,1,0,1,1,3,3,2,3,0,459,293
+0,_Jefferson,_0051,_0051,324,107,1,0,1,0,1,1,0,0,0,0,1,336,95
+0,_Jefferson,_0053,_0053,37,11,0,0,0,0,0,0,0,0,0,0,0,40,7
+0,_Jefferson,_0054,_0054,566,175,8,2,0,0,1,0,6,1,0,1,1,595,161
+0,_Jefferson,_0055,_0055,129,33,0,0,0,0,0,0,0,0,0,0,0,135,25
+0,_Jefferson,_0056,_0056,64,37,0,0,0,0,0,0,0,0,1,0,1,70,31
+0,_Jefferson,_0057,_0057,80,35,0,0,0,0,0,1,0,0,0,0,0,77,35
+0,_Jefferson,_0058,_0058,284,136,3,0,0,0,1,0,0,0,0,2,1,292,132
+0,_Jefferson,_0059,_0059,110,123,2,0,2,0,0,0,1,1,0,0,1,119,115
+0,_Jefferson,_0060,_0060,20,18,0,0,0,0,0,0,0,0,0,0,0,21,17
+0,_Jefferson,_0061,_0061,60,13,0,0,0,0,0,0,0,1,0,0,0,62,12
+0,_Jefferson,_0062,_0062,3,3,0,0,0,0,0,0,0,0,0,0,0,4,2
+0,_Jefferson,_0064,_0064,5,1,0,0,0,0,0,0,0,0,0,0,0,5,1
+0,_Jefferson,_0065,_0065,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_0066,_0066,36,38,0,0,0,0,0,0,0,0,1,0,0,39,34
+0,_Jefferson,_0067,_0067,18,2,0,0,0,1,0,0,0,0,0,0,0,18,3
+0,_Jefferson,_0073,_0073,99,85,2,0,1,0,0,0,1,0,0,0,1,108,76
+0,_Jefferson,_0074,_0074,80,68,0,0,1,0,0,2,1,0,0,1,0,82,68
+0,_Jefferson,_0075,_0075,258,67,0,0,0,0,0,1,0,0,0,0,0,263,52
+0,_Jefferson,_0076,_0076,76,26,0,0,0,0,0,0,2,0,0,0,0,76,28
+0,_Jefferson,_0077,_0077,91,29,0,0,0,0,0,0,0,0,0,0,0,95,25
+0,_Jefferson,_0078,_0078,135,32,0,0,0,0,0,0,1,1,0,0,0,140,25
+0,_Jefferson,_0079,_0079,19,6,0,0,0,0,0,0,0,0,0,0,0,17,8
+0,_Jefferson,_0080,_0080,59,6,1,0,0,0,0,0,0,0,0,0,0,60,6
+0,_Jefferson,_0081,_0081,10,4,0,0,0,0,0,0,0,0,0,0,0,10,4
+0,_Jefferson,_0082,_0082,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_0083,_0083,15,26,0,0,0,0,0,0,1,0,0,0,0,16,25
+0,_Jefferson,_0084,_0084,44,2,0,0,0,0,0,0,2,0,0,0,0,44,4
+0,_Jefferson,_0085,_0085,60,12,0,0,0,0,0,0,0,0,0,0,0,59,13
+0,_Jefferson,_0086,_0086,669,140,2,1,0,1,1,0,2,1,0,2,0,678,131
+0,_Jefferson,_0087,_0087,345,58,5,0,0,0,0,0,0,0,0,0,0,352,53
+0,_Jefferson,_0089,_0089,131,34,5,0,0,0,1,0,1,0,0,2,0,135,37
+0,_Jefferson,_0090,_0090,11,8,0,0,0,1,0,1,0,0,0,0,0,12,6
+0,_Jefferson,_0092,_0092,25,4,0,0,0,0,0,0,0,0,0,0,0,26,2
+0,_Jefferson,_0093,_0093,41,2,0,1,0,0,0,0,0,0,0,1,0,41,3
+0,_Jefferson,_0094,_0094,27,7,0,0,0,0,0,0,0,0,0,0,0,29,3
+0,_Jefferson,_0101,_0101,36,3,2,0,0,0,0,0,0,0,0,0,0,35,6
+0,_Jefferson,_0102,_0102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_0104,_0104,17,95,0,1,0,1,0,2,0,1,0,0,0,31,77
+0,_Jefferson,_0105,_0105,2,17,1,0,0,0,0,0,0,0,0,0,0,3,15
+0,_Jefferson,_0107,_0107,31,347,1,0,0,3,1,2,3,5,1,1,2,86,290
+0,_Jefferson,_0108,_0108,1,14,0,0,0,0,0,0,0,0,0,0,1,5,11
+0,_Jefferson,_0110,_0110,8,175,0,0,1,2,0,3,1,0,0,0,1,29,147
+0,_Jefferson,_0111,_0111,17,93,0,0,0,0,0,1,1,0,0,1,0,30,82
+0,_Jefferson,_0112,_0112,16,237,0,0,0,3,2,2,2,1,0,2,3,31,215
+0,_Jefferson,_0113,_0113,48,306,0,0,0,0,1,2,2,0,1,0,1,98,256
+0,_Jefferson,_0114,_0114,27,336,0,0,0,0,0,3,2,0,0,0,0,73,276
+0,_Jefferson,_0115,_0115,3,89,0,0,0,0,0,0,0,0,1,0,1,18,74
+0,_Jefferson,_0116,_0116,10,128,1,1,0,0,0,1,1,0,1,0,0,25,110
+0,_Jefferson,_0117,_0117,3,138,0,0,0,0,0,3,1,0,0,0,0,18,115
+0,_Jefferson,_0119,_0119,4,38,1,0,0,1,1,0,3,0,0,1,0,14,34
+0,_Jefferson,_0120,_0120,3,68,0,0,0,0,0,0,1,1,1,0,0,14,54
+0,_Jefferson,_0121,_0121,3,64,0,0,0,0,0,0,0,0,1,0,1,11,51
+0,_Jefferson,_0122,_0122,15,265,0,1,0,1,0,2,0,0,1,0,3,49,217
+0,_Jefferson,_0123,_0123,0,19,0,0,0,0,0,0,0,0,0,0,0,0,16
+0,_Jefferson,_0124,_0124,4,61,0,0,0,0,0,1,3,0,0,0,1,12,50
+0,_Jefferson,_0125,_0125,5,3,0,0,0,0,0,0,0,0,0,0,0,5,4
+0,_Jefferson,_0126,_0126,10,224,1,1,1,0,1,1,3,0,0,1,1,34,188
+0,_Jefferson,_0128,_0128,2,5,0,0,0,0,0,0,0,0,0,0,0,2,5
+0,_Jefferson,_0130,_0130,51,76,0,0,0,0,0,0,2,0,0,0,0,58,68
+0,_Jefferson,_0201,_0201,4,174,0,0,2,0,1,2,1,2,1,0,1,27,145
+0,_Jefferson,_0202,_0202,5,94,0,0,0,0,0,0,1,0,0,0,0,8,83
+0,_Jefferson,_0203,_0203,11,135,0,1,0,0,0,0,1,1,0,0,2,29,113
+0,_Jefferson,_0204,_0204,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2
+0,_Jefferson,_0205,_0205,13,94,0,2,0,0,0,2,0,2,0,2,1,21,82
+0,_Jefferson,_0206,_0206,7,56,0,0,0,2,0,0,1,1,1,0,0,14,53
+0,_Jefferson,_0207,_0207,5,26,0,0,0,0,0,0,0,0,0,1,0,8,20
+0,_Jefferson,_0208,_0208,2,31,0,1,0,0,0,0,1,0,0,0,0,7,21
+0,_Jefferson,_0209,_0209,2,28,0,0,0,0,0,0,0,0,0,0,0,5,22
+0,_Jefferson,_0210,_0210,1,17,0,0,0,0,0,0,2,0,0,0,0,3,17
+0,_Jefferson,_0211,_0211,21,227,0,0,0,4,0,2,2,0,0,1,1,46,201
+0,_Jefferson,_0212,_0212,12,71,0,0,0,0,0,0,0,0,0,0,0,17,61
+0,_Jefferson,_0213,_0213,4,52,0,1,0,0,0,1,0,0,0,0,0,8,45
+0,_Jefferson,_0214,_0214,36,271,0,0,0,1,1,1,5,2,1,0,3,76,227
+0,_Jefferson,_0215,_0215,156,445,2,0,0,2,0,0,5,1,1,1,1,212,368
+0,_Jefferson,_0216,_0216,68,169,1,1,0,2,0,2,0,1,2,0,0,87,148
+0,_Jefferson,_0217,_0217,22,68,0,0,0,1,0,0,0,0,0,0,0,29,58
+0,_Jefferson,_0218,_0218,62,475,1,0,0,1,1,1,5,0,0,0,1,122,406
+0,_Jefferson,_0219,_0219,64,51,0,0,0,0,0,0,1,0,0,0,3,81,35
+0,_Jefferson,_0220,_0220,41,315,1,0,0,0,0,2,1,3,2,1,3,72,281
+0,_Jefferson,_0221,_0221,2,3,0,0,0,0,0,0,0,0,0,0,0,2,3
+0,_Jefferson,_0222,_0222,130,566,3,2,0,0,0,1,6,1,0,1,2,191,490
+0,_Jefferson,_0223,_0223,0,6,0,0,0,0,0,0,0,0,0,0,0,3,3
+0,_Jefferson,_0224,_0224,22,153,0,0,0,0,0,0,0,0,0,1,0,34,135
+0,_Jefferson,_0225,_0225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_0227,_0227,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_0301,_0301,7,136,0,1,0,2,0,0,1,0,0,0,0,25,109
+0,_Jefferson,_0302,_0302,1,13,0,0,0,0,0,1,2,0,0,0,0,2,15
+0,_Jefferson,_0303,_0303,0,13,0,0,0,0,0,0,0,0,0,0,1,4,9
+0,_Jefferson,_0304,_0304,8,99,0,0,0,0,0,1,1,2,0,1,0,21,79
+0,_Jefferson,_0306,_0306,0,10,0,0,0,0,0,0,1,0,0,0,0,3,6
+0,_Jefferson,_0307,_0307,3,40,0,0,0,0,0,0,1,0,0,0,1,7,37
+0,_Jefferson,_0308,_0308,4,10,0,0,0,0,0,0,0,0,0,0,0,5,7
+0,_Jefferson,_0309,_0309,45,214,2,0,0,2,1,0,2,0,0,0,0,68,188
+0,_Jefferson,_0310,_0310,13,167,2,0,0,1,0,0,1,1,0,0,3,37,139
+0,_Jefferson,_0311,_0311,3,39,0,0,0,0,0,0,0,0,0,0,0,9,32
+0,_Jefferson,_0312,_0312,9,208,1,0,0,1,1,0,1,0,0,0,4,29,182
+0,_Jefferson,_0313,_0313,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_0314,_0314,48,193,0,1,1,0,0,2,3,0,1,1,1,81,158
+0,_Jefferson,_0315,_0315,15,154,0,0,0,0,0,0,3,0,1,0,0,37,122
+0,_Jefferson,_0316,_0316,21,288,1,0,1,2,0,3,2,1,0,3,3,54,252
+0,_Jefferson,_0317,_0317,15,107,1,0,0,0,0,1,2,0,0,0,1,30,93
+0,_Jefferson,_0318,_0318,0,4,0,0,0,0,0,0,0,0,0,0,0,0,4
+0,_Jefferson,_0319,_0319,14,165,0,0,0,2,0,2,0,1,0,1,0,37,138
+0,_Jefferson,_0320,_0320,9,61,0,0,0,1,0,0,2,1,0,0,0,17,55
+0,_Jefferson,_0321,_0321,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_0322,_0322,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2
+0,_Jefferson,_0323,_0323,2,50,0,0,0,0,0,0,0,0,0,0,0,7,44
+0,_Jefferson,_0324,_0324,192,230,1,1,0,0,1,0,0,2,1,0,0,220,203
+0,_Jefferson,_0325,_0325,5,4,0,0,0,0,0,0,0,0,0,0,0,7,2
+0,_Jefferson,_0326,_0326,39,44,0,0,0,0,0,1,0,0,0,2,2,43,43
+0,_Jefferson,_0327,_0327,44,64,2,0,0,0,0,0,0,2,0,0,0,54,55
+0,_Jefferson,_0328,_0328,20,295,1,0,0,1,0,0,1,2,0,0,0,57,247
+0,_Jefferson,_0329,_0329,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_0330,_0330,139,279,0,2,1,1,0,1,0,0,0,0,2,167,241
+0,_Jefferson,_0331,_0331,77,300,1,1,0,1,1,1,0,0,0,1,0,105,266
+0,_Jefferson,_0332,_0332,0,23,0,0,0,0,0,0,0,0,0,0,0,1,21
+0,_Jefferson,_0401,_0401,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_0403,_0403,61,46,0,0,0,0,0,0,0,0,0,0,1,63,43
+0,_Jefferson,_0404,_0404,29,29,0,0,0,0,0,1,1,0,0,0,0,34,26
+0,_Jefferson,_0405,_0405,10,114,0,0,0,0,0,0,0,0,0,1,0,27,79
+0,_Jefferson,_0406,_0406,247,165,5,0,1,0,1,0,2,1,0,1,1,273,143
+0,_Jefferson,_0407,_0407,66,104,0,0,0,2,0,1,0,1,0,0,0,80,76
+0,_Jefferson,_0408,_0408,43,266,3,1,1,1,0,2,4,1,1,2,2,83,220
+0,_Jefferson,_0409,_0409,5,96,1,0,0,1,0,0,1,0,0,0,0,17,78
+0,_Jefferson,_0410,_0410,3,47,0,0,0,0,0,1,0,1,0,0,0,8,39
+0,_Jefferson,_0412,_0412,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+0,_Jefferson,_0414,_0414,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_0415,_0415,9,17,2,0,0,0,0,0,0,0,0,0,1,7,21
+0,_Jefferson,_0416,_0416,9,240,1,0,0,2,0,2,2,1,0,0,3,35,210
+0,_Jefferson,_0417,_0417,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_0419,_0419,2,14,0,0,0,0,0,0,0,0,0,0,0,7,8
+0,_Jefferson,_0420,_0420,4,85,0,1,0,0,1,0,0,0,0,0,0,9,76
+0,_Jefferson,_0421,_0421,1,48,0,0,0,0,0,1,0,0,0,0,2,5,40
+0,_Jefferson,_0422,_0422,8,123,1,0,2,2,1,0,1,0,0,0,0,19,108
+0,_Jefferson,_0423,_0423,10,296,1,1,0,0,0,1,1,2,0,3,1,45,243
+0,_Jefferson,_0425,_0425,14,6,0,0,0,0,0,0,0,0,0,0,0,13,7
+0,_Jefferson,_0426,_0426,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+0,_Jefferson,_0510,_0510,23,46,0,0,0,1,0,0,0,0,0,0,1,30,36
+0,_Jefferson,_0530,_0530,26,5,0,0,1,0,0,0,0,0,0,0,0,26,6
+0,_Jefferson,_0900,_0900,12,104,0,0,0,2,0,2,0,0,0,0,0,28,64
+0,_Jefferson,_0950,_0950,11,21,0,0,0,0,0,0,0,0,0,0,0,14,15
+0,_Jefferson,_103X,_103X,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_106,_106,7,52,1,0,0,1,0,0,0,1,0,0,0,13,44
+0,_Jefferson,_109,_109,4,98,0,0,0,0,0,1,1,0,0,0,1,15,81
+0,_Jefferson,_226X,_226X,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_413X,_413X,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_418X,_418X,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_424X,_424X,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_610-1,_610-1,7,120,1,0,0,0,0,1,1,1,0,1,0,27,93
+0,_Jefferson,_620-1,_620-1,22,142,0,0,0,2,0,1,5,0,0,1,0,48,108
+0,_Jefferson,_711-1,_711-1,236,110,4,0,1,0,0,0,2,1,0,0,1,251,96
+0,_Jefferson,_712-1,_712-1,190,43,1,0,0,0,0,0,0,0,0,0,0,193,38
+0,_Jefferson,_713-1,_713-1,235,40,1,0,0,0,0,0,0,0,0,0,1,236,38
+0,_Jefferson,_714-1,_714-1,4,1,0,0,0,0,0,0,0,0,0,0,0,4,2
+0,_Jefferson,_721-1,_721-1,490,291,4,0,3,2,1,0,2,2,0,0,1,520,261
+0,_Jefferson,_731-1,_731-1,243,115,6,0,0,0,0,0,2,1,0,0,0,259,108
+0,_Jefferson,_732-1,_732-1,248,80,5,0,0,0,0,0,1,1,1,1,0,259,72
+0,_Jefferson,_733-1,_733-1,126,46,2,0,0,1,0,0,0,0,2,0,0,126,50
+0,_Jefferson,_810-1,_810-1,185,112,3,0,0,0,0,0,1,2,0,0,0,203,98
+0,_Jefferson,_820-1,_820-1,180,46,1,1,0,0,0,0,0,0,0,0,1,187,40
+0,_Jefferson,_830-1,_830-1,122,33,2,0,0,0,0,0,2,1,1,0,0,120,37
+0,_Jefferson,_88X,_88X,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Jefferson,_91X,_91X,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Johnson,_BATSON,_BATSON,88,6,0,0,1,2,0,0,0,1,0,0,0,84,14
+0,_Johnson,_DICKERSON-HILL,_DICKERSON-HILL,48,11,0,0,0,0,0,0,1,0,0,0,0,46,12
+0,_Johnson,_GRANT,_GRANT,276,78,6,0,0,0,0,0,2,2,1,1,1,285,72
+0,_Johnson,_HICKEY,_HICKEY,152,23,6,0,0,0,0,0,0,0,2,0,0,144,35
+0,_Johnson,_HORSEHEAD,_HORSEHEAD,258,79,3,0,1,0,1,1,0,0,0,0,0,256,82
+0,_Johnson,_HOWELL,_HOWELL,423,108,3,3,0,1,0,0,2,3,0,0,1,415,122
+0,_Johnson,_KING,_KING,423,106,4,0,1,0,0,0,1,2,0,1,2,419,117
+0,_Johnson,_LEE,_LEE,129,22,2,0,1,0,0,0,1,2,0,0,1,132,25
+0,_Johnson,_LOWGAP,_LOWGAP,35,4,0,0,0,0,0,0,0,0,0,0,0,32,4
+0,_Johnson,_MCKENNON,_MCKENNON,258,48,3,0,1,0,0,0,1,1,2,1,0,257,56
+0,_Johnson,_MULBERRY,_MULBERRY,32,10,1,0,0,0,0,0,0,0,0,0,0,34,8
+0,_Johnson,_PERRY,_PERRY,287,67,1,1,0,0,0,0,1,2,1,1,1,294,67
+0,_Johnson,_PITTSBURG,_PITTSBURG,719,144,10,3,3,0,0,1,5,1,0,0,1,716,161
+0,_Johnson,_PRAIRIE,_PRAIRIE,163,35,2,3,1,0,0,0,2,0,1,0,0,161,41
+0,_Johnson,_REDLICK,_REDLICK,501,95,1,1,1,0,1,0,2,1,1,0,1,501,101
+0,_Johnson,_SHERMAN,_SHERMAN,134,34,1,0,1,0,0,0,1,0,1,0,0,136,35
+0,_Johnson,_SPADRA WARD 1,_SPADRA WARD 1,971,615,17,5,2,5,0,3,5,3,4,1,3,1048,567
+0,_Johnson,_SPADRA WARD 2,_SPADRA WARD 2,428,221,10,2,1,1,0,3,2,4,3,0,2,449,220
+0,_Johnson,_SPADRA WARD 3,_SPADRA WARD 3,656,289,10,3,4,1,0,2,0,4,5,0,2,667,300
+0,_Johnson,_SPADRA WARD 4,_SPADRA WARD 4,591,203,9,2,2,0,1,1,3,3,2,0,2,603,208
+0,_Johnson,_STONEWALL,_STONEWALL,121,28,3,0,0,1,0,0,0,1,0,0,0,119,35
+0,_Johnson,_WARD,_WARD,245,57,5,2,0,2,0,0,1,1,1,1,0,246,65
+0,_Lafayette,_005 - Lewisville Ward 1,_005 - Lewisville Ward 1,92,179,0,3,1,0,1,5,2,3,1,1,0,116,142
+0,_Lafayette,_010 - Lewisville Ward 2,_010 - Lewisville Ward 2,29,33,0,0,0,0,0,0,0,0,0,0,1,33,29
+0,_Lafayette,_015 - Lewisville Ward 3,_015 - Lewisville Ward 3,6,31,1,0,0,0,0,0,1,0,0,0,0,9,25
+0,_Lafayette,"_020 - Stamps Ward 1, Prec 1","_020 - Stamps Ward 1, Prec 1",45,26,0,0,0,0,0,0,1,0,0,0,0,48,21
+0,_Lafayette,"_025 - Stamps Ward 1, Prec 2","_025 - Stamps Ward 1, Prec 2",17,71,1,0,0,0,0,2,2,2,0,0,1,25,60
+0,_Lafayette,_030 - Stamps Ward 2,_030 - Stamps Ward 2,130,139,0,0,0,0,0,2,3,4,3,0,1,143,120
+0,_Lafayette,_035 - Stamps Ward 3,_035 - Stamps Ward 3,2,14,0,0,0,0,0,0,0,0,0,0,0,4,8
+0,_Lafayette,_040 - Boyd Hill,_040 - Boyd Hill,55,28,0,0,1,0,0,0,0,0,0,0,0,53,27
+0,_Lafayette,_045 - Bradley City,_045 - Bradley City,71,65,2,0,1,0,0,3,5,2,1,0,0,82,53
+0,_Lafayette,_050 - Buckner City,_050 - Buckner City,45,39,0,0,1,0,1,0,2,0,1,0,0,52,31
+0,_Lafayette,_055 - Canfield,_055 - Canfield,22,22,1,1,0,0,0,0,0,0,1,0,0,24,20
+0,_Lafayette,_060 - Center,_060 - Center,269,29,0,0,0,0,0,0,1,1,0,0,0,266,27
+0,_Lafayette,_065 - Gin City,_065 - Gin City,110,33,0,0,0,0,1,0,1,0,0,0,1,109,31
+0,_Lafayette,_070 - Mars Hill,_070 - Mars Hill,50,8,1,0,0,0,0,0,0,0,0,0,0,50,7
+0,_Lafayette,_075 - Oak Grove,_075 - Oak Grove,28,1,0,0,0,0,0,0,0,0,0,0,0,27,2
+0,_Lafayette,_080 - Piney Grove,_080 - Piney Grove,110,16,0,0,0,0,0,0,0,0,0,0,1,110,13
+0,_Lafayette,_085 - Red River,_085 - Red River,42,30,0,0,0,0,0,0,1,0,0,0,0,45,23
+0,_Lafayette,_090 - Sardis,_090 - Sardis,88,5,0,0,0,0,0,0,0,0,0,0,0,88,5
+0,_Lafayette,_095 - State Line,_095 - State Line,134,22,0,0,0,0,0,0,0,0,0,0,0,137,17
+0,_Lafayette,_100 - Walker Creek,_100 - Walker Creek,238,12,0,0,0,0,0,0,0,1,0,0,0,235,13
+0,_Lafayette,_105 - Lewisville Out,_105 - Lewisville Out,55,13,0,1,0,0,0,0,2,0,0,0,0,61,9
+0,_Lafayette,_110 - Stamps W1 P2 Out,_110 - Stamps W1 P2 Out,55,6,2,0,0,0,0,0,0,0,0,0,0,54,8
+0,_Lafayette,_115 - Stamps W2 Out,_115 - Stamps W2 Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Lafayette,_120 - Buckner Out,_120 - Buckner Out,3,2,0,0,0,0,0,0,0,0,0,0,0,3,2
+0,_Lafayette,_125 - Bradley Out,_125 - Bradley Out,61,15,1,0,2,0,0,0,1,0,0,0,0,62,15
+0,_Lawrence,_01 - Annieville,_01 - Annieville,132,14,1,0,0,0,2,0,0,2,0,0,0,140,11
+0,_Lawrence,_02 - Ashland,_02 - Ashland,60,15,2,0,0,0,1,0,0,0,0,0,0,66,13
+0,_Lawrence,_03 - Black River,_03 - Black River,177,38,1,0,0,1,0,0,0,4,1,0,1,181,38
+0,_Lawrence,_04 - Black Rock,_04 - Black Rock,346,65,3,1,6,0,0,0,0,3,1,0,0,366,55
+0,_Lawrence,_05 - Boas #1,_05 - Boas #1,235,70,1,2,4,2,0,0,1,0,2,0,0,244,70
+0,_Lawrence,_06 - Boas #2,_06 - Boas #2,190,46,2,0,1,0,0,0,1,6,1,1,0,199,45
+0,_Lawrence,_07 - Boas #3,_07 - Boas #3,192,42,1,1,1,0,1,1,0,3,1,0,0,201,39
+0,_Lawrence,_08 - Cache,_08 - Cache,42,5,0,0,1,0,0,0,0,0,0,0,0,43,5
+0,_Lawrence,_09 - Campbell #1,_09 - Campbell #1,415,129,7,1,2,1,1,0,3,3,1,1,1,435,120
+0,_Lawrence,_10 - Campbell #2,_10 - Campbell #2,401,111,4,0,7,1,0,0,2,6,1,0,1,425,99
+0,_Lawrence,_11 - Campbell #3,_11 - Campbell #3,243,83,7,1,0,1,0,0,1,2,0,0,0,254,82
+0,_Lawrence,_12 - Campbell #4,_12 - Campbell #4,422,121,6,1,2,0,0,0,5,7,2,0,0,442,111
+0,_Lawrence,_13 - Dent,_13 - Dent,314,52,4,0,3,0,0,0,0,4,0,1,0,317,58
+0,_Lawrence,_14 - Dowell,_14 - Dowell,42,15,0,0,1,0,0,1,0,1,0,0,0,49,12
+0,_Lawrence,_15 - Duty,_15 - Duty,106,42,2,0,6,1,1,0,2,1,0,0,0,124,33
+0,_Lawrence,_16 - Eaton,_16 - Eaton,98,12,2,0,0,0,1,0,0,0,0,0,0,103,11
+0,_Lawrence,_17 - Flat Creek,_17 - Flat Creek,43,9,0,0,0,0,0,0,0,0,0,0,0,42,9
+0,_Lawrence,_18 - Jesup,_18 - Jesup,49,3,0,0,0,1,0,0,0,1,0,0,0,49,3
+0,_Lawrence,_19 - Lawrence,_19 - Lawrence,51,10,0,0,2,0,0,0,0,0,1,0,0,51,12
+0,_Lawrence,_20 - Marion,_20 - Marion,57,15,2,0,0,0,0,0,0,0,0,0,0,61,13
+0,_Lawrence,_21 - Morgan,_21 - Morgan,190,33,1,0,1,0,0,0,0,0,0,0,0,194,29
+0,_Lawrence,_22 - Promised Land,_22 - Promised Land,103,26,2,0,1,0,1,0,0,1,1,0,0,110,23
+0,_Lawrence,_23 - Reeds Creek Saffell,_23 - Reeds Creek Saffell,119,10,1,0,1,0,0,0,0,0,0,0,0,120,9
+0,_Lawrence,_24 - Reeds Creek Strawberry,_24 - Reeds Creek Strawberry,149,30,0,0,3,0,0,0,0,2,0,0,0,153,23
+0,_Lawrence,_25 - Richwoods,_25 - Richwoods,40,9,0,0,0,0,0,0,0,0,0,0,0,40,9
+0,_Lawrence,_26 - Spring River,_26 - Spring River,103,29,1,1,0,1,1,0,0,0,0,0,0,108,26
+0,_Lawrence,_27 - Strawberry,_27 - Strawberry,148,21,2,0,2,0,0,0,1,2,0,0,0,147,23
+0,_Lawrence,_28 - Thacker,_28 - Thacker,102,25,0,0,1,0,0,0,0,1,0,0,0,104,22
+0,_Lee,_Precinct 1,_Precinct 1,252,91,2,1,2,0,0,0,3,0,0,1,1,255,71
+0,_Lee,_Precinct 2,_Precinct 2,194,161,0,0,1,1,0,2,0,3,0,0,0,205,121
+0,_Lee,_Precinct 3,_Precinct 3,141,201,0,1,2,0,2,5,2,2,1,3,2,165,152
+0,_Lee,_Precinct 4,_Precinct 4,184,90,0,1,1,0,0,0,0,2,0,2,2,187,71
+0,_Lee,_Precinct 5,_Precinct 5,201,80,0,0,0,0,0,1,0,2,0,2,0,198,61
+0,_Lee,_Precinct 6,_Precinct 6,62,260,2,1,3,4,0,1,3,6,3,4,0,86,207
+0,_Lee,_Precinct 7,_Precinct 7,163,190,3,2,1,2,2,8,3,1,3,3,0,179,171
+0,_Lee,_Precinct 8,_Precinct 8,80,187,1,1,3,0,0,4,3,0,1,4,0,113,144
+0,_Lee,_Precinct 9,_Precinct 9,9,163,0,0,1,1,1,5,1,2,0,5,1,22,137
+0,_Lincoln,_001 - Auburn,_001 - Auburn,23,3,0,0,0,0,0,0,0,0,0,0,0,24,2
+0,_Lincoln,_002 - Tarry,_002 - Tarry,13,38,0,2,1,1,0,1,0,1,0,0,0,21,33
+0,_Lincoln,_003 - Yorktown,_003 - Yorktown,46,110,1,3,0,0,1,1,2,3,0,0,0,61,96
+0,_Lincoln,_004 - Cane Creek 1,_004 - Cane Creek 1,520,54,0,1,0,0,0,1,1,2,0,0,0,524,54
+0,_Lincoln,_005 - Cane Creek 2,_005 - Cane Creek 2,123,13,0,0,0,0,0,1,0,1,0,1,0,129,9
+0,_Lincoln,_006 - Choctaw,_006 - Choctaw,26,36,0,0,0,0,0,0,0,0,0,0,0,35,27
+0,_Lincoln,_007 - Kimbrough,_007 - Kimbrough,9,17,0,0,0,0,0,0,1,0,0,0,0,12,14
+0,_Lincoln,_008 - Lone Pine / Garnett,_008 - Lone Pine / Garnett,109,7,3,1,0,0,1,0,0,0,0,0,1,111,9
+0,_Lincoln,_009 - Lone Pine / Mt Home,_009 - Lone Pine / Mt Home,119,23,2,3,0,0,0,0,0,1,0,0,1,123,24
+0,_Lincoln,_010 - Mill Creek,_010 - Mill Creek,82,16,0,0,0,0,0,0,0,2,0,0,0,82,17
+0,_Lincoln,_011 - Owen / Glendale,_011 - Owen / Glendale,212,29,0,1,0,0,0,0,0,0,0,0,0,219,22
+0,_Lincoln,_012 - Owen / Palmyra,_012 - Owen / Palmyra,160,26,1,0,0,0,0,1,0,2,0,1,0,168,22
+0,_Lincoln,_013 - Smith,_013 - Smith,85,6,0,0,0,0,0,1,0,1,1,1,0,88,6
+0,_Lincoln,_014 - Spring 1,_014 - Spring 1,202,25,1,0,0,0,0,0,0,0,0,0,0,205,24
+0,_Lincoln,_015 - Spring 2,_015 - Spring 2,27,47,0,0,0,0,0,0,0,1,1,0,0,36,38
+0,_Lincoln,_016 -SE Lincoln Co FD,_016 -SE Lincoln Co FD,69,5,1,0,0,0,0,1,0,0,0,0,0,71,5
+0,_Lincoln,_017 -Wells Bayou,_017 -Wells Bayou,73,9,2,0,0,0,0,0,1,0,0,0,0,72,13
+0,_Lincoln,_018 - Gould,_018 - Gould,36,20,0,0,1,0,0,1,0,0,0,1,0,38,18
+0,_Lincoln,_019 -Gould City W1,_019 -Gould City W1,17,97,0,4,0,0,0,2,1,1,0,0,0,29,80
+0,_Lincoln,_020 - Gould City W2,_020 - Gould City W2,5,81,0,1,1,0,0,0,0,1,0,0,0,11,75
+0,_Lincoln,_021 - Gould City W3,_021 - Gould City W3,16,67,2,0,0,0,1,2,3,2,0,0,0,27,58
+0,_Lincoln,_022 - Grady City W1 & W2,_022 - Grady City W1 & W2,31,110,0,1,0,1,0,1,4,0,0,0,1,53,93
+0,_Lincoln,_023 - Star City W1,_023 - Star City W1,173,67,4,0,0,0,0,1,0,0,0,1,1,190,49
+0,_Lincoln,_024 - Star City W2,_024 - Star City W2,136,65,0,1,0,0,0,1,1,2,1,1,0,147,55
+0,_Lincoln,_025 - Star City W3,_025 - Star City W3,264,56,3,2,0,0,0,0,0,1,0,0,0,278,42
+0,_Lincoln,_026 - Cane Creek 3,_026 - Cane Creek 3,153,5,1,0,0,0,1,1,0,0,0,0,0,153,8
+0,_Little River,_Arden Township,_Arden Township,142,32,0,0,4,0,0,1,2,0,0,1,0,145,29
+0,_Little River,_Arkinda Township,_Arkinda Township,17,8,0,0,1,0,1,0,0,0,0,0,0,16,9
+0,_Little River,_Ashdown Ward 1,_Ashdown Ward 1,563,180,5,0,6,0,5,1,1,1,2,1,0,587,160
+0,_Little River,_Ashdown Ward 2,_Ashdown Ward 2,189,223,7,1,10,0,5,5,3,1,0,1,0,209,219
+0,_Little River,_Ashdown Ward 3,_Ashdown Ward 3,222,180,2,1,10,0,3,2,3,2,2,4,0,251,158
+0,_Little River,_Burke Township,_Burke Township,108,16,0,0,1,0,0,0,0,0,0,0,0,109,15
+0,_Little River,_Caney Township,_Caney Township,106,19,0,0,1,0,1,0,1,0,0,1,0,107,21
+0,_Little River,_Cleveland Township,_Cleveland Township,241,87,4,0,9,1,2,2,2,4,1,0,0,261,81
+0,_Little River,_Foreman Ward 1,_Foreman Ward 1,38,27,0,0,1,1,1,0,0,0,1,0,0,40,25
+0,_Little River,_Foreman Ward 2,_Foreman Ward 2,118,52,1,0,3,0,0,0,1,0,0,1,0,121,47
+0,_Little River,_Foreman Ward 3,_Foreman Ward 3,119,38,1,1,5,0,3,2,1,0,0,0,0,123,45
+0,_Little River,_Franklin Township,_Franklin Township,383,53,1,0,7,0,2,1,1,1,1,0,0,386,52
+0,_Little River,_Jackson Township,_Jackson Township,283,28,6,0,5,0,0,1,0,0,1,0,0,289,29
+0,_Little River,_Jefferson Township,_Jefferson Township,240,57,3,1,6,0,2,1,0,0,0,0,0,259,44
+0,_Little River,_Jewell Township,_Jewell Township,89,9,2,0,1,0,0,0,0,0,0,0,0,90,11
+0,_Little River,_Johnson Township,_Johnson Township,110,95,3,0,7,0,1,1,1,0,0,3,0,118,86
+0,_Little River,_Lick Creek Township,_Lick Creek Township,162,16,2,0,1,1,2,0,0,0,0,0,0,169,13
+0,_Little River,_Little River Township,_Little River Township,229,10,2,0,0,0,0,0,1,0,0,1,0,229,12
+0,_Little River,_Red River Township,_Red River Township,227,34,1,2,2,0,0,1,0,2,1,0,0,232,34
+0,_Little River,_Wallace / Richland,_Wallace / Richland,129,62,4,1,3,0,1,1,0,0,0,0,1,144,47
+0,_Logan,_100 - Cane Creek,_100 - Cane Creek,173,46,1,1,0,0,0,0,0,0,0,0,0,175,44
+0,_Logan,_101 - Clark Crossroads,_101 - Clark Crossroads,137,34,0,0,0,0,0,1,1,1,0,1,1,144,33
+0,_Logan,_102 - Clark City,_102 - Clark City,126,38,4,0,1,1,1,0,2,1,2,0,0,137,38
+0,_Logan,_103 - Clark Rural,_103 - Clark Rural,106,30,1,0,2,0,0,0,1,1,0,0,0,112,26
+0,_Logan,_104 - Delaware,_104 - Delaware,198,46,3,0,0,0,1,0,1,0,1,0,0,197,54
+0,_Logan,_105 - Driggs,_105 - Driggs,170,18,0,0,2,0,0,0,0,0,1,2,0,173,18
+0,_Logan,_106 - Ellsworth,_106 - Ellsworth,266,37,3,0,1,0,0,0,0,1,1,1,0,264,44
+0,_Logan,_107 - Johnson,_107 - Johnson,90,15,0,0,0,0,1,0,0,1,0,0,0,93,13
+0,_Logan,_108 - Logan,_108 - Logan,147,37,1,0,0,0,0,2,0,2,2,0,0,147,42
+0,_Logan,_109 - Mountain,_109 - Mountain,56,18,1,0,0,0,0,0,0,1,0,0,0,58,17
+0,_Logan,_110 - River City,_110 - River City,60,14,2,0,0,0,0,0,0,0,0,1,0,60,16
+0,_Logan,_111 - River Rural,_111 - River Rural,107,40,0,1,1,0,0,0,1,1,0,1,0,110,41
+0,_Logan,_113 - Shoal Creek,_113 - Shoal Creek,257,52,3,0,1,0,1,0,0,2,0,1,0,259,56
+0,_Logan,_114 - Short Mtn WD 1,_114 - Short Mtn WD 1,334,133,9,3,1,3,0,0,2,5,1,0,2,349,135
+0,_Logan,_115 - Short Mtn WD 2,_115 - Short Mtn WD 2,286,77,5,3,0,0,1,0,1,0,1,1,0,303,68
+0,_Logan,_116 - Short Mtn WD 3,_116 - Short Mtn WD 3,232,64,4,1,1,0,1,1,0,0,1,0,0,233,69
+0,_Logan,_117 - Short Mtn WD 4,_117 - Short Mtn WD 4,454,127,5,0,3,1,0,1,3,3,2,1,0,461,139
+0,_Logan,_118 - Caulksville City,_118 - Caulksville City,85,14,0,0,0,0,0,0,3,3,0,0,0,84,22
+0,_Logan,_119 - Caulksville Rural,_119 - Caulksville Rural,144,37,5,1,0,1,0,0,1,0,0,0,0,150,40
+0,_Logan,_120 - Ratcliff City,_120 - Ratcliff City,55,12,1,0,0,1,0,0,0,0,0,0,0,54,14
+0,_Logan,_121 - Ratcliff Rural,_121 - Ratcliff Rural,50,28,0,0,0,0,0,0,0,0,0,0,0,52,25
+0,_Logan,_122 - Morrison Bluff,_122 - Morrison Bluff,29,11,0,0,0,0,0,0,0,0,0,0,0,25,13
+0,_Logan,_132 - Blue Mountain City,_132 - Blue Mountain City,29,3,0,0,0,0,0,0,0,0,0,0,0,28,4
+0,_Logan,_133 - Blue Mountain Rural,_133 - Blue Mountain Rural,25,6,0,0,0,0,0,0,0,0,0,0,0,25,6
+0,_Logan,_134 - Boone WD 1,_134 - Boone WD 1,303,62,6,3,1,0,1,0,1,1,0,0,1,299,77
+0,_Logan,_135 - Boone WD 2,_135 - Boone WD 2,333,72,3,0,1,0,0,0,1,1,1,0,0,333,78
+0,_Logan,_136 - Boone WD 3,_136 - Boone WD 3,329,107,11,0,0,0,1,0,1,1,0,0,0,332,116
+0,_Logan,_137 - Boone WD 4,_137 - Boone WD 4,533,100,4,0,4,0,3,1,1,0,0,0,1,524,124
+0,_Logan,_138 - Cauthron,_138 - Cauthron,114,26,0,0,1,0,0,0,1,0,0,1,0,118,25
+0,_Logan,_139 - Petit Jean,_139 - Petit Jean,97,23,1,0,1,0,0,0,0,0,0,0,0,103,19
+0,_Logan,_140 - Reveille City,_140 - Reveille City,211,46,5,0,1,0,0,0,0,0,0,0,0,213,48
+0,_Logan,_141 - Reveille Rural,_141 - Reveille Rural,223,47,1,0,4,0,1,0,2,0,0,1,0,224,52
+0,_Logan,_144 - Sugar Creek,_144 - Sugar Creek,156,32,2,2,0,0,0,0,0,1,0,0,0,156,35
+0,_Logan,_145 - Washburn,_145 - Washburn,294,52,6,0,1,0,1,0,0,1,0,1,0,299,55
+0,_Logan,_146 - Barber,_146 - Barber,130,19,0,1,0,0,1,0,0,0,0,0,0,126,24
+0,_Logan,_147 - Tomlinson,_147 - Tomlinson,102,21,1,0,1,0,0,0,1,0,0,0,0,104,24
+0,_Lonoke,_01 - Allport City,_01 - Allport City,6,39,1,0,1,0,0,0,0,0,0,1,0,9,36
+0,_Lonoke,_02 - Caroline TWP,_02 - Caroline TWP,823,154,16,5,2,0,4,1,1,0,0,3,3,845,165
+0,_Lonoke,_03 - Austin City,_03 - Austin City,1052,249,20,2,2,1,7,1,3,0,2,5,4,1068,272
+0,_Lonoke,_04 - Butler TWP,_04 - Butler TWP,1033,190,7,2,1,0,6,1,1,2,0,10,0,1044,201
+0,_Lonoke,_05 - Cabot City Ward 1,_05 - Cabot City Ward 1,1540,560,42,4,4,2,10,7,7,2,0,10,6,1588,581
+0,_Lonoke,_06 - Cabot City Ward 2,_06 - Cabot City Ward 2,2791,716,44,6,9,1,5,4,6,2,3,7,4,2839,733
+0,_Lonoke,_07 - Cabot City Ward 3,_07 - Cabot City Ward 3,2088,630,55,8,4,3,5,2,8,3,3,7,5,2168,642
+0,_Lonoke,_08 - Cabot City Ward 4,_08 - Cabot City Ward 4,1621,435,26,9,5,2,8,5,9,3,3,6,2,1614,499
+0,_Lonoke,_09 - York TWP,_09 - York TWP,539,148,9,2,3,0,3,2,1,1,0,3,1,559,148
+0,_Lonoke,_10 - Carlisle City Ward 1,_10 - Carlisle City Ward 1,310,80,3,0,1,0,1,0,2,1,1,1,1,312,84
+0,_Lonoke,_11 - Carlisle City Ward 2,_11 - Carlisle City Ward 2,119,93,0,0,0,0,3,0,1,1,0,1,1,125,87
+0,_Lonoke,_12 - Carlisle City Ward 3,_12 - Carlisle City Ward 3,179,59,4,1,0,0,2,0,0,0,1,1,0,191,56
+0,_Lonoke,_13 - Carlisle TWP,_13 - Carlisle TWP,145,17,0,0,0,0,0,1,0,0,0,0,0,144,20
+0,_Lonoke,_14 - Cleveland TWP,_14 - Cleveland TWP,88,20,1,0,0,0,1,0,1,0,0,0,0,92,19
+0,_Lonoke,_15 - Dortch TWP,_15 - Dortch TWP,49,19,3,0,0,0,1,0,0,0,0,1,0,51,17
+0,_Lonoke,_16 - Eagle TWP,_16 - Eagle TWP,862,139,13,2,2,0,1,0,2,2,2,2,4,879,148
+0,_Lonoke,_17 - England City Ward 1,_17 - England City Ward 1,231,61,2,0,2,1,4,0,1,1,0,2,4,247,58
+0,_Lonoke,_18 - England City Ward 2,_18 - England City Ward 2,137,53,3,1,4,0,4,0,0,1,3,4,1,149,59
+0,_Lonoke,_19 - England City Ward 3,_19 - England City Ward 3,43,187,1,3,1,1,5,0,2,3,2,3,4,65,182
+0,_Lonoke,_20 - England City Ward 4,_20 - England City Ward 4,79,59,0,0,1,0,1,0,1,0,0,2,3,90,53
+0,_Lonoke,_21 - Fletcher TWP,_21 - Fletcher TWP,63,8,0,0,0,0,0,0,1,1,0,0,0,61,10
+0,_Lonoke,_22 - Furlow TWP,_22 - Furlow TWP,264,116,5,1,1,1,6,0,1,1,0,1,3,286,113
+0,_Lonoke,_23 - Goodrum TWP,_23 - Goodrum TWP,1040,204,9,1,1,1,4,2,2,4,0,3,5,1070,199
+0,_Lonoke,_24 - Gray TWP,_24 - Gray TWP,864,315,12,2,1,1,7,2,2,4,3,14,4,905,307
+0,_Lonoke,_25 - Gumwood TWP,_25 - Gumwood TWP,69,13,1,1,0,0,0,0,0,0,1,2,1,73,13
+0,_Lonoke,_26 - Hamilton TWP,_26 - Hamilton TWP,47,0,0,0,0,0,0,0,0,0,0,0,0,46,1
+0,_Lonoke,_27 - Crooked Creek TWP,_27 - Crooked Creek TWP,95,11,1,0,0,0,1,1,0,2,0,1,0,98,12
+0,_Lonoke,_28 - Humnoke City,_28 - Humnoke City,102,7,1,0,0,0,1,0,0,0,0,2,1,103,10
+0,_Lonoke,_29 - Indian Bayou TWP,_29 - Indian Bayou TWP,49,7,0,0,0,0,0,0,0,0,0,0,0,50,6
+0,_Lonoke,_30 - Coy City,_30 - Coy City,28,7,0,0,0,0,0,0,0,0,0,0,0,26,8
+0,_Lonoke,_31 - Isbell TWP,_31 - Isbell TWP,55,3,0,0,0,0,0,0,0,0,0,2,0,56,4
+0,_Lonoke,_32 - Lafayette TWP,_32 - Lafayette TWP,9,2,0,0,0,0,0,0,0,0,0,0,0,10,1
+0,_Lonoke,_33 - Keo City,_33 - Keo City,89,33,1,0,1,0,0,0,0,0,0,1,0,93,29
+0,_Lonoke,_34 - Lonoke City Ward 1,_34 - Lonoke City Ward 1,206,96,2,3,1,0,2,1,0,0,0,0,5,216,88
+0,_Lonoke,_35 - Lonoke City Ward 2,_35 - Lonoke City Ward 2,124,40,1,0,0,0,1,0,0,1,1,0,0,129,38
+0,_Lonoke,_36 - Lonoke City Ward 3,_36 - Lonoke City Ward 3,76,70,1,0,0,0,1,0,1,0,0,2,0,85,63
+0,_Lonoke,_37 - Lonoke City Ward 4,_37 - Lonoke City Ward 4,149,66,2,0,1,1,1,0,0,0,1,1,1,154,66
+0,_Lonoke,_38 - Lonoke TWP,_38 - Lonoke TWP,306,90,1,1,1,0,2,0,1,2,0,3,2,320,81
+0,_Lonoke,_39 - Magness TWP,_39 - Magness TWP,841,168,17,1,2,1,1,1,3,1,0,4,4,845,196
+0,_Lonoke,_40 - Oak Grove TWP,_40 - Oak Grove TWP,1666,324,27,5,4,0,4,2,2,1,3,2,1,1672,362
+0,_Lonoke,_41 - Pettus TWp,_41 - Pettus TWp,39,13,0,0,0,0,0,0,0,0,1,0,1,40,13
+0,_Lonoke,_42 - Prairie TWP,_42 - Prairie TWP,199,34,1,0,0,0,0,0,1,1,0,1,0,202,34
+0,_Lonoke,_43 - Pulaski TWP,_43 - Pulaski TWP,44,148,1,0,1,0,2,0,1,1,0,1,0,50,142
+0,_Lonoke,_44 - Richwood TWP,_44 - Richwood TWP,32,14,0,0,0,0,0,0,0,0,0,0,0,33,12
+0,_Lonoke,_45 - Totten TWP,_45 - Totten TWP,133,23,3,0,1,0,0,0,1,0,1,1,0,137,23
+0,_Lonoke,_46 - Walls TWP,_46 - Walls TWP,10,7,0,0,0,0,0,0,0,0,0,0,0,13,4
+0,_Lonoke,_47 - Ward City Ward 1,_47 - Ward City Ward 1,377,91,8,1,1,0,1,2,1,2,1,2,4,393,97
+0,_Lonoke,_48 - Ward City Ward 2,_48 - Ward City Ward 2,432,129,12,1,2,1,2,2,0,1,2,0,0,443,134
+0,_Lonoke,_49 - Ward City Ward 3,_49 - Ward City Ward 3,677,181,21,3,0,0,2,0,0,0,1,2,8,675,214
+0,_Lonoke,_50 - Ward TWP,_50 - Ward TWP,481,77,15,2,1,0,5,0,3,2,0,4,3,492,98
+0,_Lonoke,_51 - Williams TWP,_51 - Williams TWP,179,88,1,1,0,0,0,0,0,1,0,3,1,185,86
+0,_Lonoke,_53 - Lonoke City Ward 5,_53 - Lonoke City Ward 5,63,120,6,1,0,0,4,0,2,0,0,1,3,80,113
+0,_Lonoke,_54 - Lonoke City Ward 6,_54 - Lonoke City Ward 6,29,109,2,3,2,1,4,0,1,0,0,1,4,41,107
+0,_Lonoke,_55 - Lonoke City Ward 7,_55 - Lonoke City Ward 7,126,80,1,0,0,0,0,0,0,0,0,0,1,131,75
+0,_Lonoke,_56 - Lonoke City Ward 8,_56 - Lonoke City Ward 8,186,84,1,0,0,1,1,0,2,1,0,1,2,212,68
+0,_Madison,_Alabam,_Alabam,794,194,6,2,0,0,1,0,1,4,1,0,1,789,200
+0,_Madison,_Hilburn,_Hilburn,682,208,7,2,0,1,0,1,2,2,0,1,0,659,228
+0,_Madison,_Huntsville Ward 1,_Huntsville Ward 1,126,51,1,0,0,0,0,0,1,0,0,0,0,131,47
+0,_Madison,_Huntsville Ward 2,_Huntsville Ward 2,81,36,1,0,0,0,1,0,1,0,1,0,0,85,31
+0,_Madison,_Huntsville Ward 3,_Huntsville Ward 3,177,55,3,0,0,0,0,0,0,1,0,0,0,169,59
+0,_Madison,_Huntsville Ward 4,_Huntsville Ward 4,143,70,2,1,0,0,0,0,0,0,0,0,0,143,67
+0,_Madison,_Kings River,_Kings River,443,112,2,1,1,0,0,1,0,3,2,0,0,440,118
+0,_Madison,_Lamar,_Lamar,877,245,7,5,0,2,0,1,3,2,1,1,0,886,237
+0,_Madison,_Prairie,_Prairie,1044,274,14,3,1,0,0,0,1,1,1,0,2,1052,264
+0,_Madison,_War Eagle,_War Eagle,1291,318,11,5,1,0,0,1,1,5,2,1,3,1273,331
+0,_Marion,_Precinct 01,_Precinct 01,112,70,1,0,0,0,0,1,0,0,0,0,0,117,66
+0,_Marion,_Precinct 02,_Precinct 02,264,81,1,0,1,0,2,1,0,0,0,1,0,274,66
+0,_Marion,_Precinct 03,_Precinct 03,225,50,1,0,0,0,0,0,0,0,0,1,0,233,40
+0,_Marion,_Precinct 04,_Precinct 04,76,44,1,0,0,0,1,0,0,0,0,0,0,77,44
+0,_Marion,_Precinct 05,_Precinct 05,97,40,0,0,0,0,0,0,0,0,0,0,0,102,34
+0,_Marion,_Precinct 06,_Precinct 06,641,264,13,7,0,3,3,1,3,2,2,1,3,695,232
+0,_Marion,_Precinct 07,_Precinct 07,42,17,0,0,0,0,0,0,0,0,1,1,0,46,15
+0,_Marion,_Precinct 08,_Precinct 08,693,134,8,0,0,0,0,0,0,2,0,3,0,705,121
+0,_Marion,_Precinct 09,_Precinct 09,416,69,1,0,0,0,1,0,0,2,0,1,0,412,69
+0,_Marion,_Precinct 10,_Precinct 10,95,18,0,0,0,0,0,0,0,0,0,0,2,93,18
+0,_Marion,_Precinct 11,_Precinct 11,60,14,1,0,0,0,1,0,0,1,0,0,0,62,15
+0,_Marion,_Precinct 12,_Precinct 12,10,6,1,0,0,0,0,0,0,0,0,0,0,11,6
+0,_Marion,_Precinct 13,_Precinct 13,25,9,0,0,0,0,0,0,0,0,0,0,0,27,7
+0,_Marion,_Precinct 14,_Precinct 14,18,5,0,0,0,1,1,0,0,0,0,0,0,21,3
+0,_Marion,_Precinct 15,_Precinct 15,67,18,1,0,0,0,1,0,0,0,0,0,0,67,18
+0,_Marion,_Precinct 16,_Precinct 16,548,125,11,1,1,0,2,0,0,5,0,3,0,561,121
+0,_Marion,_Precinct 17,_Precinct 17,332,90,7,1,1,0,0,0,1,0,1,2,1,331,94
+0,_Marion,_Precinct 18,_Precinct 18,161,32,1,4,2,0,0,0,0,0,0,1,0,165,34
+0,_Marion,_Precinct 19,_Precinct 19,237,58,0,1,0,1,2,0,0,0,0,2,0,245,52
+0,_Marion,_Precinct 20,_Precinct 20,230,56,0,0,0,0,1,0,0,1,0,0,0,235,47
+0,_Marion,_Precinct 21,_Precinct 21,38,3,0,0,0,0,0,0,0,0,0,0,0,33,5
+0,_Marion,_Precinct 22,_Precinct 22,7,3,0,0,0,0,0,0,0,0,0,0,1,8,3
+0,_Marion,_Precinct 23,_Precinct 23,141,35,4,2,0,0,1,1,1,0,0,1,0,145,37
+0,_Marion,_Precinct 24,_Precinct 24,135,22,1,1,0,1,0,0,0,1,0,0,0,135,22
+0,_Marion,_Precinct 25,_Precinct 25,283,75,3,0,0,0,2,0,0,2,2,3,0,287,78
+0,_Marion,_Precinct 26,_Precinct 26,363,69,5,1,1,0,2,0,1,2,0,2,0,363,72
+0,_Marion,_Precinct 27,_Precinct 27,4,0,0,0,0,0,0,0,0,0,0,0,0,3,1
+0,_Marion,_Precinct 28,_Precinct 28,130,27,2,0,0,1,0,0,0,0,0,2,0,129,32
+0,_Marion,_Precinct 29,_Precinct 29,8,2,0,0,0,0,0,0,0,0,0,0,0,9,1
+0,_Marion,_Precinct 30,_Precinct 30,325,95,2,1,1,0,0,0,1,1,1,3,0,337,89
+0,_Marion,_Precinct 31,_Precinct 31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Miller,_Bright Star,_Bright Star,319,36,0,0,0,0,0,0,0,0,1,0,0,316,38
+0,_Miller,_Central,_Central,663,51,5,0,1,0,1,0,1,3,0,1,0,657,63
+0,_Miller,_College Hill,_College Hill,472,453,7,3,2,0,3,3,4,2,6,1,4,506,381
+0,_Miller,_Doddridge,_Doddridge,323,81,2,0,0,0,1,1,0,1,0,0,0,323,76
+0,_Miller,_Fouke,_Fouke,1350,91,3,1,1,0,1,2,2,0,1,0,1,1338,109
+0,_Miller,_Garland,_Garland,39,60,0,0,0,0,3,0,0,0,1,0,0,45,49
+0,_Miller,_Genoa,_Genoa,908,71,4,0,2,0,0,0,1,1,1,0,0,900,74
+0,_Miller,_Greenwich Village,_Greenwich Village,959,125,7,0,1,1,3,1,2,1,0,2,0,959,125
+0,_Miller,_Hickory St,_Hickory St,596,409,9,3,2,0,4,1,2,3,3,1,4,640,357
+0,_Miller,_Hickory St South,_Hickory St South,479,323,8,5,1,0,0,2,2,1,2,1,1,516,284
+0,_Miller,_Mandeville,_Mandeville,318,132,1,4,0,1,1,0,0,2,2,1,0,327,112
+0,_Miller,_North Heights,_North Heights,816,534,8,2,1,0,1,1,4,6,6,2,2,868,469
+0,_Miller,_Ozan Inghram,_Ozan Inghram,307,287,3,0,0,0,3,0,1,1,3,1,0,324,242
+0,_Miller,_Rondo,_Rondo,656,60,6,1,0,0,1,0,1,2,2,1,1,664,60
+0,_Miller,_Sandflat,_Sandflat,150,212,2,7,1,1,2,1,0,1,4,2,2,165,190
+0,_Miller,_Sugar Hill,_Sugar Hill,1275,479,14,3,1,1,3,2,5,2,2,2,1,1337,420
+0,_Miller,_Trice,_Trice,614,350,7,2,3,2,3,1,1,1,3,0,2,657,297
+0,_Miller,_Union,_Union,1620,170,14,2,3,1,2,0,0,0,1,1,7,1626,167
+0,_Miller,_Washington,_Washington,56,321,1,8,0,0,3,4,2,0,3,1,4,83,265
+0,_Mississippi,_AAMOD Buiding,_AAMOD Buiding,120,759,10,4,2,5,10,1,8,10,7,1,2,201,601
+0,_Mississippi,_ANC Burdette,_ANC Burdette,57,32,1,0,0,0,0,0,0,0,0,0,0,63,22
+0,_Mississippi,_Armorel Planting Co,_Armorel Planting Co,433,61,9,0,0,1,0,1,1,1,2,1,0,437,71
+0,_Mississippi,_Bassett City Hall,_Bassett City Hall,109,37,1,1,0,0,0,0,0,3,1,0,0,117,33
+0,_Mississippi,_Birdsong Fire Station,_Birdsong Fire Station,69,48,1,0,0,0,0,0,0,0,0,0,0,69,42
+0,_Mississippi,_Charles Strong Center,_Charles Strong Center,97,206,0,0,3,1,1,0,1,3,3,1,0,131,152
+0,_Mississippi,_Dell Community Center,_Dell Community Center,359,70,1,0,0,2,2,1,2,0,1,0,0,363,72
+0,_Mississippi,_Dyess Community Center,_Dyess Community Center,135,18,1,1,0,1,1,0,0,0,0,0,0,142,14
+0,_Mississippi,_Etowah Fire Station,_Etowah Fire Station,218,22,3,1,0,0,0,0,0,1,0,0,1,216,29
+0,_Mississippi,_Gosnell Community Center,_Gosnell Community Center,708,225,13,1,3,3,1,0,2,6,3,0,2,713,223
+0,_Mississippi,_Joiner City Hall,_Joiner City Hall,70,98,2,0,0,1,0,0,0,4,1,0,0,79,78
+0,_Mississippi,_Keiser First Baptist Church,_Keiser First Baptist Church,240,46,2,1,0,0,2,0,1,0,2,0,0,247,45
+0,_Mississippi,_Leachville City Hall,_Leachville City Hall,613,107,6,2,2,2,0,0,0,5,5,2,2,627,108
+0,_Mississippi,_Manila Municipal Building,_Manila Municipal Building,1153,157,14,0,1,7,2,0,1,4,4,3,5,1175,159
+0,_Mississippi,_Miss Co Election Center,_Miss Co Election Center,1354,767,24,6,3,4,0,2,5,11,5,0,1,1428,664
+0,_Mississippi,_Osceola Junior High,_Osceola Junior High,907,1124,13,5,10,14,10,4,18,24,12,5,4,1068,901
+0,_Mississippi,_Trinity Baptist Church,_Trinity Baptist Church,351,695,17,2,4,3,4,3,10,10,5,4,1,404,606
+0,_Mississippi,_Wilson Fire Station,_Wilson Fire Station,303,86,2,0,0,0,2,1,0,4,1,1,1,312,78
+0,_Monroe,_Brinkley W1/W2/Twp/Dixon,_Brinkley W1/W2/Twp/Dixon,474,396,2,2,3,0,4,6,1,1,0,7,1,528,343
+0,_Monroe,_Brinkley Ward 3,_Brinkley Ward 3,161,158,0,3,0,0,1,5,1,2,2,4,1,185,140
+0,_Monroe,_Cache/Duncan/Roe/Roc-Roe,_Cache/Duncan/Roe/Roc-Roe,208,49,3,1,1,0,2,1,0,2,2,0,0,215,52
+0,_Monroe,_Clarendon Wards 1-3,_Clarendon Wards 1-3,311,250,7,9,0,0,1,3,7,1,0,2,0,368,195
+0,_Monroe,_Holly Grove,_Holly Grove,11,179,0,11,0,0,4,2,1,0,0,5,0,32,174
+0,_Monroe,_J/C/M/S/Hindman/Raymond,_J/C/M/S/Hindman/Raymond,125,41,0,3,0,0,0,1,0,0,0,1,0,129,33
+0,_Monroe,_Keevil/Cypress Ridge/R/G/F,_Keevil/Cypress Ridge/R/G/F,236,69,0,4,1,1,0,1,0,0,0,1,0,241,64
+0,_Monroe,_Pine Ridge,_Pine Ridge,19,5,0,0,0,0,0,0,0,0,0,0,0,19,5
+0,_Montgomery,_01 - ALAMO,_01 - ALAMO,42,8,1,0,0,0,0,0,0,0,0,0,0,42,7
+0,_Montgomery,_02 - BLACK SPRINGS,_02 - BLACK SPRINGS,193,39,0,0,0,1,0,0,0,1,0,1,2,201,35
+0,_Montgomery,_03 - CADDO GAP,_03 - CADDO GAP,325,46,1,0,0,2,0,0,0,0,0,0,0,327,44
+0,_Montgomery,_04 - CANEY,_04 - CANEY,267,46,1,0,0,1,0,0,1,0,0,0,0,274,37
+0,_Montgomery,_05 - CENTER,_05 - CENTER,446,138,4,0,0,4,1,0,0,0,0,1,2,453,129
+0,_Montgomery,_06 - FANNIE,_06 - FANNIE,62,12,1,0,0,1,0,0,0,0,0,0,0,62,13
+0,_Montgomery,_07 - HOPPER,_07 - HOPPER,85,11,1,0,0,1,0,0,0,0,0,0,0,81,15
+0,_Montgomery,_08 - MOUNT IDA - IN,_08 - MOUNT IDA - IN,270,99,6,2,0,6,1,1,1,1,0,0,2,290,97
+0,_Montgomery,_09 - MOUNT IDA - OUT,_09 - MOUNT IDA - OUT,391,89,2,2,0,0,1,1,0,2,1,1,2,397,90
+0,_Montgomery,_10 - NORMAN - IN,_10 - NORMAN - IN,78,21,4,0,0,4,0,1,1,0,0,0,0,82,24
+0,_Montgomery,_11 - NORMAN - OUT,_11 - NORMAN - OUT,156,46,1,1,0,4,0,0,0,0,0,0,1,168,33
+0,_Montgomery,_12 - ODEN - IN,_12 - ODEN - IN,79,23,0,0,0,0,0,0,0,0,0,0,0,78,24
+0,_Montgomery,_13 - ODEN - OUT,_13 - ODEN - OUT,252,51,1,0,0,2,0,0,1,1,0,0,0,254,52
+0,_Montgomery,_14 - PENCIL BLUFF,_14 - PENCIL BLUFF,146,31,0,0,0,1,0,0,0,1,0,0,0,141,36
+0,_Montgomery,_15 - SIMS,_15 - SIMS,109,35,0,0,0,2,0,0,0,0,0,0,0,108,37
+0,_Montgomery,_16 - WASHITA,_16 - WASHITA,145,36,3,2,2,2,0,0,0,0,0,1,0,158,30
+0,_Nevada,_Bluff City/Rural,_Bluff City/Rural,46,69,0,2,2,0,2,0,0,2,1,0,0,57,62
+0,_Nevada,_Bodcaw City/Rural,_Bodcaw City/Rural,321,47,1,4,8,1,0,0,0,4,0,0,0,333,46
+0,_Nevada,_East Rural,_East Rural,373,64,2,2,5,0,0,0,0,2,0,0,2,377,65
+0,_Nevada,_Emmet City,_Emmet City,108,30,0,1,2,0,1,0,0,2,1,0,0,115,30
+0,_Nevada,_Emmet Rural,_Emmet Rural,49,21,2,1,1,0,0,0,0,1,0,0,0,50,19
+0,_Nevada,_Georgia,_Georgia,85,11,0,1,2,0,0,0,0,0,1,0,0,88,12
+0,_Nevada,_Laneburg,_Laneburg,179,28,0,1,2,0,1,0,0,0,1,0,0,181,29
+0,_Nevada,_Prescott Wards 1-4,_Prescott Wards 1-4,431,513,1,6,12,2,9,0,5,14,3,0,4,511,409
+0,_Nevada,_Rosston City/Rural,_Rosston City/Rural,97,130,0,3,5,0,0,2,0,2,0,0,1,117,108
+0,_Nevada,_West Rural,_West Rural,128,31,1,2,2,0,0,1,0,0,0,0,0,135,29
+0,_Nevada,_West Rural - Missouri Twp,_West Rural - Missouri Twp,173,47,1,1,1,0,1,0,0,0,0,0,1,178,42
+0,_Nevada,_Willisville City/Rural,_Willisville City/Rural,143,85,0,2,4,0,0,0,0,2,0,0,0,150,82
+0,_Newton,_Big Creek,_Big Creek,107,26,1,0,0,0,1,0,2,0,0,0,0,96,29
+0,_Newton,_Boston,_Boston,46,6,0,0,0,0,0,0,0,0,0,0,0,43,9
+0,_Newton,_Dogpatch,_Dogpatch,329,88,1,3,1,0,0,0,1,0,1,2,1,321,97
+0,_Newton,_Grove,_Grove,408,58,0,1,4,0,0,0,1,1,1,1,0,403,62
+0,_Newton,_Hasty,_Hasty,145,6,0,0,0,0,0,0,1,0,1,0,0,144,7
+0,_Newton,_Hickory Grove,_Hickory Grove,40,8,2,1,0,0,0,0,0,0,0,0,0,40,10
+0,_Newton,_Hudson,_Hudson,173,63,0,3,3,1,0,0,1,0,0,0,0,170,69
+0,_Newton,_Jackson,_Jackson,395,111,2,1,4,2,0,0,1,1,1,0,3,396,105
+0,_Newton,_Jefferson,_Jefferson,94,27,3,1,0,0,0,0,1,0,1,1,0,93,33
+0,_Newton,_Lincoln,_Lincoln,104,16,5,0,0,0,0,0,0,0,0,0,0,98,20
+0,_Newton,_Low Gap,_Low Gap,115,37,1,0,0,0,0,0,1,0,0,0,1,110,40
+0,_Newton,_Mt Sherman,_Mt Sherman,127,26,2,0,0,0,1,0,0,0,0,0,1,126,24
+0,_Newton,_Murray,_Murray,23,41,1,0,0,0,0,0,0,0,0,0,0,19,45
+0,_Newton,_Pleasant Hill,_Pleasant Hill,174,44,1,0,0,0,0,0,3,0,1,0,1,177,41
+0,_Newton,_Polk,_Polk,97,18,0,0,0,0,0,0,1,0,0,0,0,95,14
+0,_Newton,_Ponca,_Ponca,297,85,3,0,1,1,0,0,0,1,3,2,1,306,82
+0,_Newton,_Richland,_Richland,137,12,0,0,0,0,0,0,0,0,0,0,0,138,10
+0,_Newton,_Van Buren,_Van Buren,12,2,0,0,0,0,0,0,0,0,0,0,0,12,2
+0,_Newton,_White,_White,369,35,1,1,2,0,0,0,0,1,0,2,0,368,29
+0,_Ouachita,_001-Camden,_001-Camden,555,575,7,10,1,1,1,0,6,7,4,1,1,623,508
+0,_Ouachita,_002-Camden,_002-Camden,119,508,9,16,1,2,2,1,7,9,6,1,2,183,461
+0,_Ouachita,_003-Camden,_003-Camden,116,572,9,10,1,1,5,4,6,8,2,2,2,202,494
+0,_Ouachita,_004-Camden,_004-Camden,694,411,9,3,1,1,2,1,4,3,2,1,2,738,378
+0,_Ouachita,_005-Bearden,_005-Bearden,155,167,1,1,1,1,1,2,2,2,1,0,0,184,131
+0,_Ouachita,_006-Chidester,_006-Chidester,43,62,2,0,1,0,0,1,2,1,1,0,1,45,63
+0,_Ouachita,_007-East Camden,_007-East Camden,163,92,5,1,0,0,0,0,1,1,0,0,0,170,89
+0,_Ouachita,_008-Louann,_008-Louann,31,20,0,0,0,0,0,1,0,0,0,0,0,37,14
+0,_Ouachita,_009-Stephens,_009-Stephens,90,146,3,1,1,1,1,1,1,3,2,0,0,107,130
+0,_Ouachita,_010-County 001,_010-County 001,400,132,0,3,0,1,2,0,0,1,4,2,0,406,127
+0,_Ouachita,_011-County 002,_011-County 002,411,60,4,0,1,1,1,0,1,0,0,0,0,418,51
+0,_Ouachita,_012-County 003,_012-County 003,687,168,12,5,0,1,1,0,0,1,1,1,0,714,153
+0,_Ouachita,_013-County 004,_013-County 004,353,181,3,0,1,0,4,0,1,5,1,0,1,382,154
+0,_Ouachita,_014-County 005,_014-County 005,684,631,6,3,1,2,6,0,4,5,2,0,1,747,530
+0,_Ouachita,_015-County 007,_015-County 007,403,101,5,1,0,1,1,0,0,0,2,1,0,424,82
+0,_Ouachita,_016-County 008,_016-County 008,9,36,0,2,0,0,0,1,0,2,0,0,0,15,34
+0,_Ouachita,_017-County 010,_017-County 010,25,0,0,0,0,0,0,0,0,0,0,0,0,23,2
+0,_Ouachita,_018-County 011,_018-County 011,245,95,4,2,0,0,1,1,4,1,0,1,0,256,95
+0,_Ouachita,_019-County 002 Valley Twp HD7,_019-County 002 Valley Twp HD7,111,38,0,1,0,0,0,0,1,1,0,0,0,113,33
+0,_Perry,_01 - Aplin,_01 - Aplin,115,27,1,0,0,0,0,0,1,0,0,0,0,120,21
+0,_Perry,_02 - Casa,_02 - Casa,167,34,1,0,0,1,0,1,1,0,0,0,0,170,36
+0,_Perry,_03 - Cherry Hill,_03 - Cherry Hill,86,19,0,1,1,0,0,0,0,0,0,0,0,86,21
+0,_Perry,_04 - Fourche,_04 - Fourche,482,146,7,4,2,2,0,1,3,1,2,4,1,496,151
+0,_Perry,_05 - Houston,_05 - Houston,273,62,1,2,1,0,1,0,1,0,0,1,0,276,59
+0,_Perry,_06 - Kenney,_06 - Kenney,50,6,0,0,0,0,0,0,0,0,0,0,0,51,5
+0,_Perry,_07 - Lake,_07 - Lake,200,46,2,0,1,1,0,0,5,0,0,0,0,204,46
+0,_Perry,_08 - Maumelle,_08 - Maumelle,212,57,2,3,0,0,1,0,0,0,0,3,0,215,55
+0,_Perry,_09 - New Tennessee,_09 - New Tennessee,79,18,0,0,0,1,0,0,0,0,0,0,1,80,16
+0,_Perry,_10 - Perry,_10 - Perry,335,97,4,2,0,1,0,0,0,0,0,0,2,352,85
+0,_Perry,_11 - Petit Jean,_11 - Petit Jean,126,34,1,0,1,1,0,0,2,0,0,1,0,131,32
+0,_Perry,_12 - Rankin,_12 - Rankin,417,126,4,1,3,1,0,1,4,1,0,0,1,424,126
+0,_Perry,_13 - Rose Creek,_13 - Rose Creek,94,11,0,1,0,0,0,0,2,0,0,0,0,90,17
+0,_Perry,_14 - Tyler,_14 - Tyler,90,19,1,0,1,1,0,1,0,0,0,3,1,98,15
+0,_Perry,_15 - Union,_15 - Union,311,122,5,3,1,1,0,0,3,0,0,0,1,314,131
+0,_Perry,_16 - Union Valley,_16 - Union Valley,137,51,0,2,0,0,0,0,1,0,0,1,0,138,51
+0,_Perry,_17 - Wye,_17 - Wye,305,137,6,1,1,0,1,0,3,0,0,1,1,308,147
+0,_Phillips,"_1 - HWH Ward 1/L'Anguille/St Francis 1,2,4","_1 - HWH Ward 1/L'Anguille/St Francis 1,2,4",305,779,5,5,4,1,1,3,3,7,2,1,0,394,586
+0,_Phillips,_10 - Lexa/Spring Creek 4,_10 - Lexa/Spring Creek 4,288,61,0,0,0,0,0,0,2,3,1,0,0,297,54
+0,_Phillips,_11 - Marion 1&2,_11 - Marion 1&2,100,103,0,0,1,0,0,0,2,4,0,0,0,110,86
+0,_Phillips,_12 - Upper Big Creek,_12 - Upper Big Creek,32,65,0,0,1,0,0,0,2,1,1,0,0,37,52
+0,_Phillips,_13 - Hicksville/Hickory Ridge/Marvel,_13 - Hicksville/Hickory Ridge/Marvel,217,256,0,1,4,0,3,2,4,5,2,1,1,257,194
+0,_Phillips,_14 - Lower Big Creek/Cypress/Cleveland,_14 - Lower Big Creek/Cypress/Cleveland,110,28,0,0,2,0,0,0,2,1,0,1,1,115,23
+0,_Phillips,_15 - Lakeview/Searcy 1-3,_15 - Lakeview/Searcy 1-3,22,170,0,0,1,0,0,1,1,3,0,0,0,46,138
+0,_Phillips,_16 - Elaine 1&2/Tappan 1&2,_16 - Elaine 1&2/Tappan 1&2,176,139,0,3,2,0,0,0,4,3,0,0,1,180,133
+0,_Phillips,_17 - Mooney,_17 - Mooney,41,19,0,1,0,0,0,0,0,0,0,0,0,43,18
+0,_Phillips,_2 - Lake,_2 - Lake,2,5,0,0,0,0,0,0,0,0,0,0,0,2,3
+0,_Phillips,_3 - HWH Ward 2,_3 - HWH Ward 2,384,690,4,3,3,2,4,1,11,6,2,2,0,459,540
+0,_Phillips,"_5 - HWH Ward 3 A,B,C","_5 - HWH Ward 3 A,B,C",80,240,2,0,0,0,1,1,1,2,1,2,0,96,201
+0,_Phillips,"_6 - HWH Ward 3 D,E,F","_6 - HWH Ward 3 D,E,F",53,621,1,2,2,2,0,3,7,6,1,0,1,105,480
+0,_Phillips,_7 - Hornor 1-7,_7 - Hornor 1-7,336,177,0,0,1,0,1,1,0,2,0,1,0,350,142
+0,_Phillips,_8 - Cleburne 1&2,_8 - Cleburne 1&2,127,136,2,0,2,0,2,0,1,2,0,2,0,139,118
+0,_Phillips,"_9 - Bush/Spring Creek 1-3,5","_9 - Bush/Spring Creek 1-3,5",144,134,1,1,0,0,1,2,4,2,1,0,0,155,112
+0,_Pike,_01 - Antoine,_01 - Antoine,45,72,0,0,0,0,0,0,1,0,0,0,0,55,57
+0,_Pike,_02 - Daisy,_02 - Daisy,242,21,3,0,0,0,0,0,0,0,0,0,0,243,23
+0,_Pike,_03 - Delight,_03 - Delight,346,45,5,0,1,0,1,0,0,2,1,0,0,341,54
+0,_Pike,_04 - Glenwood North,_04 - Glenwood North,315,76,5,1,0,1,2,0,2,0,0,0,2,326,75
+0,_Pike,_05 - Glenwood South,_05 - Glenwood South,492,79,5,1,1,1,0,0,2,0,0,2,0,502,80
+0,_Pike,_06 - Kirby,_06 - Kirby,458,72,5,1,0,0,1,0,0,0,1,0,0,471,58
+0,_Pike,_07 - Langley/Lodi,_07 - Langley/Lodi,213,13,5,0,0,0,0,0,1,0,0,0,0,209,23
+0,_Pike,_08 - Murfreesboro East,_08 - Murfreesboro East,415,116,5,1,0,1,1,0,2,0,0,0,0,430,105
+0,_Pike,_09 - Murfreesboro West,_09 - Murfreesboro West,616,117,7,0,2,1,0,0,3,0,1,1,1,638,102
+0,_Pike,_10 - Newhope,_10 - Newhope,191,15,0,0,0,0,1,0,1,0,1,0,0,197,12
+0,_Pike,_11 - Pisgah,_11 - Pisgah,186,18,1,0,0,0,0,0,0,0,0,0,0,182,22
+0,_Poinsett,"_Bolivar, Scott & Greenfield","_Bolivar, Scott & Greenfield",1614,324,8,0,13,3,4,1,4,3,5,6,1,1643,304
+0,_Poinsett,_Greenfield - Buffalo Lick,_Greenfield - Buffalo Lick,278,39,2,0,3,0,0,0,0,0,1,0,0,290,33
+0,_Poinsett,_Greenwood & Rivervale,_Greenwood & Rivervale,594,156,5,0,1,4,1,1,1,0,2,0,3,620,138
+0,_Poinsett,_Little River & Payneway,_Little River & Payneway,700,304,5,0,4,2,2,0,2,2,1,0,2,728,272
+0,_Poinsett,_Owen - Fisher,_Owen - Fisher,88,11,1,0,0,0,0,0,0,1,0,0,0,88,12
+0,_Poinsett,_Owen - Waldenburg,_Owen - Waldenburg,50,12,0,0,1,0,0,0,0,0,0,0,0,51,11
+0,_Poinsett,_Tyronza,_Tyronza,301,48,3,0,1,0,0,0,1,0,3,0,1,309,48
+0,_Poinsett,_West Prairie & Dobson,_West Prairie & Dobson,307,62,3,1,1,1,0,0,0,1,0,0,0,305,65
+0,_Poinsett,_Willis & Lunsford,_Willis & Lunsford,1986,468,13,9,14,4,4,0,2,2,6,0,14,2058,441
+0,_Polk,_01- MENA,_01- MENA,563,117,8,1,2,1,0,0,4,1,0,1,0,578,116
+0,_Polk,_02- MENA,_02- MENA,575,174,11,1,3,1,1,0,4,1,1,1,1,601,172
+0,_Polk,_03- MENA,_03- MENA,608,178,8,2,0,0,0,0,0,4,0,1,2,608,185
+0,_Polk,_04 - ACORN,_04 - ACORN,772,67,5,2,4,0,0,1,3,8,0,3,2,771,87
+0,_Polk,_05 - INK,_05 - INK,139,27,1,0,1,0,1,0,0,0,1,0,0,136,31
+0,_Polk,_06 - BOARD CAMP,_06 - BOARD CAMP,347,74,5,0,1,0,0,0,1,0,0,0,0,352,70
+0,_Polk,_07 - CHERRY HILL,_07 - CHERRY HILL,302,46,7,1,1,0,0,0,0,1,0,0,1,298,58
+0,_Polk,_08 - BIG FORK,_08 - BIG FORK,92,11,2,0,0,0,0,0,0,1,0,0,0,91,11
+0,_Polk,_09 - DALLAS VALLEY/ SHADY,_09 - DALLAS VALLEY/ SHADY,783,119,4,2,4,2,1,0,3,2,1,0,1,791,125
+0,_Polk,_10 - SHADY GROVE,_10 - SHADY GROVE,381,65,3,0,2,1,0,1,0,3,0,1,0,377,73
+0,_Polk,_11 - ROCKY,_11 - ROCKY,179,45,1,0,2,0,0,0,0,0,0,0,0,184,40
+0,_Polk,_12 - POTTER,_12 - POTTER,584,122,9,0,0,1,1,0,2,2,0,4,0,584,137
+0,_Polk,_13 - HATFIELD,_13 - HATFIELD,443,57,5,1,2,1,0,1,2,0,0,0,1,448,61
+0,_Polk,_14 - COVE,_14 - COVE,392,55,6,0,0,1,0,0,0,0,0,1,0,388,57
+0,_Polk,_15 - VANDERVOORT,_15 - VANDERVOORT,240,23,4,0,0,0,0,0,0,0,0,0,0,236,29
+0,_Polk,_16 - WICKES,_16 - WICKES,402,45,3,0,1,0,0,0,3,5,1,1,0,403,54
+0,_Polk,_17 - GRANNIS,_17 - GRANNIS,233,21,1,0,0,0,0,1,1,0,0,1,0,237,18
+0,_Pope,_001- Appleton 1,_001- Appleton 1,104,31,0,0,0,0,0,0,0,0,0,0,0,105,28
+0,_Pope,_002- Appleton 2,_002- Appleton 2,185,32,2,0,0,0,0,0,0,0,0,1,0,181,34
+0,_Pope,_003- Atkins In,_003- Atkins In,816,205,11,0,0,0,0,1,2,2,0,0,1,814,212
+0,_Pope,_004- Atkins Out 1,_004- Atkins Out 1,424,68,2,0,0,2,0,0,1,1,1,0,0,430,70
+0,_Pope,_005- Atkins Out 2,_005- Atkins Out 2,69,10,1,0,0,0,0,0,0,0,0,0,0,67,12
+0,_Pope,_006- Atkins Out 3,_006- Atkins Out 3,106,20,0,0,0,0,0,0,0,0,0,0,0,113,11
+0,_Pope,_007- Bayliss,_007- Bayliss,293,58,2,0,0,0,0,0,1,0,0,1,1,292,60
+0,_Pope,_008- Buck Mountain,_008- Buck Mountain,251,56,3,0,0,1,0,0,0,1,0,0,1,251,60
+0,_Pope,_009- Caglesville 1,_009- Caglesville 1,174,28,0,0,0,0,0,0,0,0,0,0,0,176,26
+0,_Pope,_010- Caglesville 2,_010- Caglesville 2,27,7,1,0,0,0,0,0,1,0,0,0,0,26,9
+0,_Pope,_011- Crow Mountain East 1,_011- Crow Mountain East 1,162,28,0,0,3,0,0,0,1,1,0,0,0,164,29
+0,_Pope,_012- Crow Mountain East 2,_012- Crow Mountain East 2,253,39,2,0,0,0,0,0,0,0,0,0,0,252,41
+0,_Pope,_013- Crow Mountain West 1,_013- Crow Mountain West 1,556,104,6,3,0,0,0,1,2,1,2,1,1,562,114
+0,_Pope,_014- Crow Mountain West 2,_014- Crow Mountain West 2,460,106,4,3,0,0,1,1,1,1,0,1,0,463,108
+0,_Pope,_015- Dover In,_015- Dover In,404,104,7,4,0,0,1,0,4,2,0,1,0,407,114
+0,_Pope,_016- Dover Out,_016- Dover Out,1383,277,10,6,2,4,2,2,6,1,1,0,1,1374,308
+0,_Pope,_017- Economy,_017- Economy,175,34,4,1,1,0,0,0,0,1,0,0,2,178,37
+0,_Pope,_018- Freeman,_018- Freeman,38,7,0,0,0,0,0,0,0,0,0,0,0,37,8
+0,_Pope,_019- Hector In,_019- Hector In,141,24,1,0,0,0,0,0,1,0,0,0,0,134,31
+0,_Pope,_020- Hector Out,_020- Hector Out,238,43,1,0,0,0,0,0,0,0,0,0,0,235,41
+0,_Pope,_021- London In,_021- London In,298,61,6,0,2,1,0,1,2,2,0,1,1,308,63
+0,_Pope,_022- London Out,_022- London Out,954,242,15,2,1,3,2,2,3,3,1,2,0,953,274
+0,_Pope,_023- Martin 1,_023- Martin 1,304,82,6,0,0,0,0,1,2,2,0,0,0,306,83
+0,_Pope,_024- Martin 2,_024- Martin 2,132,19,0,0,0,0,1,1,1,0,1,0,0,137,18
+0,_Pope,_025- Martin 3,_025- Martin 3,52,13,2,0,0,0,0,0,0,1,0,0,0,52,16
+0,_Pope,_026- Moreland 1,_026- Moreland 1,119,21,2,0,0,0,0,0,1,1,0,1,0,119,25
+0,_Pope,_027- Moreland 2,_027- Moreland 2,64,6,0,0,0,0,0,0,0,0,0,0,0,63,6
+0,_Pope,_028- Pea Ridge,_028- Pea Ridge,286,27,5,0,1,0,0,0,2,1,0,0,0,282,39
+0,_Pope,_029- Pottsville In 1,_029- Pottsville In 1,954,179,11,2,0,2,0,1,2,0,3,1,0,963,186
+0,_Pope,_030- Pottsville In 2,_030- Pottsville In 2,75,12,2,0,0,1,0,0,0,1,0,0,0,78,13
+0,_Pope,_031- Pottsville Out 1,_031- Pottsville Out 1,803,181,4,1,0,1,0,0,0,1,0,1,0,817,173
+0,_Pope,_032- Pottsville Out 2,_032- Pottsville Out 2,7,7,0,0,1,0,0,0,0,0,0,0,0,9,6
+0,_Pope,_034- Russellville 1-A,_034- Russellville 1-A,95,86,3,1,1,0,0,0,1,0,0,0,0,95,89
+0,_Pope,_035- Russellville 1-B,_035- Russellville 1-B,1083,395,12,3,0,3,1,1,5,5,0,0,1,1122,367
+0,_Pope,_036- Russellville 1-C,_036- Russellville 1-C,156,112,5,0,0,2,0,0,1,1,0,0,0,162,108
+0,_Pope,_038- Russellville 2-A,_038- Russellville 2-A,713,339,11,3,0,2,0,1,5,3,4,2,0,760,311
+0,_Pope,_039- Russellville 2-B,_039- Russellville 2-B,1175,639,18,4,3,4,0,1,9,4,2,0,1,1240,590
+0,_Pope,_040- Russellville 2-C,_040- Russellville 2-C,198,167,5,1,1,0,4,0,2,1,0,2,1,202,161
+0,_Pope,_041- Russellville 3-A,_041- Russellville 3-A,406,266,17,4,2,2,1,1,3,1,1,1,3,436,258
+0,_Pope,_042- Russellville 3-B,_042- Russellville 3-B,719,424,11,8,3,1,1,4,3,2,2,0,2,757,406
+0,_Pope,_043- Russellville 4-A,_043- Russellville 4-A,470,219,9,1,1,1,0,1,2,1,0,0,0,480,214
+0,_Pope,_044- Russellville 4-B,_044- Russellville 4-B,43,17,0,0,0,0,0,0,2,0,0,0,0,46,16
+0,_Pope,_045- Russellville 4-C,_045- Russellville 4-C,196,148,4,1,0,1,0,1,0,2,1,1,0,193,150
+0,_Pope,_046- Russellville 4-D,_046- Russellville 4-D,63,47,0,0,1,0,0,1,1,0,0,0,0,66,44
+0,_Pope,_047- Russellville 4-E,_047- Russellville 4-E,2,2,0,0,0,0,0,0,0,0,0,0,0,2,2
+0,_Pope,_048- Russellville 4-F,_048- Russellville 4-F,73,63,1,1,0,0,0,1,0,0,0,0,0,77,56
+0,_Pope,_049- Russellville 4-G,_049- Russellville 4-G,20,8,0,0,0,0,0,0,0,0,0,0,0,19,9
+0,_Pope,_050- Russellville 4-H,_050- Russellville 4-H,395,234,21,1,0,2,2,0,4,2,0,0,2,409,241
+0,_Pope,_051- Russellville Out 1,_051- Russellville Out 1,466,91,2,0,0,0,0,0,0,4,0,0,0,466,92
+0,_Pope,_052- Russellville Out 2,_052- Russellville Out 2,293,98,5,1,0,1,0,0,2,1,1,0,1,304,95
+0,_Pope,_053- Russellville Out 3,_053- Russellville Out 3,56,12,0,0,0,0,0,0,0,0,0,0,1,59,10
+0,_Pope,_054- Russellville Out 4,_054- Russellville Out 4,811,221,3,2,0,3,0,0,1,0,0,1,0,826,209
+0,_Pope,_055- Scottsville 1,_055- Scottsville 1,246,40,2,1,0,0,0,2,0,0,1,0,0,246,43
+0,_Pope,_056- Scottsville 2,_056- Scottsville 2,33,2,0,0,0,0,0,0,0,0,0,0,0,33,2
+0,_Pope,_057- Nogo,_057- Nogo,62,11,1,0,0,0,0,0,0,1,0,0,0,63,11
+0,_Prairie,_Belcher / Tyler,_Belcher / Tyler,111,19,1,0,0,0,0,0,0,0,1,0,0,122,10
+0,_Prairie,_Bullard,_Bullard,54,6,0,0,0,0,0,0,0,0,1,0,0,53,7
+0,_Prairie,_Calhoun,_Calhoun,103,8,0,0,0,0,0,0,0,0,0,0,0,100,9
+0,_Prairie,_Center,_Center,181,7,2,0,0,0,0,0,0,1,1,0,1,181,5
+0,_Prairie,_Des Arc,_Des Arc,102,13,0,0,0,0,0,0,1,0,0,0,0,106,10
+0,_Prairie,_Hazen Country,_Hazen Country,130,27,1,0,0,0,0,0,0,0,0,0,0,133,23
+0,_Prairie,_Hazen Ward 1,_Hazen Ward 1,156,33,1,0,0,0,0,0,0,0,1,0,0,161,23
+0,_Prairie,_Hazen Ward 2,_Hazen Ward 2,159,48,1,0,0,0,0,0,1,0,2,0,0,159,46
+0,_Prairie,_Hazen Ward 3,_Hazen Ward 3,125,68,0,0,1,0,0,0,0,0,0,0,0,133,50
+0,_Prairie,_Hickory Plains,_Hickory Plains,260,27,1,0,0,0,0,0,1,0,1,0,0,257,32
+0,_Prairie,_Lower Hill City,_Lower Hill City,90,58,0,1,0,1,0,0,2,1,0,0,0,98,41
+0,_Prairie,_Lower Hill Country,_Lower Hill Country,82,18,1,0,0,0,0,0,0,0,0,0,0,84,12
+0,_Prairie,_Roc Roe City,_Roc Roe City,52,10,2,1,0,0,0,0,0,0,0,0,0,53,10
+0,_Prairie,_Roc Roe Country,_Roc Roe Country,96,7,0,0,0,0,0,0,1,0,0,0,0,95,8
+0,_Prairie,_Union,_Union,43,8,0,0,0,0,0,0,0,0,0,0,0,44,7
+0,_Prairie,_Upper Hill,_Upper Hill,13,7,0,0,0,0,0,0,0,0,0,0,0,15,5
+0,_Prairie,_Wattensaw City Ward 1,_Wattensaw City Ward 1,41,23,0,0,0,0,1,0,0,0,0,0,0,41,19
+0,_Prairie,_Wattensaw City Ward 2,_Wattensaw City Ward 2,43,28,0,0,0,0,0,0,0,0,0,0,0,38,25
+0,_Prairie,_Wattensaw City Ward 3,_Wattensaw City Ward 3,32,23,2,0,0,0,0,0,1,0,0,0,0,34,19
+0,_Prairie,_Wattensaw Country,_Wattensaw Country,227,42,1,1,0,1,0,0,1,0,2,0,2,235,41
+0,_Prairie,_White River Country 1,_White River Country 1,118,15,0,0,0,0,0,0,0,0,0,0,0,117,14
+0,_Prairie,_White River Country 2-4,_White River Country 2-4,101,16,1,0,2,0,0,0,0,0,0,2,0,103,17
+0,_Prairie,_White River Ward 1,_White River Ward 1,107,59,0,0,0,0,0,0,0,0,0,0,0,113,36
+0,_Prairie,_White River Ward 2,_White River Ward 2,178,34,1,0,0,0,0,0,0,1,1,1,0,186,25
+0,_Prairie,_White River Ward 3,_White River Ward 3,182,50,1,0,2,0,0,0,0,0,1,0,0,188,45
+0,_Pulaski,_Precinct 001,_Precinct 001,694,611,15,2,1,2,1,0,2,2,1,1,0,740,564
+0,_Pulaski,_Precinct 002,_Precinct 002,666,733,24,8,1,2,0,1,6,3,1,2,1,724,703
+0,_Pulaski,_Precinct 003,_Precinct 003,216,232,5,1,0,2,0,0,3,1,1,0,0,235,227
+0,_Pulaski,_Precinct 004,_Precinct 004,1508,1057,27,4,0,0,0,0,9,3,1,2,1,1605,979
+0,_Pulaski,_Precinct 005,_Precinct 005,1206,887,30,3,1,1,0,2,6,1,0,0,2,1303,808
+0,_Pulaski,_Precinct 006,_Precinct 006,266,155,3,1,0,0,0,0,2,0,0,0,0,275,150
+0,_Pulaski,_Precinct 007,_Precinct 007,436,243,7,1,0,1,0,0,0,3,2,0,1,454,230
+0,_Pulaski,_Precinct 008,_Precinct 008,800,739,15,1,1,2,0,3,8,1,4,0,1,871,669
+0,_Pulaski,_Precinct 009,_Precinct 009,539,1330,16,5,2,0,1,2,8,6,5,0,1,630,1244
+0,_Pulaski,_Precinct 010,_Precinct 010,441,649,11,5,1,0,0,2,4,5,3,1,0,487,602
+0,_Pulaski,_Precinct 011,_Precinct 011,223,92,1,0,0,0,0,0,1,0,1,0,0,232,75
+0,_Pulaski,_Precinct 012,_Precinct 012,387,160,2,3,0,0,0,0,2,0,0,0,0,395,145
+0,_Pulaski,_Precinct 013,_Precinct 013,615,390,8,3,2,0,0,0,0,2,2,0,0,643,366
+0,_Pulaski,_Precinct 014,_Precinct 014,510,858,20,5,0,0,1,2,9,7,4,2,0,589,775
+0,_Pulaski,_Precinct 015,_Precinct 015,202,989,13,9,3,2,4,1,9,7,4,1,2,319,855
+0,_Pulaski,_Precinct 016,_Precinct 016,121,454,15,3,0,2,0,0,0,0,0,0,0,152,426
+0,_Pulaski,_Precinct 017,_Precinct 017,223,786,13,4,0,1,2,4,13,5,5,0,1,333,683
+0,_Pulaski,_Precinct 018,_Precinct 018,498,963,8,3,1,1,1,1,6,3,0,2,0,543,914
+0,_Pulaski,_Precinct 019,_Precinct 019,384,994,9,4,4,2,2,4,10,6,3,1,0,479,894
+0,_Pulaski,_Precinct 020,_Precinct 020,664,888,21,2,1,3,1,0,5,1,2,0,1,721,853
+0,_Pulaski,_Precinct 021,_Precinct 021,339,428,14,2,2,2,0,1,4,1,1,0,1,372,418
+0,_Pulaski,_Precinct 022,_Precinct 022,627,1047,23,1,2,3,1,5,5,5,1,1,2,737,948
+0,_Pulaski,_Precinct 023,_Precinct 023,1010,905,23,5,1,3,1,1,9,4,0,0,0,1083,852
+0,_Pulaski,_Precinct 024,_Precinct 024,613,511,12,3,1,4,0,0,8,1,2,0,1,677,468
+0,_Pulaski,_Precinct 025,_Precinct 025,352,343,11,2,0,2,3,0,3,1,0,0,1,392,310
+0,_Pulaski,_Precinct 026,_Precinct 026,1147,269,21,3,0,2,1,0,3,1,0,0,1,1162,270
+0,_Pulaski,_Precinct 027,_Precinct 027,1385,545,17,5,2,2,2,3,5,2,4,0,2,1420,520
+0,_Pulaski,_Precinct 028,_Precinct 028,1170,690,25,5,2,0,2,0,3,6,0,1,1,1213,666
+0,_Pulaski,_Precinct 029,_Precinct 029,84,73,3,2,0,0,0,2,1,0,0,0,0,93,62
+0,_Pulaski,_Precinct 030,_Precinct 030,120,96,9,1,0,1,0,0,1,1,2,0,0,129,95
+0,_Pulaski,_Precinct 031,_Precinct 031,1166,744,23,3,4,0,1,0,7,8,3,1,0,1243,683
+0,_Pulaski,_Precinct 032,_Precinct 032,840,883,33,6,1,1,1,2,10,4,6,2,2,928,824
+0,_Pulaski,_Precinct 033,_Precinct 033,543,588,10,3,0,0,1,1,2,4,0,0,0,599,525
+0,_Pulaski,_Precinct 034,_Precinct 034,404,453,6,2,3,5,0,1,5,2,3,2,0,441,418
+0,_Pulaski,_Precinct 035,_Precinct 035,577,429,9,3,0,0,3,2,5,4,1,0,0,618,388
+0,_Pulaski,_Precinct 036,_Precinct 036,297,381,10,1,0,1,2,1,1,1,3,1,0,332,355
+0,_Pulaski,_Precinct 037,_Precinct 037,514,837,7,3,1,3,1,4,6,2,7,0,1,585,752
+0,_Pulaski,_Precinct 038,_Precinct 038,177,367,12,0,0,0,3,1,2,2,0,2,3,208,343
+0,_Pulaski,_Precinct 039,_Precinct 039,1288,1223,14,2,0,4,2,1,8,7,3,1,1,1410,1121
+0,_Pulaski,_Precinct 040,_Precinct 040,671,594,8,6,0,3,1,0,4,2,0,0,0,718,554
+0,_Pulaski,_Precinct 041,_Precinct 041,1053,772,22,4,2,4,0,0,8,3,9,1,1,1121,741
+0,_Pulaski,_Precinct 042,_Precinct 042,827,608,25,4,3,0,0,0,4,2,0,1,0,879,575
+0,_Pulaski,_Precinct 043,_Precinct 043,750,810,22,5,0,1,4,6,7,7,5,0,3,797,799
+0,_Pulaski,_Precinct 044,_Precinct 044,1028,1019,17,5,2,1,2,0,8,5,4,1,1,1135,921
+0,_Pulaski,_Precinct 045,_Precinct 045,241,653,10,2,1,0,1,2,5,4,4,0,2,302,571
+0,_Pulaski,_Precinct 046,_Precinct 046,222,404,4,0,1,1,0,1,6,5,3,0,2,260,364
+0,_Pulaski,_Precinct 047,_Precinct 047,43,116,0,0,0,0,0,0,0,0,0,0,1,54,98
+0,_Pulaski,_Precinct 048,_Precinct 048,288,1296,8,8,1,0,0,5,9,6,5,1,3,395,1151
+0,_Pulaski,_Precinct 049,_Precinct 049,1160,842,30,2,1,4,0,1,7,4,5,0,0,1265,750
+0,_Pulaski,_Precinct 050,_Precinct 050,864,592,16,6,0,2,0,0,7,1,1,1,0,938,525
+0,_Pulaski,_Precinct 051,_Precinct 051,406,456,8,2,0,3,0,2,1,1,2,0,0,447,426
+0,_Pulaski,_Precinct 052,_Precinct 052,110,764,1,1,1,1,3,1,8,5,2,1,1,182,640
+0,_Pulaski,_Precinct 053,_Precinct 053,97,688,2,0,0,0,2,3,5,4,3,0,0,154,599
+0,_Pulaski,_Precinct 054,_Precinct 054,234,842,6,2,0,0,1,2,10,2,4,2,0,309,731
+0,_Pulaski,_Precinct 055,_Precinct 055,790,1312,13,4,2,2,0,2,5,1,1,0,0,866,1213
+0,_Pulaski,_Precinct 056,_Precinct 056,574,283,9,1,2,2,0,0,2,3,1,0,0,606,262
+0,_Pulaski,_Precinct 057,_Precinct 057,604,265,7,0,0,1,0,0,1,3,0,0,0,606,266
+0,_Pulaski,_Precinct 058,_Precinct 058,1179,1038,16,3,1,7,0,2,11,5,1,0,0,1303,937
+0,_Pulaski,_Precinct 059,_Precinct 059,697,301,13,2,0,2,0,0,1,0,1,0,0,730,278
+0,_Pulaski,_Precinct 060,_Precinct 060,1549,1117,22,2,2,2,1,0,9,5,4,0,1,1708,983
+0,_Pulaski,_Precinct 061,_Precinct 061,1018,552,21,0,1,1,1,1,4,2,1,0,0,1067,511
+0,_Pulaski,_Precinct 062,_Precinct 062,526,286,10,4,2,0,0,1,2,1,1,0,0,557,263
+0,_Pulaski,_Precinct 063,_Precinct 063,323,299,11,0,0,0,0,0,4,1,0,0,0,345,275
+0,_Pulaski,_Precinct 064,_Precinct 064,1313,1074,16,2,2,4,3,1,5,3,3,0,1,1448,956
+0,_Pulaski,_Precinct 065,_Precinct 065,332,493,19,0,0,0,0,0,0,2,0,1,0,362,464
+0,_Pulaski,_Precinct 066,_Precinct 066,636,800,19,2,2,7,0,0,10,2,1,0,1,720,737
+0,_Pulaski,_Precinct 067,_Precinct 067,499,1002,27,4,2,1,2,3,5,3,2,0,0,572,957
+0,_Pulaski,_Precinct 068,_Precinct 068,1090,910,22,7,1,4,0,1,10,1,2,0,2,1218,810
+0,_Pulaski,_Precinct 069,_Precinct 069,826,795,7,1,2,5,0,1,5,7,2,0,0,955,676
+0,_Pulaski,_Precinct 070,_Precinct 070,530,522,8,1,2,8,1,0,2,0,1,2,1,583,485
+0,_Pulaski,_Precinct 071,_Precinct 071,984,1108,28,9,2,2,3,1,2,2,1,2,0,1094,1028
+0,_Pulaski,_Precinct 072,_Precinct 072,274,544,11,3,0,2,0,3,3,2,3,1,0,329,502
+0,_Pulaski,_Precinct 073,_Precinct 073,930,1014,27,0,1,11,1,1,3,1,1,0,0,1046,907
+0,_Pulaski,_Precinct 074,_Precinct 074,386,671,15,3,1,5,0,3,1,1,0,0,0,449,616
+0,_Pulaski,_Precinct 075,_Precinct 075,327,931,12,5,2,3,0,2,5,4,4,0,1,384,886
+0,_Pulaski,_Precinct 076,_Precinct 076,437,797,21,4,0,2,0,2,7,2,1,0,0,488,764
+0,_Pulaski,_Precinct 077,_Precinct 077,998,1392,30,8,2,3,0,3,3,1,1,1,0,1116,1284
+0,_Pulaski,_Precinct 078,_Precinct 078,679,1101,38,4,2,4,1,0,7,2,0,2,0,773,1048
+0,_Pulaski,_Precinct 079,_Precinct 079,369,1067,9,2,0,0,2,0,8,5,3,0,0,449,986
+0,_Pulaski,_Precinct 080,_Precinct 080,369,1787,4,8,1,1,3,3,7,0,11,2,1,478,1667
+0,_Pulaski,_Precinct 081,_Precinct 081,433,879,10,4,0,3,0,1,3,5,4,4,1,514,791
+0,_Pulaski,_Precinct 082,_Precinct 082,205,944,8,3,1,3,1,1,10,1,4,0,2,296,848
+0,_Pulaski,_Precinct 083,_Precinct 083,195,1463,10,4,3,2,1,4,16,3,5,0,4,280,1360
+0,_Pulaski,_Precinct 084,_Precinct 084,114,1378,5,6,0,1,1,3,9,3,4,1,2,195,1261
+0,_Pulaski,_Precinct 085,_Precinct 085,184,1287,4,8,2,2,2,1,4,9,6,2,0,278,1163
+0,_Pulaski,_Precinct 086,_Precinct 086,100,641,3,2,2,1,0,1,1,1,2,0,0,126,597
+0,_Pulaski,_Precinct 087,_Precinct 087,369,817,15,6,0,2,2,1,7,2,3,0,1,435,762
+0,_Pulaski,_Precinct 088,_Precinct 088,620,885,25,2,1,9,1,0,4,4,2,0,0,709,815
+0,_Pulaski,_Precinct 089,_Precinct 089,333,750,16,5,2,1,0,0,4,1,5,0,2,382,720
+0,_Pulaski,_Precinct 090,_Precinct 090,515,903,14,1,1,5,0,3,3,0,0,2,0,623,798
+0,_Pulaski,_Precinct 091,_Precinct 091,457,825,23,4,1,1,0,0,5,2,2,0,2,518,771
+0,_Pulaski,_Precinct 092,_Precinct 092,356,770,18,2,1,1,2,1,3,2,0,1,1,411,729
+0,_Pulaski,_Precinct 093,_Precinct 093,404,868,16,2,2,2,2,0,2,0,0,0,2,458,819
+0,_Pulaski,_Precinct 094,_Precinct 094,295,730,9,4,0,3,0,4,7,4,1,1,1,350,684
+0,_Pulaski,_Precinct 095,_Precinct 095,498,1011,18,0,1,2,2,2,9,1,0,1,0,577,933
+0,_Pulaski,_Precinct 096,_Precinct 096,255,489,8,1,1,0,0,3,4,2,0,0,0,284,466
+0,_Pulaski,_Precinct 097,_Precinct 097,228,716,7,2,1,0,2,1,5,4,2,0,0,268,677
+0,_Pulaski,_Precinct 098,_Precinct 098,109,1005,7,4,1,2,2,1,7,3,1,2,0,171,914
+0,_Pulaski,_Precinct 099,_Precinct 099,149,721,9,3,0,0,2,1,4,2,1,0,2,185,678
+0,_Pulaski,_Precinct 100,_Precinct 100,51,413,1,2,2,0,0,1,3,2,2,1,0,70,385
+0,_Pulaski,_Precinct 101,_Precinct 101,158,686,6,2,2,0,2,1,8,2,1,0,0,197,640
+0,_Pulaski,_Precinct 102,_Precinct 102,159,783,9,1,1,0,1,4,8,4,0,2,1,208,732
+0,_Pulaski,_Precinct 103,_Precinct 103,95,967,2,3,0,0,1,1,7,5,4,0,0,156,876
+0,_Pulaski,_Precinct 104,_Precinct 104,169,1350,6,10,1,1,1,3,11,3,4,1,3,259,1245
+0,_Pulaski,_Precinct 105,_Precinct 105,177,884,3,3,1,0,2,1,5,0,2,1,3,238,801
+0,_Pulaski,_Precinct 106,_Precinct 106,459,690,20,5,1,4,1,0,8,2,1,0,0,553,603
+0,_Pulaski,_Precinct 107,_Precinct 107,478,695,8,0,0,1,0,0,3,2,0,0,0,565,599
+0,_Pulaski,_Precinct 108,_Precinct 108,447,686,16,1,0,0,0,0,4,3,1,0,0,512,623
+0,_Pulaski,_Precinct 109,_Precinct 109,450,1821,24,6,0,3,1,3,1,2,4,0,2,526,1734
+0,_Pulaski,_Precinct 110,_Precinct 110,248,510,8,5,1,1,0,0,2,2,1,0,0,284,480
+0,_Pulaski,_Precinct 111,_Precinct 111,465,1472,22,8,1,4,2,3,11,5,4,0,2,555,1414
+0,_Pulaski,_Precinct 112,_Precinct 112,135,613,15,5,0,1,0,0,2,1,0,0,0,165,590
+0,_Pulaski,_Precinct 113,_Precinct 113,172,989,9,6,0,0,1,3,7,0,0,0,0,193,961
+0,_Pulaski,_Precinct 114,_Precinct 114,256,951,20,7,0,0,0,3,9,4,0,0,0,297,916
+0,_Pulaski,_Precinct 115,_Precinct 115,73,907,10,5,0,3,3,4,8,3,2,2,1,122,863
+0,_Pulaski,_Precinct 116,_Precinct 116,33,623,4,5,0,0,1,1,6,6,3,0,0,83,558
+0,_Pulaski,_Precinct 117,_Precinct 117,40,874,1,2,1,2,0,5,8,2,6,2,0,97,788
+0,_Pulaski,_Precinct 118,_Precinct 118,98,1049,10,10,2,0,0,1,6,0,1,0,1,148,977
+0,_Pulaski,_Precinct 119,_Precinct 119,53,927,3,2,0,2,1,1,5,5,4,0,1,108,838
+0,_Pulaski,_Precinct 120,_Precinct 120,77,923,3,3,1,0,2,2,10,4,3,2,0,152,822
+0,_Pulaski,_Precinct 121,_Precinct 121,124,851,8,11,0,0,0,2,7,2,1,1,0,193,786
+0,_Pulaski,_Precinct 122,_Precinct 122,26,720,2,1,0,1,2,2,3,5,2,0,1,80,628
+0,_Pulaski,_Precinct 123,_Precinct 123,86,618,3,2,2,1,1,2,10,6,4,0,2,150,571
+0,_Pulaski,_Precinct 124,_Precinct 124,143,861,2,4,1,3,2,0,6,2,3,1,0,220,775
+0,_Pulaski,_Precinct 125,_Precinct 125,300,645,7,1,1,0,0,1,7,3,1,0,1,334,608
+0,_Pulaski,_Precinct 126,_Precinct 126,609,316,8,5,1,0,0,2,0,2,5,0,0,627,302
+0,_Pulaski,_Precinct 127,_Precinct 127,553,455,7,4,2,3,2,1,5,3,1,1,2,601,422
+0,_Pulaski,_Precinct 128,_Precinct 128,65,1209,4,6,0,1,1,4,12,5,4,1,0,111,1110
+0,_Pulaski,_Precinct 129,_Precinct 129,142,332,4,0,0,1,3,1,1,0,2,0,1,165,304
+0,_Pulaski,_Precinct 130,_Precinct 130,13,405,1,2,1,1,0,0,7,1,2,0,0,34,363
+0,_Pulaski,_Precinct 131,_Precinct 131,96,463,1,0,0,0,0,1,3,2,2,0,0,116,414
+0,_Pulaski,_Precinct 132,_Precinct 132,154,378,3,0,0,1,0,0,2,1,2,0,1,169,342
+0,_Pulaski,_Precinct 133,_Precinct 133,44,404,2,0,1,0,1,1,1,1,1,0,0,64,356
+0,_Pulaski,_Precinct 134,_Precinct 134,29,469,1,1,1,0,0,1,2,1,2,0,1,58,410
+0,_Pulaski,_Precinct 135,_Precinct 135,10,293,1,1,0,0,0,2,2,0,2,0,0,32,255
+0,_Pulaski,_Precinct 136,_Precinct 136,822,751,14,3,2,2,3,1,4,0,2,2,1,892,692
+0,_Pulaski,_Precinct 137,_Precinct 137,874,943,16,0,4,4,0,0,6,1,1,1,2,992,829
+0,_Randolph,_01 - Baker,_01 - Baker,19,3,0,0,0,0,0,0,0,1,0,0,0,20,2
+0,_Randolph,_02 - Bristow,_02 - Bristow,42,11,1,0,0,0,0,0,1,0,0,0,0,42,12
+0,_Randolph,_03 - Butler,_03 - Butler,28,0,0,0,0,1,0,0,0,0,0,0,0,27,2
+0,_Randolph,_04 - Columbia,_04 - Columbia,229,37,1,0,0,0,1,0,2,9,0,1,0,244,33
+0,_Randolph,_05 - Current River,_05 - Current River,117,24,0,0,0,0,0,0,0,1,0,0,0,119,23
+0,_Randolph,_06 - Dalton,_06 - Dalton,98,17,0,0,0,0,0,0,0,2,0,0,0,106,11
+0,_Randolph,_07 - Eleven Point,_07 - Eleven Point,102,27,0,0,0,0,0,0,1,4,0,0,0,101,32
+0,_Randolph,_08 - Foster,_08 - Foster,253,46,1,0,2,1,0,0,2,6,0,1,0,264,43
+0,_Randolph,_09 - Ingram,_09 - Ingram,61,9,0,0,0,0,0,0,0,5,0,1,0,63,11
+0,_Randolph,_10 - Jackson,_10 - Jackson,55,9,0,0,0,0,0,0,0,0,0,0,0,55,7
+0,_Randolph,_11 - Janes Creek,_11 - Janes Creek,184,37,4,1,0,0,0,0,4,1,1,0,2,186,41
+0,_Randolph,_12 - Little Black,_12 - Little Black,185,28,3,1,0,0,0,0,1,4,0,0,0,187,33
+0,_Randolph,_13 - O'Kean,_13 - O'Kean,56,23,1,2,0,0,0,0,2,4,0,0,0,60,24
+0,_Randolph,_14 - Reyno,_14 - Reyno,125,19,0,0,0,1,0,0,2,2,0,0,0,121,25
+0,_Randolph,_15 - Richardson,_15 - Richardson,255,43,5,0,0,0,0,0,1,2,1,0,0,260,42
+0,_Randolph,_16 - East Roanoke,_16 - East Roanoke,184,40,1,1,0,0,0,1,3,1,0,0,0,176,46
+0,_Randolph,_17 - West Roanoke,_17 - West Roanoke,320,54,5,1,1,0,1,0,2,4,1,0,0,328,58
+0,_Randolph,_18 - Running Lake,_18 - Running Lake,67,17,0,0,0,1,0,0,1,0,0,0,0,73,13
+0,_Randolph,_19 - Shiloh,_19 - Shiloh,352,73,6,0,0,1,0,0,1,5,0,0,0,352,79
+0,_Randolph,_20 - Siloam,_20 - Siloam,100,31,1,0,0,0,0,0,1,3,0,0,0,100,31
+0,_Randolph,_21 - Spring River,_21 - Spring River,105,12,0,0,1,1,0,0,0,0,0,1,0,105,10
+0,_Randolph,_22 - Union,_22 - Union,28,9,0,0,0,0,0,0,0,1,0,0,0,29,9
+0,_Randolph,_23 - Warm Springs,_23 - Warm Springs,66,13,0,0,0,0,1,0,0,0,0,0,0,71,5
+0,_Randolph,_24 - Water Valley,_24 - Water Valley,97,11,0,0,0,0,0,0,1,2,0,0,0,97,12
+0,_Randolph,_25 - Wiley,_25 - Wiley,18,4,1,1,0,0,0,0,0,2,0,0,0,18,8
+0,_Randolph,_26 - Ward One,_26 - Ward One,533,162,10,0,2,1,1,2,3,4,1,1,1,547,158
+0,_Randolph,_27 - Ward Two,_27 - Ward Two,416,139,5,0,1,1,0,3,4,11,0,1,0,445,121
+0,_Randolph,_28 - Ward Three,_28 - Ward Three,637,197,8,1,4,0,1,1,3,3,4,1,1,658,188
+0,_Randolph,_29 - Demun Rural,_29 - Demun Rural,623,120,2,2,1,1,1,2,1,8,0,1,0,633,120
+0,_Saline,_01,_01,2117,552,28,4,1,3,1,1,5,6,2,3,1,2191,519
+0,_Saline,_02,_02,1649,600,8,3,0,0,2,0,2,8,8,0,2,1752,498
+0,_Saline,_03,_03,1157,239,16,1,0,1,0,0,2,4,2,2,1,1190,233
+0,_Saline,_04,_04,831,588,12,3,0,5,0,2,2,1,2,1,0,897,536
+0,_Saline,_05,_05,1185,433,26,2,4,1,1,1,0,2,2,3,1,1255,400
+0,_Saline,_06,_06,1368,595,21,6,0,3,1,0,11,5,4,3,1,1450,551
+0,_Saline,_07,_07,777,209,8,2,0,0,0,1,2,2,1,0,0,806,191
+0,_Saline,_08,_08,456,114,5,0,0,0,0,0,0,2,0,0,1,462,112
+0,_Saline,_09,_09,1366,278,16,5,1,3,2,1,3,6,4,2,0,1409,272
+0,_Saline,_10,_10,1107,217,12,1,1,1,1,0,1,2,3,0,2,1129,210
+0,_Saline,_11,_11,999,528,21,7,6,3,1,1,3,6,3,2,2,1048,515
+0,_Saline,_12,_12,477,251,10,1,1,0,0,0,2,2,0,1,0,517,222
+0,_Saline,_13,_13,1587,862,27,5,3,0,1,1,6,1,5,3,2,1679,808
+0,_Saline,_14,_14,978,587,19,0,2,4,1,0,5,4,8,2,1,1038,549
+0,_Saline,_15,_15,1251,557,21,4,3,2,0,0,3,4,2,3,1,1300,533
+0,_Saline,_16,_16,1425,339,21,1,2,1,0,0,6,5,8,3,0,1465,331
+0,_Saline,_17,_17,1036,529,25,2,2,1,0,0,4,4,1,1,1,1089,499
+0,_Saline,_18,_18,81,148,2,0,0,0,0,0,3,1,0,0,0,89,136
+0,_Saline,_19,_19,481,64,3,1,0,4,0,0,1,0,0,0,0,483,65
+0,_Saline,_20,_20,851,317,2,2,2,0,3,0,2,3,2,3,4,928,258
+0,_Saline,_21,_21,209,45,1,0,1,0,0,0,0,0,1,0,0,215,42
+0,_Saline,_22,_22,857,447,8,4,2,0,1,0,4,4,3,4,2,914,403
+0,_Saline,_23,_23,339,75,4,1,0,1,0,0,2,1,3,1,1,345,77
+0,_Saline,_24,_24,1300,407,22,4,1,0,0,1,1,3,3,0,0,1337,404
+0,_Saline,_25,_25,1146,262,20,7,1,1,1,1,5,0,3,0,1,1158,276
+0,_Saline,_26,_26,609,968,15,7,1,0,0,0,5,3,5,5,0,701,894
+0,_Saline,_27,_27,1700,693,35,7,2,0,2,1,7,3,5,1,0,1765,682
+0,_Saline,_28,_28,587,115,5,2,2,0,0,0,4,1,1,0,0,598,117
+0,_Saline,_29,_29,403,84,0,0,0,0,0,0,2,0,0,0,0,402,83
+0,_Saline,_30,_30,240,45,1,0,1,0,0,0,1,2,1,0,0,242,47
+0,_Saline,_31,_31,1195,552,35,2,4,0,0,3,8,2,2,1,0,1233,556
+0,_Saline,_32,_32,837,199,9,2,1,1,0,0,8,4,0,0,1,876,187
+0,_Saline,_33,_33,742,221,16,0,0,0,2,0,0,7,1,1,0,775,210
+0,_Saline,_34,_34,347,405,9,3,0,0,1,0,3,2,1,1,1,380,380
+0,_Saline,_35,_35,1251,625,11,9,1,1,0,2,5,12,6,4,5,1407,504
+0,_Saline,_36,_36,639,334,12,2,2,1,1,1,3,3,1,1,1,673,324
+0,_Saline,_37,_37,1201,368,23,2,2,1,0,0,8,5,5,0,0,1246,350
+0,_Saline,_38,_38,1152,485,15,4,2,2,4,0,5,1,4,2,0,1194,475
+0,_Saline,_39,_39,511,391,11,5,0,0,0,0,1,1,1,3,0,539,376
+0,_Saline,_40,_40,1146,678,19,3,0,1,0,1,7,3,1,2,1,1246,611
+0,_Saline,_41,_41,765,372,9,1,1,1,1,0,4,3,4,1,0,795,353
+0,_Saline,_42,_42,1201,282,12,3,2,1,1,0,2,4,3,1,3,1225,284
+0,_Scott,_01 - Blackfork,_01 - Blackfork,26,0,0,0,0,0,0,0,0,0,0,1,0,28,4
+0,_Scott,_02 - Blansett,_02 - Blansett,55,4,2,0,0,1,0,0,0,0,0,0,0,55,7
+0,_Scott,_03 - Brawley,_03 - Brawley,20,5,0,2,0,0,0,1,0,1,0,0,0,21,8
+0,_Scott,_04 - Cauthron/Oliver,_04 - Cauthron/Oliver,58,14,1,0,0,0,1,0,0,2,0,0,0,57,16
+0,_Scott,_05 - Cedar Creek,_05 - Cedar Creek,37,10,1,0,0,0,0,0,0,0,0,0,0,36,11
+0,_Scott,_06 - Coal/Lafayette,_06 - Coal/Lafayette,91,9,0,0,0,0,0,0,0,0,0,1,0,93,8
+0,_Scott,_07 - Denton,_07 - Denton,105,12,4,0,1,0,0,0,1,1,0,2,0,112,15
+0,_Scott,_08 - Hickman Ward 1,_08 - Hickman Ward 1,217,61,3,0,2,1,0,0,1,2,2,1,0,229,54
+0,_Scott,_09 - Hickman Ward 2,_09 - Hickman Ward 2,242,45,0,0,2,0,1,1,1,1,0,1,1,248,43
+0,_Scott,_10 - Hickman Ward 3,_10 - Hickman Ward 3,222,54,2,2,0,0,1,0,2,1,1,2,1,230,54
+0,_Scott,_11 - Hickman Rural East,_11 - Hickman Rural East,308,26,3,0,0,0,0,0,0,6,0,1,0,311,31
+0,_Scott,_12 - Hickman Rural West,_12 - Hickman Rural West,149,25,1,0,1,0,0,0,0,0,1,0,0,155,22
+0,_Scott,_13 - Hon,_13 - Hon,103,14,0,0,0,0,0,0,0,0,0,0,0,103,13
+0,_Scott,_14 - Hunt,_14 - Hunt,86,6,0,0,0,0,0,0,0,0,0,0,0,87,5
+0,_Scott,_15 - James,_15 - James,50,6,1,0,0,0,0,0,0,0,0,2,0,53,6
+0,_Scott,_16 - Jones/Little Texas,_16 - Jones/Little Texas,52,0,0,0,0,0,0,0,0,0,0,0,0,48,3
+0,_Scott,_17 - Keener,_17 - Keener,50,10,0,0,0,0,0,0,0,0,0,0,0,51,8
+0,_Scott,_18 - Lamb,_18 - Lamb,126,16,0,0,1,0,0,0,0,2,0,0,0,123,21
+0,_Scott,_19 - Lafave,_19 - Lafave,35,5,1,0,0,0,0,0,0,1,0,0,0,35,5
+0,_Scott,_20 - Lewis 1,_20 - Lewis 1,233,40,2,0,0,0,0,0,0,1,0,0,0,237,39
+0,_Scott,_21 - Lewis 2,_21 - Lewis 2,164,29,6,0,0,0,0,1,0,1,1,2,0,164,39
+0,_Scott,_22 - Mill Creek,_22 - Mill Creek,115,11,0,0,1,0,0,0,0,1,0,0,0,115,15
+0,_Scott,_23 - Mountain,_23 - Mountain,113,20,0,0,0,0,0,0,0,0,0,0,0,110,20
+0,_Scott,_24 - Mt. Pleasant,_24 - Mt. Pleasant,152,20,0,1,1,0,0,0,0,0,0,1,1,153,22
+0,_Scott,_25 - Parks,_25 - Parks,49,20,0,0,0,0,2,0,0,0,0,0,0,55,15
+0,_Scott,_26 - Tomlinson/Tate,_26 - Tomlinson/Tate,104,21,4,0,0,0,0,0,0,1,0,2,1,108,24
+0,_Searcy,_Bear Creek #4,_Bear Creek #4,384,50,0,0,1,1,0,0,2,0,0,1,0,382,48
+0,_Searcy,_Bear Creek #5,_Bear Creek #5,354,56,3,0,2,3,1,0,0,0,2,0,0,357,57
+0,_Searcy,_Bear Creek #6,_Bear Creek #6,354,43,2,0,1,1,0,0,2,1,0,0,0,355,44
+0,_Searcy,_Calf Creek,_Calf Creek,120,40,1,1,0,0,0,0,0,0,0,0,0,112,43
+0,_Searcy,_Long Creek,_Long Creek,228,14,5,1,0,0,1,0,0,0,0,0,0,227,18
+0,_Searcy,_Mt. Pleasant,_Mt. Pleasant,180,27,5,1,3,0,0,0,0,0,1,0,0,176,34
+0,_Searcy,_Oxley,_Oxley,170,36,0,0,0,0,0,0,1,0,0,0,0,168,38
+0,_Searcy,_Prairie,_Prairie,224,28,2,0,0,0,0,0,1,0,0,0,0,225,29
+0,_Searcy,_Red River,_Red River,118,27,1,1,0,0,0,0,0,1,0,0,0,118,24
+0,_Searcy,_Rock Creek,_Rock Creek,214,34,0,0,0,0,0,0,1,0,0,1,0,206,34
+0,_Searcy,_Shady Grove,_Shady Grove,75,24,1,0,0,0,0,0,0,0,0,0,0,71,26
+0,_Searcy,_Spring,_Spring,229,59,1,0,0,0,0,0,0,0,0,1,0,228,52
+0,_Searcy,_St. Joe,_St. Joe,167,21,3,0,0,0,0,0,0,0,0,0,0,162,25
+0,_Searcy,_Tomahawk,_Tomahawk,199,55,2,0,2,0,0,0,0,0,0,0,0,205,50
+0,_Searcy,_Wiley's Cove,_Wiley's Cove,349,74,4,0,0,0,0,0,0,0,0,1,0,345,76
+0,_Sebastian,_PRECINCT 1-A,_PRECINCT 1-A,419,553,11,3,2,1,1,4,4,1,1,1,2,459,531
+0,_Sebastian,_PRECINCT 1-B,_PRECINCT 1-B,146,148,6,1,1,1,2,0,1,2,0,1,0,164,137
+0,_Sebastian,_PRECINCT 1-C,_PRECINCT 1-C,410,219,15,4,1,0,0,1,3,1,0,1,0,421,230
+0,_Sebastian,_PRECINCT 1-D,_PRECINCT 1-D,516,247,20,2,3,2,0,1,2,0,1,0,0,538,252
+0,_Sebastian,_PRECINCT 1-E,_PRECINCT 1-E,29,17,1,0,0,0,0,0,0,0,0,0,0,31,17
+0,_Sebastian,_PRECINCT 1-F,_PRECINCT 1-F,147,129,5,0,0,0,1,1,0,0,0,0,0,153,128
+0,_Sebastian,_PRECINCT 1-G,_PRECINCT 1-G,156,145,6,1,0,1,0,0,1,0,0,0,0,171,138
+0,_Sebastian,_PRECINCT 1-H,_PRECINCT 1-H,306,328,14,3,1,0,0,0,6,3,1,1,1,310,342
+0,_Sebastian,_PRECINCT 1-I,_PRECINCT 1-I,416,441,11,2,0,2,2,0,2,4,1,0,1,443,424
+0,_Sebastian,_PRECINCT 1-J,_PRECINCT 1-J,26,27,1,0,0,0,0,0,0,0,0,0,0,29,23
+0,_Sebastian,_PRECINCT 1-K,_PRECINCT 1-K,158,160,8,2,0,1,1,0,1,0,2,0,0,161,168
+0,_Sebastian,_PRECINCT 1-L,_PRECINCT 1-L,239,213,20,2,0,1,0,0,6,1,2,0,1,237,241
+0,_Sebastian,_PRECINCT 1-M,_PRECINCT 1-M,32,10,0,0,0,0,0,0,0,0,0,0,0,35,7
+0,_Sebastian,_PRECINCT 2-A,_PRECINCT 2-A,288,468,12,3,0,0,1,1,6,0,4,2,2,321,447
+0,_Sebastian,_PRECINCT 2-B,_PRECINCT 2-B,191,501,8,6,3,1,3,0,2,3,0,4,1,253,454
+0,_Sebastian,_PRECINCT 2-C,_PRECINCT 2-C,122,135,14,1,3,1,0,0,2,1,1,0,0,130,139
+0,_Sebastian,_PRECINCT 2-D,_PRECINCT 2-D,212,317,12,4,0,4,1,0,5,2,1,1,0,222,326
+0,_Sebastian,_PRECINCT 2-E,_PRECINCT 2-E,244,321,4,1,0,2,0,1,2,3,0,1,1,276,293
+0,_Sebastian,_PRECINCT 2-F,_PRECINCT 2-F,123,182,5,4,0,1,0,2,3,2,0,0,0,137,180
+0,_Sebastian,_PRECINCT 2-G,_PRECINCT 2-G,80,134,1,0,0,1,0,2,2,2,0,1,2,94,130
+0,_Sebastian,_PRECINCT 2-H,_PRECINCT 2-H,91,137,1,2,0,0,1,0,0,0,0,0,0,107,120
+0,_Sebastian,_PRECINCT 3-A,_PRECINCT 3-A,248,200,8,2,1,1,0,0,2,2,1,0,0,264,196
+0,_Sebastian,_PRECINCT 3-B,_PRECINCT 3-B,493,288,18,3,3,2,0,0,5,2,1,0,1,516,293
+0,_Sebastian,_PRECINCT 3-C,_PRECINCT 3-C,163,94,4,0,1,0,0,0,3,0,0,0,0,178,85
+0,_Sebastian,_PRECINCT 3-D,_PRECINCT 3-D,834,522,39,5,2,2,1,1,4,1,1,1,1,859,543
+0,_Sebastian,_PRECINCT 3-E,_PRECINCT 3-E,795,401,28,3,2,3,0,0,5,3,1,0,1,815,419
+0,_Sebastian,_PRECINCT 3-F,_PRECINCT 3-F,605,317,28,0,1,3,0,0,1,1,1,3,2,628,320
+0,_Sebastian,_PRECINCT 3-G,_PRECINCT 3-G,670,298,15,3,2,0,1,0,4,2,0,0,1,691,298
+0,_Sebastian,_PRECINCT 3-H,_PRECINCT 3-H,1039,437,22,1,1,4,0,4,3,1,1,0,1,1085,426
+0,_Sebastian,_PRECINCT 3-I,_PRECINCT 3-I,128,66,0,1,0,1,0,1,0,0,0,0,0,138,55
+0,_Sebastian,_PRECINCT 3-J,_PRECINCT 3-J,119,40,3,0,0,0,0,0,0,0,0,0,0,120,39
+0,_Sebastian,_PRECINCT 3-K,_PRECINCT 3-K,56,22,0,0,1,0,0,0,0,0,0,0,0,59,19
+0,_Sebastian,_PRECINCT 3-L,_PRECINCT 3-L,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+0,_Sebastian,_PRECINCT 3-M,_PRECINCT 3-M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Sebastian,_PRECINCT 3-N,_PRECINCT 3-N,0,3,0,0,0,0,0,0,0,0,0,0,0,1,2
+0,_Sebastian,_PRECINCT 3-O,_PRECINCT 3-O,569,169,8,0,0,0,1,0,1,1,0,0,0,581,169
+0,_Sebastian,_PRECINCT 4-A,_PRECINCT 4-A,284,218,9,0,0,1,0,1,3,1,1,0,0,305,202
+0,_Sebastian,_PRECINCT 4-B,_PRECINCT 4-B,451,286,15,3,0,0,0,1,0,2,1,1,0,472,283
+0,_Sebastian,_PRECINCT 4-C,_PRECINCT 4-C,1187,741,50,5,2,3,1,1,6,6,4,1,1,1228,763
+0,_Sebastian,_PRECINCT 4-D,_PRECINCT 4-D,747,366,16,2,2,2,0,0,2,2,1,2,0,769,367
+0,_Sebastian,_PRECINCT 4-E,_PRECINCT 4-E,441,281,12,2,0,1,1,0,3,3,1,0,4,449,296
+0,_Sebastian,_PRECINCT 4-F,_PRECINCT 4-F,300,170,8,0,1,1,0,0,5,1,1,0,0,314,173
+0,_Sebastian,_PRECINCT 4-G,_PRECINCT 4-G,1145,585,34,1,5,0,3,0,12,7,0,3,2,1193,602
+0,_Sebastian,_PRECINCT 4-H,_PRECINCT 4-H,514,255,15,2,0,3,0,1,3,1,2,1,2,527,262
+0,_Sebastian,_PRECINCT 4-I,_PRECINCT 4-I,369,220,12,0,0,0,1,0,0,1,1,0,0,394,209
+0,_Sebastian,_PRECINCT 4-J,_PRECINCT 4-J,12,1,0,0,0,0,0,0,0,0,0,0,0,12,1
+0,_Sebastian,_PRECINCT 4-K,_PRECINCT 4-K,611,276,15,2,0,2,1,0,3,1,1,1,1,635,276
+0,_Sebastian,_PRECINCT 4-L,_PRECINCT 4-L,310,171,8,0,0,1,0,0,0,0,1,0,0,314,170
+0,_Sebastian,_PRECINCT 4-M,_PRECINCT 4-M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Sebastian,_PRECINCT 4-N,_PRECINCT 4-N,377,216,10,1,1,2,0,0,4,1,1,2,1,397,213
+0,_Sebastian,_PRECINCT 9-1A,_PRECINCT 9-1A,116,19,1,0,0,0,0,0,0,0,0,0,0,114,24
+0,_Sebastian,_PRECINCT 9-1B,_PRECINCT 9-1B,272,36,2,0,0,0,0,0,0,0,0,0,0,261,46
+0,_Sebastian,_PRECINCT 9-1C,_PRECINCT 9-1C,363,65,6,0,0,0,1,0,2,0,1,0,0,355,84
+0,_Sebastian,_PRECINCT 9-1D,_PRECINCT 9-1D,841,144,13,1,1,1,0,0,0,0,0,0,0,821,181
+0,_Sebastian,_PRECINCT 9-1E,_PRECINCT 9-1E,617,90,7,0,0,0,0,1,0,1,0,1,0,611,106
+0,_Sebastian,_PRECINCT 9-1F,_PRECINCT 9-1F,35,9,2,0,0,0,0,0,0,0,0,0,0,36,10
+0,_Sebastian,_PRECINCT 9-1G,_PRECINCT 9-1G,67,11,1,0,0,0,0,0,0,0,0,0,0,63,16
+0,_Sebastian,_PRECINCT 9-1H,_PRECINCT 9-1H,78,14,4,0,0,0,0,0,0,1,0,0,0,78,19
+0,_Sebastian,_PRECINCT 9-1I,_PRECINCT 9-1I,351,112,7,2,0,0,0,0,1,0,0,0,0,365,110
+0,_Sebastian,_PRECINCT 9-1K,_PRECINCT 9-1K,291,114,9,2,0,0,0,0,0,2,0,0,1,297,117
+0,_Sebastian,_PRECINCT 9-1M,_PRECINCT 9-1M,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+0,_Sebastian,_PRECINCT 9-1N,_PRECINCT 9-1N,225,36,3,0,1,1,0,0,0,0,0,0,0,223,44
+0,_Sebastian,_PRECINCT 9-1O,_PRECINCT 9-1O,112,12,0,0,0,1,0,0,0,0,0,0,0,103,18
+0,_Sebastian,_PRECINCT 9-2A Ward 1,_PRECINCT 9-2A Ward 1,321,57,3,1,0,0,1,0,0,2,1,0,0,325,61
+0,_Sebastian,_PRECINCT 9-2A Ward 2,_PRECINCT 9-2A Ward 2,701,174,9,0,2,1,2,0,2,3,1,2,0,690,204
+0,_Sebastian,_PRECINCT 9-2A Ward 3,_PRECINCT 9-2A Ward 3,197,42,3,2,0,1,0,0,0,0,1,0,0,192,55
+0,_Sebastian,_PRECINCT 9-2B,_PRECINCT 9-2B,253,64,6,1,2,0,0,0,2,0,1,0,0,255,73
+0,_Sebastian,_PRECINCT 9-2C Ward 2,_PRECINCT 9-2C Ward 2,321,59,4,0,0,0,0,0,1,2,1,0,0,316,70
+0,_Sebastian,_PRECINCT 9-2C Ward 3,_PRECINCT 9-2C Ward 3,928,206,25,0,1,1,1,3,4,5,1,0,0,930,239
+0,_Sebastian,_PRECINCT 9-2D,_PRECINCT 9-2D,161,27,3,1,0,0,0,0,1,0,0,0,0,164,28
+0,_Sebastian,_PRECINCT 9-2E,_PRECINCT 9-2E,18,3,0,0,0,0,0,0,0,0,0,0,0,18,3
+0,_Sebastian,_PRECINCT 9-2F,_PRECINCT 9-2F,268,45,0,1,2,0,0,0,1,3,1,0,0,273,48
+0,_Sebastian,_PRECINCT 9-2G,_PRECINCT 9-2G,239,39,6,2,0,0,0,0,3,0,0,0,0,244,41
+0,_Sebastian,_PRECINCT 9-2H,_PRECINCT 9-2H,72,11,1,0,0,0,0,0,1,0,0,0,0,70,14
+0,_Sebastian,_PRECINCT 9-2I,_PRECINCT 9-2I,83,18,1,0,0,0,0,0,0,0,0,0,0,83,20
+0,_Sebastian,_PRECINCT 9-2J,_PRECINCT 9-2J,19,5,0,0,0,0,0,1,0,0,0,0,0,19,6
+0,_Sebastian,_PRECINCT 9-2K,_PRECINCT 9-2K,161,37,0,0,0,0,0,0,0,0,0,0,0,165,31
+0,_Sebastian,_PRECINCT 9-2L,_PRECINCT 9-2L,152,21,0,0,0,0,0,0,0,0,0,0,0,156,16
+0,_Sebastian,_PRECINCT 9-2M,_PRECINCT 9-2M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Sebastian,_PRECINCT 9-3A,_PRECINCT 9-3A,209,35,1,0,2,0,0,0,2,1,0,0,1,207,44
+0,_Sebastian,_PRECINCT 9-3B,_PRECINCT 9-3B,464,83,10,1,1,1,0,0,0,1,0,0,0,465,92
+0,_Sebastian,_PRECINCT 9-3C,_PRECINCT 9-3C,366,83,10,0,0,1,0,0,1,0,2,0,1,370,93
+0,_Sebastian,_PRECINCT 9-3D,_PRECINCT 9-3D,75,13,2,0,0,0,0,0,0,0,0,0,1,74,17
+0,_Sebastian,_PRECINCT 9-3E,_PRECINCT 9-3E,205,45,5,0,0,1,0,0,0,2,0,0,0,198,58
+0,_Sebastian,_PRECINCT 9-3F,_PRECINCT 9-3F,373,57,2,1,0,1,1,0,0,0,1,0,0,378,61
+0,_Sebastian,_PRECINCT 9-3G,_PRECINCT 9-3G,116,20,2,0,0,0,0,1,0,0,0,1,0,117,22
+0,_Sebastian,_PRECINCT 9-3H,_PRECINCT 9-3H,186,18,4,1,0,0,0,0,0,0,1,0,0,183,26
+0,_Sebastian,_PRECINCT 9-3I,_PRECINCT 9-3I,230,25,2,1,0,0,0,0,0,0,1,1,0,230,28
+0,_Sebastian,_PRECINCT 9-3J,_PRECINCT 9-3J,332,47,6,0,0,0,0,0,0,0,0,1,0,328,56
+0,_Sebastian,_PRECINCT 9-3K,_PRECINCT 9-3K,171,41,4,0,0,0,0,0,1,0,1,0,0,175,42
+0,_Sebastian,_PRECINCT 9-3L,_PRECINCT 9-3L,152,33,2,0,0,0,0,0,0,0,0,0,0,151,37
+0,_Sebastian,_PRECINCT 9-3M,_PRECINCT 9-3M,74,20,1,0,0,0,0,0,0,0,0,0,0,75,20
+0,_Sebastian,_PRECINCT 9-3N,_PRECINCT 9-3N,50,7,1,0,0,0,0,0,0,0,0,0,0,48,10
+0,_Sebastian,_PRECINCT 9-3O,_PRECINCT 9-3O,104,16,1,0,0,0,0,0,1,0,0,2,0,104,21
+0,_Sebastian,_PRECINCT 9-3P,_PRECINCT 9-3P,101,23,4,0,0,0,1,0,1,0,0,0,0,98,32
+0,_Sebastian,_PRECINCT 9-4A,_PRECINCT 9-4A,87,26,0,0,0,0,0,0,0,0,0,0,0,87,26
+0,_Sebastian,_PRECINCT 9-4B,_PRECINCT 9-4B,894,130,17,2,1,2,0,0,1,1,1,0,1,901,149
+0,_Sebastian,_PRECINCT 9-4C,_PRECINCT 9-4C,891,197,20,1,3,1,0,0,2,2,2,2,0,900,216
+0,_Sebastian,_PRECINCT 9-4D,_PRECINCT 9-4D,56,24,0,0,0,0,0,0,0,0,0,0,0,61,19
+0,_Sebastian,_PRECINCT 9-4E,_PRECINCT 9-4E,62,6,1,0,0,0,0,0,1,0,0,0,0,61,9
+0,_Sebastian,_PRECINCT 9-4F,_PRECINCT 9-4F,41,2,0,0,0,0,0,0,0,0,0,0,0,40,3
+0,_Sebastian,_PRECINCT 9-4G,_PRECINCT 9-4G,71,22,1,0,0,1,0,0,0,0,0,0,0,74,21
+0,_Sebastian,_PRECINCT 9-4H,_PRECINCT 9-4H,196,53,5,0,0,0,0,0,0,0,0,0,0,201,54
+0,_Sebastian,_PRECINCT 9-4I,_PRECINCT 9-4I,378,93,5,0,1,1,1,0,1,0,0,0,1,381,98
+0,_Sebastian,_PRECINCT 9-4J,_PRECINCT 9-4J,41,10,1,0,0,0,0,0,0,0,0,0,0,42,10
+0,_Sebastian,_PRECINCT 9-4K,_PRECINCT 9-4K,513,128,13,0,0,0,0,0,0,0,0,0,0,509,142
+0,_Sebastian,_PRECINCT 9-4L,_PRECINCT 9-4L,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Sebastian,_PRECINCT 9-5A,_PRECINCT 9-5A,12,7,0,1,0,0,0,0,0,0,0,0,0,11,9
+0,_Sebastian,_PRECINCT 9-5B,_PRECINCT 9-5B,9,0,0,0,0,0,0,0,0,0,0,0,0,8,1
+0,_Sebastian,_PRECINCT 9-6A,_PRECINCT 9-6A,16,6,0,0,0,0,0,0,0,0,1,0,0,13,10
+0,_Sebastian,_PRECINCT 9-6B,_PRECINCT 9-6B,66,9,0,0,0,0,0,0,0,0,0,0,0,66,9
+0,_Sebastian,_PRECINCT 9-6C,_PRECINCT 9-6C,16,4,1,0,0,0,0,0,0,0,0,0,0,15,6
+0,_Sebastian,_PRECINCT 9-J,_PRECINCT 9-J,208,96,5,0,0,0,0,0,0,2,0,0,3,211,97
+0,_Sebastian,_PRECINCT 9-L,_PRECINCT 9-L,350,163,9,0,0,1,0,0,2,0,0,0,1,349,173
+0,_Sevier,_Bear Creek East,_Bear Creek East,193,27,1,0,3,1,1,0,0,0,0,0,0,199,25
+0,_Sevier,_Bear Creek West,_Bear Creek West,437,130,7,2,0,0,3,2,3,2,0,1,0,479,100
+0,_Sevier,_Ben Lomond,_Ben Lomond,105,16,2,0,1,0,0,0,1,0,0,0,0,107,17
+0,_Sevier,_Clear Creek 1,_Clear Creek 1,228,26,2,0,0,0,1,0,0,1,0,0,0,232,25
+0,_Sevier,_Clear Creek 2,_Clear Creek 2,668,139,7,1,12,2,0,1,3,1,0,1,0,679,127
+0,_Sevier,_De Queen East,_De Queen East,116,104,4,0,0,2,2,4,4,0,0,1,0,141,91
+0,_Sevier,_De Queen North Central,_De Queen North Central,127,66,5,3,2,2,1,2,1,0,0,0,1,139,68
+0,_Sevier,_De Queen Northwest,_De Queen Northwest,276,111,3,1,5,0,3,2,1,0,1,0,0,298,99
+0,_Sevier,_De Queen Southwest,_De Queen Southwest,161,165,3,0,9,0,1,5,2,3,0,0,2,204,139
+0,_Sevier,_Jefferson,_Jefferson,62,6,0,0,0,0,0,0,0,0,0,0,0,64,4
+0,_Sevier,_Mineral,_Mineral,369,79,8,0,3,0,1,0,1,0,0,1,0,376,76
+0,_Sevier,_Monroe,_Monroe,321,71,3,0,5,1,1,0,0,0,0,0,1,329,70
+0,_Sevier,_Paraclifta,_Paraclifta,145,33,5,0,0,0,1,0,0,0,0,0,0,152,27
+0,_Sevier,_Red Colony,_Red Colony,460,85,5,2,5,2,3,2,0,0,0,3,3,486,79
+0,_Sevier,_Saline East,_Saline East,60,1,0,0,1,0,1,0,1,0,0,0,0,60,2
+0,_Sevier,_Saline West,_Saline West,52,12,0,0,0,0,0,0,0,0,0,0,0,53,11
+0,_Sevier,_Washington,_Washington,104,45,0,1,4,0,0,0,0,0,0,1,0,107,44
+0,_Sharp,_Big Creek,_Big Creek,139,13,0,0,0,0,0,0,0,1,0,0,1,140,15
+0,_Sharp,_Cave,_Cave,760,126,11,6,1,0,1,0,1,3,3,1,3,769,136
+0,_Sharp,_Cherokee,_Cherokee,1323,457,12,4,3,4,1,0,2,14,7,4,6,1386,405
+0,_Sharp,_Davidson,_Davidson,87,15,0,0,0,0,0,0,0,0,0,0,0,87,15
+0,_Sharp,_East Sullivan,_East Sullivan,169,15,0,1,0,0,0,0,0,1,0,0,1,166,13
+0,_Sharp,_Hardy,_Hardy,405,139,5,3,5,0,0,0,0,0,5,2,1,430,119
+0,_Sharp,_Highland,_Highland,486,98,2,2,1,0,0,2,1,2,4,2,2,492,102
+0,_Sharp,_Jackson,_Jackson,108,32,1,1,0,0,0,0,2,0,0,1,0,115,28
+0,_Sharp,_Lave Creek,_Lave Creek,129,25,0,2,0,0,0,0,0,0,0,0,1,130,26
+0,_Sharp,_Lower North,_Lower North,174,30,1,1,2,0,0,1,2,0,0,1,1,180,32
+0,_Sharp,_Morgan,_Morgan,82,16,0,1,0,0,0,0,0,1,0,0,0,82,16
+0,_Sharp,_North Big Rock,_North Big Rock,62,12,0,0,0,0,0,0,0,0,0,0,0,59,14
+0,_Sharp,_North Lebanon,_North Lebanon,17,4,0,0,0,0,0,0,0,0,0,0,0,16,2
+0,_Sharp,_North Union,_North Union,42,5,0,0,0,0,0,0,0,1,0,0,0,41,6
+0,_Sharp,_Ozark,_Ozark,199,61,6,2,0,1,0,0,0,0,1,0,1,205,53
+0,_Sharp,_Piney Fork,_Piney Fork,373,65,5,0,1,0,1,0,0,3,2,0,1,382,59
+0,_Sharp,_Richwood,_Richwood,636,139,6,3,2,1,0,2,2,5,3,1,3,653,133
+0,_Sharp,_Scott,_Scott,147,22,1,0,1,0,0,0,0,2,0,3,0,154,21
+0,_Sharp,_South Big Rock,_South Big Rock,61,18,0,0,1,0,0,0,0,0,0,0,0,66,14
+0,_Sharp,_South Lebanon,_South Lebanon,43,8,0,0,0,0,0,0,0,0,0,0,1,43,9
+0,_Sharp,_South Union,_South Union,109,25,0,2,0,0,0,0,2,0,0,0,1,106,28
+0,_Sharp,_Strawberry,_Strawberry,63,16,0,0,0,0,0,0,1,1,0,0,0,66,11
+0,_Sharp,_Upper North,_Upper North,87,14,0,1,0,0,0,0,0,1,0,1,1,87,15
+0,_Sharp,_Washington,_Washington,82,14,1,0,1,0,0,0,0,0,0,1,0,86,13
+0,_Sharp,_West Sullivan,_West Sullivan,155,29,1,0,2,0,0,0,0,1,0,0,0,151,35
+0,_St. Francis,_Bonair/Tuni,_Bonair/Tuni,303,87,0,2,0,0,2,1,0,0,0,0,0,309,78
+0,_St. Francis,_Caldwell,_Caldwell,196,62,0,0,1,0,1,0,0,3,1,1,1,203,54
+0,_St. Francis,_Colt/Pine Tree,_Colt/Pine Tree,318,200,3,1,1,0,5,0,0,1,4,1,1,339,162
+0,_St. Francis,_Forrest City Country West,_Forrest City Country West,59,75,3,1,2,1,0,0,0,0,1,0,0,66,56
+0,_St. Francis,_Forrest City Ward 1,_Forrest City Ward 1,25,554,3,4,0,0,5,6,2,4,7,0,1,89,415
+0,_St. Francis,_Forrest City Ward 2,_Forrest City Ward 2,59,704,0,7,1,1,8,10,3,0,6,2,1,127,520
+0,_St. Francis,_Forrest City Ward 3,_Forrest City Ward 3,368,512,5,2,2,1,9,1,3,3,9,5,1,414,432
+0,_St. Francis,_Forrest City Ward 4,_Forrest City Ward 4,263,448,4,1,1,1,2,3,4,3,5,1,2,314,368
+0,_St. Francis,_Heth/Blackfish,_Heth/Blackfish,115,66,2,0,0,0,0,0,1,0,2,0,0,118,60
+0,_St. Francis,_Hughes/Rawlison,_Hughes/Rawlison,137,239,3,2,1,0,1,3,5,2,7,2,0,173,203
+0,_St. Francis,_Madison,_Madison,23,200,1,0,0,0,1,0,0,1,3,1,0,47,152
+0,_St. Francis,_Newcastle/Parrot,_Newcastle/Parrot,758,149,3,0,2,0,2,0,2,1,2,0,0,757,129
+0,_St. Francis,_Palestine/Goodwin,_Palestine/Goodwin,421,170,6,1,0,0,3,2,0,3,3,0,1,425,132
+0,_St. Francis,_Wheatley,_Wheatley,123,49,3,0,0,0,0,1,0,0,2,1,0,131,44
+0,_St. Francis,_Widener/Round Pond,_Widener/Round Pond,74,89,1,0,0,0,1,0,0,1,5,1,0,94,68
+0,_Stone,_Angora Mtn,_Angora Mtn,30,16,0,0,0,0,0,0,1,0,0,0,0,28,17
+0,_Stone,_Arbanna,_Arbanna,249,64,4,1,2,0,0,0,2,0,0,0,0,254,61
+0,_Stone,_Ben,_Ben,114,7,0,0,0,0,0,0,0,0,0,0,0,109,11
+0,_Stone,_Bethany,_Bethany,224,50,2,4,2,0,0,1,0,0,3,0,0,228,53
+0,_Stone,_Dodd Mtn,_Dodd Mtn,330,91,3,0,2,0,0,0,0,0,0,1,0,338,87
+0,_Stone,_East Out,_East Out,170,33,1,0,2,0,0,0,0,1,1,0,0,167,40
+0,_Stone,_Fifty Six,_Fifty Six,54,5,0,0,0,0,0,0,0,0,0,0,0,53,6
+0,_Stone,_Foothills,_Foothills,591,147,4,3,1,0,0,0,3,2,0,0,1,605,133
+0,_Stone,_Fox,_Fox,420,131,8,4,4,0,0,1,0,1,2,0,0,419,143
+0,_Stone,_Liberty,_Liberty,114,23,2,0,0,0,0,0,0,0,0,0,1,106,32
+0,_Stone,_Northeast,_Northeast,157,36,2,0,0,0,0,0,0,1,0,0,0,157,35
+0,_Stone,_Northwest,_Northwest,183,39,0,2,2,0,1,0,1,1,0,0,0,193,34
+0,_Stone,_Old Lexington,_Old Lexington,49,8,0,0,0,0,0,0,0,0,0,0,0,48,7
+0,_Stone,_Pleasant Grove,_Pleasant Grove,373,80,7,2,0,0,0,0,3,1,0,1,0,368,96
+0,_Stone,_Red Doors,_Red Doors,398,128,3,0,1,1,3,0,0,0,1,0,1,404,124
+0,_Stone,_Ward 1,_Ward 1,391,97,5,3,0,2,0,0,2,2,2,1,0,405,90
+0,_Stone,_Ward 2,_Ward 2,305,93,0,0,1,0,2,0,4,0,0,1,1,302,100
+0,_Stone,_Ward 3,_Ward 3,287,92,5,0,1,0,0,0,5,0,0,0,0,280,98
+0,_Stone,_West Out,_West Out,177,40,1,0,0,0,0,0,0,0,0,0,0,173,42
+0,_Union,_Aurelle,_Aurelle,110,92,1,1,1,1,0,1,1,0,3,0,0,127,72
+0,_Union,_Caledonia,_Caledonia,358,38,3,2,1,1,0,0,0,0,0,0,0,363,34
+0,_Union,_Calion,_Calion,225,80,7,1,2,0,0,0,1,2,0,1,1,238,69
+0,_Union,_Country Box # 1,_Country Box # 1,159,103,4,0,0,1,1,1,0,2,1,0,1,185,84
+0,_Union,_Country Box # 2,_Country Box # 2,332,37,2,2,4,2,0,0,1,1,1,1,0,342,34
+0,_Union,_Country Box # 3,_Country Box # 3,1069,95,9,1,6,0,0,1,0,0,3,5,0,1091,90
+0,_Union,_Country Box # 4,_Country Box # 4,524,113,7,0,1,0,0,0,1,3,0,0,0,541,101
+0,_Union,_Country Box # 6,_Country Box # 6,590,160,10,1,1,0,0,0,1,1,2,0,0,618,133
+0,_Union,_Country Box # 7,_Country Box # 7,122,40,1,0,0,0,0,0,0,0,0,0,0,119,41
+0,_Union,_Felsenthal,_Felsenthal,41,13,1,0,0,0,0,0,0,0,0,0,0,43,12
+0,_Union,_Hibanks,_Hibanks,266,54,3,0,0,1,0,2,0,1,0,1,0,264,57
+0,_Union,_Huttig,_Huttig,141,147,5,3,3,1,0,1,3,1,0,2,0,162,109
+0,_Union,_Junction City,_Junction City,215,109,4,0,2,2,1,0,1,1,2,2,0,246,75
+0,_Union,_Lawson,_Lawson,313,100,1,0,2,0,0,1,0,1,1,1,0,318,80
+0,_Union,_Lisbon,_Lisbon,268,43,2,1,0,0,0,1,0,0,1,1,0,270,41
+0,_Union,_Mt Holly,_Mt Holly,158,44,0,0,0,0,0,0,0,0,0,0,0,165,28
+0,_Union,_New London,_New London,211,55,1,1,2,0,0,0,0,1,0,1,0,213,46
+0,_Union,_Norphlet,_Norphlet,643,123,12,0,4,0,0,0,1,0,1,0,1,659,110
+0,_Union,_Smackover,_Smackover,653,246,8,0,4,0,2,0,3,3,1,2,0,693,215
+0,_Union,_Strong,_Strong,169,259,4,3,3,0,1,7,3,0,2,1,0,207,192
+0,_Union,_Three Creeks,_Three Creeks,309,52,6,0,3,0,0,0,0,2,0,0,0,317,46
+0,_Union,_Union,_Union,564,141,14,0,1,0,0,3,2,2,3,2,0,584,135
+0,_Union,_Ward 1,_Ward 1,674,728,15,2,8,3,0,5,7,3,3,5,1,788,622
+0,_Union,_Ward 2,_Ward 2,923,811,21,6,4,10,4,5,11,3,9,5,0,1032,716
+0,_Union,_Ward 3,_Ward 3,218,1022,15,6,11,3,0,5,4,0,8,13,0,363,843
+0,_Union,_Ward 4,_Ward 4,907,821,23,6,10,1,2,4,6,5,6,3,0,1021,704
+0,_Union,_Wesson,_Wesson,174,45,3,0,1,0,0,0,0,0,0,2,0,184,30
+0,_Union,_Wooleys Store,_Wooleys Store,142,13,0,0,0,1,1,0,0,0,0,0,0,139,14
+0,_Van Buren,_02 BARNETT,_02 BARNETT,272,37,5,0,1,0,0,0,0,0,0,0,0,276,35
+0,_Van Buren,_03 BRADLEY,_03 BRADLEY,457,101,4,0,0,2,1,0,1,1,0,0,2,463,100
+0,_Van Buren,_04 CULPEPPER,_04 CULPEPPER,140,23,1,1,0,2,0,0,0,0,0,0,0,134,30
+0,_Van Buren,_05 HOLLY MOUNTAIN,_05 HOLLY MOUNTAIN,224,54,1,0,0,0,1,0,0,0,0,0,1,217,57
+0,_Van Buren,_06 CHOCTAW,_06 CHOCTAW,237,71,1,1,1,1,0,0,2,0,1,0,0,232,71
+0,_Van Buren,_07 WEST GRIGGS,_07 WEST GRIGGS,440,114,3,2,0,2,1,0,1,1,3,1,0,442,124
+0,_Van Buren,_08 CRAIG,_08 CRAIG,297,44,2,0,0,1,0,0,1,1,0,0,0,299,40
+0,_Van Buren,_09 CARGILE,_09 CARGILE,163,18,0,0,0,0,0,0,0,1,0,0,0,163,17
+0,_Van Buren,_10 DAVIS,_10 DAVIS,380,84,6,0,1,1,0,1,0,0,2,1,1,386,81
+0,_Van Buren,_11 FORMOSA,_11 FORMOSA,224,38,3,2,0,0,0,0,0,1,1,0,1,229,37
+0,_Van Buren,_12 EAST GRIGGS,_12 EAST GRIGGS,358,96,4,0,0,2,0,1,0,1,0,0,3,367,91
+0,_Van Buren,_15 MOUNTAIN,_15 MOUNTAIN,122,21,0,0,0,0,0,0,1,1,0,0,0,119,23
+0,_Van Buren,_17 LINN CREEK,_17 LINN CREEK,204,69,0,0,1,0,0,0,1,0,0,1,1,207,63
+0,_Van Buren,_19 RED RIVER,_19 RED RIVER,289,101,2,0,1,1,0,0,0,1,2,2,2,302,91
+0,_Van Buren,_20 UNION,_20 UNION,479,115,2,6,0,1,0,0,3,0,1,0,2,490,111
+0,_Van Buren,_21 WASHINGTON,_21 WASHINGTON,341,69,8,2,0,1,0,0,1,0,1,0,1,339,75
+0,_Van Buren,_22 WHEELER,_22 WHEELER,112,60,4,1,0,0,0,1,0,0,1,0,2,113,65
+0,_Van Buren,_23 MOUNTAIN RANCH,_23 MOUNTAIN RANCH,345,152,2,3,0,2,0,0,0,0,1,0,3,373,118
+0,_Van Buren,_24 SOUTH GRIGGS,_24 SOUTH GRIGGS,519,167,3,1,0,3,0,1,1,2,2,0,1,531,157
+0,_Van Buren,_25 INDIAN HILLS,_25 INDIAN HILLS,243,78,2,0,0,3,0,0,1,1,1,0,2,259,64
+0,_Van Buren,_26 LAKEWOOD,_26 LAKEWOOD,188,81,1,0,1,0,0,0,2,1,1,0,1,194,69
+0,_Washington,_Boston,_Boston,119,40,1,1,0,0,0,0,0,0,0,0,0,118,39
+0,_Washington,_Brush Creek,_Brush Creek,876,372,15,0,1,0,0,1,4,5,1,0,1,883,378
+0,_Washington,_Cane Hill,_Cane Hill,511,160,3,1,1,2,0,0,5,1,3,0,1,508,177
+0,_Washington,_Center,_Center,473,219,14,1,2,1,0,0,1,1,2,1,1,495,215
+0,_Washington,_Center House,_Center House,43,31,3,0,0,0,0,0,1,2,0,0,0,40,39
+0,_Washington,_Center-2,_Center-2,66,31,0,0,0,0,0,0,1,0,0,0,0,62,34
+0,_Washington,_Cove Creek,_Cove Creek,251,116,3,0,0,0,0,0,1,0,1,1,1,254,115
+0,_Washington,_Cove Creek-S,_Cove Creek-S,12,10,0,0,0,0,0,0,1,0,0,0,0,13,9
+0,_Washington,_Crawford,_Crawford,338,139,9,2,1,1,0,0,3,1,0,0,0,341,143
+0,_Washington,_Durham,_Durham,253,126,2,2,0,0,0,0,0,0,2,1,0,248,132
+0,_Washington,_Dutch Mills,_Dutch Mills,120,26,0,1,0,0,0,0,0,0,0,0,0,122,24
+0,_Washington,_Elkins,_Elkins,832,467,27,7,0,6,0,1,8,0,3,1,0,844,482
+0,_Washington,_Elkins-H,_Elkins-H,106,55,2,1,0,0,0,0,1,0,0,0,0,102,55
+0,_Washington,_Elm Springs City,_Elm Springs City,766,256,6,3,0,1,1,0,5,0,3,0,1,784,252
+0,_Washington,_Elm Springs Twp,_Elm Springs Twp,179,35,0,0,1,1,0,1,1,0,0,0,0,180,37
+0,_Washington,_Farmington-1,_Farmington-1,629,446,24,4,1,2,1,0,7,5,2,0,1,632,482
+0,_Washington,_Farmington-2,_Farmington-2,940,481,19,6,1,0,0,1,2,0,2,1,1,954,497
+0,_Washington,_Farmington-3,_Farmington-3,494,282,13,2,2,1,0,1,1,3,1,1,0,517,277
+0,_Washington,_Farmington-S,_Farmington-S,95,38,4,0,1,0,0,0,0,0,0,0,1,97,33
+0,_Washington,_Fay 01,_Fay 01,206,366,12,2,0,0,1,1,2,0,1,0,0,211,371
+0,_Washington,_Fay 02,_Fay 02,135,328,8,0,0,2,0,3,3,0,0,0,0,148,309
+0,_Washington,_Fay 03,_Fay 03,356,958,27,10,0,7,0,4,4,2,0,1,2,387,954
+0,_Washington,_Fay 04,_Fay 04,175,533,15,8,0,3,0,1,2,0,0,0,2,169,555
+0,_Washington,_Fay 05,_Fay 05,221,821,13,9,0,0,0,9,6,1,1,3,0,238,809
+0,_Washington,_Fay 06,_Fay 06,544,1008,27,2,0,5,0,3,5,1,0,4,2,591,973
+0,_Washington,_Fay 07,_Fay 07,172,627,12,2,1,3,0,4,3,0,0,0,0,192,605
+0,_Washington,_Fay 08,_Fay 08,229,858,12,5,2,1,0,6,7,0,1,2,0,258,832
+0,_Washington,_Fay 09a,_Fay 09a,106,405,12,5,0,0,0,1,4,0,0,0,0,106,414
+0,_Washington,_Fay 09b,_Fay 09b,199,584,11,3,0,0,0,0,1,1,2,1,0,212,564
+0,_Washington,_Fay 10,_Fay 10,180,349,5,5,1,0,0,0,6,2,1,0,0,192,347
+0,_Washington,_Fay 11,_Fay 11,594,663,16,6,0,2,2,0,2,1,2,2,0,623,655
+0,_Washington,_Fay 12,_Fay 12,790,1042,35,6,0,9,0,2,1,2,0,0,2,839,1004
+0,_Washington,_Fay 13,_Fay 13,163,541,14,8,2,2,0,11,7,0,2,2,0,172,570
+0,_Washington,_Fay 14,_Fay 14,66,197,4,1,0,0,0,2,3,0,0,0,0,69,198
+0,_Washington,_Fay 15,_Fay 15,148,343,15,2,1,1,0,2,2,1,0,1,1,159,344
+0,_Washington,_Fay 16,_Fay 16,47,31,2,0,0,0,0,0,2,2,0,0,0,47,35
+0,_Washington,_Fay 17,_Fay 17,388,730,12,2,1,1,0,0,0,0,0,0,0,404,708
+0,_Washington,_Fay 18,_Fay 18,231,587,12,2,0,5,0,5,3,0,0,0,0,252,574
+0,_Washington,_Fay 19,_Fay 19,457,923,20,1,1,3,1,4,6,1,0,3,0,507,879
+0,_Washington,_Fay 20,_Fay 20,669,1003,39,4,0,7,0,1,11,3,2,2,0,699,1004
+0,_Washington,_Fay 21,_Fay 21,374,449,10,5,0,4,0,2,7,0,1,1,0,402,439
+0,_Washington,_Fay 22,_Fay 22,415,822,31,7,1,2,0,1,6,1,0,3,0,450,812
+0,_Washington,_Fay 23,_Fay 23,325,689,21,7,1,0,0,3,5,1,1,1,1,336,691
+0,_Washington,_Fay 24,_Fay 24,27,273,2,3,0,0,0,1,1,0,0,1,0,30,271
+0,_Washington,_Fay 25,_Fay 25,81,635,7,4,0,2,0,0,3,1,0,0,0,103,603
+0,_Washington,_Fay 26,_Fay 26,312,560,26,5,0,5,0,0,1,1,0,2,1,334,562
+0,_Washington,_Fay 27,_Fay 27,559,815,20,5,2,7,0,2,4,0,2,4,2,602,787
+0,_Washington,_Fay 28,_Fay 28,503,587,8,0,0,3,0,1,8,0,0,0,0,575,510
+0,_Washington,_Fay 29,_Fay 29,294,437,8,3,0,1,0,1,1,0,1,1,0,338,402
+0,_Washington,_Fay 30,_Fay 30,483,650,21,4,3,3,1,2,6,1,3,2,1,513,639
+0,_Washington,_Fay 31,_Fay 31,716,978,31,4,0,11,1,1,8,0,0,1,0,769,933
+0,_Washington,_Fay 32,_Fay 32,496,438,19,1,1,2,0,0,3,2,0,2,1,524,431
+0,_Washington,_Fay 33,_Fay 33,123,150,11,1,0,1,0,0,4,1,0,0,0,131,153
+0,_Washington,_Fay 34,_Fay 34,126,450,13,7,0,2,0,5,1,0,1,0,0,133,459
+0,_Washington,_Fay 35,_Fay 35,279,353,6,2,0,0,0,1,1,0,0,0,2,304,303
+0,_Washington,_Fay 36,_Fay 36,87,376,6,4,0,0,0,1,1,0,0,0,0,95,368
+0,_Washington,_Fay 37,_Fay 37,44,87,4,0,0,0,0,1,0,0,0,0,0,43,89
+0,_Washington,_Fay 38,_Fay 38,120,224,4,0,0,1,0,0,2,0,0,0,0,143,197
+0,_Washington,_Fay 39,_Fay 39,135,130,6,0,0,2,0,0,3,0,0,1,0,138,136
+0,_Washington,_Fay 40,_Fay 40,663,913,44,7,2,11,1,1,6,2,1,4,0,693,928
+0,_Washington,_Fay 41,_Fay 41,84,67,1,0,0,1,0,0,1,0,0,0,0,85,65
+0,_Washington,_Fay 42,_Fay 42,92,277,4,0,0,1,0,0,2,1,0,0,0,102,265
+0,_Washington,_Fay 43,_Fay 43,57,32,5,0,0,0,0,1,0,0,0,0,0,59,35
+0,_Washington,_Fay 44,_Fay 44,111,199,6,1,1,0,0,0,2,0,0,0,0,127,186
+0,_Washington,_Fay 45,_Fay 45,24,22,0,0,0,0,0,0,0,0,0,0,0,26,22
+0,_Washington,_Fay 46,_Fay 46,287,118,3,1,0,0,0,0,0,1,2,0,0,289,122
+0,_Washington,_Fay 47,_Fay 47,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Washington,_Fay 48,_Fay 48,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+0,_Washington,_Goshen City,_Goshen City,789,402,13,1,2,3,0,0,6,3,1,0,0,832,372
+0,_Washington,_Goshen Twp,_Goshen Twp,329,137,8,2,0,0,0,0,2,2,1,0,1,330,144
+0,_Washington,_Greenland City,_Greenland City,306,228,5,3,2,2,1,1,1,0,0,0,1,306,238
+0,_Washington,_Greenland Twp,_Greenland Twp,438,246,6,3,1,2,0,0,1,0,0,0,1,426,265
+0,_Washington,_Harmon,_Harmon,645,189,7,1,1,3,0,0,2,1,0,1,0,638,210
+0,_Washington,_Harmon-S,_Harmon-S,11,18,0,0,0,0,0,0,0,0,0,0,0,11,18
+0,_Washington,_Illinois,_Illinois,315,39,4,0,0,0,1,0,0,0,0,0,0,315,46
+0,_Washington,_Johnson City,_Johnson City,874,722,20,4,0,9,0,4,4,5,1,1,1,915,695
+0,_Washington,_Johnson City-S,_Johnson City-S,6,4,0,0,0,0,0,0,0,0,0,0,0,6,4
+0,_Washington,_Johnson Twp,_Johnson Twp,89,82,2,2,0,0,0,0,1,0,1,0,0,91,84
+0,_Washington,_Johnson Twp-H,_Johnson Twp-H,2,1,0,0,0,0,0,0,0,0,0,0,0,2,1
+0,_Washington,_Lees Creek,_Lees Creek,155,126,6,0,1,0,0,0,2,1,0,0,0,164,123
+0,_Washington,_Lincoln,_Lincoln,517,213,11,2,1,0,0,1,5,1,1,1,1,527,217
+0,_Washington,_Litteral,_Litteral,581,358,13,2,3,4,0,1,4,0,2,0,0,591,369
+0,_Washington,_Marrs Hill,_Marrs Hill,462,149,3,0,1,0,1,0,1,0,0,0,0,446,165
+0,_Washington,_Morrow,_Morrow,147,41,3,1,1,0,0,0,2,1,1,0,0,154,42
+0,_Washington,_Prairie Gr City - House,_Prairie Gr City - House,249,112,7,0,0,1,0,0,0,0,0,2,1,251,118
+0,_Washington,_Prairie Gr City - Senate,_Prairie Gr City - Senate,93,33,3,1,0,1,0,0,1,1,0,0,0,91,40
+0,_Washington,_Prairie Gr City-1,_Prairie Gr City-1,1002,422,31,3,1,5,0,0,3,4,2,2,0,1010,449
+0,_Washington,_Prairie Gr City-2,_Prairie Gr City-2,867,399,28,6,1,4,0,0,5,0,0,1,0,874,409
+0,_Washington,_Prairie Gr Twp,_Prairie Gr Twp,409,112,4,0,0,0,1,0,1,1,0,1,0,407,115
+0,_Washington,_Prairie Gr Twp-Senate,_Prairie Gr Twp-Senate,132,71,1,0,0,1,0,1,0,0,0,0,0,135,65
+0,_Washington,_Prairie Twp 1,_Prairie Twp 1,1103,778,30,4,3,3,0,0,4,0,5,2,0,1169,736
+0,_Washington,_Prairie Twp 2,_Prairie Twp 2,261,204,8,3,1,1,0,0,0,0,1,0,0,263,207
+0,_Washington,_Prairie Twp 3,_Prairie Twp 3,5,9,2,0,0,0,0,0,0,0,0,0,0,6,10
+0,_Washington,_Prairie Twp 4,_Prairie Twp 4,89,65,1,1,0,0,2,0,2,0,0,0,0,91,62
+0,_Washington,_Prairie Twp 5,_Prairie Twp 5,222,185,6,0,1,0,0,2,1,1,1,2,0,239,179
+0,_Washington,_Reed,_Reed,100,22,3,1,0,0,0,0,0,0,0,1,0,97,27
+0,_Washington,_Rheas Mill,_Rheas Mill,232,50,2,0,0,0,0,0,0,0,0,1,1,232,52
+0,_Washington,_Richland,_Richland,41,20,1,0,0,0,0,0,2,0,0,0,0,47,17
+0,_Washington,_Richland - Senate,_Richland - Senate,401,95,6,1,2,0,0,0,0,1,1,0,0,387,117
+0,_Washington,_Spg 01,_Spg 01,300,278,6,3,0,2,1,0,3,1,2,3,0,327,253
+0,_Washington,_Spg 02,_Spg 02,268,380,19,1,2,1,0,3,5,1,3,3,2,293,366
+0,_Washington,_Spg 03,_Spg 03,660,755,21,5,1,1,4,1,7,3,3,4,0,684,748
+0,_Washington,_Spg 04,_Spg 04,560,428,8,11,0,3,2,2,4,1,0,1,0,598,396
+0,_Washington,_Spg 05,_Spg 05,683,546,18,4,2,1,1,0,3,3,4,2,1,705,520
+0,_Washington,_Spg 06,_Spg 06,327,372,9,4,2,2,0,3,3,1,2,1,0,356,337
+0,_Washington,_Spg 07,_Spg 07,400,191,7,1,1,3,0,0,7,1,1,2,1,413,198
+0,_Washington,_Spg 08,_Spg 08,307,188,7,0,3,4,0,0,2,1,1,1,1,316,197
+0,_Washington,_Spg 09,_Spg 09,254,335,2,6,0,0,1,1,2,0,3,1,0,291,304
+0,_Washington,_Spg 10,_Spg 10,210,157,3,0,0,2,0,0,1,1,0,0,0,231,133
+0,_Washington,_Spg 11,_Spg 11,832,564,25,2,0,6,0,0,6,0,1,2,1,888,542
+0,_Washington,_Spg 12,_Spg 12,728,422,17,5,0,4,0,2,3,3,4,1,2,765,407
+0,_Washington,_Spg 13,_Spg 13,129,212,4,1,1,0,0,2,2,0,0,0,1,149,188
+0,_Washington,_Spg 14,_Spg 14,651,494,17,2,3,3,1,1,6,3,1,3,0,678,487
+0,_Washington,_Spg 15,_Spg 15,522,551,15,4,2,0,2,3,14,1,2,2,1,560,530
+0,_Washington,_Spg 16,_Spg 16,332,280,5,2,0,0,0,2,4,2,0,1,1,346,273
+0,_Washington,_Spg 17,_Spg 17,863,775,16,4,3,1,0,1,3,2,1,1,0,922,727
+0,_Washington,_Spg 18,_Spg 18,481,376,13,6,2,1,1,2,3,0,1,0,2,487,383
+0,_Washington,_Spg 19,_Spg 19,397,281,16,2,1,0,0,0,1,0,2,1,0,408,272
+0,_Washington,_Spg 20,_Spg 20,62,51,5,0,0,1,0,0,1,0,0,1,0,60,60
+0,_Washington,_Spg 21,_Spg 21,213,126,4,1,0,2,0,0,2,0,2,0,0,218,124
+0,_Washington,_Spg 22,_Spg 22,83,46,2,0,0,0,0,0,0,0,0,0,0,87,41
+0,_Washington,_Spg 23,_Spg 23,349,348,16,1,0,1,1,1,6,0,0,1,1,361,350
+0,_Washington,_Spg 24,_Spg 24,43,127,3,1,0,0,0,1,0,0,0,0,1,52,115
+0,_Washington,_Spg 25,_Spg 25,37,39,2,0,0,0,0,0,0,0,0,0,0,38,40
+0,_Washington,_Spg 26,_Spg 26,277,101,4,1,1,2,0,0,0,0,1,2,0,283,100
+0,_Washington,_Spg 27,_Spg 27,195,84,3,0,0,0,0,0,0,0,1,1,1,201,78
+0,_Washington,_Spg Twp,_Spg Twp,840,351,20,2,3,0,0,0,4,1,1,2,0,862,356
+0,_Washington,_Starr Hill,_Starr Hill,517,161,8,0,0,0,1,2,1,2,1,0,0,523,170
+0,_Washington,_Tontitown City-1,_Tontitown City-1,1301,521,15,2,5,3,0,3,6,3,3,0,0,1309,537
+0,_Washington,_Tontitown City-2,_Tontitown City-2,431,171,10,2,1,0,1,0,2,0,1,0,0,443,169
+0,_Washington,_Tontitown City-3,_Tontitown City-3,41,13,2,0,0,0,0,0,0,0,0,0,0,42,14
+0,_Washington,_Tontitown City-4,_Tontitown City-4,0,6,0,0,0,0,0,0,0,0,0,0,0,0,6
+0,_Washington,_Tontitown City-5,_Tontitown City-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,_Washington,_Tontitown Twp,_Tontitown Twp,8,6,0,1,0,0,0,0,0,0,0,0,0,10,5
+0,_Washington,_Valley,_Valley,309,107,7,0,2,0,0,1,1,1,2,0,1,311,118
+0,_Washington,_Valley-H,_Valley-H,159,62,0,1,0,0,0,0,0,0,0,0,0,155,62
+0,_Washington,_Valley-S,_Valley-S,13,3,0,0,0,0,0,0,0,0,0,0,0,13,2
+0,_Washington,_Vineyard,_Vineyard,101,21,1,0,0,0,1,0,0,0,0,0,0,98,21
+0,_Washington,_War Eagle,_War Eagle,67,24,2,0,2,1,0,0,1,0,0,0,0,69,29
+0,_Washington,_Wedington,_Wedington,139,55,3,1,0,0,1,0,1,0,0,0,0,141,56
+0,_Washington,_West Fork City-1,_West Fork City-1,582,333,17,5,3,1,1,0,0,2,2,2,0,588,356
+0,_Washington,_West Fork City-2,_West Fork City-2,145,44,2,0,0,0,0,0,1,0,1,0,1,144,49
+0,_Washington,_West Fork City-3,_West Fork City-3,4,4,1,0,0,0,0,0,0,0,0,0,0,5,4
+0,_Washington,_West Fork Twp,_West Fork Twp,279,142,8,0,0,0,1,0,3,0,0,1,0,281,146
+0,_Washington,_West Fork Twp-H,_West Fork Twp-H,148,104,5,1,0,0,0,0,0,0,0,1,0,156,100
+0,_Washington,_Wheeler,_Wheeler,371,188,11,0,0,0,1,1,4,1,0,1,0,390,186
+0,_Washington,_Wheeler-H,_Wheeler-H,84,61,3,0,1,1,0,0,0,0,1,0,1,95,65
+0,_Washington,_Wheeler-S,_Wheeler-S,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1
+0,_Washington,_White River,_White River,154,60,2,0,0,0,0,0,0,0,0,0,0,151,62
+0,_Washington,_White River-H,_White River-H,65,28,0,0,0,0,0,0,0,0,0,0,0,67,26
+0,_Washington,_White River-S,_White River-S,107,35,3,0,1,0,0,1,0,0,0,0,0,111,36
+0,_Washington,_Winslow City,_Winslow City,101,63,2,2,0,0,0,0,0,0,0,1,0,102,65
+0,_Washington,_Winslow Twp,_Winslow Twp,276,124,2,1,1,0,0,0,0,1,1,0,0,273,128
+0,_Washington,_Wyman,_Wyman,226,140,4,2,1,2,0,0,1,1,1,0,0,236,139
+0,_White,_01 - Albion,_01 - Albion,105,20,0,0,0,0,0,0,1,1,0,0,0,111,15
+0,_White,_02 - Antioch,_02 - Antioch,325,61,0,0,0,0,0,0,0,2,0,0,0,325,62
+0,_White,_03 - Bald Knob Ward 1,_03 - Bald Knob Ward 1,260,89,6,1,1,0,0,0,3,1,0,1,1,272,91
+0,_White,_04 - Bald Knob Ward 2,_04 - Bald Knob Ward 2,158,44,3,0,1,0,0,0,1,1,0,0,0,165,39
+0,_White,_05 - Bald knob Ward 3,_05 - Bald knob Ward 3,277,55,4,0,0,1,0,0,0,2,0,0,0,278,58
+0,_White,_06 - Bald Knob TWP,_06 - Bald Knob TWP,197,54,3,0,1,0,0,0,0,0,0,0,0,199,58
+0,_White,_07 - Beebe Ward 1,_07 - Beebe Ward 1,397,202,10,1,1,3,1,0,1,1,1,0,1,435,181
+0,_White,_08 - Beebe Ward 2,_08 - Beebe Ward 2,387,131,7,0,0,0,0,0,2,0,1,0,0,397,127
+0,_White,_09 - Beebe Ward 3,_09 - Beebe Ward 3,514,175,10,0,2,0,1,0,0,2,0,0,0,533,170
+0,_White,_10 - Big Creek,_10 - Big Creek,333,60,5,0,0,0,0,0,0,0,0,0,0,349,47
+0,_White,_11 - Bradford Ward 1,_11 - Bradford Ward 1,45,7,0,0,1,0,0,0,1,0,0,0,0,44,10
+0,_White,_12 - Bradford Ward 2,_12 - Bradford Ward 2,78,11,0,0,0,0,0,0,1,0,0,0,0,77,12
+0,_White,_13 - Bradford Ward 3,_13 - Bradford Ward 3,84,23,2,0,0,0,0,0,0,1,0,1,0,88,25
+0,_White,_14 - Cadron,_14 - Cadron,172,19,1,0,0,0,0,0,1,1,1,0,1,174,21
+0,_White,_15 - Cane,_15 - Cane,485,91,2,0,0,1,0,0,0,0,0,1,0,492,88
+0,_White,_16 - Chrisp,_16 - Chrisp,484,104,7,1,1,0,0,0,2,1,0,0,0,502,96
+0,_White,_17 - Clay,_17 - Clay,305,39,3,1,1,0,0,1,1,0,1,1,0,307,45
+0,_White,_18 - Cleveland,_18 - Cleveland,46,5,1,0,0,0,0,0,0,0,0,0,0,47,6
+0,_White,_19 - Coffey,_19 - Coffey,461,98,13,2,0,1,0,0,4,1,0,0,0,473,103
+0,_White,_20 - Coldwell,_20 - Coldwell,182,10,2,0,0,0,1,0,0,1,0,0,0,181,14
+0,_White,_21 - Crosby,_21 - Crosby,249,47,3,1,0,0,0,1,0,0,0,0,0,251,51
+0,_White,_22 - Cypert,_22 - Cypert,90,7,1,0,0,0,0,0,0,0,0,0,0,89,9
+0,_White,_23 - Denmark,_23 - Denmark,167,28,1,0,0,0,0,0,1,1,0,0,1,173,28
+0,_White,_24 - Des Arc,_24 - Des Arc,423,61,4,0,0,0,0,0,1,0,0,0,0,425,63
+0,_White,_25 - Dogwood TWP,_25 - Dogwood TWP,79,12,1,0,0,0,0,0,0,0,0,0,0,79,11
+0,_White,_26 - El Paso,_26 - El Paso,260,69,3,0,1,2,0,0,0,0,1,0,0,267,73
+0,_White,_27 - Francure,_27 - Francure,14,6,0,0,0,0,0,0,0,0,0,0,1,17,4
+0,_White,_28 - Garner TWP,_28 - Garner TWP,107,20,4,0,0,0,0,0,0,1,0,0,0,106,23
+0,_White,_29 - Garner City,_29 - Garner City,53,4,1,0,0,0,0,0,1,0,0,0,0,54,4
+0,_White,_30 - Gravel Hill,_30 - Gravel Hill,152,18,0,0,0,0,0,0,0,0,0,0,1,152,18
+0,_White,_31 - Gray A,_31 - Gray A,492,102,12,0,0,0,0,2,3,0,0,0,0,509,99
+0,_White,_32 - Gray B,_32 - Gray B,1578,287,18,1,0,0,0,0,4,1,1,0,1,1616,270
+0,_White,_33 - Griffithville City,_33 - Griffithville City,49,11,0,0,0,0,0,0,0,0,0,0,0,46,12
+0,_White,_34 - Gum Springs,_34 - Gum Springs,625,108,11,0,0,0,0,1,0,0,3,2,0,648,104
+0,_White,_35 - Guthrie,_35 - Guthrie,355,30,4,0,1,1,0,1,1,1,2,1,1,360,37
+0,_White,_36 - Harrison,_36 - Harrison,1081,146,5,0,2,0,0,0,4,3,0,0,0,1088,147
+0,_White,_37 - Hartsell,_37 - Hartsell,228,24,1,1,0,0,0,0,0,0,0,0,0,232,21
+0,_White,_38 - Higginson TWP,_38 - Higginson TWP,193,40,3,0,0,0,0,0,1,0,0,0,1,198,40
+0,_White,_39 - Higginson Ward 1,_39 - Higginson Ward 1,50,17,1,0,0,0,0,0,0,0,0,0,0,52,16
+0,_White,_40 - Jackson,_40 - Jackson,158,13,4,0,0,0,0,0,0,0,0,0,0,159,14
+0,_White,_41 - Jefferson,_41 - Jefferson,216,27,1,1,0,0,0,0,0,0,0,1,0,214,31
+0,_White,_42 - Joy,_42 - Joy,198,34,6,0,1,0,0,0,0,2,1,0,1,210,32
+0,_White,_43 - Judsonia Ward 1,_43 - Judsonia Ward 1,282,53,5,1,0,0,0,0,2,1,1,0,1,292,51
+0,_White,_44 - Judsonia Ward 2,_44 - Judsonia Ward 2,155,21,1,0,0,0,0,0,1,0,0,0,0,155,22
+0,_White,_45 - Judsonia Ward 3,_45 - Judsonia Ward 3,132,28,0,1,0,0,0,0,1,0,0,1,1,134,30
+0,_White,_46 - Kensett Ward 1,_46 - Kensett Ward 1,49,64,1,0,0,0,0,0,1,0,0,0,0,61,50
+0,_White,_47 - Kensett Ward 2,_47 - Kensett Ward 2,161,86,1,3,1,0,1,0,0,1,0,1,0,169,80
+0,_White,_48 - Kensett Ward 3,_48 - Kensett Ward 3,70,25,0,0,0,0,0,0,1,0,0,0,1,71,25
+0,_White,_49 - Kensett TWP,_49 - Kensett TWP,152,29,2,0,1,0,0,0,1,1,1,0,0,155,31
+0,_White,_50 - Kentucky,_50 - Kentucky,269,55,5,2,0,1,0,0,1,0,0,0,0,274,58
+0,_White,_51 - Letona,_51 - Letona,88,13,2,0,1,0,0,0,0,1,0,0,0,90,15
+0,_White,_52 - Liberty,_52 - Liberty,236,40,0,0,0,0,0,0,1,1,0,0,0,243,34
+0,_White,_53 - Marion,_53 - Marion,95,14,2,0,0,0,0,0,0,0,0,0,0,97,14
+0,_White,_54 - Marshall,_54 - Marshall,364,67,7,0,1,0,1,0,0,0,0,0,0,373,69
+0,_White,_55 - McRae Ward 1,_55 - McRae Ward 1,107,19,0,0,0,0,0,0,0,2,0,0,0,111,17
+0,_White,_56 - McRae Ward 2,_56 - McRae Ward 2,97,24,1,0,0,0,0,0,0,0,0,0,0,97,24
+0,_White,_57 - McRae TWP,_57 - McRae TWP,218,37,4,1,2,0,0,0,0,1,0,0,0,220,41
+0,_White,_58 - Mt. Pisgah,_58 - Mt. Pisgah,58,9,0,0,0,0,0,0,0,0,0,0,0,56,11
+0,_White,_59 - Pangburn Ward 1,_59 - Pangburn Ward 1,63,13,0,0,0,0,0,0,0,0,0,0,0,62,13
+0,_White,_60 - Pangburn Ward 2,_60 - Pangburn Ward 2,53,13,0,0,0,0,0,0,0,1,0,0,0,57,10
+0,_White,_61 - Red River,_61 - Red River,68,32,0,0,0,0,0,0,0,0,0,0,0,68,31
+0,_White,_62 - Rose Bud City,_62 - Rose Bud City,191,43,2,0,0,0,0,0,1,0,3,0,0,196,44
+0,_White,_63 - Royal,_63 - Royal,217,57,5,0,0,0,0,0,0,0,0,0,0,219,58
+0,_White,_64 - Russell City,_64 - Russell City,50,14,0,0,0,0,0,0,0,1,0,0,0,53,13
+0,_White,_65 - Russell TWP,_65 - Russell TWP,100,16,0,0,0,0,0,0,0,0,1,0,0,99,18
+0,_White,_66 - Searcy Ward 1 A,_66 - Searcy Ward 1 A,182,91,7,2,0,0,0,0,1,1,0,0,0,190,94
+0,_White,_68 - Searcy Ward 1 C,_68 - Searcy Ward 1 C,251,91,12,2,2,0,0,1,3,1,1,0,0,265,94
+0,_White,_69 - Searcy Ward 1 D,_69 - Searcy Ward 1 D,910,243,22,1,4,5,0,2,5,3,1,0,1,972,224
+0,_White,_71 - Searcy Ward 2 B,_71 - Searcy Ward 2 B,240,73,10,2,0,2,0,0,0,0,0,0,0,231,95
+0,_White,_72 - Searcy Ward 2 C,_72 - Searcy Ward 2 C,1103,370,29,2,2,1,2,2,1,2,4,0,0,1145,368
+0,_White,_73 - Searcy Ward 2 D,_73 - Searcy Ward 2 D,445,162,5,1,3,1,1,0,0,3,1,0,0,464,160
+0,_White,_74 - Searcy Ward 3 A,_74 - Searcy Ward 3 A,242,113,19,1,0,1,0,1,2,0,0,0,0,251,127
+0,_White,_75 - Searcy Ward 3 B,_75 - Searcy Ward 3 B,287,149,7,2,1,0,0,0,1,3,0,1,0,298,144
+0,_White,_76 - Searcy Ward 3 C,_76 - Searcy Ward 3 C,339,117,9,1,0,0,0,0,0,1,3,0,0,366,98
+0,_White,_77 - Searcy Ward 3 D,_77 - Searcy Ward 3 D,115,69,3,1,0,0,0,0,1,1,0,0,0,124,65
+0,_White,_78 - Searcy Ward 4 A,_78 - Searcy Ward 4 A,175,99,8,0,0,1,0,0,1,0,0,0,0,195,81
+0,_White,_79 - Searcy Ward 4 B,_79 - Searcy Ward 4 B,140,93,5,1,3,2,0,0,1,0,0,0,0,153,87
+0,_White,_80 - Searcy Ward 4 C,_80 - Searcy Ward 4 C,326,158,14,1,0,2,1,0,3,1,0,0,0,346,157
+0,_White,_81 - Searcy Ward 2 E,_81 - Searcy Ward 2 E,755,222,13,1,0,0,0,0,0,4,2,0,1,787,211
+0,_White,_82 - Union,_82 - Union,838,130,7,1,0,0,0,0,5,1,1,0,0,853,127
+0,_White,_83 - Velvet Ridge,_83 - Velvet Ridge,354,39,2,0,0,0,0,0,0,1,0,0,0,353,39
+0,_White,_84 - Walker,_84 - Walker,69,8,1,0,0,0,0,0,0,0,0,0,0,72,7
+0,_White,_85 - West Point,_85 - West Point,25,4,0,0,0,0,0,0,0,1,0,0,0,27,3
+0,_White,_86 - Georgetown City,_86 - Georgetown City,42,6,0,0,0,0,0,0,0,1,0,0,0,43,5
+0,_White,_87 - Bald Knob North,_87 - Bald Knob North,185,35,0,0,0,0,0,0,1,1,1,0,0,191,32
+0,_White,_90 - Beebe Ward 3 C,_90 - Beebe Ward 3 C,660,180,6,0,2,0,0,0,5,0,0,0,1,664,187
+0,_White,_91 - Harrison East,_91 - Harrison East,247,45,0,1,0,0,1,0,0,3,0,0,0,252,44
+0,_White,_92 - Searcy Ward 1 E,_92 - Searcy Ward 1 E,263,92,2,1,0,0,0,0,0,0,1,0,0,272,85
+0,_White,_93 - Searcy Ward 3 E,_93 - Searcy Ward 3 E,441,179,12,0,0,1,1,0,3,2,1,0,0,469,168
+0,_White,_94 - Pangburn Ward 3,_94 - Pangburn Ward 3,57,14,0,0,0,0,0,0,1,0,1,0,0,57,16
+0,_White,_95 - Higginson Ward 2,_95 - Higginson Ward 2,46,5,1,1,0,0,0,0,0,0,0,0,0,45,8
+0,_White,_96 - Higginson Ward 3,_96 - Higginson Ward 3,58,10,0,0,0,0,0,0,0,0,0,0,0,56,12
+0,_Woodruff,_Augusta - 01,_Augusta - 01,123,155,0,1,0,0,2,0,3,2,1,1,0,152,129
+0,_Woodruff,_Augusta - 02,_Augusta - 02,121,174,3,0,0,0,1,0,2,2,2,1,1,159,138
+0,_Woodruff,_Augusta - 03,_Augusta - 03,52,110,0,1,1,0,3,2,2,2,1,1,1,67,99
+0,_Woodruff,_Cotton Plant - 08,_Cotton Plant - 08,24,75,0,0,0,0,0,0,0,1,1,1,1,36,63
+0,_Woodruff,_Cotton Plant - 09,_Cotton Plant - 09,10,65,0,0,0,1,0,1,0,0,0,0,0,27,47
+0,_Woodruff,_Cotton Plant/ Freeman - 07,_Cotton Plant/ Freeman - 07,26,10,0,1,0,0,0,0,0,1,0,0,0,27,9
+0,_Woodruff,_Fakes Chapel - 20,_Fakes Chapel - 20,16,2,0,0,0,0,0,0,0,0,0,0,0,17,1
+0,_Woodruff,_Gregory - 06,_Gregory - 06,26,11,0,0,0,0,0,0,0,1,0,0,0,27,10
+0,_Woodruff,_Hilleman - 13,_Hilleman - 13,46,6,0,0,0,0,0,0,0,0,0,0,0,48,5
+0,_Woodruff,_Howell - 12,_Howell - 12,50,8,1,0,0,0,0,0,0,0,0,0,0,50,6
+0,_Woodruff,_Hunter - 11,_Hunter - 11,27,2,0,0,0,0,0,0,0,0,0,0,0,27,2
+0,_Woodruff,_McCrory - 17,_McCrory - 17,278,103,4,0,0,0,0,0,1,0,0,1,1,295,89
+0,_Woodruff,_McCrory - 18,_McCrory - 18,138,40,1,1,1,0,3,1,0,0,1,0,0,145,37
+0,_Woodruff,_McCrory Rural - 15,_McCrory Rural - 15,116,20,0,1,0,0,0,0,0,0,0,0,0,117,20
+0,_Woodruff,_Morton - 14,_Morton - 14,100,7,0,1,0,0,0,0,0,0,0,0,0,99,7
+0,_Woodruff,_North Rural Augusta - 04,_North Rural Augusta - 04,81,11,0,0,0,0,0,0,0,0,0,0,0,81,10
+0,_Woodruff,_Patterson - 16,_Patterson - 16,91,19,0,0,0,0,1,0,0,1,1,0,1,93,17
+0,_Woodruff,_Pumkin Bend - 19,_Pumkin Bend - 19,148,17,5,0,1,0,0,0,1,0,0,1,0,150,21
+0,_Woodruff,_Rural Hunter - 10,_Rural Hunter - 10,31,7,0,0,0,0,0,0,0,0,0,0,0,32,5
+0,_Woodruff,_South Rural Augusta - 05,_South Rural Augusta - 05,39,14,0,0,0,0,2,0,0,0,0,0,0,45,10
+0,_Yell,_01 - Bluffton,_01 - Bluffton,60,6,0,0,0,0,0,1,0,0,0,0,0,56,9
+0,_Yell,_02 - Briggsville,_02 - Briggsville,38,8,0,0,0,0,0,0,0,0,0,0,0,37,9
+0,_Yell,_03 - Centerville,_03 - Centerville,310,63,1,0,0,1,0,1,0,0,3,0,0,313,61
+0,_Yell,_04 - Compton,_04 - Compton,32,3,0,0,0,0,0,0,0,0,0,0,0,32,3
+0,_Yell,_05 - Crawford,_05 - Crawford,16,4,0,0,0,0,0,0,0,0,0,0,0,16,3
+0,_Yell,_06 - Danville,_06 - Danville,333,154,5,3,0,1,1,5,3,3,2,2,1,366,132
+0,_Yell,_07 - Dardanelle Outside,_07 - Dardanelle Outside,1130,253,17,5,2,1,1,3,5,2,10,0,4,1154,271
+0,_Yell,_08 - Dardanelle Ward 1,_08 - Dardanelle Ward 1,346,181,9,0,0,0,0,0,4,0,5,0,1,369,174
+0,_Yell,_09 - Dardanelle Ward 2,_09 - Dardanelle Ward 2,175,83,6,1,1,0,0,1,2,2,1,2,0,183,88
+0,_Yell,_10 - Dardanelle Ward 3,_10 - Dardanelle Ward 3,95,71,3,0,0,0,1,3,2,0,2,1,1,107,73
+0,_Yell,_11 - Dutch Creek,_11 - Dutch Creek,31,6,0,0,0,0,0,0,0,0,0,0,0,31,6
+0,_Yell,_12 - Ferguson,_12 - Ferguson,345,58,1,1,0,0,0,0,2,0,4,1,2,354,58
+0,_Yell,_13 - Galla Rock,_13 - Galla Rock,82,15,0,0,0,1,0,0,0,0,1,2,1,86,16
+0,_Yell,_14 - Gilkey,_14 - Gilkey,59,11,0,0,0,0,0,0,0,0,0,0,0,58,12
+0,_Yell,_15 - Gravelly,_15 - Gravelly,60,8,0,0,0,0,0,0,0,0,2,0,0,59,10
+0,_Yell,_16 - Herring,_16 - Herring,73,4,0,1,0,0,0,0,0,0,1,0,1,72,8
+0,_Yell,_17 - Lamar,_17 - Lamar,296,53,1,1,1,1,1,0,1,3,0,1,1,291,65
+0,_Yell,_18 - Magazine 1,_18 - Magazine 1,369,81,7,0,1,0,0,0,2,0,0,0,0,374,83
+0,_Yell,_19 - Magazine 2,_19 - Magazine 2,65,14,2,0,0,0,0,1,0,1,1,0,0,69,15
+0,_Yell,_20 - Mason,_20 - Mason,114,12,2,0,1,0,0,0,0,0,1,0,1,114,16
+0,_Yell,_21 - Mountain,_21 - Mountain,56,8,0,0,0,0,0,0,0,0,0,1,0,55,10
+0,_Yell,_22 - Prairie,_22 - Prairie,271,34,1,0,0,0,0,0,1,1,2,2,0,277,36
+0,_Yell,_23 - Richland,_23 - Richland,92,2,2,0,0,0,0,0,0,1,1,0,1,93,4
+0,_Yell,_24 - Waveland,_24 - Waveland,87,21,0,0,0,0,0,0,1,0,1,0,1,88,22
+0,_Yell,_25 - Riley,_25 - Riley,220,27,3,0,1,0,0,1,0,1,1,0,1,224,27
+0,_Yell,_26 - Rover,_26 - Rover,106,12,0,2,0,0,0,0,0,0,2,1,1,110,14
+0,_Yell,_28 - Ward,_28 - Ward,343,91,6,0,1,0,1,1,3,0,4,0,2,354,94
+0,_Yell,_29 - Ions Creek,_29 - Ions Creek,22,1,0,0,0,0,0,0,0,0,0,0,0,21,2

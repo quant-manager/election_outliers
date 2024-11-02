@@ -1,0 +1,727 @@
+IS_AUDITED,COUNTY_NAME,PRECINCT_NAME,PRECINCT_CODE,USA_NJ_20201103_GEN_PRE_DEM_BIDEN,USA_NJ_20201103_GEN_PRE_REP_TRUMP,USA_NJ_20201103_GEN_PRE_LIB_JORGENSEN,USA_NJ_20201103_GEN_PRE_GRE_HAWKINS,USA_NJ_20201103_GEN_PRE_CON_BLANKENSHIP,USA_NJ_20201103_GEN_PRE_SOC_RIVA,USA_NJ_20201103_GEN_PRE_OTH_HAMMONS,USA_NJ_20201103_GEN_PRE_OTH_FUENTE,USA_NJ_20201103_GEN_USS_DEM_BOOKER,USA_NJ_20201103_GEN_USS_REP_MEHTA,USA_NJ_20201103_GEN_USS_GRE_HOFFMAN,USA_NJ_20201103_GEN_USS_OTH_FERNANDEZ,USA_NJ_20201103_GEN_USS_OTH_BURKE
+0,_Atlantic,_Absecon City W1,_Absecon City W1,1360,1532,21,8,4,2,6,1,1365,1468,8,30,7
+0,_Atlantic,_Absecon City W2,_Absecon City W2,1236,1143,13,9,5,2,0,0,1210,1098,5,11,11
+0,_Atlantic,_Atlantic City,_Atlantic City,8148,2541,34,24,3,22,4,3,7936,2161,42,145,29
+0,_Atlantic,_Atlantic City W2,_Atlantic City W2,1834,338,4,4,1,5,1,0,1691,277,5,46,5
+0,_Atlantic,_Brigantine City W1,_Brigantine City W1,545,957,12,5,0,0,1,3,519,964,3,9,2
+0,_Atlantic,_Brigantine City W2,_Brigantine City W2,487,717,6,4,0,0,0,0,452,714,7,5,5
+0,_Atlantic,_Brigantine City W3,_Brigantine City W3,576,724,7,3,0,1,1,0,547,715,2,8,5
+0,_Atlantic,_Brigantine City W4,_Brigantine City W4,577,622,6,2,1,1,1,0,580,579,3,11,4
+0,_Atlantic,_Buena Borough,_Buena Borough,964,1140,15,8,0,4,3,3,950,1057,14,31,4
+0,_Atlantic,_Buena Vista Township,_Buena Vista Township,1711,2341,28,12,5,2,3,2,1698,2206,9,40,24
+0,_Atlantic,_Corbin City,_Corbin City,109,216,1,1,0,0,1,0,103,215,1,3,1
+0,_Atlantic,_Egg Harbor City,_Egg Harbor City,1138,851,19,3,4,1,1,1,1101,786,12,38,8
+0,_Atlantic,_Egg Harbor Township,_Egg Harbor Township,12986,11995,188,71,25,40,23,14,12585,11533,97,295,73
+0,_Atlantic,_Estell Manor City,_Estell Manor City,337,799,8,3,1,0,0,3,331,769,3,8,1
+0,_Atlantic,_Folsom Borough,_Folsom Borough,380,672,18,0,0,2,2,2,367,649,7,10,10
+0,_Atlantic,_Galloway Township,_Galloway Township,10143,9665,166,54,16,22,16,12,9892,9308,92,244,66
+0,_Atlantic,_Hamilton Township,_Hamilton Township,7847,6567,131,47,9,25,12,5,7701,6287,67,172,47
+0,_Atlantic,_Hammonton Town,_Hammonton Town,2957,4560,53,9,7,13,8,4,2858,4297,25,98,25
+0,_Atlantic,_Linwood City W1,_Linwood City W1,1058,1178,18,7,0,2,3,1,1023,1157,3,12,6
+0,_Atlantic,_Linwood City W2,_Linwood City W2,1121,1188,27,8,2,2,4,0,1061,1212,13,16,8
+0,_Atlantic,_Longport Borough,_Longport Borough,263,371,2,0,0,0,0,0,244,373,0,3,1
+0,_Atlantic,_Margate City,_Margate City,1865,1945,11,8,2,2,2,2,1834,1907,7,14,7
+0,_Atlantic,_Mullica Township,_Mullica Township,1306,2085,25,8,2,3,2,1,1262,2014,17,37,7
+0,_Atlantic,_Northfield City W1,_Northfield City W1,1206,1251,21,3,4,2,1,3,1181,1195,7,19,6
+0,_Atlantic,_Northfield City W2,_Northfield City W2,1324,1349,20,8,0,1,2,1,1271,1316,15,32,6
+0,_Atlantic,_Pleasantville City W1,_Pleasantville City W1,2898,586,10,9,2,3,1,2,2629,499,7,135,14
+0,_Atlantic,_Pleasantville City W2,_Pleasantville City W2,2974,438,5,6,0,3,1,3,2736,353,9,135,8
+0,_Atlantic,_Port Republic City W1,_Port Republic City W1,174,208,10,0,0,0,0,0,168,214,0,2,1
+0,_Atlantic,_Port Republic City W2,_Port Republic City W2,112,257,8,0,0,0,0,0,112,253,1,2,0
+0,_Atlantic,_Somers Point City W1,_Somers Point City W1,1411,1488,22,17,2,4,4,1,1380,1453,11,27,10
+0,_Atlantic,_Somers Point City W2,_Somers Point City W2,1474,1226,10,12,5,0,1,3,1437,1189,15,21,6
+0,_Atlantic,_Ventnor City,_Ventnor City,2619,2448,29,12,1,9,4,1,2526,2364,17,59,21
+0,_Atlantic,_Weymouth Township,_Weymouth Township,668,1040,10,2,2,4,0,1,670,986,7,6,7
+0,_Bergen,_Allendale Borough,_Allendale Borough,2458,1945,35,12,1,2,2,1,2312,2033,25,14,10
+0,_Bergen,_Alpine Borough,_Alpine Borough,566,510,3,0,0,1,1,1,517,538,1,3,3
+0,_Bergen,_Bergenfield Borough,_Bergenfield Borough,8922,4745,52,30,14,17,3,4,8865,4312,70,135,46
+0,_Bergen,_Bogota Borough,_Bogota Borough,2840,1484,18,20,3,5,5,2,2827,1297,31,63,33
+0,_Bergen,_Carlstadt Borough,_Carlstadt Borough,1608,1665,14,12,3,1,0,2,1575,1508,27,36,20
+0,_Bergen,_Cliffside Park Borough,_Cliffside Park Borough,6217,3992,44,35,1,6,6,4,6168,3548,74,84,36
+0,_Bergen,_Closter Borough,_Closter Borough,2953,1717,23,8,6,3,2,1,2893,1705,13,12,3
+0,_Bergen,_Cresskill Borough,_Cresskill Borough,2660,1904,32,5,3,0,2,0,2560,1872,17,19,12
+0,_Bergen,_Demarest Borough,_Demarest Borough,2006,926,8,5,2,6,2,2,1908,1000,10,6,3
+0,_Bergen,_Dumont Borough,_Dumont Borough,5633,4323,71,33,5,5,7,5,5629,4009,61,85,40
+0,_Bergen,_East Rutherford Borough,_East Rutherford Borough,2420,1936,31,26,0,9,2,2,2402,1770,34,42,31
+0,_Bergen,_Edgewater Borough,_Edgewater Borough,3787,1582,26,19,1,8,4,3,3697,1493,36,32,8
+0,_Bergen,_Elmwood Park Borough,_Elmwood Park Borough,5238,4475,37,28,5,2,5,7,5327,3935,55,78,42
+0,_Bergen,_Emerson Borough,_Emerson Borough,2211,2441,26,13,3,1,1,0,2170,2349,21,20,9
+0,_Bergen,_Englewood City W1,_Englewood City W1,2352,935,18,11,2,1,6,0,2233,912,30,32,8
+0,_Bergen,_Englewood City W2,_Englewood City W2,2479,1418,30,5,1,2,0,4,2394,1365,24,14,10
+0,_Bergen,_Englewood City W3,_Englewood City W3,2739,452,5,7,0,5,0,0,2673,388,26,51,8
+0,_Bergen,_Englewood City W4,_Englewood City W4,2753,306,5,5,1,4,1,1,2700,247,20,26,11
+0,_Bergen,_Englewood Cliffs Borough,_Englewood Cliffs Borough,1794,1490,13,10,3,0,1,2,1693,1545,9,9,6
+0,_Bergen,_Fair Lawn Borough,_Fair Lawn Borough,10912,8342,127,63,17,14,14,16,10721,7959,158,163,72
+0,_Bergen,_Fairview Borough,_Fairview Borough,2321,1467,12,14,3,9,0,2,2336,1236,29,30,17
+0,_Bergen,_Fort Lee Borough,_Fort Lee Borough,10940,6433,58,54,7,13,7,2,10780,5936,108,111,56
+0,_Bergen,_Franklin Lakes Borough,_Franklin Lakes Borough,3073,4375,51,19,2,1,5,0,2836,4492,30,21,10
+0,_Bergen,_Garfield City,_Garfield City,6233,4761,47,38,8,18,4,6,6265,3914,79,186,80
+0,_Bergen,_Glen Rock Borough,_Glen Rock Borough,5213,2549,69,27,4,1,9,6,4920,2785,43,22,15
+0,_Bergen,_Hackensack City,_Hackensack City,13685,4160,66,44,7,23,4,9,13593,3614,72,183,67
+0,_Bergen,_Harrington Park Borough,_Harrington Park Borough,1851,1226,14,6,0,2,4,1,1865,1158,14,10,7
+0,_Bergen,_Hasbrouck Heights Borough,_Hasbrouck Heights Borough,3541,3426,45,24,5,6,6,4,3486,3250,41,54,17
+0,_Bergen,_Haworth Borough,_Haworth Borough,1552,710,13,6,0,1,1,1,1503,740,2,11,3
+0,_Bergen,_Hillsdale Borough,_Hillsdale Borough,3619,3121,48,12,8,8,4,7,3513,3117,32,31,17
+0,_Bergen,_Ho-Ho-Kus Borough,_Ho-Ho-Kus Borough,1550,1292,33,13,1,0,2,2,1426,1422,14,11,5
+0,_Bergen,_Leonia Borough,_Leonia Borough,3136,1293,18,18,2,5,1,1,3050,1205,35,30,14
+0,_Bergen,_Little Ferry Borough,_Little Ferry Borough,2665,1873,11,17,3,6,4,0,2700,1630,23,46,28
+0,_Bergen,_Lodi Borough,_Lodi Borough,6215,4038,41,40,6,14,1,8,6196,3483,62,196,53
+0,_Bergen,_Lyndhurst Township,_Lyndhurst Township,5462,5530,69,36,10,6,6,5,5434,4983,68,117,62
+0,_Bergen,_Mahwah Township,_Mahwah Township,7423,7370,121,25,9,3,12,10,7121,7299,82,89,47
+0,_Bergen,_Maywood Borough,_Maywood Borough,3193,2138,35,17,4,8,1,3,3188,2023,32,34,18
+0,_Bergen,_Midland Park Borough,_Midland Park Borough,2332,2240,33,12,10,1,3,1,2272,2207,21,29,15
+0,_Bergen,_Montvale Borough,_Montvale Borough,2696,2437,34,9,4,3,3,2,2558,2464,22,24,12
+0,_Bergen,_Moonachie Borough,_Moonachie Borough,656,608,5,8,0,0,0,0,663,518,8,23,2
+0,_Bergen,_New Milford Borough,_New Milford Borough,5111,3990,55,26,8,15,2,8,5122,3738,45,67,36
+0,_Bergen,_North Arlington Borough,_North Arlington Borough,4048,4053,44,33,4,6,3,11,4077,3682,49,84,39
+0,_Bergen,_Northvale Borough,_Northvale Borough,1362,1351,22,9,1,2,3,1,1397,1237,15,17,12
+0,_Bergen,_Norwood Borough,_Norwood Borough,1887,1462,25,6,4,2,2,0,1867,1430,15,10,11
+0,_Bergen,_Oakland Borough,_Oakland Borough,3988,4271,73,23,5,7,3,1,3841,4211,38,54,26
+0,_Bergen,_Old Tappan Borough,_Old Tappan Borough,1764,1888,17,6,1,2,1,1,1761,1810,14,6,8
+0,_Bergen,_Oradell Borough,_Oradell Borough,3086,2288,40,10,8,5,2,2,2936,2352,32,19,22
+0,_Bergen,_Palisades Park Borough,_Palisades Park Borough,3831,2440,21,14,1,6,2,2,3763,2070,52,63,24
+0,_Bergen,_Paramus Borough,_Paramus Borough,7870,8034,76,42,9,10,6,9,7880,7656,69,73,31
+0,_Bergen,_Park Ridge Borough,_Park Ridge Borough,2806,2880,36,12,3,2,3,3,2735,2846,24,22,16
+0,_Bergen,_Ramsey Borough,_Ramsey Borough,5169,4343,96,24,13,3,6,3,4920,4488,40,33,22
+0,_Bergen,_Ridgefield Borough,_Ridgefield Borough,2730,2212,16,11,0,5,0,0,2722,1951,24,49,43
+0,_Bergen,_Ridgefield Park Village,_Ridgefield Park Village,4029,2115,24,22,4,14,7,1,3976,1907,62,77,27
+0,_Bergen,_Ridgewood Village,_Ridgewood Village,10126,4938,137,38,7,7,14,7,9580,5301,66,62,36
+0,_Bergen,_River Edge Borough,_River Edge Borough,4068,2441,51,12,7,4,2,3,3939,2413,28,51,13
+0,_Bergen,_River Vale Township,_River Vale Township,3506,3240,54,14,7,3,9,2,3365,3262,32,31,17
+0,_Bergen,_Rochelle Park Township,_Rochelle Park Township,1687,1543,14,14,7,2,7,3,1685,1402,17,40,15
+0,_Bergen,_Rockleigh Borough,_Rockleigh Borough,89,116,1,0,0,0,0,1,91,109,0,0,1
+0,_Bergen,_Rutherford Borough,_Rutherford Borough,6182,4176,55,41,4,9,6,5,6073,4008,104,89,41
+0,_Bergen,_Saddle Brook Township,_Saddle Brook Township,3712,4015,49,29,7,5,4,3,3775,3599,48,71,28
+0,_Bergen,_Saddle River Borough,_Saddle River Borough,868,1427,11,2,1,0,1,0,803,1450,11,7,3
+0,_Bergen,_South Hackensack Township,_South Hackensack Township,575,487,6,1,0,1,1,4,577,423,8,11,9
+0,_Bergen,_Teaneck Township,_Teaneck Township,16737,6141,102,49,13,25,13,12,16393,5824,127,170,74
+0,_Bergen,_Tenafly Borough,_Tenafly Borough,5635,2226,43,21,6,3,5,1,5330,2363,62,38,21
+0,_Bergen,_Teterboro Borough,_Teterboro Borough,12,16,0,0,0,0,0,0,13,13,0,0,0
+0,_Bergen,_Upper Saddle River Borough,_Upper Saddle River Borough,2677,2675,34,14,3,1,3,6,2540,2785,19,23,10
+0,_Bergen,_Waldwick Borough,_Waldwick Borough,3161,2965,50,21,8,6,5,1,3079,2922,44,29,29
+0,_Bergen,_Wallington Borough,_Wallington Borough,1999,2772,31,14,4,5,5,7,2074,2445,34,47,27
+0,_Bergen,_Washington Township,_Washington Township,2910,3317,39,15,2,1,4,2,2860,3264,29,19,17
+0,_Bergen,_Westwood Borough,_Westwood Borough,3762,2907,46,20,8,2,9,3,3677,2840,46,40,32
+0,_Bergen,_Woodcliff Lake Borough,_Woodcliff Lake Borough,2323,1626,33,3,4,2,3,1,2208,1716,17,18,8
+0,_Bergen,_Wood-Ridge Borough,_Wood-Ridge Borough,2895,2613,32,15,5,2,6,5,2922,2410,28,45,28
+0,_Bergen,_Wyckoff Township,_Wyckoff Township,5458,5814,78,28,9,7,6,8,5104,6005,58,37,21
+0,_Burlington,_Bass River Township,_Bass River Township,213,618,3,2,2,2,0,0,222,573,5,4,4
+0,_Burlington,_Beverly City,_Beverly City,772,375,7,3,4,4,1,0,766,353,9,9,4
+0,_Burlington,_Bordentown City W1,_Bordentown City W1,734,318,11,2,1,0,1,1,713,312,12,3,2
+0,_Burlington,_Bordentown City W2,_Bordentown City W2,509,279,7,7,3,4,0,0,508,266,10,4,3
+0,_Burlington,_Bordentown City W3,_Bordentown City W3,321,153,9,3,0,0,0,1,310,153,8,5,1
+0,_Burlington,_Bordentown Township,_Bordentown Township,3889,2900,63,22,7,4,4,3,3786,2817,63,25,18
+0,_Burlington,_Burlington City W1,_Burlington City W1,733,152,1,1,0,0,0,0,730,129,5,4,1
+0,_Burlington,_Burlington City W2,_Burlington City W2,785,315,3,0,0,2,1,0,767,290,13,6,1
+0,_Burlington,_Burlington City W3,_Burlington City W3,880,477,13,1,2,2,0,0,864,430,13,10,1
+0,_Burlington,_Burlington City W4,_Burlington City W4,896,462,7,5,4,3,2,0,872,435,20,8,2
+0,_Burlington,_Burlington Township,_Burlington Township,9294,4070,113,27,16,9,6,5,9143,3914,74,54,17
+0,_Burlington,_Chesterfield Township,_Chesterfield Township,1906,1676,20,4,4,0,1,1,1825,1707,18,5,5
+0,_Burlington,_Cinnaminson Township,_Cinnaminson Township,5761,4800,75,30,23,9,5,6,5525,4813,51,33,13
+0,_Burlington,_Delanco Township,_Delanco Township,1703,1087,19,4,8,4,2,3,1635,1074,30,21,6
+0,_Burlington,_Delran Township W1,_Delran Township W1,1670,1226,19,9,7,1,3,4,1650,1160,19,9,9
+0,_Burlington,_Delran Township W2,_Delran Township W2,1908,1592,28,9,4,1,2,1,1932,1519,18,7,5
+0,_Burlington,_Delran Township W3,_Delran Township W3,1775,1441,25,6,5,5,3,0,1748,1405,22,10,8
+0,_Burlington,_Eastampton Township,_Eastampton Township,2131,1401,40,7,5,1,4,1,2072,1381,24,13,8
+0,_Burlington,_Edgewater Park Township,_Edgewater Park Township,2899,1269,31,8,6,3,1,2,2917,1145,30,18,6
+0,_Burlington,_Evesham Township,_Evesham Township,16768,12582,261,71,38,11,17,9,16065,12529,194,122,62
+0,_Burlington,_Fieldsboro Borough,_Fieldsboro Borough,182,131,3,3,1,0,0,0,170,119,4,2,0
+0,_Burlington,_Florence Township W1,_Florence Township W1,1302,907,17,3,3,1,2,0,1263,858,24,19,8
+0,_Burlington,_Florence Township W2,_Florence Township W2,1521,1372,22,5,6,1,4,0,1466,1350,19,14,8
+0,_Burlington,_Florence Township W3,_Florence Township W3,1197,898,23,9,2,3,0,0,1186,835,22,11,8
+0,_Burlington,_Hainesport Township,_Hainesport Township,2029,1957,52,7,9,3,2,0,1954,1983,25,12,5
+0,_Burlington,_Lumberton Township,_Lumberton Township,4675,2749,77,11,11,2,4,4,4566,2791,45,30,9
+0,_Burlington,_Mansfield Township,_Mansfield Township,3044,3058,43,11,5,5,2,1,2899,2971,35,27,11
+0,_Burlington,_Maple Shade Township,_Maple Shade Township,5438,3680,64,26,13,10,6,2,5428,3405,63,41,13
+0,_Burlington,_Medford Lakes Borough,_Medford Lakes Borough,1551,1334,39,10,7,1,0,2,1464,1371,32,10,5
+0,_Burlington,_Medford Township,_Medford Township,8171,8057,168,40,27,4,11,5,7690,8297,114,50,28
+0,_Burlington,_Moorestown Township,_Moorestown Township,8394,5205,123,23,15,10,9,9,7921,5627,78,20,10
+0,_Burlington,_Mount Holly Township,_Mount Holly Township,3151,1355,69,17,9,12,3,0,3109,1307,46,38,9
+0,_Burlington,_Mount Laurel Township,_Mount Laurel Township,17455,10004,212,60,43,11,12,8,16874,10165,141,65,38
+0,_Burlington,_New Hanover Township,_New Hanover Township,244,371,7,1,1,0,0,0,238,350,6,3,3
+0,_Burlington,_North Hanover Township,_North Hanover Township,1155,1713,40,14,1,4,4,2,1115,1660,32,19,13
+0,_Burlington,_Palmyra Borough,_Palmyra Borough,2729,1406,37,9,3,3,2,1,2670,1391,32,14,4
+0,_Burlington,_Pemberton Borough,_Pemberton Borough,355,330,3,0,3,0,2,0,342,318,4,3,1
+0,_Burlington,_Pemberton Township,_Pemberton Township,6274,4961,137,33,13,7,5,4,6226,4680,112,73,39
+0,_Burlington,_Riverside Township,_Riverside Township,1707,1471,31,10,6,1,2,1,1709,1346,30,20,15
+0,_Burlington,_Riverton Borough,_Riverton Borough,1070,620,21,4,1,2,0,1,1002,669,23,7,6
+0,_Burlington,_Shamong Township,_Shamong Township,1645,2541,45,7,4,1,1,0,1566,2535,27,13,7
+0,_Burlington,_Southampton Township,_Southampton Township,2938,4026,41,13,6,4,2,1,2821,3933,46,21,14
+0,_Burlington,_Springfield Township,_Springfield Township,870,1251,16,7,2,1,0,1,801,1228,17,5,6
+0,_Burlington,_Tabernacle Township,_Tabernacle Township,1676,2735,63,14,6,1,2,1,1607,2712,40,29,10
+0,_Burlington,_Washington Township,_Washington Township,171,242,3,0,4,0,0,0,167,239,4,0,2
+0,_Burlington,_Westampton Township,_Westampton Township,3757,1606,38,12,6,4,1,0,3661,1611,32,11,10
+0,_Burlington,_Willingboro Township,_Willingboro Township,15963,1537,36,33,12,18,1,2,15834,1380,62,66,20
+0,_Burlington,_Woodland Township,_Woodland Township,248,534,17,2,2,0,0,0,227,511,14,4,3
+0,_Burlington,_Wrightstown Borough,_Wrightstown Borough,136,101,4,0,0,0,0,0,134,89,1,3,1
+0,_Camden,_Audubon Borough,_Audubon Borough,3244,2141,59,23,11,4,3,1,3211,2122,38,11,3
+0,_Camden,_Audubon Park Borough,_Audubon Park Borough,336,292,4,0,0,1,0,0,349,254,6,2,2
+0,_Camden,_Barrington Borough,_Barrington Borough,2419,1522,47,9,7,2,2,7,2370,1539,32,9,7
+0,_Camden,_Bellmawr Borough,_Bellmawr Borough,3187,2851,56,26,11,2,4,3,3243,2624,51,23,14
+0,_Camden,_Berlin Borough,_Berlin Borough,2270,2214,46,13,3,5,6,2,2212,2195,30,11,7
+0,_Camden,_Berlin Township,_Berlin Township,1817,1453,24,5,2,4,6,4,1856,1376,25,3,8
+0,_Camden,_Brooklawn Borough,_Brooklawn Borough,517,349,14,1,0,0,0,3,512,346,13,3,0
+0,_Camden,_Camden City W1,_Camden City W1,4438,411,4,5,4,9,1,1,4516,356,16,31,6
+0,_Camden,_Camden City W2,_Camden City W2,4994,282,2,6,1,5,6,3,5082,240,13,23,7
+0,_Camden,_Camden City W3,_Camden City W3,4057,673,1,9,1,5,1,3,4082,567,24,34,4
+0,_Camden,_Camden City W4,_Camden City W4,4128,628,14,5,1,6,0,0,4088,547,10,63,6
+0,_Camden,_Cherry Hill Township,_Cherry Hill Township,29541,14036,319,123,39,27,22,16,28640,14500,270,91,39
+0,_Camden,_Chesilhurst Borough,_Chesilhurst Borough,552,254,5,2,1,1,0,0,565,236,2,4,1
+0,_Camden,_Clementon Borough,_Clementon Borough,1473,827,23,9,2,2,1,0,1477,799,28,12,4
+0,_Camden,_Collingswood Borough,_Collingswood Borough,6550,1721,67,48,6,17,9,2,6451,1806,103,19,10
+0,_Camden,_Gibbsboro Borough,_Gibbsboro Borough,787,601,13,3,1,2,0,1,766,588,10,1,2
+0,_Camden,_Gloucester City W1,_Gloucester City W1,827,674,9,10,3,1,3,2,857,627,19,3,2
+0,_Camden,_Gloucester City W2,_Gloucester City W2,960,822,10,6,2,1,1,0,999,749,8,1,4
+0,_Camden,_Gloucester City W3,_Gloucester City W3,722,640,10,5,2,3,0,0,732,605,19,10,3
+0,_Camden,_Gloucester Township,_Gloucester Township,21132,13926,239,99,25,18,21,14,21021,13671,222,76,47
+0,_Camden,_Haddon Heights Borough,_Haddon Heights Borough,3281,1788,53,14,6,1,5,3,3164,1931,33,8,3
+0,_Camden,_Haddon Township,_Haddon Township,6569,3180,102,34,7,5,6,4,6377,3320,65,25,6
+0,_Camden,_Haddonfield Borough,_Haddonfield Borough,5728,2421,74,24,8,3,7,5,5400,2752,43,6,7
+0,_Camden,_Hi-Nella Borough,_Hi-Nella Borough,315,141,2,1,0,1,0,0,312,138,4,0,0
+0,_Camden,_Laurel Springs Borough,_Laurel Springs Borough,707,469,13,7,2,0,1,3,677,482,6,4,1
+0,_Camden,_Lawnside Borough,_Lawnside Borough,1617,78,6,2,1,0,0,1,1635,70,10,3,0
+0,_Camden,_Lindenwold Borough,_Lindenwold Borough,5262,1592,35,28,7,4,4,1,5301,1490,42,13,11
+0,_Camden,_Magnolia Borough,_Magnolia Borough,1533,825,33,11,1,2,1,2,1539,825,15,9,0
+0,_Camden,_Merchantville Borough,_Merchantville Borough,1458,633,22,7,1,1,1,2,1435,639,18,11,2
+0,_Camden,_Mount Ephraim Borough,_Mount Ephraim Borough,1453,1214,33,11,0,2,3,0,1498,1125,20,3,6
+0,_Camden,_Oaklyn Borough,_Oaklyn Borough,1586,790,32,11,0,3,5,1,1560,761,27,14,1
+0,_Camden,_Pennsauken Township,_Pennsauken Township,12562,4294,79,48,8,21,4,5,12605,4039,81,70,13
+0,_Camden,_Pine Hill Borough,_Pine Hill Borough,3326,1659,33,16,4,6,2,1,3349,1574,35,17,12
+0,_Camden,_Pine Valley Borough,_Pine Valley Borough,2,9,0,0,0,0,0,0,2,9,0,0,0
+0,_Camden,_Runnemede Borough,_Runnemede Borough,2479,2048,38,17,5,1,1,2,2507,1909,41,14,2
+0,_Camden,_Somerdale Borough,_Somerdale Borough,1918,950,19,12,1,4,2,2,1925,908,22,8,1
+0,_Camden,_Stratford Borough,_Stratford Borough,2338,1555,34,19,5,11,2,2,2322,1526,29,9,10
+0,_Camden,_Tavistock Borough,_Tavistock Borough,5,0,0,0,0,0,0,0,4,1,0,0,0
+0,_Camden,_Voorhees Township,_Voorhees Township,11464,5581,136,34,11,8,10,7,11097,5810,90,31,9
+0,_Camden,_Waterford Township,_Waterford Township,2523,3589,46,27,10,3,3,0,2539,3481,48,12,13
+0,_Camden,_Winslow Township W1,_Winslow Township W1,2381,2759,40,19,3,1,3,2,2381,2697,28,3,6
+0,_Camden,_Winslow Township W2,_Winslow Township W2,3761,1989,37,14,6,3,1,2,3806,1937,24,10,8
+0,_Camden,_Winslow Township W3,_Winslow Township W3,4100,559,7,8,5,2,0,1,4166,507,22,8,3
+0,_Camden,_Winslow Township W4,_Winslow Township W4,3982,1581,37,9,2,1,4,5,3943,1559,32,12,2
+0,_Camden,_Woodlynne Borough,_Woodlynne Borough,764,186,7,1,1,1,0,0,762,169,3,8,3
+0,_Cape May,_Avalon Borough,_Avalon Borough,390,547,2,0,0,1,0,0,352,570,4,0,1
+0,_Cape May,_Cape May City,_Cape May City,830,732,6,7,1,0,1,0,783,704,12,7,1
+0,_Cape May,_Cape May Point Borough,_Cape May Point Borough,110,66,1,0,0,0,0,0,108,63,0,0,1
+0,_Cape May,_Dennis Township,_Dennis Township,1462,2574,22,16,1,0,7,3,1401,2434,22,37,10
+0,_Cape May,_Lower Township W1,_Lower Township W1,1558,2309,21,17,1,1,4,8,1535,2085,46,50,13
+0,_Cape May,_Lower Township W2,_Lower Township W2,1713,2412,27,9,6,3,4,2,1648,2242,40,24,11
+0,_Cape May,_Lower Township W3,_Lower Township W3,1912,3031,35,12,1,1,5,6,1847,2880,32,36,7
+0,_Cape May,_Middle Township,_Middle Township,4685,6440,69,23,11,4,12,16,4534,6013,77,118,34
+0,_Cape May,_North Wildwood City W1,_North Wildwood City W1,457,804,2,1,0,1,2,1,439,744,5,4,3
+0,_Cape May,_North Wildwood City W2,_North Wildwood City W2,408,642,5,2,1,0,1,1,399,581,10,7,6
+0,_Cape May,_Ocean City W1,_Ocean City W1,1015,1183,4,6,0,1,1,3,942,1198,13,4,2
+0,_Cape May,_Ocean City W2,_Ocean City W2,699,853,10,5,0,1,0,1,671,816,16,8,3
+0,_Cape May,_Ocean City W3,_Ocean City W3,772,1022,7,1,1,0,1,1,728,1013,5,6,3
+0,_Cape May,_Ocean City W4,_Ocean City W4,897,1140,8,4,2,0,3,1,853,1119,12,6,0
+0,_Cape May,_Sea Isle City,_Sea Isle City,625,879,2,7,0,0,2,1,597,846,7,1,2
+0,_Cape May,_Stone Harbor Borough,_Stone Harbor Borough,231,296,1,1,0,0,1,0,208,300,7,0,0
+0,_Cape May,_Upper Township,_Upper Township,3391,5000,57,18,6,2,9,7,3276,4801,53,38,16
+0,_Cape May,_West Cape May Borough,_West Cape May Borough,447,276,2,1,0,0,0,0,441,256,8,1,2
+0,_Cape May,_West Wildwood Borough,_West Wildwood Borough,133,228,0,1,0,0,0,0,132,194,1,3,1
+0,_Cape May,_Wildwood City,_Wildwood City,945,1111,13,2,0,4,1,1,884,960,18,30,9
+0,_Cape May,_Wildwood Crest Borough,_Wildwood Crest Borough,732,1238,14,7,0,0,4,3,706,1178,19,10,5
+0,_Cape May,_Woodbine Borough,_Woodbine Borough,529,375,3,0,0,0,1,0,468,320,6,9,3
+0,_Cumberland,_Bridgeton City,_Bridgeton City,3616,1094,17,11,1,4,4,7,3495,969,25,139,17
+0,_Cumberland,_Commercial Township,_Commercial Township,798,1184,18,5,0,1,1,0,802,1057,26,34,17
+0,_Cumberland,_Deerfield Township,_Deerfield Township,644,917,13,3,1,0,2,4,633,856,6,17,2
+0,_Cumberland,_Downe Township,_Downe Township,214,568,7,2,0,0,0,0,226,529,3,8,3
+0,_Cumberland,_Fairfield Township,_Fairfield Township,1621,721,7,3,2,1,3,1,1611,652,13,31,4
+0,_Cumberland,_Greenwich Township,_Greenwich Township,226,261,7,2,0,0,2,0,230,246,8,4,2
+0,_Cumberland,_Hopewell Township,_Hopewell Township,864,1552,23,9,3,2,4,0,895,1469,16,25,7
+0,_Cumberland,_Lawrence Township,_Lawrence Township,468,1063,7,1,1,0,2,0,457,1013,5,18,6
+0,_Cumberland,_Maurice River Township,_Maurice River Township,521,1221,25,5,0,4,2,2,536,1138,19,21,12
+0,_Cumberland,_Millville City,_Millville City,6506,5819,94,35,5,6,16,15,6401,5346,98,239,68
+0,_Cumberland,_Shiloh Borough,_Shiloh Borough,91,177,2,0,1,0,1,0,91,167,0,3,0
+0,_Cumberland,_Stow Creek Township,_Stow Creek Township,244,590,10,0,1,0,1,0,243,570,5,9,5
+0,_Cumberland,_Upper Deerfield Township,_Upper Deerfield Township,1607,2308,23,13,2,2,7,2,1572,2213,30,54,24
+0,_Cumberland,_Vineland City,_Vineland City,15322,11477,144,50,15,6,26,18,14800,10401,144,805,130
+0,_Essex,_Belleville Township W1,_Belleville Township W1,3038,1768,24,28,2,2,1,6,3004,1471,39,51,12
+0,_Essex,_Belleville Township W2,_Belleville Township W2,2090,1818,16,11,1,0,1,2,2101,1519,33,30,7
+0,_Essex,_Belleville Township W3,_Belleville Township W3,2156,987,9,11,1,5,0,4,2131,790,36,36,10
+0,_Essex,_Belleville Township W4,_Belleville Township W4,2254,1404,18,6,0,6,1,3,2240,1190,17,35,6
+0,_Essex,_Bloomfield Township W1 CD10,_Bloomfield Township W1 CD10,3021,983,16,20,3,2,1,4,2942,876,51,43,8
+0,_Essex,_Bloomfield Township W1 CD11,_Bloomfield Township W1 CD11,2972,1258,16,11,3,4,5,5,2949,1106,43,21,8
+0,_Essex,_Bloomfield Township W2,_Bloomfield Township W2,6156,3038,61,39,4,11,5,12,6019,2940,90,50,5
+0,_Essex,_Bloomfield Township W3,_Bloomfield Township W3,6226,1535,35,34,1,9,1,14,6172,1283,90,79,10
+0,_Essex,_Caldwell Borough,_Caldwell Borough,2569,1871,28,11,5,6,1,5,2504,1837,38,23,6
+0,_Essex,_Cedar Grove Township,_Cedar Grove Township,3788,4350,42,18,4,1,4,11,3663,4130,30,26,11
+0,_Essex,_City of Orange Township East,_City of Orange Township East,2568,147,0,4,1,1,0,2,2515,108,11,12,0
+0,_Essex,_City of Orange Township North,_City of Orange Township North,2902,186,3,2,2,1,0,1,2835,128,17,31,4
+0,_Essex,_City of Orange Township South,_City of Orange Township South,2420,156,6,7,3,3,2,1,2374,120,16,17,6
+0,_Essex,_City of Orange Township West,_City of Orange Township West,2111,153,2,6,0,5,0,0,2043,100,16,10,5
+0,_Essex,_East Orange City W1,_East Orange City W1,7069,262,11,15,1,7,2,3,6971,193,42,35,10
+0,_Essex,_East Orange City W2,_East Orange City W2,5137,200,4,25,1,3,4,0,5014,151,27,26,5
+0,_Essex,_East Orange City W3,_East Orange City W3,4557,191,8,11,4,5,2,3,4488,131,25,14,6
+0,_Essex,_East Orange City W4,_East Orange City W4,3284,187,3,6,0,0,4,2,3238,128,12,24,5
+0,_Essex,_East Orange City W5,_East Orange City W5,4152,287,2,13,0,5,0,5,4112,193,23,27,8
+0,_Essex,_Essex Fells Borough,_Essex Fells Borough,695,796,20,8,0,0,0,3,651,818,21,3,1
+0,_Essex,_Fairfield Township,_Fairfield Township,1452,3436,19,4,0,0,3,4,1386,3261,12,14,12
+0,_Essex,_Glen Ridge Borough,_Glen Ridge Borough,3689,943,50,12,2,3,2,3,3521,1081,34,10,2
+0,_Essex,_Irvington Township East,_Irvington Township East,4773,252,4,9,0,3,0,1,4690,180,13,38,2
+0,_Essex,_Irvington Township North,_Irvington Township North,4742,233,7,10,1,4,0,3,4698,181,19,18,7
+0,_Essex,_Irvington Township South,_Irvington Township South,3897,202,6,8,0,1,0,1,3838,140,17,22,4
+0,_Essex,_Irvington Township West,_Irvington Township West,3933,219,3,5,1,1,0,2,3879,147,13,15,4
+0,_Essex,_Livingston Township,_Livingston Township,11773,6307,84,34,6,11,4,8,11233,6366,86,48,13
+0,_Essex,_Maplewood Township,_Maplewood Township,13610,1294,68,53,7,17,2,7,13274,1373,181,45,11
+0,_Essex,_Millburn Township,_Millburn Township,8559,2953,78,35,5,9,5,15,7920,3490,65,27,16
+0,_Essex,_Montclair Township W1,_Montclair Township W1,4524,611,29,15,4,4,0,2,4358,716,47,13,8
+0,_Essex,_Montclair Township W2 CD10,_Montclair Township W2 CD10,4895,528,33,24,1,7,0,8,4745,562,71,33,6
+0,_Essex,_Montclair Township W2 CD11,_Montclair Township W2 CD11,1993,260,4,3,1,1,1,1,1949,280,13,4,1
+0,_Essex,_Montclair Township W3,_Montclair Township W3,4954,676,29,33,1,9,3,0,4799,733,66,20,6
+0,_Essex,_Montclair Township W4,_Montclair Township W4,4649,355,17,18,0,4,2,4,4535,361,61,32,1
+0,_Essex,_Newark City C CD08,_Newark City C CD08,3798,1150,12,12,0,3,0,3,3811,801,35,61,9
+0,_Essex,_Newark City C CD10 FD1,_Newark City C CD10 FD1,3128,421,5,11,0,3,2,3,3065,277,23,36,11
+0,_Essex,_Newark City C CD10 FD2,_Newark City C CD10 FD2,6821,277,4,13,0,5,0,0,6658,198,27,39,6
+0,_Essex,_Newark City E CD08,_Newark City E CD08,6413,2421,19,30,2,5,2,5,6375,1838,105,82,17
+0,_Essex,_Newark City E CD10,_Newark City E CD10,1463,239,3,1,0,2,0,4,1429,167,8,15,1
+0,_Essex,_Newark City N,_Newark City N,10764,2688,17,36,5,16,3,11,10776,1858,86,124,9
+0,_Essex,_Newark City S FD1,_Newark City S FD1,476,88,1,3,0,0,0,0,472,61,3,1,0
+0,_Essex,_Newark City S FD2,_Newark City S FD2,18845,892,27,42,1,28,6,5,18499,578,94,104,32
+0,_Essex,_Newark City W CD08,_Newark City W CD08,1813,576,4,11,0,2,0,2,1829,394,19,18,2
+0,_Essex,_Newark City W CD10 FD1,_Newark City W CD10 FD1,1134,173,0,13,0,2,0,2,1116,126,14,18,1
+0,_Essex,_Newark City W CD10 FD3,_Newark City W CD10 FD3,14264,762,19,46,5,17,1,9,14091,503,76,94,18
+0,_Essex,_North Caldwell Borough,_North Caldwell Borough,2355,2119,43,8,2,0,2,2,2228,2169,20,11,4
+0,_Essex,_Nutley Township W1,_Nutley Township W1,2789,3073,29,19,2,8,2,6,2743,2693,51,25,9
+0,_Essex,_Nutley Township W2,_Nutley Township W2,2674,2525,30,18,3,3,2,4,2614,2291,31,17,19
+0,_Essex,_Nutley Township W3,_Nutley Township W3,3170,2454,24,14,1,1,1,8,3083,2231,25,22,18
+0,_Essex,_Roseland Borough,_Roseland Borough,2066,2130,25,9,2,1,0,5,1979,2111,16,15,4
+0,_Essex,_South Orange Village Township,_South Orange Village Township,8793,896,51,35,3,7,2,4,8527,972,108,28,11
+0,_Essex,_Verona Township,_Verona Township,5507,3693,68,27,5,6,5,6,5239,3672,66,12,11
+0,_Essex,_West Caldwell Township,_West Caldwell Township,3592,3533,41,16,10,5,4,7,3426,3547,38,23,8
+0,_Essex,_West Orange Township W1 CD10,_West Orange Township W1 CD10,1751,343,5,6,1,0,0,2,1697,296,20,17,5
+0,_Essex,_West Orange Township W1 CD11,_West Orange Township W1 CD11,3083,651,22,10,1,0,0,1,3020,635,33,19,2
+0,_Essex,_West Orange Township W2 CD10,_West Orange Township W2 CD10,2116,494,12,7,4,4,2,0,2066,472,30,24,3
+0,_Essex,_West Orange Township W2 CD11,_West Orange Township W2 CD11,1633,513,10,6,0,0,1,0,1574,493,14,13,2
+0,_Essex,_West Orange Township W3,_West Orange Township W3,1109,228,4,5,0,1,0,1,1082,173,13,16,5
+0,_Essex,_West Orange Township W4,_West Orange Township W4,8781,2913,59,21,1,6,11,5,8568,2795,67,46,18
+0,_Essex,_West Orange Township W5,_West Orange Township W5,1874,377,7,10,3,3,2,4,1846,316,20,30,5
+0,_Gloucester,_Clayton Borough,_Clayton Borough,2613,2058,46,10,3,0,4,2,2593,1970,58,32,9
+0,_Gloucester,_Deptford Township,_Deptford Township,9901,7652,157,49,10,11,19,16,9876,7278,226,109,31
+0,_Gloucester,_East Greenwich Township CD01,_East Greenwich Township CD01,2761,3005,49,15,6,1,7,5,2667,3002,60,27,8
+0,_Gloucester,_East Greenwich Township CD02,_East Greenwich Township CD02,552,636,11,1,1,0,0,0,521,656,11,1,3
+0,_Gloucester,_Elk Township,_Elk Township,1120,1482,21,5,2,0,2,3,1115,1436,33,8,3
+0,_Gloucester,_Franklin Township,_Franklin Township,3649,5948,87,30,5,3,10,14,3633,5675,163,68,18
+0,_Gloucester,_Glassboro Borough,_Glassboro Borough,5170,3320,69,37,11,7,6,6,5121,3220,120,43,9
+0,_Gloucester,_Greenwich Township,_Greenwich Township,1321,1742,39,4,1,2,1,2,1373,1627,43,19,2
+0,_Gloucester,_Harrison Township,_Harrison Township,3879,4452,85,18,7,3,9,13,3659,4512,101,39,23
+0,_Gloucester,_Logan Township,_Logan Township,1934,1569,48,5,2,0,1,6,1923,1526,39,25,5
+0,_Gloucester,_Mantua Township,_Mantua Township,4634,5177,107,27,8,3,14,17,4561,5050,135,47,13
+0,_Gloucester,_Monroe Township W1,_Monroe Township W1,2876,2697,54,13,5,4,4,8,2828,2625,62,34,4
+0,_Gloucester,_Monroe Township W2,_Monroe Township W2,2543,2434,45,14,6,3,4,7,2542,2280,75,39,9
+0,_Gloucester,_Monroe Township W3,_Monroe Township W3,2946,2448,47,10,2,2,3,7,2914,2357,68,36,12
+0,_Gloucester,_Monroe Township W4,_Monroe Township W4,2137,2682,41,20,3,5,3,5,2142,2561,63,33,10
+0,_Gloucester,_National Park Borough,_National Park Borough,718,823,22,1,0,2,4,3,719,764,35,13,12
+0,_Gloucester,_Newfield Borough,_Newfield Borough,446,563,8,3,1,1,0,3,446,530,17,7,2
+0,_Gloucester,_Paulsboro Borough,_Paulsboro Borough,1694,822,21,3,2,1,2,4,1737,712,38,20,5
+0,_Gloucester,_Pitman Borough,_Pitman Borough,2892,2526,91,17,7,6,7,7,2790,2548,91,38,11
+0,_Gloucester,_South Harrison Township,_South Harrison Township,868,1253,14,5,1,0,1,0,818,1257,23,10,4
+0,_Gloucester,_Swedesboro Borough,_Swedesboro Borough,741,535,23,2,0,0,0,2,736,518,15,12,5
+0,_Gloucester,_Washington Township,_Washington Township,14265,15908,241,58,21,12,27,35,13994,15518,367,128,46
+0,_Gloucester,_Wenonah Borough,_Wenonah Borough,1003,569,24,5,1,1,2,2,942,615,40,4,3
+0,_Gloucester,_West Deptford Township,_West Deptford Township,6895,6036,104,44,13,8,7,12,6886,5801,175,60,20
+0,_Gloucester,_Westville Borough,_Westville Borough,1043,1011,24,9,1,1,2,2,1066,939,27,13,3
+0,_Gloucester,_Woodbury City W1,_Woodbury City W1,864,445,10,5,0,0,3,1,851,421,25,15,1
+0,_Gloucester,_Woodbury City W2,_Woodbury City W2,1171,413,14,6,1,1,3,1,1151,405,16,16,1
+0,_Gloucester,_Woodbury City W3,_Woodbury City W3,1234,644,21,11,1,0,0,6,1192,642,34,9,4
+0,_Gloucester,_Woodbury Heights Borough,_Woodbury Heights Borough,1029,897,22,6,0,2,2,2,1018,868,25,16,4
+0,_Gloucester,_Woolwich Township,_Woolwich Township,3803,3593,71,13,1,3,2,6,3675,3630,64,31,6
+0,_Hudson,_Bayonne City CD08,_Bayonne City CD08,8251,5742,55,41,10,15,17,5,8248,4705,98,222,95
+0,_Hudson,_Bayonne City CD10,_Bayonne City CD10,8055,5127,76,46,9,9,6,5,7963,4294,98,239,73
+0,_Hudson,_East Newark Borough,_East Newark Borough,408,201,6,2,0,0,2,0,396,146,3,26,6
+0,_Hudson,_Guttenberg Town,_Guttenberg Town,2634,1090,12,8,1,4,1,0,2572,927,28,47,9
+0,_Hudson,_Harrison Town,_Harrison Town,3460,1469,27,22,1,5,3,3,3426,1202,58,77,13
+0,_Hudson,_Hoboken City,_Hoboken City,21046,6259,330,85,12,7,50,9,19916,6690,169,218,68
+0,_Hudson,_Jersey City CD08 FD2,_Jersey City CD08 FD2,8,5,0,0,0,0,0,0,8,5,0,0,0
+0,_Hudson,_Jersey City CD08 FD3,_Jersey City CD08 FD3,11571,1831,100,51,1,7,9,5,11083,1864,140,162,33
+0,_Hudson,_Jersey City CD08 FD4,_Jersey City CD08 FD4,14752,2790,138,63,7,16,19,8,14110,2749,187,209,41
+0,_Hudson,_Jersey City CD08 FD4 WD,_Jersey City CD08 FD4 WD,5028,1950,38,20,4,7,2,1,4827,1619,71,145,28
+0,_Hudson,_Jersey City CD08 FD5,_Jersey City CD08 FD5,2460,603,23,6,0,0,3,0,2345,630,17,22,12
+0,_Hudson,_Jersey City CD08 FD5 WD,_Jersey City CD08 FD5 WD,4230,1151,27,21,1,11,5,2,4046,956,76,100,21
+0,_Hudson,_Jersey City CD08 FD8,_Jersey City CD08 FD8,580,216,3,2,0,0,0,0,554,170,5,29,3
+0,_Hudson,_Jersey City CD10 FD1,_Jersey City CD10 FD1,1966,880,8,6,0,2,1,2,1912,764,18,52,9
+0,_Hudson,_Jersey City CD10 FD2,_Jersey City CD10 FD2,18911,5054,70,99,14,26,13,3,18338,4149,231,396,77
+0,_Hudson,_Jersey City CD10 FD3,_Jersey City CD10 FD3,16916,1934,41,52,11,16,10,6,16558,1506,92,283,37
+0,_Hudson,_Jersey City CD10 FD4,_Jersey City CD10 FD4,1787,618,10,5,3,4,4,0,1731,540,18,37,9
+0,_Hudson,_Kearny Town CD08,_Kearny Town CD08,4005,2142,20,21,2,8,11,6,3935,1701,55,161,24
+0,_Hudson,_Kearny Town CD09,_Kearny Town CD09,4589,3335,33,32,3,2,14,1,4483,2861,49,216,48
+0,_Hudson,_North Bergen Township,_North Bergen Township,15456,7484,59,53,9,15,24,19,15413,6179,148,415,63
+0,_Hudson,_Secaucus Town FD8,_Secaucus Town FD8,1823,1460,7,8,0,1,9,2,1798,1261,14,52,25
+0,_Hudson,_Secaucus Town FD9,_Secaucus Town FD9,3413,2366,24,18,1,1,4,5,3323,2081,31,109,37
+0,_Hudson,_Union City,_Union City,14474,5556,62,62,5,19,21,13,14410,4438,116,309,41
+0,_Hudson,_Weehawken Township,_Weehawken Township,5113,1824,48,26,2,8,13,4,4941,1682,69,99,15
+0,_Hudson,_West New York Town,_West New York Town,10516,4611,35,33,6,22,10,9,10322,3798,88,223,24
+0,_Hunterdon,_Alexandria Township,_Alexandria Township,1322,1972,38,21,7,0,2,2,1221,2014,51,12,12
+0,_Hunterdon,_Bethlehem Township,_Bethlehem Township,1150,1492,35,18,2,3,3,1,1059,1520,57,9,11
+0,_Hunterdon,_Bloomsbury Borough,_Bloomsbury Borough,238,256,7,3,2,0,1,0,234,256,7,2,2
+0,_Hunterdon,_Califon Borough,_Califon Borough,378,323,9,5,1,1,0,0,359,322,10,9,1
+0,_Hunterdon,_Clinton Town,_Clinton Town,959,774,25,10,1,1,3,1,910,790,38,8,2
+0,_Hunterdon,_Clinton Township,_Clinton Township,4148,4326,126,34,7,5,9,5,3783,4577,135,31,12
+0,_Hunterdon,_Delaware Township,_Delaware Township,1617,1650,36,10,5,2,2,0,1508,1686,57,18,6
+0,_Hunterdon,_East Amwell Township,_East Amwell Township,1306,1419,24,18,2,2,2,0,1233,1424,56,13,6
+0,_Hunterdon,_Flemington Borough,_Flemington Borough,1043,762,29,10,0,4,4,1,1003,739,48,16,6
+0,_Hunterdon,_Franklin Township,_Franklin Township,840,1300,26,8,5,0,0,4,779,1320,35,5,4
+0,_Hunterdon,_Frenchtown Borough,_Frenchtown Borough,556,282,9,4,0,1,1,0,542,273,15,2,0
+0,_Hunterdon,_Glen Gardner Borough,_Glen Gardner Borough,479,520,4,4,1,1,2,1,454,508,23,11,2
+0,_Hunterdon,_Hampton Borough,_Hampton Borough,317,472,12,4,2,1,2,1,306,444,24,6,1
+0,_Hunterdon,_High Bridge Borough,_High Bridge Borough,1190,1007,35,22,3,0,2,3,1080,1034,60,20,2
+0,_Hunterdon,_Holland Township,_Holland Township,1323,2128,50,14,5,2,5,1,1248,2094,60,21,10
+0,_Hunterdon,_Kingwood Township,_Kingwood Township,920,1614,34,8,1,0,1,0,845,1604,48,13,8
+0,_Hunterdon,_Lambertville City,_Lambertville City,2176,610,17,9,2,2,1,0,2105,609,49,11,5
+0,_Hunterdon,_Lebanon Borough,_Lebanon Borough,466,543,15,8,2,1,1,0,437,539,20,3,0
+0,_Hunterdon,_Lebanon Township,_Lebanon Township,1651,2462,64,28,1,3,2,1,1526,2485,85,21,11
+0,_Hunterdon,_Milford Borough,_Milford Borough,337,369,9,8,0,1,0,2,320,353,26,7,4
+0,_Hunterdon,_Raritan Township,_Raritan Township,7590,7625,150,67,14,6,13,11,7058,7820,243,74,37
+0,_Hunterdon,_Readington Township,_Readington Township,4858,6228,130,55,6,5,11,4,4466,6375,169,48,24
+0,_Hunterdon,_Stockton Borough,_Stockton Borough,245,128,1,5,2,0,1,0,238,126,10,1,1
+0,_Hunterdon,_Tewksbury Township,_Tewksbury Township,1931,2245,35,15,3,0,7,1,1753,2363,62,16,7
+0,_Hunterdon,_Union Township,_Union Township,1443,1644,44,16,1,3,0,0,1319,1690,57,9,5
+0,_Hunterdon,_West Amwell Township,_West Amwell Township,974,1002,21,6,2,0,2,0,942,986,25,5,1
+0,_Mercer,_East Windsor Township,_East Windsor Township,9775,4186,131,57,7,6,7,11,9331,4306,88,80,16
+0,_Mercer,_Ewing Township,_Ewing Township,13718,4638,160,63,7,20,9,15,13453,4580,141,79,22
+0,_Mercer,_Hamilton Township,_Hamilton Township,26875,21584,410,159,28,16,25,42,25920,20812,351,389,97
+0,_Mercer,_Hightstown Borough,_Hightstown Borough,1781,769,18,12,2,2,2,3,1661,826,26,19,7
+0,_Mercer,_Hopewell Borough,_Hopewell Borough,1060,245,9,4,0,4,0,1,1001,280,16,6,2
+0,_Mercer,_Hopewell Township,_Hopewell Township,7419,3518,136,26,9,8,11,11,6998,3845,70,44,17
+0,_Mercer,_Lawrence Township,_Lawrence Township,12300,4879,146,70,12,21,9,7,11844,5018,154,97,20
+0,_Mercer,_Pennington Borough,_Pennington Borough,1453,349,18,3,0,1,1,2,1374,413,10,1,0
+0,_Mercer,_Princeton,_Princeton,11858,1981,133,59,8,13,11,11,11325,2447,125,35,20
+0,_Mercer,_Robbinsville Township,_Robbinsville Township,5168,3626,87,22,3,3,3,3,4842,3743,50,17,11
+0,_Mercer,_Trenton City East,_Trenton City East,4078,691,17,7,0,3,0,5,3988,569,22,97,7
+0,_Mercer,_Trenton City North,_Trenton City North,5113,552,13,7,1,6,0,6,4947,448,30,53,3
+0,_Mercer,_Trenton City South,_Trenton City South,2799,772,13,7,0,2,3,6,2696,634,13,65,8
+0,_Mercer,_Trenton City West,_Trenton City West,7314,428,23,13,0,6,2,6,7241,357,32,39,15
+0,_Mercer,_West Windsor Township,_West Windsor Township,11821,3423,113,55,11,14,8,7,11200,3970,82,38,13
+0,_Middlesex,_Carteret Borough,_Carteret Borough,6212,3065,26,15,4,9,3,6,6218,2578,76,106,58
+0,_Middlesex,_Cranbury Township,_Cranbury Township,1596,872,33,11,3,3,3,2,1502,951,24,13,6
+0,_Middlesex,_Dunellen Borough,_Dunellen Borough,1953,1256,33,13,3,3,4,3,1873,1196,55,53,23
+0,_Middlesex,_East Brunswick Township,_East Brunswick Township,15713,10713,224,93,23,4,16,17,15152,10575,250,187,146
+0,_Middlesex,_Edison Township,_Edison Township,26335,15986,239,115,38,31,19,13,25816,14862,406,324,255
+0,_Middlesex,_Helmetta Borough,_Helmetta Borough,560,709,18,3,3,0,0,3,561,681,12,15,6
+0,_Middlesex,_Highland Park Borough,_Highland Park Borough,5379,1533,58,50,1,9,0,1,5259,1492,130,44,9
+0,_Middlesex,_Jamesburg Borough,_Jamesburg Borough,1200,1107,26,9,1,0,1,0,1197,1017,31,17,19
+0,_Middlesex,_Metuchen Borough,_Metuchen Borough,5953,2548,95,31,9,5,4,3,5797,2595,88,42,38
+0,_Middlesex,_Middlesex Borough,_Middlesex Borough,3460,3608,78,23,4,7,3,5,3384,3463,76,61,44
+0,_Middlesex,_Milltown Borough,_Milltown Borough,2043,2135,71,13,2,2,2,2,1977,2090,43,34,30
+0,_Middlesex,_Monroe Township,_Monroe Township,16593,13841,132,67,19,9,17,13,15896,13729,208,136,132
+0,_Middlesex,_New Brunswick City,_New Brunswick City,7639,1608,60,49,8,23,7,2,7496,1390,139,107,30
+0,_Middlesex,_North Brunswick Township,_North Brunswick Township,12606,5507,126,58,5,17,10,12,12326,5260,166,155,87
+0,_Middlesex,_Old Bridge Township CD06,_Old Bridge Township CD06,3421,3797,60,28,2,3,3,4,3394,3574,80,58,53
+0,_Middlesex,_Old Bridge Township CD12,_Old Bridge Township CD12,10260,10356,163,88,12,9,11,12,10077,9816,224,161,147
+0,_Middlesex,_Old Bridge Township W2 CD06,_Old Bridge Township W2 CD06,2638,2536,35,6,3,2,4,3,2557,2464,32,27,28
+0,_Middlesex,_Old Bridge Township W2 CD12,_Old Bridge Township W2 CD12,521,490,1,3,0,0,0,0,501,464,10,1,5
+0,_Middlesex,_Perth Amboy City,_Perth Amboy City,10929,4246,46,24,7,13,6,8,10989,3056,105,358,79
+0,_Middlesex,_Piscataway Township,_Piscataway Township,17390,6690,159,100,20,17,10,9,17110,6413,217,195,91
+0,_Middlesex,_Plainsboro Township,_Plainsboro Township,7178,2152,54,25,3,5,8,2,6866,2266,78,56,25
+0,_Middlesex,_Sayreville Borough,_Sayreville Borough,10965,9624,158,57,17,7,11,9,10845,9037,173,156,122
+0,_Middlesex,_South Amboy City W1,_South Amboy City W1,601,729,9,7,1,3,1,1,602,632,21,20,8
+0,_Middlesex,_South Amboy City W2,_South Amboy City W2,607,571,10,6,0,0,1,0,599,507,24,15,10
+0,_Middlesex,_South Amboy City W3,_South Amboy City W3,806,855,14,3,2,1,1,0,814,760,13,20,17
+0,_Middlesex,_South Brunswick Township,_South Brunswick Township,16351,7163,139,88,10,16,13,15,15714,7159,241,139,114
+0,_Middlesex,_South Plainfield Borough,_South Plainfield Borough,6648,5446,106,46,9,12,10,5,6625,5139,105,83,71
+0,_Middlesex,_South River Borough,_South River Borough,3094,3019,31,33,8,6,0,2,3080,2803,76,79,29
+0,_Middlesex,_Spotswood Borough,_Spotswood Borough,1821,2545,58,16,7,2,4,5,1797,2378,55,43,61
+0,_Middlesex,_Woodbridge Township,_Woodbridge Township,25778,18760,292,141,23,31,26,19,25778,17051,437,409,275
+0,_Monmouth,_Aberdeen Township,_Aberdeen Township,6014,5025,71,51,5,6,14,3,5904,4942,135,53,30
+0,_Monmouth,_Allenhurst Borough,_Allenhurst Borough,122,145,3,1,0,0,0,0,115,149,3,1,0
+0,_Monmouth,_Allentown Borough,_Allentown Borough,683,509,11,3,1,0,1,3,653,500,27,9,5
+0,_Monmouth,_Asbury Park City,_Asbury Park City,4787,969,41,29,0,16,5,0,4669,955,106,32,14
+0,_Monmouth,_Atlantic Highlands Borough,_Atlantic Highlands Borough,1689,1244,33,14,4,1,3,2,1618,1285,37,7,5
+0,_Monmouth,_Avon-by-the-Sea Borough,_Avon-by-the-Sea Borough,652,664,4,4,0,0,2,2,583,711,13,2,2
+0,_Monmouth,_Belmar Borough,_Belmar Borough,1723,1785,38,24,3,1,5,2,1650,1790,50,15,11
+0,_Monmouth,_Bradley Beach Borough,_Bradley Beach Borough,1364,919,19,13,3,1,4,3,1300,932,39,21,7
+0,_Monmouth,_Brielle Borough,_Brielle Borough,1373,2177,23,8,5,1,5,3,1266,2249,35,13,8
+0,_Monmouth,_Colts Neck Township,_Colts Neck Township,2319,4454,50,13,3,2,9,1,2079,4585,64,17,10
+0,_Monmouth,_Deal Borough,_Deal Borough,101,282,0,0,0,0,0,0,96,261,5,0,0
+0,_Monmouth,_Eatontown Borough,_Eatontown Borough,3588,3039,44,29,9,7,5,4,3489,2986,78,28,18
+0,_Monmouth,_Englishtown Borough,_Englishtown Borough,475,662,6,6,0,1,0,0,449,630,13,6,4
+0,_Monmouth,_Fair Haven Borough,_Fair Haven Borough,2402,1605,42,11,2,1,5,2,2180,1838,32,7,7
+0,_Monmouth,_Farmingdale Borough,_Farmingdale Borough,353,501,3,8,0,2,0,1,352,473,18,5,4
+0,_Monmouth,_Freehold Borough,_Freehold Borough,2532,1586,27,19,3,3,1,4,2462,1528,59,52,11
+0,_Monmouth,_Freehold Township,_Freehold Township,9832,11625,134,70,6,10,25,8,9413,11546,226,85,62
+0,_Monmouth,_Hazlet Township,_Hazlet Township,4799,7145,112,44,7,11,13,5,4751,6919,176,48,28
+0,_Monmouth,_Highlands Borough,_Highlands Borough,1435,1388,26,9,2,1,1,4,1393,1337,39,19,8
+0,_Monmouth,_Holmdel Township,_Holmdel Township,5113,5657,81,34,9,7,8,3,4712,5933,107,31,24
+0,_Monmouth,_Howell Township,_Howell Township,13058,18502,275,110,22,18,31,16,12692,17944,440,182,95
+0,_Monmouth,_Interlaken Borough,_Interlaken Borough,367,320,2,4,0,0,0,0,345,333,6,0,0
+0,_Monmouth,_Keansburg Borough,_Keansburg Borough,1785,2059,26,23,3,3,2,1,1831,1877,50,27,27
+0,_Monmouth,_Keyport Borough,_Keyport Borough,1800,1880,29,19,2,2,7,2,1762,1843,55,22,6
+0,_Monmouth,_Lake Como Borough,_Lake Como Borough,528,436,7,7,0,0,0,0,495,452,8,4,1
+0,_Monmouth,_Little Silver Borough,_Little Silver Borough,2290,1980,44,14,3,0,5,2,2059,2200,42,12,4
+0,_Monmouth,_Loch Arbour Village,_Loch Arbour Village,71,52,1,0,0,0,0,0,66,58,1,0,0
+0,_Monmouth,_Long Branch City,_Long Branch City,6526,4378,53,48,5,7,7,3,6408,4064,145,129,28
+0,_Monmouth,_Manalapan Township,_Manalapan Township,10753,14542,132,58,10,6,11,7,10341,14303,249,102,50
+0,_Monmouth,_Manasquan Borough,_Manasquan Borough,1882,2249,42,26,0,1,7,0,1725,2327,60,17,8
+0,_Monmouth,_Marlboro Township,_Marlboro Township,12913,12702,123,60,12,8,19,11,12296,12797,216,81,43
+0,_Monmouth,_Matawan Borough,_Matawan Borough,2507,2412,56,29,7,5,1,4,2462,2397,63,29,13
+0,_Monmouth,_Middletown Township CD04,_Middletown Township CD04,9484,11944,168,76,11,3,22,14,8846,12291,218,76,53
+0,_Monmouth,_Middletown Township CD06,_Middletown Township CD06,9176,12291,173,106,14,9,24,14,8824,12055,327,120,70
+0,_Monmouth,_Millstone Township,_Millstone Township,2423,4290,56,19,0,1,5,3,2286,4281,63,34,11
+0,_Monmouth,_Monmouth Beach Borough,_Monmouth Beach Borough,1028,1358,12,4,1,0,0,0,953,1412,22,6,7
+0,_Monmouth,_Neptune City Borough,_Neptune City Borough,1487,1189,18,11,2,0,1,1,1452,1146,51,10,4
+0,_Monmouth,_Neptune Township,_Neptune Township,11265,4575,95,72,15,7,18,6,11099,4525,191,100,21
+0,_Monmouth,_Ocean Township,_Ocean Township,8717,7426,97,64,12,5,6,9,8420,7411,178,61,37
+0,_Monmouth,_Oceanport Borough,_Oceanport Borough,1755,2325,31,13,2,1,3,2,1674,2289,41,7,8
+0,_Monmouth,_Red Bank Borough,_Red Bank Borough,3729,1836,37,32,3,4,4,2,3552,1888,97,28,11
+0,_Monmouth,_Roosevelt Borough,_Roosevelt Borough,366,170,6,3,0,1,0,0,362,158,12,3,3
+0,_Monmouth,_Rumson Borough,_Rumson Borough,2296,2424,42,16,5,1,3,5,2032,2693,43,8,4
+0,_Monmouth,_Sea Bright Borough,_Sea Bright Borough,460,526,7,5,0,1,0,2,438,531,14,2,3
+0,_Monmouth,_Sea Girt Borough,_Sea Girt Borough,590,872,12,1,2,1,3,2,484,988,18,4,1
+0,_Monmouth,_Shrewsbury Borough,_Shrewsbury Borough,1469,1344,24,3,2,1,4,0,1358,1437,26,4,2
+0,_Monmouth,_Shrewsbury Township,_Shrewsbury Township,339,192,7,4,1,2,0,0,328,181,13,3,0
+0,_Monmouth,_Spring Lake Borough,_Spring Lake Borough,952,1234,14,8,2,1,2,2,850,1357,11,4,5
+0,_Monmouth,_Spring Lake Heights Borough,_Spring Lake Heights Borough,1554,1715,37,13,1,2,2,2,1490,1763,37,7,6
+0,_Monmouth,_Tinton Falls Borough,_Tinton Falls Borough,6522,5613,90,46,5,9,9,6,6297,5653,122,59,30
+0,_Monmouth,_Union Beach Borough,_Union Beach Borough,1219,1978,26,15,2,2,1,3,1258,1843,51,15,8
+0,_Monmouth,_Upper Freehold Township,_Upper Freehold Township,1889,2763,34,16,1,1,9,3,1761,2817,58,19,7
+0,_Monmouth,_Wall Township,_Wall Township,7126,10404,141,73,19,8,23,8,6682,10465,214,56,53
+0,_Monmouth,_West Long Branch Borough,_West Long Branch Borough,1609,2446,23,26,1,0,5,2,1547,2372,68,8,6
+0,_Morris,_Boonton Town W1,_Boonton Town W1,737,653,10,11,2,0,1,3,717,665,8,4,2
+0,_Morris,_Boonton Town W2,_Boonton Town W2,863,512,13,6,0,0,2,0,851,495,7,7,2
+0,_Morris,_Boonton Town W3,_Boonton Town W3,567,397,3,3,2,6,0,1,557,390,8,2,3
+0,_Morris,_Boonton Town W4,_Boonton Town W4,641,525,11,6,1,0,2,4,612,528,6,4,4
+0,_Morris,_Boonton Township,_Boonton Township,1302,1569,20,7,3,0,4,0,1216,1609,13,6,7
+0,_Morris,_Butler Borough,_Butler Borough,1932,2453,27,11,1,7,5,4,1910,2264,30,16,6
+0,_Morris,_Chatham Borough,_Chatham Borough,3590,1931,57,16,3,2,11,3,3249,2236,22,11,7
+0,_Morris,_Chatham Township,_Chatham Township,4107,2742,63,20,7,5,4,3,3680,3146,27,8,2
+0,_Morris,_Chester Borough,_Chester Borough,455,572,8,2,1,1,1,1,427,597,4,2,1
+0,_Morris,_Chester Township,_Chester Township,2421,2726,56,9,2,4,2,2,2178,2938,27,12,7
+0,_Morris,_Denville Township,_Denville Township,4212,4122,91,33,2,6,6,4,4028,4192,44,37,13
+0,_Morris,_Denville Township W2,_Denville Township W2,1500,1359,25,14,2,5,2,3,1440,1373,20,9,8
+0,_Morris,_Dover Town W1,_Dover Town W1,962,447,3,6,0,3,1,0,936,367,6,17,8
+0,_Morris,_Dover Town W2,_Dover Town W2,905,510,5,5,1,0,1,1,899,422,7,11,5
+0,_Morris,_Dover Town W3,_Dover Town W3,1104,536,9,1,1,3,0,0,1118,439,6,10,5
+0,_Morris,_Dover Town W4,_Dover Town W4,832,316,6,8,0,3,0,0,813,237,8,12,5
+0,_Morris,_East Hanover Township,_East Hanover Township,2528,5030,32,17,0,3,6,3,2453,4721,34,11,15
+0,_Morris,_Florham Park Borough,_Florham Park Borough,3481,3552,31,20,2,6,3,5,3301,3492,27,16,7
+0,_Morris,_Hanover Township,_Hanover Township,4172,5244,55,29,9,9,4,5,3917,5082,57,34,13
+0,_Morris,_Harding Township,_Harding Township,1347,1492,20,5,0,0,2,3,1170,1661,8,4,0
+0,_Morris,_Jefferson Township,_Jefferson Township,5153,7450,107,56,14,5,8,10,5011,7104,96,49,29
+0,_Morris,_Kinnelon Borough,_Kinnelon Borough,2931,3877,67,26,4,3,2,3,2774,3790,52,17,14
+0,_Morris,_Lincoln Park Borough W1,_Lincoln Park Borough W1,809,1194,14,5,1,2,1,0,804,1121,8,4,2
+0,_Morris,_Lincoln Park Borough W2,_Lincoln Park Borough W2,649,681,10,5,0,1,2,0,635,639,9,12,5
+0,_Morris,_Lincoln Park Borough W3,_Lincoln Park Borough W3,704,675,16,5,1,1,2,1,677,635,12,2,4
+0,_Morris,_Lincoln Park Borough W4,_Lincoln Park Borough W4,643,694,5,6,1,0,1,3,630,656,9,6,3
+0,_Morris,_Long Hill Township,_Long Hill Township,2974,2730,61,16,5,6,5,4,2732,2791,35,26,9
+0,_Morris,_Madison Borough,_Madison Borough,5879,3343,80,35,7,13,9,5,5473,3588,64,23,11
+0,_Morris,_Mendham Borough,_Mendham Borough,1825,1623,28,9,1,0,3,0,1681,1737,7,6,1
+0,_Morris,_Mendham Township,_Mendham Township,2159,1851,46,14,3,5,2,1,1947,2058,15,11,9
+0,_Morris,_Mine Hill Township,_Mine Hill Township,1109,1007,23,7,4,1,1,0,1097,962,11,12,6
+0,_Morris,_Montville Township,_Montville Township,6790,7206,86,32,9,7,11,7,6379,7245,69,38,21
+0,_Morris,_Morris Plains Borough,_Morris Plains Borough,2310,1624,32,7,7,0,8,0,2137,1708,24,8,5
+0,_Morris,_Morris Township,_Morris Township,9300,5543,130,51,12,15,13,9,8804,6088,73,22,12
+0,_Morris,_Morristown Town,_Morristown Town,6112,2379,85,30,9,8,6,5,5822,2506,64,45,7
+0,_Morris,_Mount Arlington Borough,_Mount Arlington Borough,1678,1933,31,12,4,9,2,2,1655,1878,26,11,10
+0,_Morris,_Mount Olive Township,_Mount Olive Township,8241,7487,153,59,11,21,9,7,7962,7263,132,101,44
+0,_Morris,_Mountain Lakes Borough,_Mountain Lakes Borough,1763,1056,28,10,2,5,3,2,1626,1208,17,3,5
+0,_Morris,_Netcong Borough,_Netcong Borough,709,928,15,8,2,1,0,0,725,845,8,14,3
+0,_Morris,_Parsippany-Troy Hills Township,_Parsippany-Troy Hills Township,15478,12106,170,98,8,27,25,13,15058,11737,186,118,68
+0,_Morris,_Pequannock Township,_Pequannock Township,4677,5597,85,30,11,4,10,2,4383,5447,49,32,22
+0,_Morris,_Randolph Township,_Randolph Township,9087,6747,127,52,12,16,11,14,8583,7066,71,43,21
+0,_Morris,_Riverdale Borough,_Riverdale Borough,1019,1452,23,8,6,1,3,3,1006,1360,11,7,5
+0,_Morris,_Rockaway Borough,_Rockaway Borough,1849,1788,46,18,3,3,1,2,1806,1730,19,14,11
+0,_Morris,_Rockaway Township,_Rockaway Township,6540,6050,143,65,6,11,8,13,6343,5947,98,71,32
+0,_Morris,_Rockaway Township W3,_Rockaway Township W3,1585,1525,20,9,4,4,1,5,1506,1440,16,8,9
+0,_Morris,_Roxbury Township,_Roxbury Township,6477,7924,117,43,9,6,9,13,6156,7885,90,71,30
+0,_Morris,_Victory Gardens Borough,_Victory Gardens Borough,317,101,1,2,0,0,0,0,318,81,3,4,1
+0,_Morris,_Washington Township,_Washington Township,5602,6505,117,48,9,10,8,9,5094,6726,80,115,28
+0,_Morris,_Wharton Borough,_Wharton Borough,1854,1370,25,10,3,5,3,4,1852,1278,28,24,5
+0,_Ocean,_Barnegat Light Borough,_Barnegat Light Borough,270,280,2,2,0,0,1,0,253,294,4,1,0
+0,_Ocean,_Barnegat Township,_Barnegat Township,5804,8864,105,52,9,1,27,6,5675,8553,122,87,24
+0,_Ocean,_Bay Head Borough,_Bay Head Borough,327,392,2,0,0,0,0,0,282,415,4,6,1
+0,_Ocean,_Beach Haven Borough,_Beach Haven Borough,373,422,9,6,1,0,0,0,337,444,5,8,0
+0,_Ocean,_Beachwood Borough,_Beachwood Borough,2234,3587,83,30,1,0,13,3,2239,3381,80,55,18
+0,_Ocean,_Berkeley Township,_Berkeley Township,7021,13275,138,72,12,1,26,8,6913,12624,169,139,33
+0,_Ocean,_Berkeley Township W3,_Berkeley Township W3,2955,4871,32,9,2,1,5,6,2864,4737,34,24,11
+0,_Ocean,_Brick Township,_Brick Township,16772,27699,390,176,17,13,65,17,16391,26649,474,361,69
+0,_Ocean,_Eagleswood Township,_Eagleswood Township,301,702,8,7,1,0,2,1,298,695,8,3,0
+0,_Ocean,_Harvey Cedars Borough,_Harvey Cedars Borough,210,151,3,1,0,0,0,0,195,163,2,2,0
+0,_Ocean,_Island Heights Borough,_Island Heights Borough,550,601,9,8,0,0,4,0,522,588,19,8,2
+0,_Ocean,_Jackson Township,_Jackson Township,11878,19880,305,104,17,8,49,10,11508,19175,261,231,53
+0,_Ocean,_Lacey Township,_Lacey Township,5436,11950,142,65,8,2,33,4,5237,11525,153,119,36
+0,_Ocean,_Lakehurst Borough,_Lakehurst Borough,410,652,21,4,0,0,3,0,399,613,20,14,1
+0,_Ocean,_Lakewood Township,_Lakewood Township,6397,30648,58,34,3,3,14,5,6686,26893,72,104,12
+0,_Ocean,_Lavallette Borough,_Lavallette Borough,518,908,5,3,2,0,2,1,467,941,8,3,3
+0,_Ocean,_Little Egg Harbor Township,_Little Egg Harbor Township,4492,7873,133,39,6,4,21,1,4329,7742,126,70,26
+0,_Ocean,_Long Beach Township,_Long Beach Township,1165,1336,13,5,1,0,4,0,1078,1372,13,6,3
+0,_Ocean,_Manchester Township,_Manchester Township,12058,17720,127,75,21,2,41,7,11538,17047,223,199,54
+0,_Ocean,_Mantoloking Borough,_Mantoloking Borough,87,150,3,0,0,0,1,0,69,168,2,0,0
+0,_Ocean,_Ocean Gate Borough,_Ocean Gate Borough,446,621,21,6,1,0,1,1,443,590,10,7,3
+0,_Ocean,_Ocean Township,_Ocean Township,1981,4026,49,21,3,1,12,2,1894,3958,62,35,11
+0,_Ocean,_Pine Beach Borough,_Pine Beach Borough,637,792,15,4,1,1,2,1,600,807,10,4,1
+0,_Ocean,_Plumsted Township,_Plumsted Township,1468,3159,56,20,4,1,14,3,1357,3073,51,54,18
+0,_Ocean,_Point Pleasant Beach Borough,_Point Pleasant Beach Borough,1219,1829,25,6,1,2,6,0,1142,1839,32,20,7
+0,_Ocean,_Point Pleasant Borough CD03,_Point Pleasant Borough CD03,461,710,6,4,0,0,1,0,452,689,5,7,0
+0,_Ocean,_Point Pleasant Borough CD04,_Point Pleasant Borough CD04,4345,6523,92,23,3,1,18,4,4154,6449,88,56,10
+0,_Ocean,_Seaside Heights Borough,_Seaside Heights Borough,371,630,9,2,0,1,1,0,371,590,6,7,0
+0,_Ocean,_Seaside Park Borough,_Seaside Park Borough,397,691,4,1,0,0,2,0,368,689,8,3,1
+0,_Ocean,_Ship Bottom Borough,_Ship Bottom Borough,410,455,5,0,2,0,0,0,386,457,5,2,1
+0,_Ocean,_South Toms River Borough,_South Toms River Borough,810,730,22,5,0,0,7,1,797,677,14,34,3
+0,_Ocean,_Stafford Township CD02,_Stafford Township CD02,1851,3422,24,14,1,0,9,1,1791,3333,38,19,9
+0,_Ocean,_Stafford Township CD03,_Stafford Township CD03,4557,7734,115,51,6,1,30,7,4402,7484,128,71,11
+0,_Ocean,_Surf City Borough,_Surf City Borough,413,504,6,4,0,0,1,0,375,524,4,9,1
+0,_Ocean,_Toms River Township,_Toms River Township,20142,32778,414,189,16,6,77,28,19556,31437,492,423,99
+0,_Ocean,_Tuckerton Borough,_Tuckerton Borough,690,1175,18,8,1,0,2,1,668,1136,17,16,4
+0,_Passaic,_Bloomingdale Borough,_Bloomingdale Borough,2098,2369,42,21,3,3,2,5,2093,2197,72,44,30
+0,_Passaic,_Clifton City,_Clifton City,23931,16128,175,157,29,32,17,47,24407,13909,562,593,192
+0,_Passaic,_Haledon Borough,_Haledon Borough,2677,1107,13,16,3,6,3,3,2737,878,49,58,14
+0,_Passaic,_Hawthorne Borough,_Hawthorne Borough,4345,3654,48,29,8,6,5,13,4359,3391,112,86,38
+0,_Passaic,_Hawthorne Borough W3,_Hawthorne Borough W3,1467,1600,20,16,4,1,2,7,1433,1536,56,25,13
+0,_Passaic,_Little Falls Township,_Little Falls Township,3379,3340,39,22,2,6,2,11,3470,3052,75,57,30
+0,_Passaic,_North Haledon Borough,_North Haledon Borough,2087,3470,31,24,6,4,6,4,2044,3350,71,26,29
+0,_Passaic,_Passaic City,_Passaic City,11638,6834,59,44,11,16,5,27,12289,5106,139,415,80
+0,_Passaic,_Paterson City,_Paterson City,23170,5354,61,92,13,37,15,33,24030,2979,241,748,136
+0,_Passaic,_Paterson City W2,_Paterson City W2,7504,2096,21,25,2,6,1,5,7607,1333,85,223,46
+0,_Passaic,_Paterson City W3,_Paterson City W3,7779,1603,15,24,6,10,0,4,7902,819,75,244,28
+0,_Passaic,_Pompton Lakes Borough,_Pompton Lakes Borough,2920,3365,42,33,5,4,5,10,2912,3183,91,58,20
+0,_Passaic,_Prospect Park Borough,_Prospect Park Borough,1859,649,13,7,0,2,0,1,1923,490,19,51,4
+0,_Passaic,_Ringwood Borough,_Ringwood Borough,3635,3959,77,43,6,4,9,11,3564,3861,111,36,14
+0,_Passaic,_Totowa Borough,_Totowa Borough,2553,3804,23,21,4,0,3,8,2578,3562,56,37,17
+0,_Passaic,_Wanaque Borough,_Wanaque Borough,3110,3532,55,25,7,5,5,12,3072,3367,90,52,38
+0,_Passaic,_Wayne Township,_Wayne Township,15125,16455,167,116,13,10,11,37,14984,15854,333,151,96
+0,_Passaic,_West Milford Township,_West Milford Township,6127,9259,165,67,17,5,15,26,5950,8947,242,123,84
+0,_Passaic,_Woodland Park Borough,_Woodland Park Borough,3693,3431,37,23,6,4,2,15,3841,3013,71,78,29
+0,_Salem,_Alloway Township,_Alloway Township,684,1376,17,5,1,1,3,0,676,1326,31,18,9
+0,_Salem,_Carneys Point Township,_Carneys Point Township,2157,1744,40,11,8,3,10,2,2142,1640,67,67,31
+0,_Salem,_Elmer Borough,_Elmer Borough,248,469,15,1,1,0,0,4,255,459,14,5,2
+0,_Salem,_Elsinboro Township,_Elsinboro Township,194,461,1,3,1,0,0,0,223,422,9,6,4
+0,_Salem,_Lower Alloways Creek Township,_Lower Alloways Creek Township,211,846,16,2,1,1,0,0,230,795,24,4,12
+0,_Salem,_Mannington Township,_Mannington Township,282,493,6,1,2,1,0,0,286,468,13,5,2
+0,_Salem,_Oldmans Township,_Oldmans Township,440,680,17,2,0,0,4,3,437,659,15,17,8
+0,_Salem,_Penns Grove Borough,_Penns Grove Borough,1080,361,13,4,0,3,2,1,1053,308,22,55,8
+0,_Salem,_Pennsville Township,_Pennsville Township,2540,4311,129,22,11,1,6,4,2583,4066,131,95,50
+0,_Salem,_Pilesgrove Township,_Pilesgrove Township,1040,1495,19,5,2,2,5,2,1021,1456,18,17,9
+0,_Salem,_Pittsgrove Township,_Pittsgrove Township,2006,3011,61,14,6,2,6,2,1977,2913,79,47,15
+0,_Salem,_Quinton Township,_Quinton Township,529,855,12,4,0,1,1,0,548,789,26,19,8
+0,_Salem,_Salem City East,_Salem City East,775,173,1,3,0,0,0,0,775,150,9,16,4
+0,_Salem,_Salem City West,_Salem City West,639,171,4,4,3,0,0,0,640,148,10,12,4
+0,_Salem,_Upper Pittsgrove Township,_Upper Pittsgrove Township,533,1463,21,3,2,1,1,0,553,1397,21,10,8
+0,_Salem,_Woodstown Borough,_Woodstown Borough,1121,918,34,9,2,1,2,2,1116,914,33,17,5
+0,_Somerset,_Bedminster Township,_Bedminster Township,2797,2440,52,16,3,3,3,1,2608,2598,46,13,5
+0,_Somerset,_Bernards Township,_Bernards Township,9398,7086,124,46,14,8,12,4,8563,7876,92,30,15
+0,_Somerset,_Bernardsville Borough,_Bernardsville Borough,2608,2116,61,10,5,0,8,0,2398,2348,16,9,2
+0,_Somerset,_Bound Brook Borough,_Bound Brook Borough,2177,1443,39,21,3,2,4,2,2171,1408,40,35,5
+0,_Somerset,_Branchburg Township,_Branchburg Township,4665,4865,123,25,4,5,10,7,4366,5088,87,18,10
+0,_Somerset,_Bridgewater Township,_Bridgewater Township,14667,11561,240,83,13,11,18,9,13911,12032,222,83,41
+0,_Somerset,_Far Hills Borough,_Far Hills Borough,302,334,7,3,0,0,0,0,267,362,5,0,1
+0,_Somerset,_Franklin Township,_Franklin Township,25587,9040,202,122,17,21,25,9,24927,9148,376,165,48
+0,_Somerset,_Green Brook Township,_Green Brook Township,2396,1953,35,15,0,1,4,2,2262,2017,43,11,9
+0,_Somerset,_Hillsborough Township,_Hillsborough Township,13927,10349,269,86,21,23,15,9,13039,11074,188,79,30
+0,_Somerset,_Manville Borough,_Manville Borough,2011,2434,43,20,3,8,2,2,1990,2279,76,52,18
+0,_Somerset,_Millstone Borough,_Millstone Borough,151,153,3,1,0,0,0,0,144,149,3,2,2
+0,_Somerset,_Montgomery Township,_Montgomery Township,9195,4108,116,38,9,4,12,3,8560,4639,103,19,18
+0,_Somerset,_North Plainfield Borough,_North Plainfield Borough,5927,2020,55,25,6,5,5,7,5875,1959,74,49,6
+0,_Somerset,_Peapack-Gladstone Borough,_Peapack-Gladstone Borough,805,795,18,5,2,1,1,1,739,873,7,2,0
+0,_Somerset,_Raritan Borough,_Raritan Borough,1985,1712,50,10,1,7,2,3,1923,1724,38,11,8
+0,_Somerset,_Rocky Hill Borough,_Rocky Hill Borough,355,100,2,4,0,1,3,0,341,115,7,1,0
+0,_Somerset,_Somerville Borough,_Somerville Borough,3739,1865,60,22,4,4,2,2,3645,1899,67,31,9
+0,_Somerset,_South Bound Brook Borough,_South Bound Brook Borough,1266,808,31,12,2,2,2,0,1261,783,27,19,10
+0,_Somerset,_Warren Township,_Warren Township,5171,4991,81,40,6,7,4,3,4768,5322,69,26,10
+0,_Somerset,_Watchung Borough,_Watchung Borough,2044,1823,30,16,2,3,1,1,1923,1929,24,2,6
+0,_Sussex,_Andover Borough,_Andover Borough,135,205,3,2,1,1,1,0,131,193,11,11,2
+0,_Sussex,_Andover Township,_Andover Township,1429,2062,41,13,1,5,4,2,1407,1992,85,31,10
+0,_Sussex,_Branchville Borough,_Branchville Borough,186,277,4,4,0,0,0,0,191,259,8,2,0
+0,_Sussex,_Byram Township,_Byram Township,2110,3038,72,19,7,6,9,2,2043,2958,108,28,16
+0,_Sussex,_Frankford Township,_Frankford Township,1142,2285,35,15,4,5,5,4,1134,2177,71,16,17
+0,_Sussex,_Franklin Borough,_Franklin Borough,978,1558,23,9,7,4,3,4,978,1492,45,18,7
+0,_Sussex,_Fredon Township,_Fredon Township,792,1364,26,9,2,5,0,0,774,1351,27,6,5
+0,_Sussex,_Green Township,_Green Township,826,1476,29,14,0,0,0,0,820,1415,44,13,8
+0,_Sussex,_Hamburg Borough,_Hamburg Borough,751,1054,21,10,0,6,0,1,792,976,31,16,2
+0,_Sussex,_Hampton Township,_Hampton Township,1196,1983,32,10,2,3,1,2,1196,1885,51,11,11
+0,_Sussex,_Hardyston Township,_Hardyston Township,2095,3138,61,17,6,2,4,2,2068,3038,95,24,7
+0,_Sussex,_Hopatcong Borough,_Hopatcong Borough,3476,4777,113,43,9,4,7,4,3430,4512,164,75,32
+0,_Sussex,_Lafayette Township,_Lafayette Township,511,1024,29,10,2,0,2,1,527,993,22,7,3
+0,_Sussex,_Montague Township,_Montague Township,659,1331,26,6,4,0,5,1,653,1265,42,26,10
+0,_Sussex,_Newton Town,_Newton Town,1867,1868,41,18,10,5,10,2,1865,1721,98,47,22
+0,_Sussex,_Ogdensburg Borough,_Ogdensburg Borough,522,808,24,5,1,2,0,1,529,764,36,6,2
+0,_Sussex,_Sandyston Township,_Sandyston Township,418,774,21,8,3,0,1,0,419,767,21,9,1
+0,_Sussex,_Sparta Township,_Sparta Township,5746,6886,136,38,18,15,14,10,5396,7007,172,77,18
+0,_Sussex,_Stanhope Borough,_Stanhope Borough,1037,1068,27,9,4,1,3,1,999,1039,43,18,8
+0,_Sussex,_Stillwater Township,_Stillwater Township,1007,1572,37,15,2,3,4,0,1002,1536,47,15,2
+0,_Sussex,_Sussex Borough,_Sussex Borough,342,553,16,2,2,5,2,3,353,504,29,16,6
+0,_Sussex,_Vernon Township,_Vernon Township,5223,8085,197,58,16,10,14,6,5157,7735,283,120,42
+0,_Sussex,_Walpack Township,_Walpack Township,3,8,0,0,0,0,0,0,3,8,0,0,0
+0,_Sussex,_Wantage Township,_Wantage Township,2030,4504,80,18,2,9,2,4,2051,4297,117,40,12
+0,_Union,_Berkeley Heights Township,_Berkeley Heights Township,4623,3526,73,25,6,2,7,9,4304,3776,43,28,16
+0,_Union,_Clark Township W1,_Clark Township W1,902,1573,17,4,1,1,1,3,884,1531,10,9,5
+0,_Union,_Clark Township W2,_Clark Township W2,1085,1444,18,12,2,1,1,6,1102,1362,14,13,7
+0,_Union,_Clark Township W3,_Clark Township W3,872,1388,15,10,1,0,2,4,858,1350,10,14,6
+0,_Union,_Clark Township W4,_Clark Township W4,800,1467,23,8,1,0,0,2,776,1418,15,11,3
+0,_Union,_Cranford Township,_Cranford Township,9040,5846,134,50,5,6,4,24,8632,6088,97,74,30
+0,_Union,_Elizabeth City W1,_Elizabeth City W1,3671,1115,6,13,1,1,2,6,3691,781,22,55,9
+0,_Union,_Elizabeth City W2,_Elizabeth City W2,3982,1868,19,22,2,1,1,8,4032,1394,37,67,15
+0,_Union,_Elizabeth City W3,_Elizabeth City W3,4779,2823,22,19,3,0,0,4,4826,2239,66,85,17
+0,_Union,_Elizabeth City W4,_Elizabeth City W4,4369,1418,15,18,0,1,0,4,4375,1072,33,63,7
+0,_Union,_Elizabeth City W5,_Elizabeth City W5,4476,1371,16,18,2,3,0,5,4523,974,45,63,13
+0,_Union,_Elizabeth City W6,_Elizabeth City W6,3049,1407,14,15,1,0,0,14,3105,1042,33,51,7
+0,_Union,_Fanwood Borough,_Fanwood Borough,3282,1531,40,18,2,4,1,4,3145,1629,39,15,9
+0,_Union,_Garwood Borough,_Garwood Borough,1302,1231,13,14,0,0,1,3,1293,1179,18,18,5
+0,_Union,_Hillside Township W1,_Hillside Township W1,2180,240,5,10,0,0,0,1,2174,197,15,8,4
+0,_Union,_Hillside Township W2,_Hillside Township W2,2070,371,5,10,0,1,0,1,2087,291,14,26,0
+0,_Union,_Hillside Township W3,_Hillside Township W3,1988,451,4,3,1,0,0,1,1984,367,7,18,6
+0,_Union,_Hillside Township W4,_Hillside Township W4,1987,704,4,4,0,1,2,7,1976,629,19,14,4
+0,_Union,_Kenilworth Borough,_Kenilworth Borough,1835,2498,28,16,4,0,1,9,1839,2324,36,39,10
+0,_Union,_Linden City W1,_Linden City W1,1256,700,11,4,0,1,0,3,1281,584,14,30,6
+0,_Union,_Linden City W10,_Linden City W10,1133,972,20,5,1,1,0,1,1141,845,14,29,8
+0,_Union,_Linden City W2,_Linden City W2,964,654,8,5,0,1,0,1,977,552,12,20,10
+0,_Union,_Linden City W3,_Linden City W3,1374,413,7,3,0,1,0,2,1395,338,10,12,5
+0,_Union,_Linden City W4,_Linden City W4,1816,201,5,6,1,1,0,4,1826,139,9,18,1
+0,_Union,_Linden City W5,_Linden City W5,1329,387,6,3,2,0,0,0,1324,331,11,23,7
+0,_Union,_Linden City W6,_Linden City W6,1063,556,7,2,2,1,0,0,1074,457,12,22,7
+0,_Union,_Linden City W7,_Linden City W7,1138,444,3,8,1,1,0,4,1136,335,19,31,6
+0,_Union,_Linden City W8,_Linden City W8,1301,389,5,9,0,1,0,3,1334,294,13,25,5
+0,_Union,_Linden City W9,_Linden City W9,1180,984,9,3,2,1,0,0,1209,850,11,17,9
+0,_Union,_Mountainside Borough,_Mountainside Borough,2239,2251,32,7,4,0,0,2,2094,2373,16,9,3
+0,_Union,_New Providence Borough,_New Providence Borough,4624,2907,69,26,5,2,7,9,4296,3205,37,21,11
+0,_Union,_Plainfield City W1,_Plainfield City W1,3221,326,6,9,2,1,0,2,3204,247,14,41,7
+0,_Union,_Plainfield City W2,_Plainfield City W2,4312,617,13,10,1,3,0,5,4287,553,30,42,12
+0,_Union,_Plainfield City W3,_Plainfield City W3,4068,343,9,11,0,0,1,3,4047,281,15,32,6
+0,_Union,_Plainfield City W4,_Plainfield City W4,2559,246,5,13,1,2,0,3,2552,177,17,33,2
+0,_Union,_Rahway City W1,_Rahway City W1,1683,343,4,9,3,1,0,5,1681,288,9,29,3
+0,_Union,_Rahway City W2,_Rahway City W2,1531,624,13,14,1,0,1,3,1530,551,22,17,9
+0,_Union,_Rahway City W3,_Rahway City W3,1621,910,9,9,2,0,1,4,1615,826,23,17,11
+0,_Union,_Rahway City W4,_Rahway City W4,2031,274,4,14,1,1,0,1,2052,233,13,14,2
+0,_Union,_Rahway City W5,_Rahway City W5,1646,533,22,11,1,0,0,6,1621,494,26,30,14
+0,_Union,_Rahway City W6,_Rahway City W6,1565,960,15,8,3,1,2,3,1563,856,38,27,6
+0,_Union,_Roselle Borough W1,_Roselle Borough W1,1430,273,5,5,0,0,0,0,1416,208,8,35,3
+0,_Union,_Roselle Borough W2,_Roselle Borough W2,1613,180,3,6,0,0,0,1,1619,143,12,21,7
+0,_Union,_Roselle Borough W3,_Roselle Borough W3,1548,211,0,6,1,0,1,2,1544,157,9,25,1
+0,_Union,_Roselle Borough W4,_Roselle Borough W4,1599,241,11,5,0,1,0,1,1595,200,13,18,4
+0,_Union,_Roselle Borough W5,_Roselle Borough W5,2029,413,9,10,1,0,0,4,2029,350,16,29,4
+0,_Union,_Roselle Park Borough W1,_Roselle Park Borough W1,767,511,5,7,0,0,0,1,769,451,16,16,1
+0,_Union,_Roselle Park Borough W2,_Roselle Park Borough W2,864,609,12,3,2,0,1,5,854,542,10,33,3
+0,_Union,_Roselle Park Borough W3,_Roselle Park Borough W3,756,464,10,3,1,1,0,3,745,430,12,11,3
+0,_Union,_Roselle Park Borough W4,_Roselle Park Borough W4,701,485,11,3,0,0,0,0,694,435,6,25,8
+0,_Union,_Roselle Park Borough W5,_Roselle Park Borough W5,794,564,10,5,2,0,0,2,801,508,11,12,8
+0,_Union,_Scotch Plains Township,_Scotch Plains Township,9726,5219,111,40,5,3,13,9,9332,5499,88,80,29
+0,_Union,_Springfield Township,_Springfield Township,6006,3710,73,36,5,0,0,8,5878,3687,66,69,26
+0,_Union,_Summit City W1,_Summit City W1,4107,1898,70,12,7,5,3,7,3799,2221,25,28,4
+0,_Union,_Summit City W2,_Summit City W2,4393,1948,66,21,5,1,2,8,4073,2310,30,8,6
+0,_Union,_Union Township CD07,_Union Township CD07,11259,5854,68,57,9,3,4,13,11173,5431,127,132,26
+0,_Union,_Union Township CD10,_Union Township CD10,9768,2460,40,44,4,0,0,13,9715,2220,72,95,22
+0,_Union,_Westfield Town W1,_Westfield Town W1,3467,1591,53,14,2,0,1,8,3195,1890,21,14,6
+0,_Union,_Westfield Town W2,_Westfield Town W2,3061,1649,40,10,4,1,1,9,2808,1885,24,18,7
+0,_Union,_Westfield Town W3,_Westfield Town W3,3082,1492,41,10,0,0,0,9,2918,1595,19,18,12
+0,_Union,_Westfield Town W4,_Westfield Town W4,2940,1484,29,14,2,0,0,9,2756,1624,28,10,12
+0,_Union,_Winfield Township,_Winfield Township,389,440,7,3,1,0,0,0,379,401,11,6,4
+0,_Warren,_Allamuchy Township,_Allamuchy Township,1470,1933,25,12,3,4,1,0,1395,1943,35,14,7
+0,_Warren,_Alpha Borough,_Alpha Borough,515,730,8,4,0,2,5,0,515,657,26,15,6
+0,_Warren,_Belvidere Town,_Belvidere Town,559,886,24,10,1,0,1,2,559,827,34,19,4
+0,_Warren,_Blairstown Township,_Blairstown Township,1355,2269,35,11,2,2,2,1,1297,2220,65,14,15
+0,_Warren,_Franklin Township,_Franklin Township,626,1159,26,6,2,0,8,0,586,1158,29,13,7
+0,_Warren,_Frelinghuysen Township,_Frelinghuysen Township,482,881,16,7,0,1,2,0,453,871,27,9,2
+0,_Warren,_Greenwich Township,_Greenwich Township,1503,1786,28,13,1,1,2,1,1418,1810,23,20,9
+0,_Warren,_Hackettstown Town,_Hackettstown Town,2280,2473,49,23,6,3,9,5,2215,2406,70,44,12
+0,_Warren,_Hardwick Township,_Hardwick Township,383,638,9,2,0,0,0,0,357,619,14,4,2
+0,_Warren,_Harmony Township,_Harmony Township,502,1103,17,7,1,4,4,0,504,1059,20,14,5
+0,_Warren,_Hope Township,_Hope Township,403,751,19,7,0,0,4,0,393,754,16,7,2
+0,_Warren,_Independence Township,_Independence Township,1468,1837,49,13,1,1,4,1,1423,1814,57,18,8
+0,_Warren,_Knowlton Township,_Knowlton Township,574,1190,28,8,1,1,0,0,562,1161,28,17,4
+0,_Warren,_Liberty Township,_Liberty Township,574,1135,27,6,2,0,5,2,565,1121,24,12,5
+0,_Warren,_Lopatcong Township,_Lopatcong Township,2337,2718,41,22,4,0,8,5,2260,2675,63,35,10
+0,_Warren,_Mansfield Township,_Mansfield Township,1674,2260,54,13,1,3,14,2,1604,2204,76,35,19
+0,_Warren,_Oxford Township,_Oxford Township,438,852,10,2,3,0,1,2,415,823,18,12,9
+0,_Warren,_Phillipsburg Town,_Phillipsburg Town,2948,2781,61,37,6,7,4,3,2929,2587,114,80,23
+0,_Warren,_Pohatcong Township,_Pohatcong Township,707,1172,23,8,2,3,2,0,703,1136,32,12,5
+0,_Warren,_Washington Borough,_Washington Borough,1601,1763,44,19,2,4,7,0,1577,1692,75,30,10
+0,_Warren,_Washington Township,_Washington Township,1561,2462,37,19,0,2,5,2,1484,2415,59,31,15
+0,_Warren,_White Township,_White Township,941,1990,25,14,2,3,3,1,910,1941,54,23,7

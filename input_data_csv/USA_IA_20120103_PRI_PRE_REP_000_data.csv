@@ -1,0 +1,1772 @@
+IS_AUDITED,COUNTY_NAME,PRECINCT_NAME,PRECINCT_CODE,USA_IA_20120103_PRI_PRE_REP_PAUL,USA_IA_20120103_PRI_PRE_REP_BACHMANN,USA_IA_20120103_PRI_PRE_REP_GINGRICH,USA_IA_20120103_PRI_PRE_REP_SANTORUM,USA_IA_20120103_PRI_PRE_REP_HUNTSMAN,USA_IA_20120103_PRI_PRE_REP_OTHER,USA_IA_20120103_PRI_PRE_REP_ROEMER,USA_IA_20120103_PRI_PRE_REP_ROMNEY,USA_IA_20120103_PRI_PRE_REP_PERRY,USA_IA_20120103_PRI_PRE_REP_CAIN
+0,Adair,AD; SI; CA; WL; EU; PR; N SS,1NW,7,4,11,10,0,0,0,8,6,0
+0,Adair,FN; RL; S SS; JA; WA; BR,3SW,9,6,16,14,0,0,0,3,7,0
+0,Adair,OR; ORC; SE GF; GF Twp; S LE; UN; S GA,4SE,4,6,6,15,0,0,0,13,6,0
+0,Adair,ST; LN; JF; HA; GV; N LE; N GA,2NE,8,5,3,15,1,0,0,6,13,0
+0,Adair,SW & N GF,5GF,14,5,8,12,0,0,0,13,15,0
+0,Adams,Carbon,CB,7,0,5,12,0,0,0,3,1,0
+0,Adams,Corning 1A,CG1A,7,0,1,6,0,0,0,4,1,0
+0,Adams,Corning 1B,CG1B,3,0,0,0,0,0,0,0,0,0
+0,Adams,Corning 2A,CG2A,2,0,2,0,0,0,0,5,0,0
+0,Adams,Corning 2B,CG2B,5,1,0,1,0,0,0,0,1,0
+0,Adams,Corning 3A,CG3A,4,0,0,0,0,0,0,6,2,0
+0,Adams,Corning 3B,CG3B,9,0,1,6,0,0,0,1,2,0
+0,Adams,Nodaway,NW,1,1,5,0,0,0,0,2,1,0
+0,Adams,Prescott,PS,2,3,2,1,0,0,0,3,2,0
+0,Adams,Quincy West Jasper,QC,7,0,2,8,0,0,0,3,2,0
+0,Adams,SE Adams,AD,8,4,6,13,0,0,0,5,2,0
+0,Allamakee,FV/TL/HF CITY,PCT 6,7,0,6,9,0,0,0,6,0,0
+0,Allamakee,LF/CN/LS/LS CITY,PCT 7,20,2,21,7,0,0,0,4,10,0
+0,Allamakee,PC/LT/WV CITY,PCT 5,20,0,7,9,0,0,0,5,1,0
+0,Allamakee,PO/FK,PCT 3,4,1,5,3,0,0,0,6,1,0
+0,Allamakee,PV CITY,PCT 4,7,1,2,3,0,0,0,21,1,0
+0,Allamakee,UC/IA/NA CITY,PCT 8,4,1,3,4,0,0,0,16,3,0
+0,Allamakee,UP/MK/FC/JF/LL,PCT 2,53,2,18,14,0,0,0,28,7,0
+0,Allamakee,WK 1 CITY,PCT 9,8,1,6,12,0,0,0,5,1,0
+0,Allamakee,WK 2 CITY,PCT 10,18,3,0,3,0,0,0,8,3,0
+0,Allamakee,WK 3 CITY,PCT 11,16,5,8,6,0,0,0,5,1,0
+0,Allamakee,WL/HV,PCT 1,0,2,6,7,0,0,0,2,0,0
+0,Appanoose,Bellair Lincoln,BL,0,0,8,7,0,0,0,0,6,0
+0,Appanoose,Caldwell,CW,3,2,0,6,0,0,0,2,2,0
+0,Appanoose,Centerville W1,CV1,9,3,1,12,0,0,0,2,13,0
+0,Appanoose,Centerville W2,CV2,13,1,12,14,0,0,0,8,4,0
+0,Appanoose,Centerville W3,CV3,13,0,5,11,0,0,0,8,15,0
+0,Appanoose,Johns Independence,JO,4,2,7,3,0,0,0,6,13,0
+0,Appanoose,Pleasant Franklin,PS,10,0,5,9,0,0,0,2,2,0
+0,Appanoose,Taylor Chariton,TY,11,0,9,25,0,0,0,7,0,0
+0,Appanoose,Udell,UD,2,5,0,8,0,0,0,4,6,0
+0,Appanoose,Union,UN,2,0,3,3,0,0,0,0,3,0
+0,Appanoose,Vermillion Douglas Sharon,VM,8,8,13,20,0,0,0,20,7,0
+0,Appanoose,Walnut,WA,3,1,3,7,0,0,0,6,6,0
+0,Appanoose,Washington Wells,WS,7,3,6,21,1,1,0,2,13,0
+0,Audubon,Precinct 1,1,20,8,14,23,0,0,0,20,14,0
+0,Audubon,Precinct 2,2,10,2,1,10,0,0,0,18,5,0
+0,Audubon,Precinct 3,3,3,2,4,7,0,0,0,2,0,0
+0,Audubon,Precinct 4,4,8,5,13,14,0,0,0,8,12,0
+0,Benton,Precinct Bg,BG,19,3,3,16,1,0,0,7,13,0
+0,Benton,Precinct Bn,BN,12,14,10,21,0,0,0,19,20,0
+0,Benton,Precinct Bp1,BP1,12,3,6,5,0,0,0,9,2,0
+0,Benton,Precinct Bp2,BP2,7,0,4,5,0,0,0,3,2,0
+0,Benton,Precinct Bp3,BP3,5,0,9,7,0,0,0,8,3,0
+0,Benton,Precinct Br,BR,4,5,1,18,0,0,0,1,8,0
+0,Benton,Precinct Ed,ED,14,8,8,16,0,0,0,12,19,0
+0,Benton,Precinct El,EL,15,1,4,21,0,0,0,5,10,0
+0,Benton,Precinct Fl,FL,19,4,10,19,0,0,0,5,3,0
+0,Benton,Precinct Fr,FR,19,1,5,31,3,0,0,30,34,0
+0,Benton,Precinct Ho,HO,5,0,2,13,0,0,0,3,12,0
+0,Benton,Precinct Ia,IA,12,11,15,23,0,0,0,11,17,0
+0,Benton,Precinct Ka,KA,3,1,4,6,0,0,0,1,2,0
+0,Benton,Precinct Po,PO,16,8,5,24,0,0,0,16,2,0
+0,Benton,Precinct Vt1,VT1,4,0,17,13,0,0,0,12,2,0
+0,Benton,Precinct Vt2,VT2,6,1,2,9,0,0,0,2,2,0
+0,Benton,Precinct Vt3,VT3,13,3,6,17,0,0,0,14,11,0
+0,Benton,Precinct Vt4,VT4,3,1,4,12,1,0,0,15,2,0
+0,Benton,Precinct Wa,WA,14,2,6,14,0,0,0,11,4,0
+0,Black Hawk,Barclay Twp/Dunkerton,AC00,16,3,4,4,0,0,0,7,2,0
+0,Black Hawk,Bennington Twp,B000,9,3,4,6,0,0,0,4,2,0
+0,Black Hawk,Big/Spring Creek Twps,CQ00,8,10,10,16,0,0,0,14,7,1
+0,Black Hawk,Black Hawk Twp,D000,15,4,23,46,0,0,0,25,14,0
+0,Black Hawk,Cedar Twp,E000,6,1,1,6,0,0,0,1,3,0
+0,Black Hawk,Eagle/Orange Twps,GO00,12,3,6,29,0,0,0,8,6,0
+0,Black Hawk,Elk Run Heights,I000,4,2,3,0,0,0,0,2,2,0
+0,Black Hawk,Evansdale Ward 1,J100,3,2,0,0,0,0,0,2,0,0
+0,Black Hawk,Evansdale Ward 2,J200,3,0,0,2,0,0,0,1,2,0
+0,Black Hawk,Evansdale Ward 3,J300,2,0,0,0,0,0,0,0,0,0
+0,Black Hawk,Evansdale Ward 4,J400,8,2,7,4,0,0,0,1,0,0
+0,Black Hawk,Lester (Rural Only),L000,6,0,2,4,0,0,0,2,2,0
+0,Black Hawk,Lincoln Twp,M000,4,2,2,3,0,0,0,2,3,0
+0,Black Hawk,Mt Vernon Twp,N000,13,2,6,16,0,0,0,4,7,0
+0,Black Hawk,Poyner P1/ E Wloo P1 Twps,PH01,11,4,8,5,0,0,0,6,0,0
+0,Black Hawk,Poyner P2/Fox Twps,PK02,6,6,5,16,0,0,0,10,1,0
+0,Black Hawk,Precinct W101,W101,27,13,10,10,0,0,0,12,7,0
+0,Black Hawk,Precinct W102,W102,12,3,7,19,1,0,0,4,10,0
+0,Black Hawk,Precinct W103,W103,22,5,5,7,0,0,0,4,7,0
+0,Black Hawk,Precinct W104,W104,14,2,18,10,0,0,0,10,3,0
+0,Black Hawk,Precinct W105,W105,7,4,8,12,0,0,0,9,0,0
+0,Black Hawk,Precinct W106,W106,36,12,28,33,0,0,0,42,10,0
+0,Black Hawk,Precinct W201,W201,6,2,1,8,0,0,0,19,0,0
+0,Black Hawk,Precinct W202,W202,7,2,1,7,0,0,0,3,2,0
+0,Black Hawk,Precinct W203,W203,10,1,6,10,0,0,0,5,5,0
+0,Black Hawk,Precinct W204,W204,15,8,16,15,0,0,0,8,8,0
+0,Black Hawk,Precinct W205,W205,12,5,13,8,1,0,0,13,4,0
+0,Black Hawk,Precinct W206,W206,20,18,23,15,0,0,0,35,1,0
+0,Black Hawk,Precinct W301,W301,8,4,12,7,0,0,0,15,4,0
+0,Black Hawk,Precinct W302,W302,8,4,8,8,0,0,0,3,2,0
+0,Black Hawk,Precinct W303,W303,7,1,0,5,0,0,0,3,0,0
+0,Black Hawk,Precinct W304,W304,1,3,0,1,0,0,0,0,1,0
+0,Black Hawk,Precinct W305,W305,23,1,6,5,0,0,0,6,6,0
+0,Black Hawk,Precinct W306,W306,4,1,0,8,0,0,0,6,1,0
+0,Black Hawk,Precinct W401,W401,2,0,1,2,0,0,0,3,0,0
+0,Black Hawk,Precinct W402,W402,6,0,2,2,1,0,0,0,1,0
+0,Black Hawk,Precinct W403,W403,4,1,0,6,0,0,0,0,3,0
+0,Black Hawk,Precinct W404,W404,4,1,4,0,0,0,0,0,1,0
+0,Black Hawk,Precinct W405,W405,7,3,4,2,0,0,2,3,1,0
+0,Black Hawk,Precinct W406,W406,1,2,4,6,0,0,0,2,2,0
+0,Black Hawk,Precinct W501,W501,11,1,4,5,0,0,0,0,1,0
+0,Black Hawk,Precinct W502,W502,24,6,4,5,0,0,0,2,2,0
+0,Black Hawk,Precinct W503,W503,7,2,4,7,0,0,0,4,5,0
+0,Black Hawk,Precinct W504,W504,8,5,16,16,0,0,0,15,6,0
+0,Black Hawk,Precinct W505,W505,23,4,25,23,1,0,0,59,10,0
+0,Black Hawk,Precinct W506,W506,20,8,23,16,1,0,0,41,1,0
+0,Black Hawk,Precinct X101,X101,23,9,12,15,0,0,0,8,1,0
+0,Black Hawk,Precinct X102,X102,19,8,13,14,0,0,0,30,7,0
+0,Black Hawk,Precinct X103,X103,29,3,15,7,1,0,0,15,3,0
+0,Black Hawk,Precinct X201,X201,37,11,11,27,3,0,0,16,4,0
+0,Black Hawk,Precinct X202,X202,20,1,10,14,2,0,1,12,4,0
+0,Black Hawk,Precinct X203,X203,43,19,19,39,1,0,0,32,6,0
+0,Black Hawk,Precinct X301,X301,30,6,34,36,3,1,0,69,6,0
+0,Black Hawk,Precinct X302 & Cf Twp,X302,30,10,25,61,4,0,0,65,15,0
+0,Black Hawk,Precinct X303,X303,16,1,19,12,4,0,0,21,5,0
+0,Black Hawk,Precinct X401,X401,21,0,1,10,1,0,1,11,5,0
+0,Black Hawk,Precinct X402,X402,20,1,12,4,0,0,0,7,4,0
+0,Black Hawk,Precinct X403,X403,10,1,4,1,3,0,0,4,2,0
+0,Black Hawk,Precinct X501,X501,29,9,39,26,0,0,0,34,8,0
+0,Black Hawk,Precinct X502,X502,10,2,9,9,1,0,0,14,9,0
+0,Black Hawk,Precinct X503,X503,27,10,21,39,2,0,0,57,16,0
+0,Black Hawk,Union Township,R000,12,4,18,21,0,0,0,18,5,0
+0,Black Hawk,Washington Twp,S000,12,1,0,4,0,0,0,7,4,0
+0,Boone,Boone 1,BN1,20,2,12,20,1,0,1,12,24,0
+0,Boone,Boone 2,BN2,23,13,24,41,0,1,0,34,15,0
+0,Boone,Boone 3,BN3,27,7,14,33,2,0,0,40,13,0
+0,Boone,Boone 4,BN4,10,4,7,25,0,0,0,6,12,0
+0,Boone,Boone 5,BN5,17,6,6,17,1,0,0,21,12,0
+0,Boone,Madrid 1,MD1,10,2,1,10,1,0,0,4,3,0
+0,Boone,Madrid 2,MD2,13,5,5,9,0,0,0,6,1,0
+0,Boone,Madrid 3,MD3,9,3,0,5,0,0,0,3,4,0
+0,Boone,Ogden,OG,13,6,16,30,0,0,0,12,8,0
+0,Boone,Rural Precinct 1,RP1,33,8,16,36,0,0,0,25,16,0
+0,Boone,Rural Precinct 2,RP2,7,8,7,14,0,0,0,4,16,0
+0,Boone,Rural Precinct 3,RP3,12,4,6,14,0,0,0,5,9,0
+0,Boone,Rural Precinct 4,RP4,25,20,17,58,0,0,0,25,20,0
+0,Boone,Rural Precinct 5,RP5,11,1,1,9,0,0,0,0,6,0
+0,Boone,Rural Precinct 6,RP6,24,6,20,30,0,0,0,12,17,0
+0,Boone,Rural Precinct 7,RP7,9,3,4,12,0,0,0,8,2,0
+0,Bremer,City Of Denver,DV,13,0,11,9,0,0,0,8,5,0
+0,Bremer,City Of Janesville,JV,6,1,3,4,0,0,0,8,3,0
+0,Bremer,Dayton Fremont City Of Tripoli,DA,23,10,6,16,0,0,0,13,5,0
+0,Bremer,East Polk Douglas,EP,6,3,2,12,0,0,0,7,5,0
+0,Bremer,Franklin Maxfield City Of Readlyn,FR,12,2,8,22,0,0,0,14,5,0
+0,Bremer,Frederika Leroy City Of Frederika,FD,3,0,3,5,0,0,0,6,1,0
+0,Bremer,Jackson Twp (Part),JK,8,2,4,7,0,0,0,11,3,0
+0,Bremer,Jefferson Twp,JF,19,5,14,13,0,0,0,24,8,0
+0,Bremer,Lafayette Warren,LA,11,6,5,17,1,0,0,8,5,0
+0,Bremer,Sumner 2 City Of Sumner,SU,14,7,3,29,1,0,0,27,6,0
+0,Bremer,Waverly Ward 1,WL1,13,1,9,6,3,1,0,21,17,0
+0,Bremer,Waverly Ward 2,WL2,7,5,9,21,2,0,0,24,16,0
+0,Bremer,Waverly Ward 3,WL3,9,4,0,6,0,0,0,2,0,0
+0,Bremer,Waverly Ward 4 Washington Jackson,WL4,28,6,9,21,3,1,0,39,11,0
+0,Bremer,Waverly Ward 5,WL5,18,5,7,25,4,0,0,30,13,0
+0,Bremer,West Polk City Of Plainfield,WP,4,0,5,2,0,0,0,7,2,0
+0,Buchanan,Aurora,AR,0,0,2,0,0,0,0,1,0,0
+0,Buchanan,Brandon,BD,6,2,1,10,0,0,0,1,0,0
+0,Buchanan,Fairbank,FB,2,1,0,5,0,0,0,0,4,0
+0,Buchanan,Hazleton,HT,1,4,5,4,0,0,0,3,1,0
+0,Buchanan,Indep 1st Ward/Washington,I1,13,4,15,28,0,0,0,27,7,0
+0,Buchanan,Indep 2nd Ward,I2,4,6,2,7,0,0,0,6,0,0
+0,Buchanan,Indep 3rd Ward,I3,7,2,12,4,1,0,0,4,7,0
+0,Buchanan,Indep 4th Ward,I4,1,0,4,2,0,0,0,2,3,0
+0,Buchanan,Indep 5th Ward,I5,4,3,2,1,0,0,0,8,3,0
+0,Buchanan,Jesup,JS,7,0,10,13,0,0,0,6,0,0
+0,Buchanan,Lamont,LM,2,0,0,9,0,0,0,0,4,0
+0,Buchanan,Perry/Westburg,PW,4,5,4,16,0,0,0,2,4,0
+0,Buchanan,Quasqueton,QT,7,5,5,17,0,0,0,7,10,0
+0,Buchanan,Rowley,RW,5,4,11,11,0,0,0,6,8,0
+0,Buchanan,Winthrop,WN,3,4,4,6,0,2,0,5,11,0
+0,Buena Vista,Albert City Fairfield Coon,ACFC,9,4,11,35,0,0,0,8,6,0
+0,Buena Vista,Alta Nokomis Elk,ALNE,29,2,11,21,0,0,0,17,17,0
+0,Buena Vista,Lakeside Hayes Maple Valley,LKHM,20,2,20,9,1,0,0,19,8,1
+0,Buena Vista,Linn Grove Brooke,LGB,0,0,0,14,1,0,0,6,5,0
+0,Buena Vista,Marathon Poland,MAP,4,0,2,2,0,0,0,2,1,0
+0,Buena Vista,Newell Newell Providence,NENP,22,4,15,22,0,0,0,2,19,1
+0,Buena Vista,Rembrandt Lincoln Scott,RELS,8,0,5,10,0,0,0,5,4,0
+0,Buena Vista,Sioux Rapids Lee,SRL,6,0,7,5,0,0,0,6,6,0
+0,Buena Vista,Storm Lake 1,SL1,7,1,9,5,0,0,0,2,6,0
+0,Buena Vista,Storm Lake 2,SL2,9,0,4,4,0,0,0,5,1,0
+0,Buena Vista,Storm Lake 3,SL3,15,8,16,28,0,0,0,39,12,0
+0,Buena Vista,Storm Lake 4,SL4,17,2,13,6,1,0,0,10,2,0
+0,Buena Vista,Truesdale Washington Grant,TRWG,10,3,11,5,0,0,0,9,10,0
+0,Butler,01 Albion,1,10,3,0,19,1,0,0,13,16,0
+0,Butler,02 Beaver,2,4,6,2,12,0,0,0,6,10,0
+0,Butler,03 Bennezette,3,7,0,7,3,0,0,0,1,0,0
+0,Butler,04 Coldwater,4,11,4,8,12,0,0,0,5,4,0
+0,Butler,05 Dayton Fremont,5,6,0,6,5,0,0,0,5,3,0
+0,Butler,06 Jackson Butler,6,10,10,6,23,2,0,0,18,6,0
+0,Butler,07 Jefferson Shell Rock,7,22,10,11,17,0,0,0,17,26,0
+0,Butler,08 Madison Ripley Washington,8,7,0,5,20,1,0,0,3,10,0
+0,Butler,09 Monroe,9,5,2,14,33,0,0,0,7,3,0
+0,Butler,10 Pittsford,10,3,2,0,3,0,0,0,9,3,0
+0,Butler,11 West Point Allison,11,8,3,12,8,0,0,0,6,6,0
+0,Butler,12 West Point Bristow,12,6,1,0,2,0,0,0,2,0,0
+0,Calhoun,Butler Williams,BUWM,8,3,9,23,0,0,0,2,10,0
+0,Calhoun,Calhoun Jackson Elm Grove Lake Creek,CHJEGLK,8,4,7,17,0,0,0,3,7,0
+0,Calhoun,Cedar,CEDAR,2,0,0,6,0,0,0,1,3,0
+0,Calhoun,Center Logan Twin Lakes Garfield,CNLGTGA,7,3,9,18,0,0,0,3,12,0
+0,Calhoun,Greenfield,GREENFI,2,3,7,4,0,0,0,1,5,0
+0,Calhoun,Lake City,LAKE CI,6,2,1,11,0,2,0,8,7,0
+0,Calhoun,Lincoln,LINCOLN,7,5,9,12,1,0,0,18,5,0
+0,Calhoun,Reading,READING,3,0,3,5,0,0,0,3,1,0
+0,Calhoun,Rockwell City,ROCKWEL,9,3,3,20,0,0,0,8,16,0
+0,Calhoun,Sherman,SHERMAN,11,5,5,13,1,0,0,12,5,0
+0,Calhoun,Union,UNION,12,3,1,3,0,0,0,10,0,0
+0,Carroll,Arcadia,7,4,0,2,6,0,0,0,0,0,0
+0,Carroll,Carroll 1,1,10,2,29,22,0,0,1,42,10,0
+0,Carroll,Carroll 2 North 1/2 Of Maple River Twp,2,14,4,21,20,0,0,0,21,12,0
+0,Carroll,Carroll 3 South 1/2 Of Maple River Twp,3,19,1,17,14,1,0,0,10,10,0
+0,Carroll,Carroll 4,4,12,1,17,5,1,0,0,20,11,0
+0,Carroll,Eden,12,1,0,9,6,0,0,0,6,2,0
+0,Carroll,Ewoldt,11,12,3,12,22,0,0,0,11,1,0
+0,Carroll,Glidden-Richland,8,8,13,9,20,0,0,0,9,13,1
+0,Carroll,Pleasant Valley-Newton,10,6,1,7,14,0,0,0,7,4,0
+0,Carroll,Sheridan-Grant-Jasper,6,20,0,4,15,1,0,0,13,6,0
+0,Carroll,Union,13,8,4,3,8,0,0,0,0,10,0
+0,Carroll,Washington-Roselle,9,5,1,5,7,0,0,0,3,1,0
+0,Carroll,Wheatland-Kniest,5,4,2,10,9,0,0,0,4,5,0
+0,Cass,Atlantic Ward 1,AT1,5,4,9,7,0,0,0,1,4,0
+0,Cass,Atlantic Ward 2 And Grove,AT2,14,3,4,8,0,0,0,4,2,0
+0,Cass,Atlantic Ward 3,AT3,15,0,17,17,0,0,0,17,0,0
+0,Cass,Atlantic Ward 4,AT4,16,0,21,25,1,0,0,24,7,0
+0,Cass,Atlantic Ward 5,AT5,7,3,24,28,0,0,0,22,5,0
+0,Cass,Bear Grove/ Cass/ Lewis,CS,11,5,7,12,0,0,0,13,16,0
+0,Cass,Benton Twp,BN,0,3,1,2,0,0,0,0,0,0
+0,Cass,Brighton/ Marne/ Grove 1/ Pymosa/ Washington,GV1,19,5,30,21,0,0,0,8,11,0
+0,Cass,Edna/Noble/ Pleasant/ Griswold,PL,14,3,25,23,1,0,0,15,9,0
+0,Cass,Franklin/Wiota/Grant/Anita/Lincoln,GT,8,2,7,9,0,0,0,32,8,0
+0,Cass,Massena Twp And City,MS,1,2,2,8,0,0,0,5,3,0
+0,Cass,Union Twp And Cumberland,UN,5,1,0,10,0,0,0,0,1,0
+0,Cass,Victoria Twp,VI,1,1,0,0,0,0,0,0,0,0
+0,Cedar,Cass Center Iowa Rochester,CN,23,6,16,24,0,0,0,21,7,0
+0,Cedar,Dayton Fairfield,DA,7,8,4,18,1,0,0,10,4,0
+0,Cedar,Farmington Sugar Creek,FM,16,5,12,18,0,0,0,31,4,0
+0,Cedar,Fremont Red Oak,FR,7,2,7,4,0,0,0,10,9,0
+0,Cedar,Gower Springdale,GW,35,3,8,28,2,0,0,30,21,0
+0,Cedar,Inland,IN,1,0,2,8,0,0,0,12,4,0
+0,Cedar,Linn Pioneer,LN,28,4,11,31,1,0,0,6,2,0
+0,Cedar,Massillon Springfield,MA,31,2,9,10,0,1,0,12,5,0
+0,Cedar,Tipton 1,TT1,14,2,2,2,0,0,0,8,0,0
+0,Cedar,Tipton 2,TT2,10,1,8,6,0,0,0,5,0,0
+0,Cedar,Tipton 3,TT3,16,1,5,18,0,0,0,20,11,0
+0,Cerro Gordo,Clear Lake Ward 1,CL1,21,2,24,32,0,0,0,48,31,0
+0,Cerro Gordo,Clear Lake Ward 2,CL2,28,4,20,37,0,0,0,27,15,1
+0,Cerro Gordo,Clear Lake Ward 3,CL3,23,5,19,20,0,0,0,32,17,0
+0,Cerro Gordo,Clear Lake/Grant/Union Townships Pct,CL,26,4,27,33,1,0,0,26,21,1
+0,Cerro Gordo,Dougherty Township Precinct,DTR,2,3,0,0,0,0,0,2,1,0
+0,Cerro Gordo,Falls Plymouth/Lime Creek/Mason N Pct,FLN,9,2,8,14,0,0,0,4,3,0
+0,Cerro Gordo,Falls Township/Rock Falls Precinct,FLS,8,0,1,0,0,0,0,1,0,0
+0,Cerro Gordo,Geneseo/Bath Townships Precinct,GN,8,8,10,9,0,0,0,8,3,0
+0,Cerro Gordo,Grimes Township/Meservey Precinct,GMW,0,4,0,2,0,0,0,0,2,0
+0,Cerro Gordo,Grimes Township/Thornton Precinct,GME,7,2,1,4,0,0,0,10,1,0
+0,Cerro Gordo,Lake/Lincoln Townships Precinct,LK,1,0,10,15,0,0,0,1,4,0
+0,Cerro Gordo,Mason City W1 P1,MC01,5,0,2,5,0,0,0,8,5,0
+0,Cerro Gordo,Mason City W1 P2,MC02,12,5,11,14,0,0,0,7,7,0
+0,Cerro Gordo,Mason City W1 P3,MC03,26,6,18,28,0,0,0,52,11,0
+0,Cerro Gordo,Mason City W2 P1,MC04,12,2,4,5,0,1,0,5,2,0
+0,Cerro Gordo,Mason City W2 P2,MC05,17,8,13,35,2,0,0,61,10,0
+0,Cerro Gordo,Mason City W2 P3,MC06,0,0,0,0,0,0,0,0,0,0
+0,Cerro Gordo,Mason City W3 P1,MC07,23,2,13,12,0,0,0,11,8,0
+0,Cerro Gordo,Mason City W3 P2,MC08,11,3,4,3,0,0,0,3,9,0
+0,Cerro Gordo,Mason City W3 P3,MC09,17,2,25,23,2,0,0,39,3,0
+0,Cerro Gordo,Mason City W4 P1,MC10,7,2,0,2,0,0,0,8,0,0
+0,Cerro Gordo,Mason City W4 P2,MC11,8,4,4,11,0,0,0,13,3,0
+0,Cerro Gordo,Mason City W4 P3,MC12,14,8,6,14,0,0,0,24,1,0
+0,Cerro Gordo,Mason S/Owen/Portland S Precinct,MNS,8,14,8,10,0,0,0,10,6,0
+0,Cerro Gordo,Mt Vernon/Pl Valley Townships Precinct,MV,2,2,7,12,0,0,0,6,5,0
+0,Cerro Gordo,Portland N Township Precinct,PLN,1,0,0,0,0,0,0,0,1,0
+0,Cherokee,Afton; Diamond; Pitcher; Spring; & Aurelia,1,17,3,16,27,0,0,0,21,12,0
+0,Cherokee,Cherokee Ward 1,5,9,1,18,31,0,0,0,31,8,0
+0,Cherokee,Cherokee Ward 2,6,7,1,2,12,0,0,0,3,6,0
+0,Cherokee,Cherokee Ward 3,7,7,0,3,10,0,0,0,8,8,0
+0,Cherokee,Cherokee; Cedar; Pilot; and City of Larrabee,4,17,8,14,20,0,0,0,18,11,0
+0,Cherokee,Liberty; Marcus; Amherst; Sheridan; Cities of Marcus; Cleghorn; & Meriden,2,26,3,15,41,0,0,0,37,7,0
+0,Cherokee,Silver; Grand Meadow; Rock; Tilden; Willow; Cities of Quimby & Washta,3,12,4,10,14,0,0,0,8,11,0
+0,Chickasaw,Bradford,BD,13,2,8,3,0,0,0,6,10,0
+0,Chickasaw,Chickasaw,CH,10,0,1,2,0,0,0,2,5,0
+0,Chickasaw,Dayton-Richland,DA-RD,9,0,2,4,0,0,0,14,8,0
+0,Chickasaw,Deerfield-Washington 2,DF-W2,8,2,4,2,0,0,0,0,9,0
+0,Chickasaw,Dresden-Fredericksburg,DS-FB,21,6,5,13,2,0,0,27,11,0
+0,Chickasaw,Jacksonville-Utica,JA-UT,0,0,7,3,0,0,0,2,8,0
+0,Chickasaw,New Hampton Rural,NHR,8,0,4,3,0,0,0,3,9,0
+0,Chickasaw,New Hampton Ward 1,NH1,6,0,0,1,0,0,0,3,2,0
+0,Chickasaw,New Hampton Ward 2,NH2,2,2,1,3,1,0,0,5,3,0
+0,Chickasaw,New Hampton Ward 3,NH3,3,1,5,0,0,0,0,8,3,0
+0,Chickasaw,New Hampton Ward 4,NH4,8,0,1,8,0,0,0,7,2,0
+0,Chickasaw,Stapleton,ST,4,1,0,2,0,0,0,7,0,0
+0,Chickasaw,Washington 1,W1,1,0,0,0,0,0,0,1,4,0
+0,Clarke,Murray,MY,14,6,7,13,0,0,0,3,13,0
+0,Clarke,North Middle,NM,27,11,9,11,0,2,0,20,7,0
+0,Clarke,Osceola Pct 1,OC1,12,8,6,7,0,0,0,3,3,0
+0,Clarke,Osceola Pct 2,OC2,17,1,9,6,0,0,0,2,13,0
+0,Clarke,Osceola Pct 3,OC3,11,12,5,5,1,0,0,29,8,0
+0,Clarke,South Middle,SM,5,2,4,6,0,0,0,6,4,0
+0,Clarke,Woodburn,WB,12,2,6,3,0,0,0,2,14,0
+0,Clay,Douglas/Peterson,DGPE,6,0,6,2,0,0,0,7,9,0
+0,Clay,Garfield/Herdland,GFHD,0,1,11,4,0,0,0,5,1,0
+0,Clay,Lake/Freeman,LAFR,6,0,6,8,0,0,0,1,0,0
+0,Clay,Lincoln/Clay,LNCL,6,0,8,11,0,0,0,5,4,0
+0,Clay,Logan/Gillett Grove,LGGG,7,2,1,7,0,0,0,3,4,0
+0,Clay,Meadow/Sioux,MDSX,13,0,3,13,0,0,0,9,2,0
+0,Clay,Spencer Ward 1,SP1,21,9,7,13,1,0,0,9,11,0
+0,Clay,Spencer Ward 2,SP2,19,7,18,14,1,0,0,12,8,0
+0,Clay,Spencer Ward 3,SP3,11,1,24,18,1,0,0,16,1,0
+0,Clay,Spencer Ward 4,SP4,22,5,36,38,1,0,0,63,16,0
+0,Clay,Spencer Ward 5,SP5,16,6,9,18,0,0,0,12,15,0
+0,Clay,Summit/Riverton,SMRT,9,8,1,8,0,0,0,4,4,0
+0,Clay,Waterford/Lone Tree,WFLT,14,1,7,11,0,0,0,3,0,0
+0,Clayton,Boardman-Highland,BM-HI,0,0,0,0,0,0,0,0,0,0
+0,Clayton,Buena Vista,BV,0,0,0,0,0,0,0,0,0,0
+0,Clayton,Cass,CS,18,0,5,18,0,0,0,10,11,0
+0,Clayton,Clayton-Garnavillo,CL-GV,21,4,10,8,0,0,0,12,5,0
+0,Clayton,Cox Creek-Sperry,CC-SY,24,5,0,9,0,0,0,7,6,0
+0,Clayton,Elk-Mallory-Volga,ELMYVO,14,9,0,5,0,0,0,4,9,0
+0,Clayton,Farmersburg-Wagner,FB-WG,10,2,2,6,0,0,0,12,14,0
+0,Clayton,Giard-Luana-Monona,GDLUMO,27,0,9,15,0,0,0,16,8,0
+0,Clayton,Grand Meadow,GM,0,0,0,0,0,0,0,0,0,0
+0,Clayton,Jefferson-Millville,JF-MV,31,3,9,14,0,0,0,29,8,0
+0,Clayton,Lodomillo,LM,6,3,2,7,0,0,0,5,6,0
+0,Clayton,Marion,MR,36,0,30,22,1,0,0,10,13,0
+0,Clayton,Mendon,MN,11,2,3,6,0,0,0,11,1,0
+0,Clayton,Read,RD,0,0,0,0,0,0,0,0,0,0
+0,Clinton,Bloomfield Delmar,BLFD,12,2,5,6,0,0,0,9,1,0
+0,Clinton,Brookfield,BRFD,2,0,1,10,1,0,0,4,0,0
+0,Clinton,Camanche 1,CAM1,12,7,7,5,0,0,0,10,0,0
+0,Clinton,Camanche 2,CAM2,14,4,3,31,2,0,0,16,1,0
+0,Clinton,Camanche Twp,CAMT,2,0,0,2,0,0,0,0,0,0
+0,Clinton,Center,CENT,1,2,6,6,0,0,0,15,1,0
+0,Clinton,Clinton W1p1,CL11,10,0,2,7,0,0,0,7,0,0
+0,Clinton,Clinton W1p2,CL12,5,2,5,6,0,0,0,5,2,0
+0,Clinton,Clinton W2p1,CL21,9,1,4,8,0,0,0,22,2,0
+0,Clinton,Clinton W2p2,CL22,33,3,10,33,1,0,0,51,12,0
+0,Clinton,Clinton W3p1,CL31,17,0,4,16,0,0,0,26,10,0
+0,Clinton,Clinton W3p2,CL32,19,2,18,19,1,0,0,34,3,0
+0,Clinton,Clinton W4p1,CL41,18,5,13,12,0,0,0,55,5,1
+0,Clinton,Clinton W4p2,CL42,15,1,5,22,0,0,0,14,1,0
+0,Clinton,Deep Creek Goose Lake,DECR,3,1,2,5,0,0,0,5,0,0
+0,Clinton,Dewitt 1,DEW1,16,6,13,22,1,0,0,15,3,2
+0,Clinton,Dewitt 2,DEW2,28,2,19,19,3,0,0,51,5,0
+0,Clinton,Dewitt Twp,DEWT,12,4,10,23,0,0,0,31,3,0
+0,Clinton,Eden Twp/Low Moor,EDTP,11,2,3,10,0,0,0,3,0,0
+0,Clinton,Elk River Andover,EKRV,8,0,4,6,0,0,0,11,3,0
+0,Clinton,Grant,GRAT,1,0,1,12,0,0,0,5,0,0
+0,Clinton,Hampshire,HAMP,5,1,1,4,0,0,0,11,7,0
+0,Clinton,Liberty Toronto,LIBY,1,0,2,0,0,0,0,3,3,0
+0,Clinton,Olive Calamus,OLIV,5,3,3,20,0,0,0,2,1,0
+0,Clinton,Orange Grand Mound,ORAN,13,2,1,8,0,0,0,2,6,0
+0,Clinton,Sharon Lost Nation,SHAR,6,8,1,9,0,0,0,4,1,0
+0,Clinton,Spring Rock Wheatland,SPRG,8,0,2,11,0,0,0,7,2,1
+0,Clinton,Washington,WASH,1,0,6,5,0,0,0,2,0,1
+0,Clinton,Waterford Charlotte,WATF,3,0,0,11,0,0,0,0,0,0
+0,Clinton,Welton,WELT,5,4,0,6,0,0,0,17,1,0
+0,Crawford,Arion Precinct,AR,2,0,0,0,0,0,0,3,2,0
+0,Crawford,Aspinwall Precinct,AS,3,0,0,2,0,0,0,0,0,0
+0,Crawford,Buck Grove Precinct,BG,0,2,1,9,0,0,0,3,3,0
+0,Crawford,Charter Oak Precinct,CO,5,1,9,11,0,0,0,8,4,0
+0,Crawford,Deloit Precinct,DE,8,3,6,4,0,0,0,7,3,0
+0,Crawford,Denison 1st Ward,D1,11,2,12,10,0,0,0,15,10,0
+0,Crawford,Denison 2nd Ward-Denison Twp,D2,5,8,11,12,1,0,0,13,2,0
+0,Crawford,Denison 3rd Ward,D3,8,2,11,11,0,0,0,17,13,0
+0,Crawford,Dow City Precinct,DC,4,0,8,4,0,0,0,7,2,0
+0,Crawford,Kiron Precinct,KI,4,0,1,8,0,0,0,10,9,0
+0,Crawford,Manilla Precinct,MA,3,1,2,8,0,0,0,3,4,0
+0,Crawford,Ricketts Precinct,RI,5,0,1,0,0,0,0,1,0,0
+0,Crawford,Schleswig Precinct,SC,13,1,7,7,0,0,0,4,1,0
+0,Crawford,Vail Precinct,VA,1,0,6,12,0,0,0,7,9,0
+0,Crawford,Westside Precinct,WS,0,2,9,7,0,0,0,2,2,0
+0,Dallas,Adams,AM,28,10,27,33,0,0,0,45,13,0
+0,Dallas,Adel,AL,52,10,42,29,1,0,0,59,23,0
+0,Dallas,Clive,CL,54,16,63,105,0,5,0,196,43,0
+0,Dallas,Colfax Adel,CF,15,13,11,11,0,0,0,26,23,0
+0,Dallas,Dallas,DL,7,1,2,5,2,0,0,2,1,0
+0,Dallas,Dallas Center,DC,12,7,15,35,0,0,0,33,16,0
+0,Dallas,Des Moines,DM,17,3,6,9,0,0,0,8,14,0
+0,Dallas,Desoto,DO,6,0,5,8,0,0,0,8,1,0
+0,Dallas,Dexter Union,DT,14,19,12,8,1,0,0,16,18,0
+0,Dallas,Grant,GT,21,20,16,17,2,0,0,24,21,0
+0,Dallas,Lincoln Washington,LC,8,2,6,13,0,0,0,12,5,0
+0,Dallas,Linn,LY,7,3,4,4,0,0,0,5,10,0
+0,Dallas,Perry 1,PY1,16,5,5,22,0,0,0,16,4,0
+0,Dallas,Perry 2,PY2,6,3,14,19,0,0,0,17,4,0
+0,Dallas,Perry 3,PY3,9,7,9,17,0,0,0,7,8,0
+0,Dallas,Redfield,RF,3,0,2,2,1,0,0,3,2,0
+0,Dallas,Spring Valley Beaver,SV,20,2,11,9,0,0,0,4,7,0
+0,Dallas,Sugar Grove,SG,24,6,10,14,1,0,0,6,8,0
+0,Dallas,Van Meter,VM,26,11,28,53,0,0,0,71,28,0
+0,Dallas,Walnut Grimes Urbandale,WL,60,10,86,89,0,1,0,220,85,0
+0,Dallas,Waukee 1,WK1,43,5,14,35,1,0,0,29,16,0
+0,Dallas,Waukee 2,WK2,15,3,10,25,0,0,0,21,9,0
+0,Dallas,Waukee 3,WK3,37,9,42,52,4,0,0,167,46,0
+0,Dallas,Waukee 4,WK4,41,5,43,70,0,0,0,92,25,0
+0,Dallas,West Des Moines 1,WD1,42,10,24,46,0,0,0,79,23,0
+0,Dallas,West Des Moines 2,WD2,63,8,48,87,2,0,0,160,44,0
+0,Dallas,West Des Moines 3 Boone,BN,37,8,45,49,0,0,0,116,9,0
+0,Davis,Bloomfield 1,BF1,8,2,1,8,0,0,0,5,4,0
+0,Davis,Bloomfield 2,BF2,6,1,3,18,0,0,0,2,1,0
+0,Davis,Bloomfield 3,BF3,8,1,4,3,0,0,0,0,3,0
+0,Davis,Central,CN,18,4,5,22,0,0,0,2,8,0
+0,Davis,North East,NE,13,3,12,20,0,0,0,4,8,0
+0,Davis,North West,NW,9,3,5,7,0,0,0,0,4,0
+0,Davis,South East,SE,10,9,5,11,0,0,0,3,10,0
+0,Davis,South West,SW,7,2,0,11,0,0,0,2,1,0
+0,Decatur,Bloomington Fayette Lamoni I,BL,7,2,14,1,0,0,0,26,9,0
+0,Decatur,Burrell New Buda Davis City,BU,12,2,2,12,0,0,0,3,1,0
+0,Decatur,Center Eden,CE,9,2,3,4,0,0,0,1,7,0
+0,Decatur,Decatur Decatur City,DE,3,0,1,5,0,0,0,2,2,0
+0,Decatur,Franklin Weldon,FR,0,2,6,2,0,0,0,5,8,0
+0,Decatur,Garden Grove Garden Grove Leroy,GG,9,3,0,4,0,0,0,0,4,0
+0,Decatur,Grand River Richland Grand River,GR,0,0,0,3,0,0,0,4,2,0
+0,Decatur,Hamilton Morgan Pleasanton,HA,2,2,0,0,0,0,0,1,4,0
+0,Decatur,High Point Woodland,HP,5,3,4,2,0,0,0,2,1,0
+0,Decatur,Lamoni II,LA2,6,7,13,4,0,0,0,12,6,0
+0,Decatur,Lamoni III,LA3,4,1,0,0,0,0,0,6,3,0
+0,Decatur,Leon,LE,20,8,6,7,0,0,0,12,6,0
+0,Decatur,Long Creek Van Wert,LC,4,3,2,0,0,0,0,5,1,0
+0,Delaware,Adams,AD,1,2,2,14,0,0,0,9,4,0
+0,Delaware,Bremen North,BMN,5,0,2,2,0,0,0,0,2,0
+0,Delaware,Colony,CL,4,1,4,5,0,0,0,1,4,0
+0,Delaware,Delaware South,DWS,6,2,8,14,0,0,0,11,4,0
+0,Delaware,Delhi Twp,DH,4,2,4,2,0,0,0,9,3,0
+0,Delaware,Honey Creek,HC,7,0,5,16,0,0,0,2,3,0
+0,Delaware,Manchester Pct 1,MC1,9,1,6,4,0,0,0,9,0,0
+0,Delaware,Manchester Pct 2,MC2,13,0,13,21,0,0,0,13,9,0
+0,Delaware,Manchester Pct 3,MC3,14,2,4,19,1,0,0,17,8,0
+0,Delaware,Milo,ML,15,2,7,13,0,0,0,14,16,0
+0,Delaware,North Fork,NF,5,0,4,8,0,0,0,9,6,0
+0,Delaware,Oneida,OD,9,1,2,10,0,0,0,6,9,0
+0,Delaware,Richland,RL,10,0,11,8,1,0,0,9,6,0
+0,Delaware,South Fork,SF,5,2,4,10,0,0,0,6,9,0
+0,Des Moines,Benton / Huron / Jackson Twps,HJ,8,4,12,30,0,0,0,2,15,0
+0,Des Moines,Concordia / Union Twps,UC,16,2,5,20,0,0,0,13,3,0
+0,Des Moines,Danville Town / Danville Twp,DM,12,4,11,48,0,0,0,11,10,0
+0,Des Moines,Flint River Twp / Middletown,FM,15,6,16,36,0,0,0,17,13,0
+0,Des Moines,Mediapolis Town / Franklin & Yellow Spring Twps,MY,26,8,9,27,0,0,0,21,24,0
+0,Des Moines,Pleasant Grove / Washington Twps,PW,6,3,10,19,0,0,0,12,1,0
+0,Des Moines,Precinct  02,2,17,5,13,5,2,0,0,35,5,0
+0,Des Moines,Precinct  03,3,10,10,4,9,0,0,0,4,0,0
+0,Des Moines,Precinct  04,4,4,2,8,3,0,0,0,0,2,0
+0,Des Moines,Precinct  05,5,10,2,7,20,0,0,0,12,3,0
+0,Des Moines,Precinct  06,6,22,2,8,15,0,0,0,38,3,0
+0,Des Moines,Precinct  07,7,9,6,12,10,3,0,0,9,2,0
+0,Des Moines,Precinct  08,8,20,8,5,10,0,0,0,5,0,0
+0,Des Moines,Precinct  09,9,13,3,22,27,0,0,0,44,6,0
+0,Des Moines,Precinct  10,10,6,1,5,11,0,0,0,12,3,0
+0,Des Moines,Precinct  11,11,3,4,2,5,0,0,0,8,1,0
+0,Des Moines,Precinct  12,12,17,1,18,33,0,0,0,25,20,0
+0,Des Moines,Precinct 01 / Tama Twp,1T,35,6,11,34,1,0,0,23,3,0
+0,Des Moines,West Burlington Town,WB,12,2,9,26,0,0,0,17,7,0
+0,Dickinson,Center Grove Township No. 1,CG 1,13,3,16,20,1,0,0,36,5,0
+0,Dickinson,Center Grove Township No. 2,CG 2,12,2,21,20,0,0,0,24,11,0
+0,Dickinson,Lakeville-Excelsior  Twp,LKV-EXC,11,1,20,17,0,0,0,22,4,0
+0,Dickinson,Lloyd Township,LLOYD,2,0,2,1,0,0,0,1,3,0
+0,Dickinson,Milford-Okoboji-Westport Township,MI-OK-W,27,2,11,39,0,0,0,36,16,0
+0,Dickinson,Richland/Superior-Spirit Lake EastTownship,R-S-SLE,6,1,6,4,0,0,0,13,2,0
+0,Dickinson,Silver Lake Township,SIL LAK,1,0,1,3,0,0,0,4,10,0
+0,Dickinson,Spirit Lake North,SL N,2,3,11,17,1,0,0,17,8,0
+0,Dickinson,Spirit Lake South,SL S,19,3,30,18,2,0,0,18,37,0
+0,Dickinson,Spirit Lake West-Diamond LakeTownship,SLW-DL,7,3,14,11,0,0,0,16,2,0
+0,Dubuque,Precinct 01,1,20,0,13,31,0,0,0,49,6,0
+0,Dubuque,Precinct 02,2,22,0,8,30,0,0,0,55,7,0
+0,Dubuque,Precinct 03,3,16,2,6,5,0,0,0,23,6,0
+0,Dubuque,Precinct 04,4,19,1,10,17,0,0,0,27,7,0
+0,Dubuque,Precinct 05,5,26,3,3,39,0,0,0,41,7,0
+0,Dubuque,Precinct 06,6,29,0,11,27,0,0,0,32,2,0
+0,Dubuque,Precinct 07,7,20,1,9,11,1,0,0,41,2,0
+0,Dubuque,Precinct 08,8,23,0,9,13,0,0,0,19,7,0
+0,Dubuque,Precinct 09,9,16,1,6,14,0,0,0,34,1,0
+0,Dubuque,Precinct 10,10,32,0,5,13,0,0,0,7,2,0
+0,Dubuque,Precinct 11,11,11,0,0,3,1,0,0,14,9,0
+0,Dubuque,Precinct 12,12,19,3,3,25,0,0,0,19,11,0
+0,Dubuque,Precinct 13,13,10,0,6,5,0,0,0,14,4,0
+0,Dubuque,Precinct 14,14,15,0,1,0,0,0,0,1,1,0
+0,Dubuque,Precinct 15,15,6,0,2,9,0,0,0,8,6,0
+0,Dubuque,Precinct 16,16,12,2,4,4,1,0,0,12,7,0
+0,Dubuque,Precinct 17,17,10,0,2,0,1,0,0,3,0,0
+0,Dubuque,Precinct 18,18,15,0,6,10,0,0,0,11,1,0
+0,Dubuque,Precinct 19,19,21,0,10,7,0,0,0,9,1,0
+0,Dubuque,Precinct 20,20,25,2,8,14,2,0,0,26,4,0
+0,Dubuque,Precinct 21,21,20,1,12,23,4,0,0,44,3,0
+0,Dubuque,Precinct 31,31,27,4,15,37,0,0,0,61,7,0
+0,Dubuque,Precinct 32,32,25,0,5,18,2,0,0,12,5,0
+0,Dubuque,Precinct 33,33,13,1,9,30,0,0,0,17,8,0
+0,Dubuque,Precinct 34,34,12,0,7,15,0,0,0,6,3,0
+0,Dubuque,Precinct 35,35,8,1,0,12,0,0,0,18,1,0
+0,Dubuque,Precinct 36,36,10,1,15,36,0,0,0,34,4,0
+0,Dubuque,Precinct 37,37,11,0,11,15,0,0,0,28,3,0
+0,Dubuque,Precinct 38,38,15,0,8,10,1,0,0,10,10,0
+0,Dubuque,Precinct 39,39,14,0,11,7,0,0,0,16,4,0
+0,Dubuque,Precinct 40,40,14,1,6,14,0,0,0,10,1,0
+0,Dubuque,Precinct 41,41,18,1,8,14,0,0,0,20,14,0
+0,Dubuque,Precinct 42,42,1,0,1,1,0,0,0,0,3,0
+0,Dubuque,Precinct 43,43,12,1,5,12,1,0,0,8,8,0
+0,Dubuque,Precinct 44,44,3,0,0,3,0,0,0,0,0,0
+0,Dubuque,Precinct 45,45,21,2,8,40,0,0,0,27,3,0
+0,Dubuque,Precinct 46,46,34,0,4,20,1,0,0,27,9,0
+0,Dubuque,Precinct 47,47,17,0,4,13,0,0,0,2,3,0
+0,Dubuque,Precinct 48,48,23,0,17,30,1,0,0,41,9,0
+0,Emmet,AG-IL-ARMSTRONG,1,2,5,7,10,0,0,0,10,4,0
+0,Emmet,CN-SL-GRUVER,2,4,3,3,2,0,0,0,2,2,0
+0,Emmet,DM-JC-RINGSTED,3,0,6,3,5,0,0,0,3,0,0
+0,Emmet,EL-LN-DOLLIVER,4,3,10,2,4,0,0,0,2,6,0
+0,Emmet,EM-ES,5,7,1,1,6,0,0,0,3,6,0
+0,Emmet,EVILLE-WARD 1,6,1,2,1,7,0,0,0,0,5,0
+0,Emmet,EVILLE-WARD 2,7,5,4,4,8,0,0,0,3,4,0
+0,Emmet,EVILLE-WARD 3,8,2,4,1,1,0,0,0,2,4,0
+0,Emmet,EVILLE-WARD 4,9,0,0,0,0,0,0,0,0,0,0
+0,Emmet,EVILLE-WARD 5,10,9,7,3,8,0,0,0,4,3,0
+0,Emmet,HL-TM-WALLINGFORD,11,2,1,1,7,0,0,0,4,4,0
+0,Fayette,Auburn Twp,AU,2,2,2,2,2,0,0,1,1,0
+0,Fayette,Banks-Fremont Twp.,BF,2,0,5,15,0,0,0,3,4,0
+0,Fayette,Bethel-Windsor Twp.,BW,2,0,4,12,0,0,0,3,9,0
+0,Fayette,Center Twp,CE,1,1,2,0,0,0,0,2,3,0
+0,Fayette,Clermont Twp,CL,16,1,13,6,0,0,0,15,3,0
+0,Fayette,Dover Twp,DV,0,9,5,13,0,0,0,7,2,0
+0,Fayette,Eden Twp,ED,3,7,0,4,0,0,0,0,2,0
+0,Fayette,Fairbank Inc,FB,0,0,1,0,0,0,0,1,0,0
+0,Fayette,Fairfield-Putnam Twp.,FP,11,3,3,34,0,1,0,6,4,1
+0,Fayette,Harlan Twp,HL,2,1,1,7,0,0,0,5,6,0
+0,Fayette,Illyria Twp,IL,9,1,4,1,0,0,0,5,7,0
+0,Fayette,Jefferson Twp,JF,6,0,6,0,0,0,0,11,4,0
+0,Fayette,Oelwein Ward 1,OE1,8,0,3,7,0,0,0,10,5,0
+0,Fayette,Oelwein Ward 2,OE2,10,0,2,5,0,0,0,1,2,0
+0,Fayette,Oelwein Ward 3,OE3,4,1,5,4,1,0,0,4,1,0
+0,Fayette,Oelwein Ward 4,OE4,6,3,17,14,0,0,0,13,1,0
+0,Fayette,Oran Twp,OR,7,1,4,0,0,0,0,2,1,0
+0,Fayette,Pleasant Valley Twp,PL,17,4,17,4,0,0,0,5,3,0
+0,Fayette,Scott Twp,SC,2,3,14,6,0,0,0,1,1,0
+0,Fayette,Smithfield Twp,SF,1,0,6,3,0,0,0,4,6,0
+0,Fayette,Union Twp,UN,3,4,3,9,0,0,0,9,3,0
+0,Fayette,West Union Ward 1,WE1,4,5,4,13,1,0,0,18,6,0
+0,Fayette,West Union Ward 2,WE2,3,1,4,5,0,0,0,3,1,0
+0,Fayette,West Union Ward 3,WE3,6,2,0,7,0,0,0,2,0,0
+0,Fayette,Westfield Twp,WF,9,1,4,1,0,0,0,5,7,0
+0,Floyd,Charles City 1 (Library),CC1,7,9,4,16,0,0,0,9,2,0
+0,Floyd,Charles City 2 (Messiah),CC2,13,5,12,12,0,0,0,19,1,0
+0,Floyd,Charles City 3 (N Cedar Terrace),CC3,6,2,2,14,0,0,0,6,3,0
+0,Floyd,Charles City 4 (Courthouse),CC4,6,4,4,14,0,0,0,24,2,0
+0,Floyd,Floyd-Cedar-Niles,FlCeNi,13,4,8,19,0,0,0,16,12,0
+0,Floyd,Rock Grove-Rudd,RGRu,6,2,2,24,0,0,0,10,1,0
+0,Floyd,Rockford-Ulster,RfUl,11,2,8,28,0,0,0,10,5,0
+0,Floyd,Scott-Union-Pleasant Grove,ScUnPG,11,2,0,14,0,0,0,3,3,0
+0,Floyd,St Charles-Riverton,SCRv,16,4,16,41,1,0,0,22,2,0
+0,Franklin,Dows,DW,2,0,0,0,0,0,0,2,0,0
+0,Franklin,Geneva/Reeve,GNRV,0,0,0,0,0,0,0,0,0,0
+0,Franklin,Grant/Lee/Osceola,GRLEOC,10,8,20,9,0,0,0,6,5,0
+0,Franklin,Hamilton,HL,13,3,3,8,0,0,0,3,2,0
+0,Franklin,Hampton 1,HP1,9,1,1,5,0,0,0,0,2,0
+0,Franklin,Hampton 2,HP2,9,2,4,14,0,0,0,7,6,0
+0,Franklin,Hampton 3,HP3,7,2,10,8,0,0,0,9,7,0
+0,Franklin,Hampton 4,HP4,4,1,1,4,0,0,0,5,5,0
+0,Franklin,Ingham,IG,4,1,1,1,0,0,0,2,1,0
+0,Franklin,Mott,MO,8,2,8,17,0,0,0,4,4,0
+0,Franklin,North Richland/Ross/West Fork,NRRSWF,7,3,14,23,0,0,0,13,3,0
+0,Franklin,Oakland/Morgan,OKMG,10,1,5,7,0,0,0,10,8,0
+0,Franklin,South Richland/Marion,SRMA,2,2,7,21,0,0,0,8,7,0
+0,Franklin,Wisner/Scott,WRSC,11,6,4,5,0,0,0,8,0,0
+0,Fremont,Benton Washington Pct,BNWS,4,2,4,8,0,0,0,5,0,0
+0,Fremont,Farragut Pct,FG,7,11,3,16,0,0,0,21,3,0
+0,Fremont,Green Riverside Scott Pct,GNRSSC,12,10,11,13,1,0,0,13,3,0
+0,Fremont,Hamburg Ward 1,HB1,1,0,0,4,0,0,0,0,0,0
+0,Fremont,Hamburg Ward 2,HB2,4,0,0,0,0,0,0,2,0,0
+0,Fremont,Hamburg Ward 3,HB3,1,0,0,0,0,0,0,1,1,0
+0,Fremont,Riverton Pct,RT,1,0,4,4,0,0,0,2,1,0
+0,Fremont,Sidney Pct,SN,3,13,19,13,1,0,0,15,7,0
+0,Greene,Central Precinct,CENTRAL,20,2,18,18,0,0,0,10,19,0
+0,Greene,East Precinct,EAST,8,2,7,15,0,0,0,9,3,0
+0,Greene,Jefferson 1,J1,7,2,11,19,0,0,0,18,1,0
+0,Greene,Jefferson 2,J2,18,3,14,11,0,0,0,18,6,0
+0,Greene,Jefferson 3,J3,8,2,17,16,1,0,0,21,28,0
+0,Greene,North Precinct,NORTH,13,3,9,10,0,0,0,3,12,0
+0,Greene,West Precinct,WEST,12,3,5,12,0,0,0,12,6,0
+0,Grundy,P1 Conrad/Beaman,P1,15,18,34,22,0,0,0,21,7,0
+0,Grundy,P2 Palermo/Washington,P2,8,2,5,2,0,0,0,10,4,0
+0,Grundy,P3 Wellsburg,P3,16,5,3,34,0,0,0,10,17,0
+0,Grundy,P4 Holland,P4,12,4,12,24,0,0,0,4,10,0
+0,Grundy,P5 Dike,P5,18,6,10,37,0,0,0,37,29,0
+0,Grundy,P6 Reinbeck,P6,12,2,9,41,0,0,0,16,22,0
+0,Grundy,P7 Grundy Center,P7,18,6,9,12,0,0,0,31,11,0
+0,Guthrie,Baker & Valley,Gold 4,26,11,12,17,0,0,0,19,9,0
+0,Guthrie,Bear Grove; Seely & Union,White 8,5,0,0,11,0,0,0,0,10,0
+0,Guthrie,Beaver; Penn & Stuart,Purple 6,16,12,6,18,0,0,0,11,18,0
+0,Guthrie,Cass & Jackson,Blue 2,37,7,19,27,1,0,0,32,31,0
+0,Guthrie,Dodge & Richland,Green 5,4,3,4,4,0,0,0,12,6,0
+0,Guthrie,Grant & Thompson,Black 1,2,0,3,10,0,0,0,5,3,0
+0,Guthrie,Highland & Orange,Red 7,7,2,3,22,0,0,0,3,8,0
+0,Guthrie,Victory,Brown 3,15,4,21,31,0,0,0,25,21,0
+0,Hamilton,Blairsburg,BL,2,0,6,2,0,0,0,1,3,0
+0,Hamilton,Cass Freedom Fremont,CA,12,3,8,14,0,0,0,15,2,0
+0,Hamilton,Clear Lake Hamilton,CL,10,6,7,14,0,0,0,8,3,0
+0,Hamilton,Ellsworth Scott,EL,28,3,21,28,0,0,0,12,9,0
+0,Hamilton,Independence,IN,2,3,4,4,0,0,0,5,3,0
+0,Hamilton,Liberty Rose Grove,LB,5,1,8,6,0,0,0,7,3,0
+0,Hamilton,Lincoln,LC,6,4,7,22,0,0,0,6,2,0
+0,Hamilton,Lyon,LY,5,1,10,16,0,0,0,12,1,0
+0,Hamilton,Marion Webster,MN,15,7,15,9,2,0,0,3,13,0
+0,Hamilton,Webster City 1,WC1,25,19,16,19,2,0,0,28,6,0
+0,Hamilton,Webster City 2,WC2,27,2,24,28,1,0,0,38,13,0
+0,Hamilton,Webster City 3,WC3,23,2,8,15,1,0,0,3,8,0
+0,Hamilton,Williams,WM,4,0,4,7,0,0,0,6,7,0
+0,Hancock,Amsterdam Twin Lakes,9,22,1,8,15,0,0,0,5,6,0
+0,Hancock,Avery; Goodell,10,6,0,2,4,0,0,0,0,0,0
+0,Hancock,Bingham; Woden,3,2,0,3,9,0,0,0,1,0,0
+0,Hancock,Boone Magor Corwith,8,16,2,4,6,0,0,0,5,4,0
+0,Hancock,Britt; Erin; Orthel,4,20,5,27,47,0,1,0,10,13,0
+0,Hancock,Concord Garner,6,23,13,31,28,0,0,0,17,14,0
+0,Hancock,Crystal Township; Crystal Lake,2,3,0,1,4,0,0,0,2,3,0
+0,Hancock,Ell Liberty; Klemme,7,24,7,8,22,0,0,0,5,9,0
+0,Hancock,Garfield,5,3,2,1,3,0,0,0,2,0,0
+0,Hancock,Madison Ellington (F.C.),1,7,6,4,19,0,0,0,8,18,0
+0,Hardin,Alden/Buckeye Pct,AL,5,2,3,35,0,0,0,8,5,0
+0,Hardin,Clay/Eldora/Pleasant/Providence/Union Pct,CL,21,13,15,62,1,0,0,24,23,0
+0,Hardin,Concord/Sherman/Grant/Tipton Pct,CC,31,10,26,38,2,0,0,10,37,0
+0,Hardin,Eldora City Pct,EL,23,7,10,40,0,0,0,32,8,0
+0,Hardin,Etna Pct,ET,20,1,19,9,0,0,0,10,9,0
+0,Hardin,Hardin/Ellis/Jackson Pct,HA,9,9,10,12,0,0,0,15,3,0
+0,Hardin,Iowa Falls 1 Pct,IF1,12,1,3,23,0,0,1,11,6,0
+0,Hardin,Iowa Falls 2 Pct,IF2,35,3,10,39,1,0,0,58,5,0
+0,Harrison,Calhoun Jefferson Lagrange,JF,14,1,10,16,0,0,0,15,7,0
+0,Harrison,Cass Union Washington Persia,WS,4,10,21,15,0,0,0,3,10,0
+0,Harrison,Clay Taylor Cincinnati Modale,TA,7,2,1,3,0,0,0,7,8,0
+0,Harrison,Douglas Lincoln Boyer,BO,2,1,8,7,0,0,0,5,2,0
+0,Harrison,Harrison Dunlap,HS,13,1,2,11,1,0,0,5,3,0
+0,Harrison,Jackson Allen Pisgah,JA,6,1,4,13,0,0,0,7,1,0
+0,Harrison,Little Sioux,LS,0,0,0,1,0,0,0,3,0,0
+0,Harrison,Logan City,LO,14,4,11,22,0,0,0,17,6,0
+0,Harrison,Magnolia,MA,6,2,3,12,0,1,0,5,7,0
+0,Harrison,Missouri Valley City,MV,10,2,8,38,1,1,0,18,12,0
+0,Harrison,Morgan Raglan Mondamin,MR,15,6,1,10,0,0,0,13,7,0
+0,Harrison,St John Twp,SJ,10,4,8,42,0,0,0,10,1,0
+0,Harrison,Woodbine City,WB,9,3,21,15,0,0,0,15,5,0
+0,Henry,Central Precinct,C,20,7,19,34,0,0,0,31,13,0
+0,Henry,Mt Pleasant I,MP1,19,2,2,34,0,0,0,15,4,0
+0,Henry,Mt Pleasant II,MP2,15,1,3,18,0,0,0,22,3,0
+0,Henry,Mt Pleasant III,MP3,15,4,7,19,0,0,0,12,3,0
+0,Henry,Mt Pleasant Pct IV,MP4,19,3,18,19,0,0,0,20,3,0
+0,Henry,Northeast Precinct,NE,10,3,11,24,0,0,0,17,1,0
+0,Henry,Northwest Precinct,NW,23,11,9,27,0,0,0,26,8,0
+0,Henry,Southeast Precinct,SE,17,8,14,35,0,0,0,22,19,0
+0,Henry,Southwest Precinct,SW,9,4,14,17,0,0,0,5,1,0
+0,Howard,Afton Howard Paris II,AF,9,19,0,10,0,0,0,13,1,0
+0,Howard,Albion Forest City,AL,5,1,3,15,0,0,0,4,1,0
+0,Howard,Chester Oak Dale,CH,0,4,0,4,0,0,0,0,0,0
+0,Howard,Cresco 1A,CR1A,1,0,0,2,0,0,0,1,0,0
+0,Howard,Cresco 2,CR2,9,5,9,21,0,0,0,12,1,0
+0,Howard,Cresco 3,CR3,2,6,3,13,0,0,0,5,2,0
+0,Howard,Jamestown Saratoga Howard Ctr,JT,3,2,5,13,0,0,0,5,4,0
+0,Howard,New Oregon Paris I,NO,4,1,3,15,0,0,0,4,3,0
+0,Howard,Riceville,RC,0,1,0,4,0,0,0,1,0,0
+0,Howard,Vernon Springs Cresco 1B,CR1B,1,0,3,11,0,0,0,6,4,0
+0,Humboldt,Avery Weaver Pct,AW,5,1,0,8,0,0,0,1,1,0
+0,Humboldt,Corinth Rutland Sw Beaver,CR,12,3,8,14,0,0,0,8,7,0
+0,Humboldt,Dakota City Pct,DC,9,0,0,16,0,0,0,4,1,0
+0,Humboldt,Delana Wacousta No Avery,DW,11,2,5,10,0,0,0,4,4,0
+0,Humboldt,Grove Lake Norway Ne Beaver,GL,6,9,3,26,0,0,0,3,11,0
+0,Humboldt,Humboldt Pct 1,HU1,22,2,4,30,0,0,0,16,8,0
+0,Humboldt,Humboldt Pct 2,HU2,6,8,7,20,0,0,0,9,8,0
+0,Humboldt,Humboldt Pct 3,HU3,3,1,4,8,0,0,0,12,0,0
+0,Humboldt,Humboldt Pct 4,HU4,2,7,6,14,0,0,0,3,6,0
+0,Humboldt,Humboldt Pct 5,HU5,0,2,0,2,0,0,0,2,3,0
+0,Humboldt,Vernon Humboldt Pct,VH,2,1,2,12,0,0,0,2,0,0
+0,Ida,Blaine Hayes S1/2 Silver Creek,BL,5,1,4,11,0,0,0,1,13,0
+0,Ida,Galva N1/2 Silver Creek,GV,5,2,4,7,0,0,0,7,5,0
+0,Ida,Griggs Douglas,GG,11,3,9,33,0,0,0,12,6,0
+0,Ida,Ida Grove 1,IG1,4,2,8,4,0,0,0,4,2,0
+0,Ida,Ida Grove 2,IG2,2,0,6,7,0,0,0,8,3,0
+0,Ida,Ida Grove 3 Corwin,IG3,4,0,3,13,0,0,0,3,3,0
+0,Ida,Maple Garfield Grant Battle Logan,MP,16,4,14,30,1,0,0,11,17,0
+0,Iowa,Dayton English 1,DA,8,3,4,14,0,0,0,5,10,0
+0,Iowa,English 2,EN,21,2,3,9,0,0,0,5,4,0
+0,Iowa,Fillmore Greene,FM,12,2,6,29,1,0,0,2,3,0
+0,Iowa,Hartford 1 Sumner,HS,5,2,0,1,0,0,0,5,7,0
+0,Iowa,Hartford 2 Lincoln,HL,9,7,9,12,0,0,0,4,4,0
+0,Iowa,Hilton Iowa,HT,9,4,4,24,0,0,0,6,1,0
+0,Iowa,Honey Creek Marengo Washington,HC,10,1,8,10,0,0,0,4,2,0
+0,Iowa,Lenox,LX,19,2,19,13,0,0,0,21,6,0
+0,Iowa,Marengo City,MR,22,4,6,17,0,0,0,19,4,0
+0,Iowa,Pilot Troy York,PI,21,18,12,41,0,0,0,23,3,0
+0,Iowa,Williamsburg City,WM,15,13,9,28,0,0,0,16,3,0
+0,Jackson,Pct 01,1,26,0,24,8,0,1,0,27,1,0
+0,Jackson,Pct 02,2,5,0,7,8,0,0,0,12,3,0
+0,Jackson,Pct 03,3,4,2,4,2,0,0,0,8,1,0
+0,Jackson,Pct 04,4,2,0,3,8,0,0,0,19,3,0
+0,Jackson,Pct 05,5,10,0,2,4,0,0,0,3,2,0
+0,Jackson,Pct 06,6,16,1,10,4,1,0,0,9,8,0
+0,Jackson,Pct 07,7,10,2,4,15,0,0,0,8,4,0
+0,Jackson,Pct 08,8,18,1,3,1,0,0,0,1,1,0
+0,Jackson,Pct 09,9,17,1,6,4,0,0,0,12,7,0
+0,Jackson,Pct 10,10,4,2,0,1,0,0,0,4,6,0
+0,Jackson,Pct 11,11,3,0,6,1,0,0,0,2,2,0
+0,Jackson,Pct 12,12,12,2,3,4,0,0,0,3,0,0
+0,Jackson,Pct 13,13,10,1,5,1,0,0,0,3,0,0
+0,Jackson,Pct 14,14,3,0,4,6,0,0,0,4,2,0
+0,Jackson,Pct 15,15,5,1,5,8,0,0,0,7,0,0
+0,Jackson,Pct 16,16,18,5,4,17,1,1,0,17,3,0
+0,Jasper,Buena Vista Elk Creek  Be,BE,14,9,8,40,0,0,0,6,10,0
+0,Jasper,Clearcreek Poweshiek  Cp,CP,20,8,11,33,0,0,0,15,17,0
+0,Jasper,Colfax 1,CF1,6,2,3,2,1,0,0,4,1,0
+0,Jasper,Colfax 2,CF2,0,0,1,1,0,1,0,3,7,0
+0,Jasper,Colfax 3,CF3,5,1,1,5,0,0,0,2,0,0
+0,Jasper,Des Moines  Dm,DM,22,2,5,37,0,0,0,23,28,0
+0,Jasper,Fairview Fv,FV,17,21,10,13,1,1,0,16,15,0
+0,Jasper,Hickory Grove Hr,HR,26,4,10,49,2,0,0,18,9,0
+0,Jasper,Independence Malaka  Im,IM,7,8,5,30,0,0,0,16,8,0
+0,Jasper,Lynn Grove Richland  Lr,LR,42,7,8,116,0,0,0,18,6,0
+0,Jasper,Mound Prairie Washington  Mw,MW,7,9,13,17,0,0,0,5,2,0
+0,Jasper,Newton 1-1,NT11,16,4,4,17,1,0,0,10,7,0
+0,Jasper,Newton 1-2,NT12,8,4,7,9,0,0,0,14,2,0
+0,Jasper,Newton 2-1,NT21,3,4,4,16,0,0,0,14,6,0
+0,Jasper,Newton 2-2,NT22,16,6,6,16,0,1,0,23,7,0
+0,Jasper,Newton 3-1,NT31,8,4,13,37,0,0,0,13,6,0
+0,Jasper,Newton 3-2,NT32,5,1,2,14,0,0,0,11,6,0
+0,Jasper,Newton 4-1,NT41,29,8,39,48,2,0,0,31,4,0
+0,Jasper,Newton 4-2,NT42,11,7,5,11,0,0,0,10,2,0
+0,Jasper,Newton Sherman  Ns,NS,23,8,10,46,1,0,0,26,11,0
+0,Jasper,Palo Alto  Pa,PA,15,5,6,20,0,1,0,7,8,0
+0,Jefferson,Blackhawk Polk,BH,7,5,8,17,1,0,0,6,6,0
+0,Jefferson,Buchanan,BU,19,3,3,5,0,0,0,10,5,0
+0,Jefferson,Center Cedar,CT,48,6,7,39,1,0,0,9,7,0
+0,Jefferson,Des Moines Liberty,DM,6,1,11,5,0,0,0,9,8,0
+0,Jefferson,Fairfield 1,FF1,73,0,16,16,2,0,0,22,2,0
+0,Jefferson,Fairfield 2,FF2,82,1,3,1,1,0,0,5,2,0
+0,Jefferson,Fairfield 3,FF3,41,3,3,8,0,0,0,6,1,0
+0,Jefferson,Fairfield 4,FF4,64,0,2,6,1,0,0,12,3,0
+0,Jefferson,Fairfield 5,FF5,37,4,4,18,0,0,0,14,1,0
+0,Jefferson,Lockridge Round Prairie,LR,13,2,12,16,0,0,0,6,8,0
+0,Jefferson,Locust Grove,LG,2,0,14,12,0,0,0,0,1,0
+0,Jefferson,Walnut Penn,WL,16,7,5,13,1,0,0,2,4,0
+0,Johnson,Big Grove,BG,16,3,9,29,0,0,0,36,17,0
+0,Johnson,Cedar,CE,10,3,2,5,0,0,0,9,2,0
+0,Johnson,Clear Creek,CC,0,1,5,1,0,0,0,4,0,0
+0,Johnson,Coralville 01,CV.01,36,0,1,8,1,0,0,21,1,0
+0,Johnson,Coralville 02,CV.02,52,0,9,29,0,0,0,45,13,0
+0,Johnson,Coralville 03,CV.03,1,3,3,4,0,0,0,8,3,0
+0,Johnson,Coralville 04,CV.04,34,5,2,8,1,0,0,13,9,0
+0,Johnson,Coralville 05,CV.05,35,3,5,15,0,2,0,24,3,0
+0,Johnson,Coralville 06,CV.06,45,7,38,52,6,0,0,151,12,0
+0,Johnson,Fremont,FR,7,5,3,7,1,0,0,7,0,0
+0,Johnson,Graham,GR,8,1,2,5,0,0,0,8,0,0
+0,Johnson,Hardin,HD,8,1,1,1,0,0,0,9,6,0
+0,Johnson,Iowa City 01,IC.01,23,1,7,5,2,0,0,19,4,0
+0,Johnson,Iowa City 02,IC.02,43,1,13,11,3,0,0,62,7,0
+0,Johnson,Iowa City 03,IC.03,24,0,6,1,3,1,0,7,1,0
+0,Johnson,Iowa City 04,IC.04,40,0,5,7,3,1,0,39,0,1
+0,Johnson,Iowa City 05,IC.05,9,0,3,1,0,0,0,2,0,0
+0,Johnson,Iowa City 06,IC.06,22,0,5,11,0,0,0,50,5,0
+0,Johnson,Iowa City 07,IC.07,7,0,7,4,0,0,0,24,0,0
+0,Johnson,Iowa City 08,IC.08,63,10,23,26,1,4,0,98,8,0
+0,Johnson,Iowa City 09,IC.09,13,3,7,8,0,0,0,36,4,0
+0,Johnson,Iowa City 10,IC.10,33,0,1,4,2,0,0,17,0,0
+0,Johnson,Iowa City 11,IC.11,10,0,2,1,0,0,0,8,1,0
+0,Johnson,Iowa City 12,IC.12,28,2,10,7,1,1,1,20,11,0
+0,Johnson,Iowa City 13,IC.13,20,1,2,7,0,0,0,15,5,0
+0,Johnson,Iowa City 14,IC.14,21,6,6,8,0,0,0,19,2,0
+0,Johnson,Iowa City 15,IC.15,33,3,4,8,0,1,0,9,4,0
+0,Johnson,Iowa City 16,IC.16,49,2,10,28,2,0,0,62,10,0
+0,Johnson,Iowa City 17,IC.17,23,7,15,5,3,0,0,38,4,0
+0,Johnson,Iowa City 18,IC.18,35,0,4,8,1,0,0,21,5,0
+0,Johnson,Iowa City 19,IC.19,34,0,1,2,2,0,0,6,1,0
+0,Johnson,Iowa City 20,IC.20,40,0,2,1,0,0,0,10,0,0
+0,Johnson,Iowa City 21,IC.21,31,1,7,3,5,1,0,6,0,0
+0,Johnson,Iowa City 22,IC.22,36,2,17,10,2,0,1,32,4,0
+0,Johnson,Iowa City 23,IC.23,22,5,7,14,1,0,0,58,2,0
+0,Johnson,Iowa City 24,IC.24,47,3,8,13,1,0,0,39,1,1
+0,Johnson,Iowa City 25,IC.25,30,1,8,29,0,0,1,61,9,0
+0,Johnson,Jefferson East,JE,35,3,26,23,1,0,0,37,4,0
+0,Johnson,Jefferson West,JW,10,3,12,22,0,0,0,42,7,0
+0,Johnson,Liberty,LB,22,2,4,8,0,0,0,9,5,0
+0,Johnson,Lincoln,LN,3,0,1,2,1,0,0,2,0,0
+0,Johnson,Madison,MD,7,0,5,0,0,0,0,12,8,0
+0,Johnson,Monroe,MN,5,2,11,5,0,0,0,18,4,0
+0,Johnson,Newport,NP,34,3,16,22,0,0,0,53,1,0
+0,Johnson,North Liberty 01,NL.01,68,6,25,40,3,0,0,66,8,0
+0,Johnson,North Liberty 02,NL.02,94,4,25,65,0,0,0,75,12,0
+0,Johnson,Oxford,OX,21,1,4,10,0,0,0,7,3,0
+0,Johnson,Penn,PN,41,5,22,25,4,1,0,80,15,0
+0,Johnson,Pleasant Valley,PV,4,1,0,3,0,0,0,0,4,0
+0,Johnson,Scott,SC,9,1,6,8,1,0,0,7,1,0
+0,Johnson,Sharon,SN,6,1,0,16,0,0,0,18,5,0
+0,Johnson,Solon,SO,20,1,10,16,0,0,0,8,5,0
+0,Johnson,Tiffin,TF,17,0,17,12,0,0,0,12,0,0
+0,Johnson,Union,UN,9,0,1,16,0,0,0,13,2,0
+0,Johnson,University Heights,UH,19,0,8,12,1,0,0,35,0,0
+0,Johnson,Washington,WS,27,6,7,19,0,0,0,3,8,0
+0,Johnson,West Lucas,WL,7,2,4,6,0,0,0,13,1,0
+0,Jones,Anamosa 1 Cass,AN1,19,2,3,22,0,0,0,11,6,0
+0,Jones,Anamosa 2 Fairview Jackson,AN2,21,9,3,30,0,0,0,33,11,0
+0,Jones,Anamosa 3,AN3,5,3,2,6,0,0,0,5,3,0
+0,Jones,Anamosa 4 Rural,AN4,16,0,3,11,1,0,0,18,3,0
+0,Jones,Castle Grove Lovell,CGLV,5,1,6,19,0,0,0,24,19,0
+0,Jones,Center Junction Madison,CJMD,4,3,3,5,0,0,0,2,0,0
+0,Jones,Greenfield,GF,5,1,4,21,0,0,0,14,4,1
+0,Jones,Monticello 1,MN1,8,0,0,8,0,0,0,12,8,0
+0,Jones,Monticello 2,MN2,6,5,2,17,0,0,0,6,3,0
+0,Jones,Monticello 3,MN3,3,2,1,1,0,0,0,3,1,0
+0,Jones,Monticello 4,MN4,7,0,3,6,0,0,0,13,2,0
+0,Jones,Onslow Clay,ONCL,10,0,0,0,0,0,0,7,6,0
+0,Jones,Oxford,OX,6,1,3,2,0,0,0,7,2,0
+0,Jones,Richland Washington,RLWS,16,2,5,17,0,0,0,19,4,0
+0,Jones,Rome Hale,ROHA,8,7,2,7,0,0,0,4,1,0
+0,Jones,Wayne Scotch Grove,WASG,17,8,11,5,0,0,0,17,1,0
+0,Jones,Wyoming,WY,11,4,1,3,0,0,0,5,2,0
+0,Keokuk,Adams,AD,10,0,5,4,0,0,0,8,2,0
+0,Keokuk,Benton Steady Run,BN,8,4,8,19,0,0,0,0,2,0
+0,Keokuk,East Lafayette,ELF,3,0,10,7,0,0,0,11,2,0
+0,Keokuk,East West Lancaster,LC,3,2,0,3,0,0,0,0,2,0
+0,Keokuk,English River Liberty,ER,9,3,0,9,0,0,0,6,3,0
+0,Keokuk,Jackson,JA,3,4,1,8,0,0,0,1,2,0
+0,Keokuk,Lafayette Clear Creek,WLF,4,3,3,2,0,0,0,4,2,0
+0,Keokuk,Prairie,PR,7,0,2,0,0,0,0,0,4,0
+0,Keokuk,Richland,RL,21,7,4,16,0,0,0,9,12,0
+0,Keokuk,Sigourney 1,SG1,2,1,1,6,0,0,0,9,1,1
+0,Keokuk,Sigourney 2,SG2,2,0,4,6,0,0,0,4,4,0
+0,Keokuk,Sigourney 3,SG3,1,2,3,1,0,0,0,6,1,0
+0,Keokuk,Sigourney 4,SG4,2,2,4,4,0,0,0,12,4,0
+0,Keokuk,Sigourney Plank Van Buren,SGR,9,3,6,12,0,0,0,7,3,0
+0,Keokuk,Warren,WN,2,5,2,4,0,0,0,0,2,0
+0,Keokuk,What Cheer Washington,WC,3,1,7,3,0,0,0,3,1,0
+0,Kossuth,Algona 1 Cresco,AL1,10,4,6,30,0,0,0,12,10,0
+0,Kossuth,Algona 2,AL2,8,5,9,16,2,0,0,11,6,0
+0,Kossuth,Algona 3,AL3,9,3,8,14,0,0,0,1,9,0
+0,Kossuth,Algona 4 Cresco,AL4,10,4,12,14,0,0,0,12,7,0
+0,Kossuth,Bancroft Ramsey,BN,4,4,5,9,0,0,0,2,1,0
+0,Kossuth,Buffalo German Wesley 5,BF,10,1,6,22,0,0,0,3,3,0
+0,Kossuth,Burt,BT,2,3,6,7,0,0,0,0,2,0
+0,Kossuth,Cresco,CR,0,0,5,3,0,0,0,2,0,0
+0,Kossuth,Eagle Grant Harrison Swea,EG,3,6,7,23,0,0,0,6,8,0
+0,Kossuth,Fenton 1 Seneca,FS,4,6,0,4,0,0,0,3,1,0
+0,Kossuth,Fenton 2,FT,1,0,2,0,0,0,0,1,0,0
+0,Kossuth,Garfield Riverdale,GF,5,0,4,4,0,0,0,1,3,0
+0,Kossuth,Greenwood,GW,1,0,0,3,0,0,0,2,0,0
+0,Kossuth,Hebron Ledyard 1 Lincoln,HB,2,3,2,4,0,0,0,9,4,0
+0,Kossuth,Irvington Prairie,IV,6,0,12,3,0,0,0,5,1,0
+0,Kossuth,Lotts Creek,LC,0,1,1,7,0,0,0,2,0,0
+0,Kossuth,Luverne Sherman,LV,0,0,4,0,0,0,0,11,2,0
+0,Kossuth,Plum Creek Union,PC,6,1,2,7,1,0,0,11,0,0
+0,Kossuth,Portland,PT,0,0,0,0,0,0,0,0,0,0
+0,Kossuth,Springfield Ledyard 2,SF,0,1,2,6,0,0,0,0,1,0
+0,Kossuth,Wesley,WL,5,0,2,11,0,0,0,0,0,0
+0,Kossuth,Whittemore,WM,3,0,3,5,0,0,0,1,2,0
+0,Lee,Charleston Van Buren Des Moines,CH VB,11,1,6,11,0,0,0,0,1,0
+0,Lee,FM 1,FM1,24,0,15,18,0,0,0,9,3,0
+0,Lee,FM 2,FM2,17,2,6,13,1,0,0,5,2,0
+0,Lee,FM 3,FM3,9,0,8,16,0,0,0,7,0,0
+0,Lee,FM 4A,FM4A,0,0,0,0,0,0,0,0,0,0
+0,Lee,FM4B,FM4B,0,0,0,0,0,0,0,0,0,0
+0,Lee,FM5/Madison Twp,FM5,5,0,7,0,0,0,0,13,1,0
+0,Lee,Franklin Cedar Marion,FR CE,0,0,0,0,0,0,0,0,0,0
+0,Lee,Harrison,HR,3,0,2,3,0,0,0,0,0,0
+0,Lee,Jackson,JK,10,3,14,16,0,0,0,15,7,0
+0,Lee,Jefferson,JF,2,0,4,6,0,0,0,14,3,0
+0,Lee,KE1,KE1,12,1,6,4,0,0,0,8,0,0
+0,Lee,KE2A,KE2A,7,0,1,0,0,0,0,3,1,0
+0,Lee,KE2B,KE2B,0,0,0,0,0,0,0,0,0,0
+0,Lee,KE3,KE3,10,1,4,2,1,0,0,12,2,0
+0,Lee,KE4,KE4,5,0,5,3,0,0,0,4,2,0
+0,Lee,KE5,KE5,10,1,7,6,0,3,0,6,3,0
+0,Lee,KE6,KE6,7,0,2,2,0,0,0,3,0,0
+0,Lee,KE7,KE7,12,2,15,6,1,0,0,13,6,0
+0,Lee,Montrose,MO,20,1,5,7,0,2,0,12,3,0
+0,Lee,Pleasant Ridge West Point,WP PR,13,0,6,7,0,0,0,11,3,1
+0,Lee,Washington Green Bay Denmark,WS,0,0,0,0,0,0,0,0,0,0
+0,Linn,01 Cr,1,7,1,9,10,0,0,0,6,5,0
+0,Linn,02 Cr,2,34,0,5,15,0,0,0,15,11,0
+0,Linn,03 Cr,3,22,4,4,8,0,0,0,16,10,0
+0,Linn,04 Cr,4,13,6,3,7,0,0,0,3,2,0
+0,Linn,05 Cr,5,3,0,0,0,0,0,0,0,0,0
+0,Linn,06 Cr,6,7,0,0,2,1,0,0,4,1,0
+0,Linn,07 Cr,7,19,1,1,5,0,0,0,2,16,0
+0,Linn,08 Cr,8,23,1,10,14,1,0,0,19,10,0
+0,Linn,09 Cr,9,43,11,19,27,0,0,0,27,6,0
+0,Linn,10 Cr,10,30,7,20,19,0,0,0,20,8,0
+0,Linn,11 Cr,11,21,2,6,26,0,0,0,15,12,0
+0,Linn,12 Cr,12,36,7,18,46,2,0,0,60,27,0
+0,Linn,13 Cr,13,21,3,3,14,0,0,0,9,2,0
+0,Linn,14 Cr,14,17,3,11,8,1,0,0,9,5,0
+0,Linn,15 Cr,15,26,1,19,21,0,0,0,16,8,0
+0,Linn,16 Cr,16,15,8,10,10,0,0,0,33,0,0
+0,Linn,17 Cr,17,44,10,22,33,0,1,0,44,8,0
+0,Linn,18 Cr,18,30,3,16,13,3,0,0,41,20,0
+0,Linn,19 Cr,19,3,1,2,5,0,0,0,2,5,0
+0,Linn,20 Cr,20,20,1,3,15,0,0,0,20,11,0
+0,Linn,21 Cr,21,29,1,8,18,0,0,0,7,4,0
+0,Linn,22 Cr,22,15,4,2,3,0,0,0,4,1,0
+0,Linn,23 Cr,23,73,11,58,47,0,0,0,162,29,0
+0,Linn,24 Cr,24,29,7,25,39,2,1,0,84,12,0
+0,Linn,25 Cr,25,30,5,14,20,1,0,0,24,22,0
+0,Linn,26 Cr,26,28,1,10,27,0,0,0,20,1,0
+0,Linn,27 Cr,27,21,9,11,11,0,0,0,20,10,0
+0,Linn,28 Cr,28,27,2,6,18,1,0,0,19,7,0
+0,Linn,29 Cr,29,32,14,19,17,4,0,0,41,18,0
+0,Linn,30 Cr,30,40,1,14,38,4,0,0,79,18,0
+0,Linn,31 Cr,31,29,3,19,41,2,0,0,71,19,0
+0,Linn,32 Cr,32,32,11,21,15,1,0,0,21,5,0
+0,Linn,33 Cr,33,18,7,7,11,1,0,0,29,5,0
+0,Linn,34 Cr,34,12,0,2,2,0,0,0,5,2,0
+0,Linn,35 Cr,35,28,2,2,20,0,0,1,17,2,0
+0,Linn,36 Cr,36,11,0,5,4,0,0,0,7,0,0
+0,Linn,37 Cr,37,2,0,8,10,2,0,0,6,5,0
+0,Linn,38 Cr,38,23,9,5,11,1,0,0,7,0,0
+0,Linn,39 Cr,39,38,3,10,8,3,0,0,20,5,0
+0,Linn,40 Cr,40,34,7,22,7,0,0,0,39,3,0
+0,Linn,41 Cr,41,29,8,31,27,2,0,0,116,17,0
+0,Linn,42 Cr,42,46,1,16,19,3,0,0,74,9,0
+0,Linn,43 Cr,43,8,6,0,9,1,0,0,13,5,0
+0,Linn,44 Cr,44,32,2,10,18,2,0,0,47,0,0
+0,Linn,45 Cr,45,41,1,22,48,7,0,0,80,12,0
+0,Linn,46 Cr,46,27,9,6,16,0,0,0,27,9,0
+0,Linn,47 Cr,47,25,2,11,34,1,0,0,54,15,0
+0,Linn,Bertram Twp,BT,45,10,33,34,0,0,0,59,5,0
+0,Linn,Boulder Twp,BO,14,0,0,9,0,0,0,4,13,0
+0,Linn,Brown Twp,BR,32,7,18,31,0,0,0,13,18,0
+0,Linn,Buffalo Twp,BF,2,3,2,7,0,0,0,5,5,0
+0,Linn,Central City,CC,17,2,5,3,0,0,0,4,0,0
+0,Linn,Clinton Twp,CL,14,4,9,10,0,0,0,13,1,0
+0,Linn,College Twp,CG,10,1,7,8,0,2,0,3,1,0
+0,Linn,Fairfax Twp,FF,42,13,34,32,0,0,0,43,14,0
+0,Linn,Fayette Twp,FY,2,1,2,15,0,0,0,6,3,0
+0,Linn,Fr Twp - Lisbon Pct,LS,14,3,14,31,1,0,0,20,7,0
+0,Linn,Grant Twp,GR,5,3,1,18,0,0,0,7,5,0
+0,Linn,Hiawatha Pct 1,HW1,23,7,6,25,1,0,0,5,7,0
+0,Linn,Hiawatha Pct 2,HW2,35,20,32,45,1,0,0,56,12,0
+0,Linn,Jackson Twp,JA,14,3,4,21,0,0,0,13,8,0
+0,Linn,Linn Twp,LN,14,0,1,10,0,0,0,30,6,0
+0,Linn,Maine Twp,MA,9,2,2,3,0,0,0,3,10,0
+0,Linn,Mn Twp; Pct 1,MN1,23,6,32,63,0,0,0,88,15,0
+0,Linn,Mn Twp; Pct 2,MN2,21,7,22,15,1,0,0,36,5,0
+0,Linn,Mn Twp; Robins Pct,RB,47,3,25,68,1,0,0,67,31,0
+0,Linn,Mr Twp; Squaw Crk Pct,SQ,21,1,9,3,2,0,0,57,3,0
+0,Linn,Mr Twp-Linn-Mar Pct,LM,40,14,22,30,0,0,0,53,21,0
+0,Linn,Mr Ward 1; Pct 1,M1-1,10,4,4,18,0,0,0,8,4,0
+0,Linn,Mr Ward 1; Pct 2,M1-2,20,14,3,20,0,1,0,20,9,0
+0,Linn,Mr Ward 1; Pct 3,M1-3,21,2,7,9,0,0,0,7,7,0
+0,Linn,Mr Ward 2; Pct 1,M2-1,20,6,6,41,1,0,0,29,5,0
+0,Linn,Mr Ward 2; Pct 2,M2-2,49,8,19,37,2,0,0,70,20,0
+0,Linn,Mr Ward 2; Pct 3,M2-3,45,12,27,39,1,0,0,71,18,0
+0,Linn,Mr Ward 3; Pct 1,M3-1,16,2,5,10,0,0,0,11,5,0
+0,Linn,Mr Ward 3; Pct 2,M3-2,39,9,15,33,0,0,0,23,9,0
+0,Linn,Mr Ward 3; Pct 3,M3-3,9,2,5,18,0,0,0,8,3,0
+0,Linn,Mr Ward 4; Pct 1,M4-1,29,5,24,56,1,0,0,47,17,0
+0,Linn,Mr Ward 4; Pct 2,M4-2,24,11,20,63,2,0,0,40,18,0
+0,Linn,Mr Ward 4; Pct 3,M4-3,39,5,11,33,2,0,0,43,19,0
+0,Linn,Mt Vernon North,MVN,23,5,5,13,1,0,0,16,6,0
+0,Linn,Mt Vernon South,MVS,18,9,7,22,0,0,0,29,10,0
+0,Linn,Otter Crk Twp,OC,18,4,5,30,0,0,0,8,16,0
+0,Linn,Putnam Twp,PN,27,4,12,14,0,0,0,18,5,0
+0,Linn,Spring Grove Twp,SG,11,0,8,3,0,0,0,8,3,0
+0,Linn,Washington Twp,WS,34,3,9,42,1,0,0,35,20,0
+0,Louisa,Columbus Jct City,CJ,3,0,7,7,0,0,0,9,2,0
+0,Louisa,Concord Oakland,CN,4,1,9,5,0,0,0,2,0,0
+0,Louisa,Eliot,EL,4,1,3,5,0,0,0,1,0,0
+0,Louisa,Grandview North Port,GV,18,0,16,10,0,0,0,8,3,0
+0,Louisa,Morningsun Marshall,MS,15,3,10,11,0,0,0,10,14,0
+0,Louisa,Wapello City,WP,15,1,5,30,0,0,0,20,2,0
+0,Louisa,Wapello Jefferson and South in Wapello Port Louisa twps.,WPJ,7,5,5,12,0,0,0,6,19,0
+0,Louisa,West Louisa Lodge,WL,21,5,18,7,0,0,0,11,1,0
+0,Lucas,Chariton Ward #1,C1,1,2,5,11,0,0,0,8,9,0
+0,Lucas,Chariton Ward #2,C2,3,3,0,15,0,0,0,11,11,0
+0,Lucas,Chariton Ward #3,C3,6,4,4,18,0,0,0,22,17,0
+0,Lucas,Derby Precinct,DB,4,1,2,12,0,0,0,3,4,0
+0,Lucas,Extension Precinct,EX,12,1,5,19,1,0,0,14,21,0
+0,Lucas,Lucas Precinct,LC,1,4,2,4,0,0,0,3,14,0
+0,Lucas,Russell Precinct,RS,7,3,9,20,0,0,0,10,6,0
+0,Lucas,Williamson Precinct,WM,14,4,2,21,0,0,0,9,13,0
+0,Lyon,Pct 1 George,P1,8,2,9,40,1,0,0,3,13,0
+0,Lyon,Pct 2 Doon,P2,3,1,6,52,0,0,0,3,23,0
+0,Lyon,Pct 3 Inwood,P3,5,6,0,30,0,0,0,6,2,0
+0,Lyon,Pct 4 Larchwood,P4,8,0,3,25,0,0,0,0,0,0
+0,Lyon,Pct 5 Lester,P5,6,8,3,52,0,0,0,8,4,0
+0,Lyon,Pct 6 Little Rock,P6,2,0,0,16,0,0,0,0,0,0
+0,Lyon,Pct 7 Rock Rapids,P7,17,4,8,43,0,0,0,3,6,0
+0,Lyon,Pct 8 Rock Rapids,P8,8,2,13,71,0,0,0,13,4,0
+0,Madison,Precinct Gm (Grand River-Monroe),GM,2,5,5,1,0,0,0,8,5,0
+0,Madison,Precinct Jd (Jackson-Douglas),JD,15,8,10,8,1,0,0,8,13,0
+0,Madison,Precinct Jl (Jefferson Lee),JL,20,8,15,52,0,0,1,15,15,0
+0,Madison,Precinct Pm (Penn Madison),PM,35,7,29,30,2,0,0,33,23,0
+0,Madison,Precinct Ss (Scott-South),SS,36,9,15,37,0,0,0,16,16,1
+0,Madison,Precinct Uc  (Union-Crawford),UC,19,7,8,16,0,0,0,10,6,0
+0,Madison,Precinct WL  (Webster-Lincoln),WL,11,1,6,10,0,0,0,5,10,0
+0,Madison,Precinct Wo  (Walnut-Ohio),WO,22,0,17,8,1,0,0,12,21,0
+0,Madison,Precinct Wt1 (Winterset I North),WT1,26,3,17,22,1,0,0,32,25,0
+0,Madison,Precinct Wt2 (Winterset II South),WT2,35,6,22,39,0,0,0,31,20,0
+0,Mahaska,Adams -  Monroe - Pleasant Grove - Union,AD,20,7,4,38,0,0,0,9,6,0
+0,Mahaska,Black Oak Scott,BO,16,13,35,73,0,0,0,9,31,0
+0,Mahaska,Cedar - White Oak,CE,20,20,5,17,0,0,0,8,16,0
+0,Mahaska,E & W Des Moines-Harrison-Jefferson,ED,20,12,4,36,0,0,0,5,15,0
+0,Mahaska,Garfield-Lincoln-Madison,GF,23,14,14,48,0,0,0,11,35,0
+0,Mahaska,Oskaloosa Ward 1,OS1,16,6,11,25,0,0,0,9,11,0
+0,Mahaska,Oskaloosa Ward 2,OS2,27,22,9,31,0,0,0,16,18,0
+0,Mahaska,Oskaloosa Ward 3,OS3,23,18,19,35,0,0,0,25,24,0
+0,Mahaska,Oskaloosa Ward 4,OS4,31,7,15,57,2,0,0,40,27,0
+0,Mahaska,Prairie - Richland,PR,23,5,37,83,0,0,0,12,6,0
+0,Mahaska,Spring Creek - University Park,SP,22,14,17,52,0,0,0,15,20,0
+0,Marion,Clay Township,CL,18,0,3,11,0,0,0,3,17,0
+0,Marion,Dallas,DA,7,2,3,6,0,0,0,1,8,0
+0,Marion,Indiana,IN,11,3,3,14,0,0,0,2,9,0
+0,Marion,Knoxville City Ward 1,KX1,20,1,8,16,0,0,0,7,8,0
+0,Marion,Knoxville City Ward 2,KX2,11,5,4,15,0,1,0,7,13,0
+0,Marion,Knoxville City Ward 3,KX3,13,4,7,16,0,1,0,3,17,0
+0,Marion,Knoxville City Ward 4,KX4,4,2,5,16,0,0,0,12,3,0
+0,Marion,Knoxville Twp,KXT,30,6,20,28,0,1,0,19,36,0
+0,Marion,Lake Prairie,LP,27,21,30,87,1,0,0,22,33,0
+0,Marion,Liberty,LB,1,2,2,15,0,0,0,2,9,0
+0,Marion,Otley,OTLEY,32,15,13,56,0,0,0,14,31,0
+0,Marion,Pella City Ward 1,PE1,45,14,15,60,2,0,0,24,20,0
+0,Marion,Pella City Ward 2,PE2,39,10,10,86,0,0,0,19,26,0
+0,Marion,Pella City Ward 3,PE3,34,15,13,86,1,0,0,34,40,0
+0,Marion,Pella City Ward 4,PE4,12,11,12,37,1,1,0,37,20,0
+0,Marion,Pleasantville,PVLLE,14,5,11,15,0,0,0,21,35,0
+0,Marion,Washington,WS,8,1,0,3,0,0,0,1,8,0
+0,Marshall,1-1 VFW POST 839,10,6,1,1,4,0,0,0,1,0,0
+0,Marshall,1-2 VFW POST 839,11,10,4,2,6,1,0,0,5,7,0
+0,Marshall,2-1 Miller Middle School,12,13,8,27,25,0,0,0,32,20,0
+0,Marshall,2-2 Miller Middle School,13,47,7,26,21,2,0,0,33,22,0
+0,Marshall,3-1 FISHER COMMUNITY CENTER,14,31,2,62,23,2,0,0,59,22,0
+0,Marshall,3-2 FISHER COMMUNITY CENTER,15,15,13,29,47,0,0,0,45,22,0
+0,Marshall,4-1 FIRST BAPTIST CHURCH,16,15,4,5,19,0,0,0,17,11,0
+0,Marshall,4-2 FIRST BAPTIST CHRUCH,17,21,5,34,43,1,0,0,55,13,0
+0,Marshall,Bangor Liberty Minerva,1,26,2,12,11,1,0,0,10,12,0
+0,Marshall,Eden Logan,2,17,4,17,17,0,0,0,18,19,0
+0,Marshall,Green Castle,3,8,7,8,10,0,0,0,6,7,0
+0,Marshall,Iowa Taylor,4,13,4,7,19,0,0,0,17,9,0
+0,Marshall,Jefferson,5,7,2,8,10,0,0,0,3,1,0
+0,Marshall,Legrand,6,14,9,4,14,0,0,0,3,14,0
+0,Marshall,Liscomb,7,6,3,10,10,0,0,0,2,4,0
+0,Marshall,Marietta Washington,8,11,3,13,12,0,0,1,16,16,0
+0,Marshall,Marion Vienna,9,17,7,15,24,0,0,0,17,14,0
+0,Marshall,State Center,18,24,5,6,35,0,0,0,14,12,0
+0,Marshall,Timber Creek,19,14,5,10,23,0,0,0,12,10,0
+0,Mills,Deer Creek White Cloud,DR,5,4,0,5,0,0,0,2,4,0
+0,Mills,Emerson Hastings Ind Crk Twp,EM,2,1,3,7,0,0,0,5,2,0
+0,Mills,Glenwood 1,GW1,7,1,3,5,0,0,0,2,0,0
+0,Mills,Glenwood 2,GW2,2,2,5,14,0,0,0,3,0,0
+0,Mills,Glenwood 3,GW3,8,2,8,15,0,0,0,14,1,0
+0,Mills,Glenwood Twp,GWR,11,8,12,5,0,0,0,23,15,0
+0,Mills,Henderson Anderson Twp,HN,0,0,8,1,0,0,0,7,4,0
+0,Mills,Malvern Tabor Sil/Cen/Raw,MV,11,6,12,28,0,0,0,38,5,0
+0,Mills,Oak Saint Mary Twp,OK,28,4,21,66,2,1,0,29,9,1
+0,Mills,Pacific Junction Ly/Platt,PJ,5,1,2,4,0,0,0,4,3,0
+0,Mills,Silver City Ingraham Twp,SV,5,0,5,12,0,0,0,5,1,0
+0,Mitchell,Burr Oak Liberty,BO,2,0,0,0,0,0,0,2,3,0
+0,Mitchell,Cedar,CE,7,0,12,2,3,0,0,5,3,1
+0,Mitchell,Cedar Twp West Lincoln,OSWL,0,0,3,1,0,0,0,0,0,0
+0,Mitchell,Douglas East Lincoln,DG,4,1,4,3,0,0,0,3,0,0
+0,Mitchell,Jenkins Riceville City,JK,3,0,9,8,0,0,0,5,0,0
+0,Mitchell,Osage Pct 1,OS1,12,0,11,1,0,0,0,4,2,0
+0,Mitchell,Osage Pct 2,OS2,7,1,5,1,0,0,0,1,0,0
+0,Mitchell,Osage Pct 3,OS3,4,5,5,4,0,0,0,2,3,0
+0,Mitchell,Osage Pct 4,OS4,6,0,1,5,0,0,0,7,0,0
+0,Mitchell,Otranto Newburg Carpenter City,OT,13,0,2,10,0,0,0,1,0,0
+0,Mitchell,Rock Mitchell Osage,MT,5,3,13,4,0,0,0,3,1,0
+0,Mitchell,St Ansgar Union,SA,21,5,20,24,0,0,0,10,4,0
+0,Mitchell,Stacyville,SV,12,0,0,2,0,0,0,0,0,0
+0,Mitchell,Wayne Mcintire City,MC,0,1,1,3,0,0,0,1,1,0
+0,Monona,Ashton Lincoln Belvidere Kennebec Turin,AS01,0,0,2,5,0,0,0,12,0,0
+0,Monona,Castana Center Jordan,CN02,4,1,0,5,0,0,0,0,13,0
+0,Monona,Cooper Maple Mapleton,CP03,7,0,12,31,0,0,0,10,4,0
+0,Monona,Fairview Grant Lake Rodney Whiting West Fork,FV04,0,2,11,24,0,0,0,13,6,0
+0,Monona,Moorhead Soldier Soldier City Spring Valley Willow,SO11,3,1,8,7,0,0,0,13,1,0
+0,Monona,Nw Franklin Onawa Ward 1,ON105,1,0,3,3,0,0,0,13,1,0
+0,Monona,Onawa Ward 2,ON206,12,1,2,10,0,0,0,3,0,0
+0,Monona,Onawa Ward 3,ON307,11,0,4,15,0,0,0,5,7,0
+0,Monona,Onawa Ward 4,ON408,5,0,1,5,0,0,0,3,1,0
+0,Monona,Sherman Se Franklin Blencoe Sioux,SH10,0,0,2,5,0,0,0,12,0,0
+0,Monona,St Clair Ute,SC09,0,0,8,2,0,0,0,12,0,0
+0,Monroe,Precinct Al1,AL1,1,0,7,6,0,0,0,3,2,0
+0,Monroe,Precinct Al2,AL2,5,0,2,6,0,0,0,1,6,0
+0,Monroe,Precinct Al3,AL3,4,0,8,4,0,1,0,5,0,2
+0,Monroe,Precinct Al4,AL4,4,0,4,0,1,0,0,7,1,0
+0,Monroe,Precinct Courthouse(TR/MT/UR/MN/PL),CTHSE,12,9,9,32,0,0,0,8,26,0
+0,Monroe,Precinct Lovilia(CE/UN/BC/GL/LV),LOVILIA,14,5,13,21,0,0,0,3,5,0
+0,Monroe,Precinct Melrose(JK/WY/FR/ML),MELROSE,3,2,3,15,0,0,0,1,7,0
+0,Montgomery,Douglas Washington Twps  Grant,6,1,0,1,2,0,0,0,0,3,0
+0,Montgomery,Pilot Grove Frankfort Stanton,5,11,1,4,22,0,0,0,7,9,0
+0,Montgomery,Scott East Twp Villisca,7,4,3,4,6,0,0,0,18,8,0
+0,Montgomery,Ward 3 Ro Twp Wst Twp Grant,3,10,2,10,33,0,0,0,32,15,0
+0,Montgomery,Ward1 Grant Ro Twp Coburg,1,12,7,9,13,0,1,0,15,9,0
+0,Montgomery,Ward2 Ro West Grant Twp,2,3,7,5,13,0,0,0,8,11,0
+0,Montgomery,Wst Grfld Lncln Sher Elliott,4,11,0,6,17,0,0,0,15,1,0
+0,Muscatine,Bloomington/Lake,BLLA,15,2,32,39,3,0,0,51,23,0
+0,Muscatine,Cedar,CE,0,0,0,3,0,0,0,4,0,0
+0,Muscatine,Fruitland 1,F1,4,3,1,6,0,0,0,5,2,0
+0,Muscatine,Fruitland 2,F2,3,2,2,4,0,0,0,13,4,0
+0,Muscatine,Fulton,FU,5,0,3,4,0,0,0,4,3,0
+0,Muscatine,Goshen,GO,6,4,2,1,0,0,0,9,0,0
+0,Muscatine,Montpelier,MO,11,0,5,4,3,0,0,6,1,0
+0,Muscatine,Muscatine 1,MU01,19,3,16,15,0,0,0,49,20,0
+0,Muscatine,Muscatine 10,MU10,18,1,5,9,1,0,0,13,1,0
+0,Muscatine,Muscatine 2,MU02,16,4,3,12,2,0,0,19,8,0
+0,Muscatine,Muscatine 3,MU03,13,4,3,6,1,0,0,10,1,0
+0,Muscatine,Muscatine 4,MU04,5,0,5,5,0,0,0,16,6,0
+0,Muscatine,Muscatine 5,MU05,9,0,5,5,0,0,0,10,6,0
+0,Muscatine,Muscatine 6,MU06,14,1,19,26,2,0,0,52,6,0
+0,Muscatine,Muscatine 7,MU07,16,0,7,12,0,0,0,12,3,0
+0,Muscatine,Muscatine 8,MU08,4,3,8,4,0,0,0,4,1,1
+0,Muscatine,Muscatine 9,MU09,16,0,7,15,0,0,0,10,3,0
+0,Muscatine,Orono,OR,0,0,0,6,0,0,0,0,0,0
+0,Muscatine,Pike,PI,5,4,1,1,0,0,0,4,7,0
+0,Muscatine,Seventy Six,76,3,3,3,5,0,0,0,6,2,0
+0,Muscatine,Sweetland,SW,21,1,11,17,0,0,0,20,13,0
+0,Muscatine,Wapsie,WA,5,0,7,6,0,0,0,6,1,0
+0,Muscatine,West Liberty,WL,14,6,3,7,0,0,0,14,9,0
+0,Muscatine,Wilton City,WC,18,4,17,21,0,0,0,16,5,0
+0,Muscatine,Wilton Twp/Moscow,WTMW,20,4,6,10,0,0,0,8,4,0
+0,OBrien,Carroll Floyd,P1,12,4,4,20,0,0,0,4,3,0
+0,OBrien,Franklin,P2,7,1,12,52,0,0,0,5,8,0
+0,OBrien,Hartley Lincoln Omega,P3,17,4,9,32,0,0,0,6,9,0
+0,OBrien,Sheldon 1,P4,3,5,8,55,0,0,0,14,7,0
+0,OBrien,Sheldon 2,P5,2,3,1,12,0,0,0,2,4,0
+0,OBrien,Sheldon 3,P6,7,0,2,15,0,0,0,2,4,0
+0,OBrien,Summut Center Dale Highland,P7,24,9,10,40,1,0,0,5,13,0
+0,OBrien,Union Baker Caledonia,P8,14,1,6,17,0,0,0,15,16,0
+0,OBrien,Waterman Grant Liberty,P9,19,2,5,22,2,0,0,3,9,0
+0,Osceola,Ashton,AT,17,5,9,20,1,0,0,3,2,1
+0,Osceola,Harris,HA,6,0,3,5,0,0,0,2,1,0
+0,Osceola,Hiview,HV,17,4,3,8,0,0,0,11,2,0
+0,Osceola,May City,MC,5,0,3,6,0,0,0,3,0,0
+0,Osceola,Melvin,MV,1,2,2,0,1,0,0,0,1,0
+0,Osceola,Ocheyedan,OX,12,4,7,8,0,0,0,2,7,0
+0,Osceola,Sibley 1,SB1,4,4,0,13,0,0,0,1,0,0
+0,Osceola,Sibley 2,SB2,9,0,3,11,0,0,0,15,1,0
+0,Osceola,Sibley 3,SB3,7,1,0,10,0,0,0,11,3,0
+0,Page,AM-BN-HL-BV-CS-SB,AM,9,5,12,10,0,0,0,3,3,0
+0,Page,Clarinda 1,CL1,5,3,8,24,4,0,0,18,4,0
+0,Page,Clarinda 2,CL2,6,2,7,13,0,0,0,20,5,0
+0,Page,Clarinda 3,CL3,3,2,6,7,0,0,0,6,7,0
+0,Page,CX-LN-WS-BL-CN-NB,CX,2,2,7,4,1,0,0,5,6,0
+0,Page,DG-ER-NK-NW-VY-HB-YT,ER,4,4,8,29,0,0,0,15,8,0
+0,Page,GT-MT-TK,GT,9,3,8,22,0,0,0,6,0,0
+0,Page,PC-FM-EX,PC,5,0,14,6,0,0,0,15,3,0
+0,Page,Shenandoah 1,SD1,15,6,2,2,0,0,0,14,4,0
+0,Page,Shenandoah 2,SD2,13,7,15,28,0,0,0,12,3,0
+0,Page,Shenandoah 3,SD3,24,7,18,12,0,0,0,15,7,0
+0,Palo Alto,Booth Emmetsburg Great Oak Nevada Silver Lake,5,5,2,6,8,0,0,0,3,4,0
+0,Palo Alto,Ellington Rush Lake,EL,3,1,10,7,0,0,0,1,5,0
+0,Palo Alto,Emmetsburg Ward 1 Freedom NW,EM1,9,0,4,8,0,1,0,15,2,0
+0,Palo Alto,Emmetsburg Ward 2,EM2,2,2,8,6,1,0,0,6,6,0
+0,Palo Alto,Emmetsburg Ward 3 Emmetsburg SE,EM3,9,0,3,4,0,1,0,0,3,0
+0,Palo Alto,Emmetsburg Ward 4,EM4,4,2,3,5,0,0,0,1,1,0
+0,Palo Alto,Fairfield N Freedom Independence Vernon,6,3,1,7,7,0,0,0,6,5,0
+0,Palo Alto,Fairfield SE Fern Valley West Bend,WB,17,1,4,13,0,0,0,6,6,0
+0,Palo Alto,Lost Island N Walnut,WL,1,2,4,11,0,0,0,8,4,0
+0,Palo Alto,Lost Island SW Highland,HL,0,1,3,1,0,0,0,2,2,0
+0,Plymouth,Akron,AK,9,4,7,14,0,0,0,26,4,0
+0,Plymouth,Brunsville,BV,6,4,5,10,0,1,0,15,5,0
+0,Plymouth,Craig,CG,8,0,1,13,0,0,0,4,4,0
+0,Plymouth,Hinton,HT,11,4,14,66,1,0,0,25,13,0
+0,Plymouth,Kingsley,KL,9,1,13,28,0,0,0,28,14,0
+0,Plymouth,Le Mars Pct 11,LM11,23,3,21,21,0,0,0,78,15,0
+0,Plymouth,Le Mars Pct 12,LM12,43,1,32,41,1,0,0,92,27,0
+0,Plymouth,Le Mars Pct 13,LM13,16,2,9,14,0,0,0,21,10,0
+0,Plymouth,Merrill,MR,22,5,26,19,0,0,0,13,8,0
+0,Plymouth,Perry Hancock Twp,PY,17,4,8,66,0,0,0,27,15,0
+0,Plymouth,Remsen,RM,14,2,15,40,0,0,0,24,13,0
+0,Plymouth,Struble,SB,9,2,4,14,0,0,0,13,10,0
+0,Plymouth,Westfield,WF,8,0,6,13,0,0,0,3,2,0
+0,Pocahontas,Bellville Lizard S Lincoln,BV,0,4,12,24,0,0,0,6,0,0
+0,Pocahontas,Cedar Colfax,CD,16,3,4,16,0,0,0,4,9,0
+0,Pocahontas,Center-S Roosevelt-N Lincoln,PH2,0,0,0,0,0,0,0,0,0,0
+0,Pocahontas,Clinton Des Moines N Garfield,DM,12,0,5,6,0,0,0,7,12,0
+0,Pocahontas,Cummins N Sherman,CM,9,0,2,4,0,0,0,1,5,0
+0,Pocahontas,Dover S Marshall,DV,4,0,8,6,0,0,0,4,1,0
+0,Pocahontas,Grant S Sherman,GT,5,1,1,8,0,0,0,1,13,0
+0,Pocahontas,Lake S Garfield,LK,1,0,9,3,0,0,0,6,7,0
+0,Pocahontas,Pocahontas Pct 1,PH1,8,7,6,18,0,0,0,9,14,0
+0,Pocahontas,Powhatan-N Roosevelt,PW,0,0,0,2,0,0,0,0,2,0
+0,Pocahontas,Swan Lake N Marshall,SW,30,6,1,14,0,0,0,16,4,0
+0,Polk,Alleman 1 (401) Lincoln 1,ALLEMAN,34,3,13,37,0,0,0,8,14,0
+0,Polk,Allen 1(405),ALLEN 1,0,0,1,13,0,0,0,0,0,0
+0,Polk,Altoona 01 (411),ALT 1,18,1,4,13,1,0,0,15,15,0
+0,Polk,Altoona 02 (412),ALT 2,33,3,13,42,1,0,0,27,16,0
+0,Polk,Altoona 03 (413),ALT 3,34,4,13,60,0,0,0,33,9,0
+0,Polk,Altoona 04 (414),ALT 4,61,23,34,83,0,0,0,50,41,0
+0,Polk,Ankeny 01 (416),ANK 1,51,10,67,62,0,0,0,141,30,0
+0,Polk,Ankeny 02 (417),ANK 2,45,5,25,32,0,0,0,26,12,0
+0,Polk,Ankeny 03 (418),ANK 3,50,5,18,55,0,0,0,47,7,0
+0,Polk,Ankeny 04 (419),ANK 4,50,11,31,29,3,1,0,31,17,0
+0,Polk,Ankeny 05 (420),ANK 5,70,12,35,63,0,1,0,51,24,0
+0,Polk,Ankeny 06 (421),ANK 6,38,8,13,42,2,1,0,51,22,1
+0,Polk,Ankeny 07 (422),ANK 7,29,6,19,36,1,1,0,26,19,0
+0,Polk,Ankeny 08 (423),ANK 8,13,8,23,49,0,0,0,44,16,0
+0,Polk,Ankeny 09 (424),ANK 9,42,6,26,40,1,0,0,31,20,0
+0,Polk,Ankeny 10 (425),ANK 10,33,5,35,57,1,0,0,72,20,0
+0,Polk,Ankeny 11 (426),ANK 11,27,8,16,37,1,0,0,11,28,0
+0,Polk,Ankeny 12 (427),ANK 12,71,13,56,98,1,0,0,64,24,0
+0,Polk,Bondurant 1 (431),BOND 1,44,13,16,51,0,0,0,29,29,0
+0,Polk,Clay 1 (435),CLAY 1,32,8,15,15,0,0,0,19,24,0
+0,Polk,Clive 1 (441),CLIVE 1,20,3,17,17,0,0,0,36,6,0
+0,Polk,Clive 2 (442),CLIVE 2,44,7,43,53,1,3,0,78,7,0
+0,Polk,Clive 3 (443),CLIVE 3,46,14,52,51,1,0,0,141,30,0
+0,Polk,Clive 4 (444),CLIVE 4,53,5,46,67,1,0,0,238,7,0
+0,Polk,Crocker 1 (445),CROCKER,137,26,64,118,2,0,0,131,59,0
+0,Polk,Delaware 1 (451),DEL 1,21,1,5,17,0,0,0,8,10,0
+0,Polk,Delaware 2 (452),DEL 2,8,1,4,9,0,0,0,0,8,0
+0,Polk,Delaware 3 (453),DEL 3,19,1,7,15,0,0,0,3,3,0
+0,Polk,Des Moines 001,DM 1,11,5,6,16,0,0,0,9,11,0
+0,Polk,Des Moines 002,DM 2,19,6,12,17,0,0,0,10,9,0
+0,Polk,Des Moines 003,DM 3,23,1,3,9,0,0,0,1,2,0
+0,Polk,Des Moines 004,DM 4,5,3,2,14,0,0,0,2,1,0
+0,Polk,Des Moines 005,DM 5,13,1,6,8,0,0,1,1,3,0
+0,Polk,Des Moines 006,DM 6,24,3,3,7,0,0,0,3,4,0
+0,Polk,Des Moines 007,DM 7,19,2,4,6,0,1,0,4,0,0
+0,Polk,Des Moines 008,DM 8,16,1,13,18,2,0,0,13,2,1
+0,Polk,Des Moines 009,DM 9,21,3,5,11,1,2,0,10,6,0
+0,Polk,Des Moines 010,DM 10,6,2,4,17,0,0,0,11,2,0
+0,Polk,Des Moines 011,DM 11,22,1,10,15,1,0,0,20,12,0
+0,Polk,Des Moines 012,DM 12,41,8,26,30,3,1,0,29,16,0
+0,Polk,Des Moines 013,DM 13,17,3,1,11,0,0,0,11,6,0
+0,Polk,Des Moines 014,DM 14,26,1,7,16,0,0,0,15,6,0
+0,Polk,Des Moines 015,DM 15,18,3,1,9,0,0,0,3,11,0
+0,Polk,Des Moines 016,DM 16,23,5,16,16,0,0,0,12,8,0
+0,Polk,Des Moines 017,DM 17,23,3,17,23,3,0,0,31,7,0
+0,Polk,Des Moines 018,DM 18,24,2,17,19,0,0,0,21,8,0
+0,Polk,Des Moines 019,DM 19,27,4,9,20,2,0,0,9,11,0
+0,Polk,Des Moines 020,DM 20,16,4,3,13,2,0,0,1,9,0
+0,Polk,Des Moines 021,DM 21,12,7,1,3,0,0,0,6,4,0
+0,Polk,Des Moines 022,DM 22,13,3,3,8,0,0,0,4,4,0
+0,Polk,Des Moines 023,DM 23,8,8,8,3,0,0,0,6,8,0
+0,Polk,Des Moines 024,DM 24,25,3,0,6,1,0,0,5,9,0
+0,Polk,Des Moines 025,DM 25,13,2,1,6,0,0,0,1,3,0
+0,Polk,Des Moines 026,DM 26,15,2,6,6,0,0,0,3,6,0
+0,Polk,Des Moines 027,DM 27,16,11,12,13,0,0,0,5,5,0
+0,Polk,Des Moines 028,DM 28,22,7,7,29,0,0,0,4,10,0
+0,Polk,Des Moines 029,DM 29,36,5,20,44,1,0,0,18,36,0
+0,Polk,Des Moines 030,DM 30,7,1,6,6,0,0,0,2,10,0
+0,Polk,Des Moines 031,DM 31,22,4,7,16,0,0,0,7,7,0
+0,Polk,Des Moines 032,DM 32,15,1,9,18,0,0,0,8,8,0
+0,Polk,Des Moines 033,DM 33,10,8,1,4,0,0,0,6,5,0
+0,Polk,Des Moines 034,DM 34,3,2,4,1,0,0,0,0,4,0
+0,Polk,Des Moines 035,DM 35,2,3,8,9,0,0,0,3,1,0
+0,Polk,Des Moines 036,DM 36,8,0,0,2,0,0,0,0,1,0
+0,Polk,Des Moines 037,DM 37,5,0,1,0,0,0,0,1,1,0
+0,Polk,Des Moines 038,DM 38,7,1,1,0,0,0,0,3,5,0
+0,Polk,Des Moines 039,DM 39,0,0,0,2,0,0,0,1,2,0
+0,Polk,Des Moines 040,DM 40,10,1,2,3,0,0,0,7,4,0
+0,Polk,Des Moines 041,DM 41,1,0,0,2,2,0,0,0,3,0
+0,Polk,Des Moines 042,DM 42,3,0,1,0,0,0,0,0,0,0
+0,Polk,Des Moines 043,DM 43,2,1,0,2,0,0,0,1,2,0
+0,Polk,Des Moines 044,DM 44,1,0,2,2,0,0,0,0,3,0
+0,Polk,Des Moines 045,DM 45,12,0,1,5,0,0,0,7,1,0
+0,Polk,Des Moines 046,DM 46,19,3,10,19,1,0,0,33,3,0
+0,Polk,Des Moines 047,DM 47,26,1,5,16,3,2,0,16,5,0
+0,Polk,Des Moines 048,DM 48,25,1,6,21,1,0,0,12,5,0
+0,Polk,Des Moines 049,DM 49,50,1,18,21,0,0,0,34,12,0
+0,Polk,Des Moines 050,DM 50,25,6,3,22,0,0,0,19,15,0
+0,Polk,Des Moines 051,DM 51,24,11,5,15,0,0,0,9,11,0
+0,Polk,Des Moines 052,DM 52,27,0,9,20,0,0,0,22,1,0
+0,Polk,Des Moines 053,DM 53,18,0,9,5,1,0,0,24,4,0
+0,Polk,Des Moines 054,DM 54,41,0,14,14,2,0,0,22,3,0
+0,Polk,Des Moines 055,DM 55,14,2,0,7,0,0,0,4,4,0
+0,Polk,Des Moines 056,DM 56,11,7,2,11,1,0,0,2,0,0
+0,Polk,Des Moines 057,DM 57,5,0,3,1,0,0,0,2,4,0
+0,Polk,Des Moines 058,DM 58,3,1,4,5,0,0,0,2,0,0
+0,Polk,Des Moines 059,DM 59,22,2,7,9,0,0,0,12,8,0
+0,Polk,Des Moines 060,DM 60,5,4,0,7,0,0,0,1,9,0
+0,Polk,Des Moines 061,DM 61,7,0,5,0,0,2,0,8,7,0
+0,Polk,Des Moines 062,DM 62,1,0,1,1,0,0,0,0,2,0
+0,Polk,Des Moines 063,DM 63,9,0,1,0,1,0,0,7,2,0
+0,Polk,Des Moines 064,DM 64,67,3,16,4,12,0,0,45,1,0
+0,Polk,Des Moines 065,DM 65,22,0,3,5,0,0,0,13,0,0
+0,Polk,Des Moines 066,DM 66,25,1,5,3,2,1,0,7,2,0
+0,Polk,Des Moines 067,DM 67,50,2,10,17,4,0,0,38,2,0
+0,Polk,Des Moines 068,DM 68,33,3,6,18,0,0,0,27,9,0
+0,Polk,Des Moines 069,DM 69,23,1,15,16,5,0,0,26,10,0
+0,Polk,Des Moines 070,DM 70,40,2,22,27,2,0,0,82,3,0
+0,Polk,Des Moines 071,DM 71,16,5,16,16,4,0,0,69,0,0
+0,Polk,Des Moines 072,DM 72,9,0,1,11,0,0,0,4,1,0
+0,Polk,Des Moines 073,DM 73,47,1,23,17,12,0,0,105,0,0
+0,Polk,Des Moines 074,DM 74,33,11,12,26,4,0,0,125,1,0
+0,Polk,Des Moines 075,DM 75,23,4,24,18,5,0,0,40,13,0
+0,Polk,Des Moines 076,DM 76,31,2,8,11,0,0,0,52,9,0
+0,Polk,Des Moines 077,DM 77,16,0,1,3,0,0,0,6,0,0
+0,Polk,Des Moines 078,DM 78,4,0,1,4,0,0,0,0,8,0
+0,Polk,Des Moines 079,DM 79,11,0,5,13,0,0,0,6,7,0
+0,Polk,Des Moines 080,DM 80,13,3,5,6,0,0,0,4,9,0
+0,Polk,Des Moines 081,DM 81,6,7,3,5,0,0,0,7,2,0
+0,Polk,Des Moines 082,DM 82,8,0,3,6,0,0,0,6,3,0
+0,Polk,Des Moines 083,DM 83,6,3,6,5,0,0,0,2,5,0
+0,Polk,Des Moines 084,DM 84,23,3,10,11,1,0,1,7,11,0
+0,Polk,Des Moines 085,DM 85,7,1,11,11,0,0,0,3,1,0
+0,Polk,Des Moines 086,DM 86,20,3,12,10,0,0,0,9,8,0
+0,Polk,Des Moines 087,DM 87,27,8,9,14,1,0,0,12,3,0
+0,Polk,Des Moines 088,DM 88,8,3,1,0,0,0,0,7,3,0
+0,Polk,Des Moines 089,DM 89,17,7,7,17,0,0,0,16,6,0
+0,Polk,Des Moines 090,DM 90,14,10,2,14,2,0,0,14,4,0
+0,Polk,Des Moines 091,DM 91,23,3,4,6,0,0,0,9,7,0
+0,Polk,Des Moines 092,DM 92,10,3,8,11,0,0,0,9,4,0
+0,Polk,Des Moines 093,DM 93,17,5,11,28,1,0,0,7,11,0
+0,Polk,Des Moines 094,DM 94,24,2,1,11,0,0,0,3,2,0
+0,Polk,Des Moines 095,DM 95,6,2,2,2,1,0,0,3,4,0
+0,Polk,Des Moines 096,DM 96,21,8,7,17,1,0,0,8,7,2
+0,Polk,Des Moines 097,DM 97,41,7,22,34,2,0,0,89,13,0
+0,Polk,Des Moines 098,DM 98,13,1,10,17,0,0,0,18,7,0
+0,Polk,Des Moines 099,DM 99,29,7,3,15,0,0,0,8,10,0
+0,Polk,Des Moines 100,DM 100,40,7,11,23,0,0,0,14,26,0
+0,Polk,Des Moines 101,DM 101,12,2,1,13,0,0,0,3,2,0
+0,Polk,Des Moines 102,DM 102,23,4,11,35,0,0,0,28,7,0
+0,Polk,Douglas 1 (455),DOUGLAS,30,9,24,41,0,0,0,43,15,0
+0,Polk,Elkhart 1 (461),ELKHART,24,2,18,23,0,0,0,14,11,0
+0,Polk,Four Mile 1 (465),FOUR MI,33,6,22,64,0,0,0,22,37,0
+0,Polk,Franklin 1 (471),FRANKLI,27,10,13,26,2,0,0,21,13,0
+0,Polk,Grimes 1 (475),GRIMES1,43,2,17,43,1,0,0,27,16,0
+0,Polk,Grimes 2 (476),GRIMES2,74,11,29,53,0,0,0,66,24,0
+0,Polk,Jefferson 1 (481),JEFF 1,62,15,43,96,1,3,0,97,19,0
+0,Polk,Johnston 1 (485),JOHN 1,59,12,44,86,0,0,0,117,46,0
+0,Polk,Johnston 2 (486),JOHN 2,43,6,43,35,5,0,0,72,25,0
+0,Polk,Johnston 3 (487),JOHN 3,132,16,124,118,7,1,0,274,66,0
+0,Polk,Mitchellville 1 (491),MITCHEL,28,5,14,36,2,0,0,32,33,0
+0,Polk,Pleasant Hill 1 (495),PH 1,27,5,15,59,2,0,0,57,16,0
+0,Polk,Pleasant Hill 2 (496),PH 2,21,15,17,38,0,0,0,25,30,0
+0,Polk,Pleasant Hill 3 (497),PH 3,45,11,19,32,0,0,0,18,26,0
+0,Polk,Polk City 1 (501),POLK CI,54,18,19,68,1,0,0,40,39,0
+0,Polk,Runnells 1 (505),RUNNELL,25,11,26,47,0,0,0,15,28,0
+0,Polk,Saylor 1 (511),SAYLOR1,10,6,0,3,0,0,0,5,5,0
+0,Polk,Saylor 2 (512),SAYLOR2,34,7,13,21,0,0,0,18,30,0
+0,Polk,Saylor 3 (513),SAYLOR3,32,8,23,31,0,0,0,16,11,0
+0,Polk,Sheldahl 1 Union Twp (515),SHELDAH,12,1,9,5,0,0,0,3,8,0
+0,Polk,Urbandale 01 (521),URB 1,44,10,30,50,0,0,0,32,17,0
+0,Polk,Urbandale 02 (522),URB 2,32,8,23,41,1,0,0,27,22,0
+0,Polk,Urbandale 03 (523),URB 3,40,12,33,43,0,0,0,51,3,0
+0,Polk,Urbandale 04 (524),URB 4,41,4,36,42,1,2,0,70,14,0
+0,Polk,Urbandale 05 (525),URB 5,37,4,39,32,0,0,0,25,17,0
+0,Polk,Urbandale 06 (526),URB 6,34,10,52,96,1,0,0,83,5,0
+0,Polk,Urbandale 07 (527),URB 7,26,4,28,30,1,0,0,71,11,0
+0,Polk,Urbandale 08 (528),URB 8,51,14,34,82,1,0,0,116,37,0
+0,Polk,Urbandale 09 (529),URB 9,31,19,56,48,1,0,0,126,12,0
+0,Polk,Urbandale 10 (530),URB 10,28,7,27,61,1,0,0,46,12,0
+0,Polk,Urbandale 11 (531),URB 11,58,16,48,87,0,0,0,190,35,0
+0,Polk,Washington 1 (535),WASH 1,3,9,1,14,1,0,0,4,2,0
+0,Polk,Webster 1 (541),WB 1,13,0,3,11,1,0,0,7,4,0
+0,Polk,West Des Moines 111 (546),WDM-111,16,1,6,21,0,0,0,27,1,0
+0,Polk,West Des Moines 112 (547),WDM-112,40,6,8,22,1,0,0,15,9,0
+0,Polk,West Des Moines 113 (548),WDM-113,16,6,7,12,0,0,0,11,5,0
+0,Polk,West Des Moines 114 (549),WDM-114,22,6,33,46,1,2,0,88,3,0
+0,Polk,West Des Moines 115 (550),WDM-115,32,1,39,40,1,0,0,61,13,0
+0,Polk,West Des Moines 116 (551),WDM-116,40,7,8,26,2,0,0,27,6,0
+0,Polk,West Des Moines 211 (552),WDM-211,29,4,23,49,2,0,0,61,14,1
+0,Polk,West Des Moines 212 (553),WDM-212,48,8,34,53,1,0,0,89,17,0
+0,Polk,West Des Moines 213 (554),WDM-213,36,2,22,45,1,0,0,80,12,0
+0,Polk,West Des Moines 214 (555),WDM-214,42,2,30,38,3,0,0,123,23,0
+0,Polk,West Des Moines 215 (556),WDM-215,23,1,15,16,1,0,0,52,11,0
+0,Polk,West Des Moines 311 (557),WDM-311,35,5,24,34,0,0,0,89,13,0
+0,Polk,West Des Moines 312 (558),WDM-312,35,6,20,36,4,0,0,78,15,0
+0,Polk,West Des Moines 313 (559),WDM-313,37,1,33,66,3,0,0,160,7,0
+0,Polk,West Des Moines 314 (560),WDM-314,73,6,48,59,3,1,0,255,28,0
+0,Polk,West Des Moines 315 (561),WDM-315,43,4,33,35,3,0,0,111,13,0
+0,Polk,West Des Moines 316 (562),WDM-316,48,7,14,21,3,0,0,59,16,0
+0,Polk,Windsor Heights 1 (565),WHTS 1,24,7,11,32,2,0,0,41,14,0
+0,Polk,Windsor Heights 2 (566),WHTS 2,36,3,29,32,2,0,0,40,12,0
+0,Polk,Windsor Heights 3 (567),WHTS 3,23,10,14,20,2,1,0,34,6,0
+0,Pottawattamie,Belknap/James,BN,19,3,10,10,2,0,0,21,1,0
+0,Pottawattamie,Boomer/Rockford,BO,15,1,1,16,0,0,1,9,5,0
+0,Pottawattamie,Carson,CA,2,6,8,6,0,0,0,18,5,0
+0,Pottawattamie,Carter Lake,CL,19,4,27,23,0,0,0,17,11,0
+0,Pottawattamie,Council Bluffs 01,1,8,4,4,6,0,0,0,4,5,0
+0,Pottawattamie,Council Bluffs 02,2,19,3,10,4,0,0,0,16,4,0
+0,Pottawattamie,Council Bluffs 03,3,12,0,5,9,0,0,0,8,6,0
+0,Pottawattamie,Council Bluffs 04,4,12,2,9,8,0,0,0,7,4,0
+0,Pottawattamie,Council Bluffs 05,5,14,5,10,6,0,0,0,6,6,0
+0,Pottawattamie,Council Bluffs 06,6,8,3,11,20,1,0,0,14,6,0
+0,Pottawattamie,Council Bluffs 07,7,14,2,23,13,0,0,0,20,5,0
+0,Pottawattamie,Council Bluffs 08,8,37,5,14,27,2,0,0,40,6,0
+0,Pottawattamie,Council Bluffs 09,9,8,0,14,29,0,0,0,32,8,0
+0,Pottawattamie,Council Bluffs 10,10,43,4,44,46,0,0,0,98,20,1
+0,Pottawattamie,Council Bluffs 11,11,23,3,10,12,0,0,0,16,6,0
+0,Pottawattamie,Council Bluffs 12,12,23,6,14,26,2,0,0,28,5,0
+0,Pottawattamie,Council Bluffs 13,13,10,2,4,8,1,0,0,11,5,0
+0,Pottawattamie,Council Bluffs 14,14,10,1,7,9,0,0,0,5,3,0
+0,Pottawattamie,Council Bluffs 15,15,7,2,4,8,0,0,0,3,2,0
+0,Pottawattamie,Council Bluffs 16,16,12,2,4,9,0,0,0,7,2,0
+0,Pottawattamie,Council Bluffs 17,17,16,3,7,7,0,0,0,9,0,0
+0,Pottawattamie,Council Bluffs 18,18,10,2,4,6,0,0,0,4,1,0
+0,Pottawattamie,Council Bluffs 19,19,12,1,9,19,0,0,0,17,9,0
+0,Pottawattamie,Council Bluffs 20,20,20,5,10,12,0,0,0,20,16,0
+0,Pottawattamie,Crescent,CR,3,0,9,8,0,0,0,10,1,0
+0,Pottawattamie,Garner,GA,10,5,31,41,1,0,0,57,4,1
+0,Pottawattamie,Grove,GR,4,2,3,5,0,0,0,2,0,0
+0,Pottawattamie,Hardin,HA,9,5,18,21,0,0,0,17,4,0
+0,Pottawattamie,Keg Creek Silver Creek,KC,13,7,13,41,1,0,0,32,6,0
+0,Pottawattamie,Knox,KN,3,1,8,7,1,0,0,11,3,0
+0,Pottawattamie,Lake,LK,6,0,8,7,0,0,0,6,6,0
+0,Pottawattamie,Layton,LA,3,3,9,21,0,0,0,2,7,0
+0,Pottawattamie,Lewis 1,L1,19,2,21,23,0,0,0,44,2,0
+0,Pottawattamie,Lewis 2,L2,26,6,37,41,0,0,0,38,9,0
+0,Pottawattamie,Lincoln/Wright/Center /Waveland,LI,2,4,6,11,0,0,0,5,4,0
+0,Pottawattamie,Macedonia,MA,6,0,0,4,0,0,0,11,6,0
+0,Pottawattamie,Minden Pleasant,MI,9,3,7,12,0,0,0,9,0,0
+0,Pottawattamie,Neola,NE,8,2,5,10,0,0,0,5,2,0
+0,Pottawattamie,Norwalk/Hazel Dell,NO,29,0,12,52,1,0,0,29,20,0
+0,Pottawattamie,Valley,VA,4,4,2,7,0,0,0,6,2,0
+0,Pottawattamie,Washington York,YO,2,2,5,16,0,0,0,11,3,0
+0,Poweshiek,1st Ward,6,25,1,5,11,2,0,0,21,2,0
+0,Poweshiek,2nd Ward,7,15,1,9,21,1,0,0,21,15,0
+0,Poweshiek,3rd Ward,8,12,0,4,4,0,0,0,14,2,0
+0,Poweshiek,4th Ward,9,34,1,12,16,1,0,0,18,4,0
+0,Poweshiek,BMWJ,2,38,4,17,31,0,0,0,8,16,0
+0,Poweshiek,CGWS,5,30,23,15,14,3,0,0,14,13,0
+0,Poweshiek,DRL,3,15,2,1,14,0,0,0,3,2,0
+0,Poweshiek,JUPS,10,18,5,25,29,0,0,0,13,14,0
+0,Poweshiek,Montezuma,11,6,2,10,8,0,0,0,0,2,0
+0,Poweshiek,MS,4,4,3,15,7,1,0,0,4,7,0
+0,Ringgold,Athens,AT,2,0,2,6,0,0,0,0,6,0
+0,Ringgold,Clinton,CL,0,0,2,2,0,0,0,2,3,0
+0,Ringgold,Mt Ayr Ward 1,M1,2,1,9,18,0,0,0,8,5,0
+0,Ringgold,Mt Ayr Ward 2,M2,8,2,12,21,0,0,0,1,6,0
+0,Ringgold,Tingley,TG,5,0,2,6,0,0,0,0,5,0
+0,Ringgold,Union,UN,3,0,5,3,1,0,0,6,1,0
+0,Ringgold,Washington,WS,3,2,3,6,0,0,0,9,2,0
+0,Sac,Auburn Pct 8,8,5,0,9,6,0,0,0,3,1,0
+0,Sac,Early Pct 3,3,6,1,7,18,0,0,0,4,5,0
+0,Sac,Lake View Pct 7,7,18,9,14,20,0,0,0,18,2,0
+0,Sac,Lytton Pct 5,5,8,0,3,10,0,0,0,3,2,0
+0,Sac,Nemaha Pct 2,2,6,0,4,8,0,0,0,10,2,0
+0,Sac,Odeboldt Pct 6,6,9,4,9,12,0,0,0,17,7,0
+0,Sac,Sac City Pct 4,4,11,2,5,41,1,0,0,28,5,0
+0,Sac,Schaller Pct 1,1,9,4,11,13,0,0,0,9,2,0
+0,Sac,Wall Lake Pct 9,9,15,5,7,6,0,0,0,13,6,0
+0,Scott,Allens Grove,1,4,4,4,12,0,0,0,10,0,0
+0,Scott,Bettendorf City B11,2,22,1,18,48,3,0,0,67,5,0
+0,Scott,Bettendorf City B12,3,28,9,18,21,1,0,0,37,6,0
+0,Scott,Bettendorf City B21,4,10,1,7,19,2,0,0,36,10,0
+0,Scott,Bettendorf City B22,5,27,3,15,30,0,0,0,43,3,1
+0,Scott,Bettendorf City B23,65,10,9,10,13,0,0,0,13,6,0
+0,Scott,Bettendorf City B31,6,37,2,49,59,6,0,0,87,17,0
+0,Scott,Bettendorf City B32,7,17,0,8,25,1,0,0,22,2,0
+0,Scott,Bettendorf City B41,8,38,5,52,50,4,0,0,168,21,1
+0,Scott,Bettendorf City B42,9,36,4,30,45,4,0,0,95,4,0
+0,Scott,Bettendorf City B51,10,15,0,7,24,1,0,0,29,4,0
+0,Scott,Bettendorf City B52,11,46,13,36,125,1,0,0,220,13,0
+0,Scott,Blue Grass City,12,8,3,7,19,0,0,0,17,0,0
+0,Scott,Blue Grass Twp,13,16,7,26,22,0,0,0,13,0,0
+0,Scott,Buffalo City,14,3,1,1,12,0,0,0,2,2,0
+0,Scott,Buffalo Twp,15,40,1,24,51,1,0,0,39,13,0
+0,Scott,Butler Twp,16,31,1,29,44,1,2,0,33,12,0
+0,Scott,Cleona Twp,17,1,0,8,1,0,0,0,4,0,0
+0,Scott,Cody (Leclaire Twp),18,20,3,18,40,2,0,0,22,9,0
+0,Scott,Davenport City D11,19,23,0,22,12,0,0,0,20,2,0
+0,Scott,Davenport City D12,20,7,4,7,10,0,0,0,15,5,0
+0,Scott,Davenport City D13,21,4,2,0,4,0,0,0,7,2,0
+0,Scott,Davenport City D14,22,22,1,4,10,0,0,0,11,11,0
+0,Scott,Davenport City D21,23,15,0,4,24,0,0,0,14,2,0
+0,Scott,Davenport City D22,24,16,1,13,22,1,0,0,14,6,0
+0,Scott,Davenport City D23,25,16,6,11,10,0,0,0,14,6,0
+0,Scott,Davenport City D24,26,15,0,6,11,0,0,0,12,1,0
+0,Scott,Davenport City D31,27,16,3,0,3,0,0,0,2,1,0
+0,Scott,Davenport City D32,28,12,3,4,5,0,0,0,1,0,0
+0,Scott,Davenport City D33,29,19,0,4,5,0,1,0,5,0,0
+0,Scott,Davenport City D34,30,4,3,7,2,0,0,0,3,0,0
+0,Scott,Davenport City D41,31,8,0,4,17,0,0,0,13,2,0
+0,Scott,Davenport City D42,32,22,0,12,19,0,0,0,16,5,0
+0,Scott,Davenport City D43,33,15,0,9,19,0,0,0,10,3,1
+0,Scott,Davenport City D44,34,17,1,5,17,0,0,0,12,0,0
+0,Scott,Davenport City D51,35,30,1,14,8,1,0,0,16,5,0
+0,Scott,Davenport City D52,36,14,1,0,5,0,0,0,2,2,0
+0,Scott,Davenport City D53,37,30,0,11,16,0,0,0,12,3,1
+0,Scott,Davenport City D54,38,26,2,5,17,3,0,0,15,1,0
+0,Scott,Davenport City D61,39,40,2,14,42,1,0,0,66,4,0
+0,Scott,Davenport City D62,40,22,3,17,37,1,0,0,67,4,0
+0,Scott,Davenport City D63,41,31,3,40,74,0,0,0,106,9,0
+0,Scott,Davenport City D64,42,25,1,44,42,8,0,0,113,16,0
+0,Scott,Davenport City D71,44,14,3,13,18,0,0,0,24,2,0
+0,Scott,Davenport City D72,45,24,1,2,31,1,0,0,17,5,0
+0,Scott,Davenport City D73,46,14,10,4,20,0,0,0,24,6,0
+0,Scott,Davenport City D74,47,24,4,11,31,0,0,0,20,0,0
+0,Scott,Davenport City D81,48,20,3,15,23,0,0,0,23,5,0
+0,Scott,Davenport City D82,49,10,2,17,10,1,0,0,32,2,0
+0,Scott,Davenport City D83,50,13,1,10,10,0,0,0,28,1,0
+0,Scott,Davenport City D84,51,12,3,8,18,0,0,0,26,8,0
+0,Scott,Eldridge City 1,52,17,3,9,19,0,0,0,32,12,0
+0,Scott,Eldridge City 2,64,44,7,11,31,2,1,0,51,5,0
+0,Scott,Hickory Grove,53,3,1,7,15,0,0,0,18,1,0
+0,Scott,Leclaire City,54,57,0,27,32,1,0,0,63,9,0
+0,Scott,Liberty,55,2,1,5,4,0,0,0,9,4,0
+0,Scott,Lincoln,56,8,6,10,7,0,0,0,13,2,0
+0,Scott,Pleasant Valley,57,11,2,3,20,1,0,0,23,1,0
+0,Scott,Princeton,58,5,1,15,9,1,0,0,15,2,0
+0,Scott,Riverdale,59,6,0,7,4,6,0,0,5,6,0
+0,Scott,Sheridan,60,6,9,15,12,1,0,0,25,3,0
+0,Scott,Walcott,61,9,2,11,26,0,0,0,13,2,0
+0,Scott,Winfield,62,11,3,1,13,1,0,0,21,3,0
+0,Shelby,CASS-CENTER-JACKSON-LINCOLN,2,19,24,7,23,0,0,0,3,7,0
+0,Shelby,CLAY-MONROE,3,12,4,11,10,0,0,0,4,3,0
+0,Shelby,DOUGLAS-GREELEY-JEFFERSON-POLK,4,6,15,1,19,0,0,0,2,7,0
+0,Shelby,FAIRVIEW-SHELBY,5,11,4,1,17,0,0,0,0,9,0
+0,Shelby,GROVE-UNION-WASHINGTON-WESTPHALIA,6,12,10,0,23,0,0,0,11,1,0
+0,Shelby,HARLAN - WARD 1,7,13,3,1,14,0,0,0,3,3,0
+0,Shelby,HARLAN - WARD 2,8,15,10,5,25,0,0,0,15,9,0
+0,Shelby,HARLAN - WARD 3,9,16,2,9,11,0,0,0,18,4,0
+0,Shelby,HARLAN - WARD 4,10,4,13,4,11,0,0,0,7,3,0
+0,Sioux,Alton Nassau,AT,12,0,6,26,2,0,0,14,4,0
+0,Sioux,Capel Sheridan,CP,3,1,9,37,0,0,0,9,20,0
+0,Sioux,Eagle Center,EG,5,6,3,18,0,0,0,3,6,0
+0,Sioux,East Orange,EO,0,0,1,7,0,0,0,3,4,0
+0,Sioux,Floyd Lynn,FL,18,6,12,24,0,0,0,6,29,0
+0,Sioux,Grant,GT,1,2,1,6,0,0,0,0,2,0
+0,Sioux,Hawarden Buncombe Logan Washington,HW,34,9,20,19,0,0,0,21,15,0
+0,Sioux,Holland West Branch S 1/2,HD,8,6,2,36,0,0,0,1,11,0
+0,Sioux,Lincoln,LN,23,12,18,90,2,0,0,25,40,0
+0,Sioux,Orange City 1,OC1,24,9,21,116,3,0,0,26,35,0
+0,Sioux,Orange City 2,OC2,26,8,10,97,1,0,0,53,20,0
+0,Sioux,Plato Garfield Settlers Sioux S 1/2,PL,10,4,4,47,0,0,0,5,8,0
+0,Sioux,Reading,RD,17,1,8,16,0,0,0,8,8,0
+0,Sioux,Rock Sioux N 1/2,RK,4,0,2,41,0,0,0,5,14,0
+0,Sioux,Rock Valley,RV,10,8,14,94,0,0,0,6,41,0
+0,Sioux,Sherman,SM,5,3,4,22,0,0,0,3,4,0
+0,Sioux,Sioux Center 1 West Branch N 1/2,SC1,44,5,17,150,1,0,0,74,20,0
+0,Sioux,Sioux Center 2,SC2,30,2,7,70,0,0,0,25,12,0
+0,Sioux,Welcome,WC,5,0,1,27,0,0,0,12,4,0
+0,Story,Ames11,1,35,2,26,21,5,0,0,30,9,0
+0,Story,Ames12,2,23,3,6,21,2,0,0,15,4,0
+0,Story,Ames13,3,41,5,8,18,4,0,0,15,5,0
+0,Story,Ames14,4,32,4,4,9,0,0,0,20,9,0
+0,Story,Ames15,5,26,5,20,40,1,0,0,62,15,0
+0,Story,Ames21,6,38,2,15,41,0,0,0,53,9,0
+0,Story,Ames22,7,19,0,1,5,1,0,0,10,1,0
+0,Story,Ames23,8,27,6,12,16,4,0,0,24,11,0
+0,Story,Ames24,9,57,10,45,63,2,4,1,151,23,0
+0,Story,Ames25,10,63,4,33,41,4,0,0,139,25,0
+0,Story,Ames31,11,60,4,14,46,8,0,0,35,9,1
+0,Story,Ames32,12,20,0,4,6,0,0,0,5,1,0
+0,Story,Ames33,13,13,1,0,1,0,0,0,1,1,0
+0,Story,Ames34,14,41,1,9,6,3,0,0,5,5,0
+0,Story,Ames35,15,26,3,22,37,7,1,0,83,19,0
+0,Story,Ames41,16,38,1,29,33,1,0,0,34,7,0
+0,Story,Ames42,17,55,3,10,23,1,2,0,31,9,0
+0,Story,Ames43,18,36,0,2,8,0,0,0,0,1,0
+0,Story,Ames44,19,1,0,0,0,0,0,0,0,1,0
+0,Story,Ames45,20,3,0,0,0,0,0,0,1,0,0
+0,Story,Cambridge/Union Twp,41,13,3,9,11,0,0,0,5,19,0
+0,Story,Collins/Collins Twp,21,10,4,5,13,0,0,0,10,6,0
+0,Story,Colo/New Albany Twp,35,15,5,17,7,0,0,0,5,14,0
+0,Story,Gilbert/Franklin Twp,22,58,8,35,92,0,0,0,92,36,0
+0,Story,Grant Twp,23,20,1,1,12,0,0,0,2,12,0
+0,Story,Huxley/Palestine 1 Twp,36,57,5,23,50,2,0,0,55,30,0
+0,Story,Kelley,26,5,1,2,9,0,0,0,5,2,0
+0,Story,Maxwell/Indian Creek Twp,25,17,1,14,17,0,0,0,6,11,0
+0,Story,Mccallsburg/Warren Twp,42,4,2,6,4,0,0,0,6,12,0
+0,Story,Milford Twp,29,16,6,11,7,0,0,0,4,10,0
+0,Story,Nevada 1,30,15,0,11,4,0,0,0,2,3,0
+0,Story,Nevada 2,31,10,2,7,13,1,1,0,10,8,0
+0,Story,Nevada 3,32,17,11,16,6,1,1,0,14,12,0
+0,Story,Nevada 4,33,22,2,11,24,2,0,0,9,7,0
+0,Story,Nevada Twp,34,6,2,4,11,1,0,0,14,7,0
+0,Story,Richland Twp,38,8,1,8,3,0,0,0,7,6,0
+0,Story,Roland/Howard Twp,24,36,5,18,35,0,0,0,12,16,0
+0,Story,Sherman Twp,39,7,0,0,5,0,0,0,4,1,0
+0,Story,Slater/Sheldahl/Palestine 2twp,37,23,6,12,16,1,0,0,29,12,0
+0,Story,Story City 1,40,19,6,27,17,0,0,0,28,4,0
+0,Story,Story City 2/Lafayette Twp,27,27,6,34,28,0,0,0,36,34,0
+0,Story,Washington 1 Twp,43,24,4,5,7,0,0,0,20,7,0
+0,Story,Zearing/Lincoln Twp,28,5,4,6,9,0,0,0,9,6,0
+0,Tama,Carlton,CT,1,4,4,17,0,0,0,6,1,0
+0,Tama,Carroll Oneida,CR/ON,2,4,2,5,0,0,0,7,10,0
+0,Tama,Clark Geneseo,CK/GE,16,5,13,22,0,0,0,25,25,0
+0,Tama,Columbia,CB,1,0,0,0,0,0,0,1,1,0
+0,Tama,Grant,GR,1,0,2,1,0,0,0,2,2,0
+0,Tama,Highland Indian Village,HL/IV,1,11,4,14,0,0,0,8,8,0
+0,Tama,Indian Settlement,IS,0,0,0,0,0,0,0,0,0,0
+0,Tama,Lincoln,LI,3,0,4,3,0,0,0,4,1,0
+0,Tama,Perry E Crystal Buckingham,PY/CY/B,33,2,12,18,1,0,0,21,13,0
+0,Tama,Richland Salt Creek,RL/ST,4,2,2,7,0,0,0,0,4,0
+0,Tama,Spring Creek West Crystal,SP/WC,9,5,23,13,0,0,0,18,6,0
+0,Tama,Tama Otter Creek Part Toledo,TM/OC,24,6,20,10,0,0,0,23,7,0
+0,Tama,Toledo 1 Toledo Howard,TL1,27,9,3,20,0,0,0,10,5,0
+0,Tama,Toledo 2,TL2,1,3,2,5,0,0,0,0,5,0
+0,Tama,Toledo 3,TL3,3,1,0,5,0,0,0,6,10,0
+0,Tama,York,YK,0,3,0,8,0,0,0,1,4,0
+0,Taylor,Bedford Pct 1,BE1,1,2,4,3,0,0,0,4,10,0
+0,Taylor,Bedford Pct 2,BE2,0,0,0,0,0,0,0,5,7,0
+0,Taylor,Bedford Pct 3 & S Townships,BE3,5,1,9,9,0,0,0,6,20,0
+0,Taylor,Blockton Jefferson Gay Athelstan,BK,2,1,0,3,0,0,0,5,8,0
+0,Taylor,Clearfield Grant,CF,0,0,1,4,0,0,0,1,3,0
+0,Taylor,Lenox Shpsbg Guss & Townships,PT,4,1,8,21,0,0,0,17,12,0
+0,Taylor,New Market N Polk Mason S Dallas,NM,9,0,1,3,0,0,0,0,12,0
+0,Taylor,Wash S Marshall Gravity Conway,WS,7,2,2,3,0,1,0,6,10,0
+0,Union,Afton,AF,13,5,2,9,0,0,0,9,10,0
+0,Union,Arispe,AR,1,5,0,4,1,0,0,3,13,0
+0,Union,Creston Pct 1,CS1,6,2,3,10,1,0,0,8,4,1
+0,Union,Creston Pct 2,CS2,12,20,10,30,1,0,0,28,28,0
+0,Union,Creston Pct 3,CS3,10,4,6,5,0,0,0,7,15,0
+0,Union,Creston Pct 4,CS4,5,8,5,12,0,0,0,0,9,0
+0,Union,Creston Pct 5,CS5,17,3,15,16,1,0,0,12,19,1
+0,Union,Lorimor,LR,14,4,1,9,0,0,0,7,5,1
+0,Union,Platte,PT,0,3,0,3,0,0,0,1,2,0
+0,Van Buren,Birmingham Pct,BI,21,10,13,24,0,0,0,15,4,0
+0,Van Buren,Bonaparte Pct,BO,24,11,0,14,0,0,0,0,6,0
+0,Van Buren,Cantril Pct,CN,0,1,5,5,0,0,0,2,1,0
+0,Van Buren,Douds Pct,DO,14,1,4,10,0,0,0,4,3,0
+0,Van Buren,Farmington Pct,FM,6,2,6,20,1,0,0,9,4,0
+0,Van Buren,Keosauqua Pct,KE,35,5,17,14,0,0,0,17,0,1
+0,Van Buren,Milton Pct,ML,12,3,1,6,0,0,0,1,6,0
+0,Van Buren,Stockport Pct,SP,0,0,0,0,0,0,0,0,0,0
+0,Wapello,Adams Twp; Blakesurg City; Po,AD,9,4,4,4,0,0,0,4,2,0
+0,Wapello,Agency City; Twp; Pleasant Twp,AG,7,2,9,11,0,0,0,3,5,0
+0,Wapello,Cass Township,CS,6,0,0,3,0,0,0,0,4,0
+0,Wapello,Center Township,CN,11,5,9,11,0,0,0,5,9,0
+0,Wapello,Columbia Township,CB,0,1,1,4,0,0,0,1,1,0
+0,Wapello,Dahlonega Township,DA,9,2,7,3,0,0,0,3,6,0
+0,Wapello,Green Township,GR,4,4,11,9,0,0,0,1,6,0
+0,Wapello,Highland Twp; Competine Twp,HI,8,1,3,14,1,0,0,0,4,0
+0,Wapello,Keokuk Township,KE,12,0,6,1,0,0,0,0,1,0
+0,Wapello,Ottumwa 1,OT01,15,3,11,11,0,0,0,5,9,0
+0,Wapello,Ottumwa 10,OT10,11,9,3,7,0,0,0,7,10,0
+0,Wapello,Ottumwa 2,OT02,12,6,18,24,0,0,0,30,12,0
+0,Wapello,Ottumwa 3,OT03,19,9,30,34,2,0,0,20,7,0
+0,Wapello,Ottumwa 4,OT04,15,2,2,7,0,0,0,1,6,0
+0,Wapello,Ottumwa 5,OT05,19,5,3,12,0,0,0,4,9,0
+0,Wapello,Ottumwa 6,OT06,8,5,2,11,0,0,0,1,7,0
+0,Wapello,Ottumwa 7,OT07,8,6,5,3,0,0,0,0,3,0
+0,Wapello,Ottumwa 8,OT08,7,1,9,10,0,2,0,2,7,0
+0,Wapello,Ottumwa 9,OT09,8,3,12,10,0,0,0,11,5,0
+0,Wapello,Richland Township,RL,2,3,5,10,0,0,0,1,5,0
+0,Wapello,Washington Township,WA,6,3,2,0,0,0,0,4,1,0
+0,Warren,Allen 1,AL1,19,2,17,35,1,0,0,6,9,0
+0,Warren,Allen 2,AL2,28,11,10,24,6,0,0,15,17,0
+0,Warren,Belmont,BM,16,0,8,22,0,0,0,9,20,0
+0,Warren,Greenfield 1,GR1,41,3,8,22,0,0,0,16,15,0
+0,Warren,Greenfield 2,GR2,29,9,22,22,0,0,0,17,4,0
+0,Warren,Indianola 1,IN1,48,10,35,52,7,0,0,35,17,0
+0,Warren,Indianola 2,IN2,30,3,18,62,1,0,0,79,27,0
+0,Warren,Indianola 3,IN3,40,4,22,57,2,0,0,32,8,0
+0,Warren,Indianola 4,IN4,40,9,7,23,0,0,0,25,14,0
+0,Warren,Jackson,JK,14,4,9,5,0,0,0,8,3,0
+0,Warren,Jefferson,JF,10,11,15,29,1,0,0,26,9,0
+0,Warren,Liberty,LB,9,0,1,9,0,0,0,1,6,0
+0,Warren,Lincoln,LC,39,9,31,45,1,0,0,30,25,3
+0,Warren,Linn,LN,17,13,14,42,0,0,0,21,15,0
+0,Warren,Norwalk 1,NW1,35,10,20,26,1,0,0,31,6,0
+0,Warren,Norwalk 2,NW2,72,15,37,39,3,0,0,61,22,0
+0,Warren,Norwalk 3,NW3,21,14,13,25,0,0,0,23,8,0
+0,Warren,Otter,OT,9,1,5,22,0,0,0,6,8,0
+0,Warren,Palmyra,PM,14,4,8,13,0,0,0,4,14,0
+0,Warren,Richland,RL,11,0,5,6,0,0,0,8,3,0
+0,Warren,Squaw,SQ,7,1,1,15,0,0,0,1,14,0
+0,Warren,Union,UN,4,3,6,15,0,0,0,0,16,0
+0,Warren,Virginia,VA,21,5,9,9,0,0,0,8,10,0
+0,Warren,White Breast,WB,9,0,2,3,0,0,0,3,4,0
+0,Warren,White Oak,WO,12,9,11,8,0,0,0,14,14,0
+0,Washington,Ainsworth Precinct,P10,42,5,9,22,0,0,0,14,14,0
+0,Washington,Brighton Precinct,P9,25,2,10,16,0,0,0,6,11,0
+0,Washington,English River Precinct,P2,36,11,19,20,0,0,0,11,5,0
+0,Washington,Kalona Precinct,P3,43,6,19,13,0,0,0,32,10,0
+0,Washington,Riverside Precinct,P4,19,5,12,34,0,0,0,18,4,0
+0,Washington,Washington Ward 1 Precinct,P5,15,2,14,18,0,0,0,14,15,0
+0,Washington,Washington Ward 2 Precinct,P6,16,3,2,17,0,0,0,10,4,0
+0,Washington,Washington Ward 3 Precinct,P8,19,2,6,20,0,1,0,25,11,0
+0,Washington,Washington Ward 4 Precinct,P7,16,4,9,12,0,0,0,26,25,0
+0,Washington,Wellman Precinct,P1,46,11,28,33,0,0,0,12,14,0
+0,Wayne,All,ALL,45,23,22,72,2,0,0,37,61,0
+0,Webster,Badger-North Cooper Township,BD/NC,20,4,14,19,2,0,0,18,10,0
+0,Webster,Clay-Roland Township,CR,11,7,7,10,0,0,0,6,2,0
+0,Webster,Colfax-Duncombe Township,CD,3,0,2,0,0,0,0,5,0,0
+0,Webster,Dayton-Burnside Township,DA/BU,4,2,9,11,0,0,0,6,8,0
+0,Webster,Deer Creek-Jackson Township,DJ,9,3,3,10,0,0,0,12,1,0
+0,Webster,Douglas Township,DO,6,2,4,9,1,0,0,10,2,0
+0,Webster,Elkhorn Township,EL,1,1,1,18,0,0,0,3,2,0
+0,Webster,Fd #01,1,8,4,22,32,1,0,0,57,18,0
+0,Webster,Fd #02,2,17,2,11,20,1,0,0,28,10,0
+0,Webster,Fd #03,3,7,3,7,26,0,0,0,27,5,0
+0,Webster,Fd #04,4,4,0,1,3,0,0,0,2,2,0
+0,Webster,Fd #05,5,9,2,12,7,0,0,0,13,2,0
+0,Webster,Fd #06,6,9,0,3,9,0,0,0,3,0,0
+0,Webster,Fd #07,7,5,1,0,3,0,0,0,2,7,0
+0,Webster,Fd #08,8,5,1,2,5,0,0,0,3,4,0
+0,Webster,Fd #09,9,8,0,0,1,0,0,0,3,4,0
+0,Webster,Fd #10,10,12,3,3,21,0,0,0,14,16,0
+0,Webster,Fd #11,11,20,4,16,45,0,0,0,30,13,0
+0,Webster,Fd #12,12,5,0,2,11,0,0,0,12,5,0
+0,Webster,Fulton Township,FU,3,1,4,7,0,0,0,6,2,0
+0,Webster,Gowrie Township,GO,5,5,8,7,0,0,0,6,3,0
+0,Webster,Johnson Township,JO,1,2,1,6,0,0,0,2,3,0
+0,Webster,Lost Grove Township,LG,4,0,6,5,0,0,0,4,0,0
+0,Webster,Newark Township,NE,3,2,7,1,0,0,0,1,7,0
+0,Webster,Northeast Douglas Township,ND,2,2,6,6,0,0,0,3,0,0
+0,Webster,Otho Township,OT,6,0,3,3,0,0,0,3,4,0
+0,Webster,Pleasant Valley-Washington Township,PV/WA,8,8,6,7,0,0,0,4,6,0
+0,Webster,South Cooper Township,SC,3,0,0,1,0,0,0,0,0,0
+0,Webster,Sumner-Webster-Yell-Hardin Township,SWYH,5,3,2,8,0,0,0,4,4,0
+0,Winnebago,Buffalo Grant Precinct,BUGR,2,0,6,27,0,0,0,5,2,0
+0,Winnebago,Center Precinct,CELM,15,6,15,19,2,0,0,24,2,0
+0,Winnebago,Eden Logan Norway Precinct,EDLONO,2,9,3,15,0,0,0,3,1,0
+0,Winnebago,FC3 Forest D3 Precinct,FC3D3,6,1,5,16,2,0,0,5,4,0
+0,Winnebago,Forest City Ward 1 Precinct,FC 1,5,1,6,8,0,0,0,8,1,0
+0,Winnebago,Forest City Ward 2 Precinct,FC 2,4,7,5,16,1,0,0,9,3,0
+0,Winnebago,Forest City Ward 4 Precinct,FC 4,2,1,9,16,0,0,0,5,0,0
+0,Winnebago,King Linden Precinct,KILI,4,1,10,6,0,0,0,4,1,0
+0,Winnebago,Lincoln Precinct,LCRA,4,1,1,3,0,0,0,0,1,0
+0,Winnebago,Mt. Valley Forest D2 Precinct,MVFOD2,6,3,0,18,0,0,0,0,3,0
+0,Winnebago,Newton Forest D1 Precinct,NEFOD1,5,11,8,26,0,0,0,6,4,0
+0,Winneshiek,Bloomfield (CS) Frankville Glenwood,7,14,1,16,25,1,0,0,5,1,0
+0,Winneshiek,Bluffton Burr Oak Canoe Hesper Highland Pleasant,1,25,3,31,13,1,0,0,31,5,0
+0,Winneshiek,Calmar Twp (CA) (SP),4,20,7,12,1,0,0,0,6,7,0
+0,Winneshiek,Decorah 1st Ward,9,5,0,12,9,0,0,0,8,0,0
+0,Winneshiek,Decorah 2nd Ward,10,25,1,14,5,2,0,0,14,3,0
+0,Winneshiek,Decorah 3A Ward,11,8,0,3,7,0,0,0,11,1,0
+0,Winneshiek,Decorah 3B Ward,12,7,0,3,6,0,0,0,11,1,0
+0,Winneshiek,Decorah 4th Ward,13,17,1,9,0,0,0,0,13,0,0
+0,Winneshiek,Decorah 5th Ward,14,11,1,25,12,2,0,0,20,6,0
+0,Winneshiek,Decorah Twp; Springfield,8,14,0,17,12,0,0,0,14,7,0
+0,Winneshiek,Fremont Lincoln (RI) Orleans Sumner,2,10,0,8,10,2,0,0,3,1,0
+0,Winneshiek,Jackson Washington (JJ) (FA),5,6,3,2,11,0,0,0,4,2,0
+0,Winneshiek,Madison,3,5,0,12,9,0,0,0,2,0,0
+0,Winneshiek,Military (OS),6,7,2,5,16,0,0,0,7,0,0
+0,Woodbury,01 Sioux City,1,23,4,15,45,0,0,0,58,22,1
+0,Woodbury,02 Sioux City,2,9,1,3,5,0,0,0,3,2,0
+0,Woodbury,03 Sioux City,3,12,1,11,34,0,0,0,12,6,0
+0,Woodbury,04 Sioux City,4,6,0,2,9,0,0,0,6,1,0
+0,Woodbury,05 Sioux City,5,18,0,5,9,0,0,0,14,4,0
+0,Woodbury,06 Sioux City,6,11,0,11,32,1,0,0,28,11,0
+0,Woodbury,07 Sioux City,7,15,0,4,16,0,0,0,12,11,0
+0,Woodbury,08 Sioux City,8,2,0,1,2,0,0,0,2,3,0
+0,Woodbury,09 Sioux City,9,22,2,8,46,0,0,0,14,6,0
+0,Woodbury,10 Sioux City,10,42,0,34,51,0,0,0,121,14,0
+0,Woodbury,11 Sioux City,11,0,0,0,6,1,0,0,3,0,0
+0,Woodbury,12 Sioux City,12,2,0,2,1,0,1,0,2,0,0
+0,Woodbury,13 Sioux City,13,10,1,0,17,0,0,0,3,2,0
+0,Woodbury,14 Sioux City,14,5,0,8,17,1,1,0,6,2,0
+0,Woodbury,15 Sioux City,15,6,0,2,10,0,1,0,1,10,0
+0,Woodbury,16 Sioux City,16,14,0,13,24,1,0,0,32,10,0
+0,Woodbury,17 Sioux City,17,15,9,32,43,3,0,0,41,5,0
+0,Woodbury,18 Sioux City,18,9,2,7,20,1,0,0,12,4,0
+0,Woodbury,19 Sioux City,19,22,3,11,45,0,0,0,55,9,0
+0,Woodbury,20 Sioux City,20,6,4,34,46,0,0,0,115,27,0
+0,Woodbury,21 Sioux City,21,12,0,11,27,0,0,0,30,5,0
+0,Woodbury,22 Sioux City,22,25,7,16,37,1,0,0,40,9,0
+0,Woodbury,23 Sioux City,23,26,3,5,24,2,0,0,8,3,0
+0,Woodbury,24 Sioux City,24,13,5,12,19,2,0,0,8,2,0
+0,Woodbury,25 Sioux City,25,18,3,6,28,1,0,0,22,7,0
+0,Woodbury,26 Sioux City,26,34,6,30,65,0,0,0,82,15,0
+0,Woodbury,27 Sioux City,27,16,4,2,40,0,0,0,22,10,0
+0,Woodbury,28 Sioux City,28,6,0,2,6,0,0,0,5,4,0
+0,Woodbury,29 Woodbury,29,25,3,13,54,0,0,0,20,5,0
+0,Woodbury,30 Sloan (City),30,7,0,5,6,0,0,0,17,7,0
+0,Woodbury,31 Willow,31,4,0,0,18,0,0,0,3,1,0
+0,Woodbury,32 Oto (City),32,3,0,0,1,0,0,0,0,0,0
+0,Woodbury,33 Rutland,33,4,1,2,19,0,0,0,4,0,0
+0,Woodbury,34 Sergeant Bluff (City),34,19,0,27,88,0,0,0,37,10,0
+0,Woodbury,35 Arl/Mov/Wol,35,18,1,11,47,0,0,0,35,3,0
+0,Woodbury,36 Ban/Con,36,19,10,13,31,0,0,0,23,38,0
+0,Woodbury,37 Floyd,37,4,3,4,24,0,0,0,11,9,0
+0,Woodbury,38 Grg/Lib/Lak,38,4,3,11,14,0,0,0,13,9,0
+0,Woodbury,39 Grt/Wes,39,2,1,2,26,0,0,0,6,3,0
+0,Woodbury,40 Union,40,8,0,13,12,1,0,0,13,8,0
+0,Woodbury,41 Lis/Mor,41,2,3,8,15,4,0,0,1,0,0
+0,Woodbury,42 Little Sioux,42,4,0,0,19,0,0,0,5,0,0
+0,Woodbury,43 Ked/Mil,43,5,0,7,20,0,0,0,7,10,0
+0,Woodbury,44 Rock,44,2,0,3,7,0,0,0,0,1,0
+0,Worth,Brookfield,W23,0,0,0,2,0,0,0,3,1,0
+0,Worth,Fertile,W26,4,3,8,10,0,0,0,1,4,0
+0,Worth,Grafton Union Barton,W11,1,3,3,2,0,0,0,8,4,0
+0,Worth,Hanlontown Danville,W25,0,3,2,5,0,0,0,0,3,0
+0,Worth,Joice Bristol,W22,0,3,2,3,0,0,0,0,8,0
+0,Worth,Kensett,W24,8,3,6,2,1,0,0,0,3,0
+0,Worth,Manly Lincoln Danville,W12,4,0,1,5,0,0,0,7,0,0
+0,Worth,Northwood Hartland Grove Deer Creek,W31,13,3,8,15,2,0,0,15,3,0
+0,Worth,Silver Lake,W21,1,0,0,2,0,0,0,0,0,0
+0,Wright,Belmond,BM,13,4,13,23,0,0,0,20,12,0
+0,Wright,Blaine Vernon,BL/VN,4,2,8,10,0,0,0,5,11,0
+0,Wright,Boone Liberty,BO,6,5,5,14,0,0,0,9,14,0
+0,Wright,Clarion,CL,11,10,12,21,0,0,0,19,20,1
+0,Wright,Dayton Lake Grant Lincoln,DY,11,4,12,12,0,0,0,17,8,0
+0,Wright,Eagle Grove Pct 1,EG1,4,0,1,3,0,0,0,0,1,0
+0,Wright,Eagle Grove Pct 2,EG2,5,3,4,1,0,0,0,3,5,0
+0,Wright,Eagle Grove Pct 3,EG3,4,5,1,11,0,0,0,5,4,0
+0,Wright,Eagle Grove Pct 4,EG4,3,1,1,1,0,0,0,6,1,0
+0,Wright,Eagle Grove Troy,EGT,2,4,4,3,0,0,0,7,2,0
+0,Wright,Iowa,IA,4,1,1,7,0,0,0,2,4,0
+0,Wright,Woolstock Wall Lake,WS,1,1,6,3,0,0,0,6,0,0
