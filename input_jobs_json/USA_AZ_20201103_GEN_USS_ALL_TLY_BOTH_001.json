@@ -182,7 +182,7 @@
 
         "bool_predicting_from_fourth_root_of_actual_tally_interaction_benchmark_tally" : false,
         "bool_predicting_from_square_root_of_actual_tally_interaction_benchmark_tally" : false,
-        "bool_predicting_from_actual_tally_interaction_benchmark_tally" : false,
+        "bool_predicting_from_actual_tally_interaction_benchmark_tally" : true,
 
         
         "bool_predicting_from_ln_of_incremented_actual_tally_interaction_county_indicator" : false,
@@ -284,32 +284,34 @@
         "str_legend_loc" : "lower left",
         "lst_str_text_line_content" :
         [
-            "https://github.com/quant-manager"
+            "https://github.com/quant-manager/election_outliers/blob/main/input_batches_bat/USA_AZ_20201103_GEN_USS_ALL_TLY_BOTH_001_batch.bat",
+            "https://github.com/quant-manager/election_outliers/blob/main/input_jobs_json/USA_AZ_20201103_GEN_USS_ALL_TLY_BOTH_001.json",
+            "https://github.com/quant-manager/election_outliers/tree/main/output_jobs_dir/USA_AZ_20201103_GEN_USS_ALL_TLY_BOTH_001"
         ],
         "lst_str_text_line_color" :
         [
             "darkblue"
         ],
-        "int_text_line_font_size" : 7,
+        "int_text_line_font_size" : 4,
         "flt_text_line_x_loc_as_fraction" : 0.1275,
         "flt_text_line_lower_y_loc_as_fraction" : 0.14,
-        "flt_text_line_upper_y_loc_as_fraction" : 0.85,
-        "flt_text_line_abs_delta_y_loc_as_fraction" : 0.03,
+        "flt_text_line_upper_y_loc_as_fraction" : 0.865,
+        "flt_text_line_abs_delta_y_loc_as_fraction" : 0.02,
         "str_text_line_start_y_loc" : "upper",
         "bool_display_chart_id" : true,
         "int_chart_id_font_size" : 7,
         "bool_include_mac_address_in_chart_id" : true,
 
-        "lst_flt_min_x" : [0.0, 95.0],
+        "lst_flt_min_x" : [0.0, 90.0],
         "lst_flt_max_x" : [100.0, 100.0],
         "lst_flt_xticks_incr" : [5.0, 1.0],
-        "lst_flt_min_y" : [0.0, 48.0],
-        "lst_flt_max_y" : [100.0, 52.0],
+        "lst_flt_min_y" : [0.0, 47.0],
+        "lst_flt_max_y" : [100.0, 56.0],
         "lst_flt_yticks_incr" : [5.0, 0.25],
         "lst_flt_plot_width_in_inches" : [6.4, 6.4],
         "lst_flt_plot_height_in_inches" : [4.8, 4.8],
         "lst_int_dots_per_inch_for_png_and_jpg_plots" : [1200, 1200],
-        "lst_flt_right_tails_circles_radius_in_pct_pnts" : [1.0, 1.0],
+        "lst_flt_right_tails_circles_radius_in_pct_pnts" : [2.8, 2.8],
         "lst_str_file_suffix_for_saving_plot" :
         [
             "full",
