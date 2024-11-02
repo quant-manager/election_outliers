@@ -184,7 +184,7 @@
 
         "bool_predicting_from_fourth_root_of_actual_tally_interaction_benchmark_tally" : false,
         "bool_predicting_from_square_root_of_actual_tally_interaction_benchmark_tally" : false,
-        "bool_predicting_from_actual_tally_interaction_benchmark_tally" : false,
+        "bool_predicting_from_actual_tally_interaction_benchmark_tally" : true,
 
         
         "bool_predicting_from_ln_of_incremented_actual_tally_interaction_county_indicator" : false,
@@ -298,17 +298,19 @@
         "str_legend_loc" : "lower left",
         "lst_str_text_line_content" :
         [
-            "https://github.com/quant-manager"
+            "https://github.com/quant-manager/election_outliers/blob/main/input_batches_bat/USA_AZ_20201103_GEN_PRE_ALL_TLY_BOTH_001_batch.bat",
+            "https://github.com/quant-manager/election_outliers/blob/main/input_jobs_json/USA_AZ_20201103_GEN_PRE_ALL_TLY_BOTH_001.json",
+            "https://github.com/quant-manager/election_outliers/tree/main/output_jobs_dir/USA_AZ_20201103_GEN_PRE_ALL_TLY_BOTH_001"
         ],
         "lst_str_text_line_color" :
         [
             "darkblue"
         ],
-        "int_text_line_font_size" : 7,
+        "int_text_line_font_size" : 4,
         "flt_text_line_x_loc_as_fraction" : 0.1275,
         "flt_text_line_lower_y_loc_as_fraction" : 0.14,
-        "flt_text_line_upper_y_loc_as_fraction" : 0.85,
-        "flt_text_line_abs_delta_y_loc_as_fraction" : 0.03,
+        "flt_text_line_upper_y_loc_as_fraction" : 0.865,
+        "flt_text_line_abs_delta_y_loc_as_fraction" : 0.02,
         "str_text_line_start_y_loc" : "upper",
         "bool_display_chart_id" : true,
         "int_chart_id_font_size" : 7,
