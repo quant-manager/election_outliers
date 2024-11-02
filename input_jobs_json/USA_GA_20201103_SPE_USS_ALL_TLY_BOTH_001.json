@@ -373,17 +373,19 @@
         "str_legend_loc" : "lower left",
         "lst_str_text_line_content" :
         [
-            "https://github.com/quant-manager"
+            "https://github.com/quant-manager/election_outliers/blob/main/input_batches_bat/USA_GA_20201103_SPE_USS_ALL_TLY_BOTH_001_batch.bat",
+            "https://github.com/quant-manager/election_outliers/blob/main/input_jobs_json/USA_GA_20201103_SPE_USS_ALL_TLY_BOTH_001.json",
+            "https://github.com/quant-manager/election_outliers/tree/main/output_jobs_dir/USA_GA_20201103_SPE_USS_ALL_TLY_BOTH_001"
         ],
         "lst_str_text_line_color" :
         [
             "darkblue"
         ],
-        "int_text_line_font_size" : 7,
+        "int_text_line_font_size" : 4,
         "flt_text_line_x_loc_as_fraction" : 0.1275,
         "flt_text_line_lower_y_loc_as_fraction" : 0.14,
-        "flt_text_line_upper_y_loc_as_fraction" : 0.85,
-        "flt_text_line_abs_delta_y_loc_as_fraction" : 0.03,
+        "flt_text_line_upper_y_loc_as_fraction" : 0.865,
+        "flt_text_line_abs_delta_y_loc_as_fraction" : 0.02,
         "str_text_line_start_y_loc" : "upper",
         "bool_display_chart_id" : true,
         "int_chart_id_font_size" : 7,
@@ -393,7 +395,7 @@
         "lst_flt_max_x" : [100.0, 100.0],
         "lst_flt_xticks_incr" : [5.0, 1.0],
         "lst_flt_min_y" : [0.0, 0.0],
-        "lst_flt_max_y" : [100.0, 35.0],
+        "lst_flt_max_y" : [100.0, 37.0],
         "lst_flt_yticks_incr" : [5.0, 1.0],
         "lst_flt_plot_width_in_inches" : [6.4, 6.4],
         "lst_flt_plot_height_in_inches" : [4.8, 4.8],
