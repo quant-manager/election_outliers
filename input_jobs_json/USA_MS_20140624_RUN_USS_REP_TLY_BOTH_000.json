@@ -274,13 +274,13 @@
         "lst_flt_min_x" : [0.0, 90.0],
         "lst_flt_max_x" : [100.0, 100.0],
         "lst_flt_xticks_incr" : [5.0, 1.0],
-        "lst_flt_min_y" : [0.0, 48.0],
-        "lst_flt_max_y" : [100.0, 52.0],
-        "lst_flt_yticks_incr" : [5.0, 0.5],
+        "lst_flt_min_y" : [0.0, 47.0],
+        "lst_flt_max_y" : [100.0, 53.0],
+        "lst_flt_yticks_incr" : [5.0, 0.25],
         "lst_flt_plot_width_in_inches" : [6.4, 6.4],
         "lst_flt_plot_height_in_inches" : [4.8, 4.8],
         "lst_int_dots_per_inch_for_png_and_jpg_plots" : [1200, 1200],
-        "lst_flt_right_tails_circles_radius_in_pct_pnts" : [2.0, 2.0],
+        "lst_flt_right_tails_circles_radius_in_pct_pnts" : [1.8, 1.8],
         "lst_str_file_suffix_for_saving_plot" :
         [
             "full",
