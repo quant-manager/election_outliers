@@ -16,7 +16,7 @@ The bias of outlier precincts is visually detectable by a "structural break" in 
 3. Prepare configuration for the job and its models, as defined in "input_jobs_json/" (e.g. USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000.json).
 4. Create the batch of jobs (or one job) definition in "input_batches_csv/" (e.g. USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000_batch.csv).
 5. Create the batch script in "input_batches_bat/" (e.g. USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000_batch.bat).
-6. Run the batch script in "input_batches_bat/" or later in "output_jobs_dir/" (e.g. USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000_batch.bat)
+6. Run the batch script in "input_batches_bat/" or later in "output_jobs_dir/" (e.g. USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000_batch.bat). This batch script will launch "eo.py" Pythin script to do the data processing.
 7. Observe the output directory created or updated in "output_jobs_dir/" (e.g. USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000/)
 8. Review the newly generated "PDF" and "SVG" files in "output_jobs_dir/<job_name>" (e.g <job_name> set to USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000, and files such as USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000_full_plots_parm.pdf, USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000_full_plots_parm.svg, USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000_magn_plots_parm.pdf, and USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000_magn_plots_parm.svg).
 9. Review outlier precincts' names in the sorted table with outlier scores in "output_jobs_dir/<job_name>/<job_name>_data_parm.csv" (e.g. USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000_data_parm.csv).
