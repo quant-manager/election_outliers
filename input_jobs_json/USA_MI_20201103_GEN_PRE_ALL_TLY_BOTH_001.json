@@ -306,7 +306,7 @@
         "bool_predicting_from_power_one_quarter_of_actual_tally" : false,
         "bool_predicting_from_square_root_of_actual_tally" : false,
         "bool_predicting_from_power_three_quarters_of_actual_tally" : false,
-        "bool_predicting_from_actual_tally" : true,
+        "bool_predicting_from_actual_tally" : false,
         "bool_predicting_from_power_one_and_a_half_of_actual_tally" : false,
         "bool_predicting_from_squared_actual_tally" : false,
 
@@ -314,13 +314,13 @@
         "bool_predicting_from_power_one_quarter_of_benchmark_tally" : false,
         "bool_predicting_from_square_root_of_benchmark_tally" : false,
         "bool_predicting_from_power_three_quarters_of_benchmark_tally" : false,
-        "bool_predicting_from_benchmark_tally" : true,
+        "bool_predicting_from_benchmark_tally" : false,
         "bool_predicting_from_power_one_and_a_half_of_benchmark_tally" : false,
         "bool_predicting_from_squared_benchmark_tally" : false,
 
         "bool_predicting_from_fourth_root_of_actual_tally_interaction_benchmark_tally" : false,
         "bool_predicting_from_square_root_of_actual_tally_interaction_benchmark_tally" : false,
-        "bool_predicting_from_actual_tally_interaction_benchmark_tally" : true,
+        "bool_predicting_from_actual_tally_interaction_benchmark_tally" : false,
 
         
         "bool_predicting_from_ln_of_incremented_actual_tally_interaction_county_indicator" : false,
