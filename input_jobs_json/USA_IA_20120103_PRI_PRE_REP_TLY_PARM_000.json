@@ -313,23 +313,25 @@
         "str_legend_loc" : "lower left",
         "lst_str_text_line_content" :
         [
-            "https://github.com/quant-manager"
+            "https://github.com/quant-manager/election_outliers/blob/main/input_batches_bat/USA_IA_20120103_PRI_PRE_REP_TLY_PARM_000_batch.bat",
+            "https://github.com/quant-manager/election_outliers/blob/main/input_jobs_json/USA_IA_20120103_PRI_PRE_REP_TLY_PARM_000.json",
+            "https://github.com/quant-manager/election_outliers/tree/main/output_jobs_dir/USA_IA_20120103_PRI_PRE_REP_TLY_PARM_000"
         ],
         "lst_str_text_line_color" :
         [
             "darkblue"
         ],
-        "int_text_line_font_size" : 7,
+        "int_text_line_font_size" : 4,
         "flt_text_line_x_loc_as_fraction" : 0.1275,
         "flt_text_line_lower_y_loc_as_fraction" : 0.14,
-        "flt_text_line_upper_y_loc_as_fraction" : 0.85,
-        "flt_text_line_abs_delta_y_loc_as_fraction" : 0.03,
+        "flt_text_line_upper_y_loc_as_fraction" : 0.865,
+        "flt_text_line_abs_delta_y_loc_as_fraction" : 0.02,
         "str_text_line_start_y_loc" : "upper",
-        "bool_display_chart_id" : false,
+        "bool_display_chart_id" : true,
         "int_chart_id_font_size" : 7,
-        "bool_include_mac_address_in_chart_id" : false,
+        "bool_include_mac_address_in_chart_id" : true,
 
-        "lst_flt_min_x" : [0.0, 80.0],
+        "lst_flt_min_x" : [0.0, 90.0],
         "lst_flt_max_x" : [100.0, 100.0],
         "lst_flt_xticks_incr" : [5.0, 1.0],
         "lst_flt_min_y" : [0.0, 0.0],
