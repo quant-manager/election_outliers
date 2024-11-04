@@ -11,4 +11,13 @@ The bias of outlier precincts is visually detectable by a "structural break" in 
 
 ## Quickstart Guide
 
-...
+1. Obtain granular (precinct-level) election results, preferably directly from the states (the respective Secretary of State). Optionally, obtain also the benchmark election results from the same state.
+2. Transform election results into the required format for "input_data_csv/" (e.g. USA_MS_20140624_RUN_USS_REP_000_data.csv and USA_MS_20201103_GEN_ALL_ALL_001_data.csv).
+3. Prepare configuration for the job and its models, as defined in "input_jobs_json/" (e.g. USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000.json).
+4. Create the batch of jobs (or one job) definition in "input_batches_csv/" (e.g. USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000_batch.csv).
+5. Create the batch script in "input_batches_bat/" (e.g. USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000_batch.bat).
+6. Run the batch script in "input_batches_bat/" or later in "output_jobs_dir/" (e.g. USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000_batch.bat)
+7. Observe the output directory created or updated in "output_jobs_dir/" (e.g. USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000/)
+8. Review the newly generated "PDF" and "SVG" files in "output_jobs_dir/<job name>" (e.g <job name> set to USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000, and files such as USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000_full_plots_parm.pdf, USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000_full_plots_parm.svg, USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000_magn_plots_parm.pdf, and USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000_magn_plots_parm.svg).
+9. Review outlier precincts' names in the sorted table with outlier scores in "output_jobs_dir/<job name>/<job name>_data_parm.csv" (e.g. USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000_data_parm.csv).
+10. Consider changing various configuration parameters in the configuration file from "input_jobs_json/" (e.g. USA_MS_20140624_RUN_USS_REP_TLY_BOTH_000.json), as well as "IS_AUDITED" flag (to 1) in data files from "input_data_csv/" (e.g. USA_MS_20140624_RUN_USS_REP_000_data.csv and USA_MS_20201103_GEN_ALL_ALL_001_data.csv) for research purposes and for obtaining additional insights. Additional output files may be generated after changes in job configuration file from "input_jobs_json/".
