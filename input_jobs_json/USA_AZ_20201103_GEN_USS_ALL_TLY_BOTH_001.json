@@ -182,7 +182,7 @@
 
         "bool_predicting_from_fourth_root_of_actual_tally_interaction_benchmark_tally" : false,
         "bool_predicting_from_square_root_of_actual_tally_interaction_benchmark_tally" : false,
-        "bool_predicting_from_actual_tally_interaction_benchmark_tally" : true,
+        "bool_predicting_from_actual_tally_interaction_benchmark_tally" : false,
 
         
         "bool_predicting_from_ln_of_incremented_actual_tally_interaction_county_indicator" : false,
