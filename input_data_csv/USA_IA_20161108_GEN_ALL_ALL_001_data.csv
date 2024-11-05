@@ -1,0 +1,1681 @@
+IS_AUDITED,COUNTY_NAME,PRECINCT_NAME,PRECINCT_CODE,USA_IA_20161108_GEN_PRE_REP_TRUMP,USA_IA_20161108_GEN_PRE_DEM_CLINTON,USA_IA_20161108_GEN_PRE_LIB_JOHNSON,USA_IA_20161108_GEN_PRE_GRE_STEIN,USA_IA_20161108_GEN_PRE_CON_CASTLE,USA_IA_20161108_GEN_PRE_MAR_VACEK,USA_IA_20161108_GEN_PRE_NEW_KAHN,USA_IA_20161108_GEN_PRE_IND_MCMULLIN,USA_IA_20161108_GEN_PRE_IND_FUENTE,USA_IA_20161108_GEN_PRE_SOC_RIVA,USA_IA_20161108_GEN_PRE_OTH_WRITEIN,USA_IA_20161108_GEN_USS_REP_GRASSLEY,USA_IA_20161108_GEN_USS_DEM_JUDGE,USA_IA_20161108_GEN_USS_LIB_ALDRICH,USA_IA_20161108_GEN_USS_NEW_HENNAGER,USA_IA_20161108_GEN_USS_IND_LUICK_THRAMS,USA_IA_20161108_GEN_USS_OTH_WRITEIN
+0,_Adair,_Adair 1NW | _1NW Adair,_1NW,549,174,21,3,1,2,0,1,1,0,6,562,145,29,11,5,0
+0,_Adair,_Adair 2NE | _2NE Stuart,_2NE,455,250,26,6,3,3,1,3,0,0,11,508,198,27,8,1,1
+0,_Adair,_Adair 3SW | _3SW Fontanelle,_3SW,545,200,23,0,3,2,2,2,2,0,10,600,156,21,7,2,0
+0,_Adair,_Adair 4SE | _4SE Orient,_4SE,433,226,27,0,3,3,2,3,0,0,3,490,170,18,12,2,1
+0,_Adair,_Adair 5 GF | _5GF Greenfield,_5GF,479,283,30,5,0,0,0,1,0,0,8,548,225,16,8,1,0
+0,_Adams,_Adams County District 1 | _Adams 1,_DISTRICT1,230,124,26,1,2,0,0,2,0,0,2,251,100,11,10,0,1
+0,_Adams,_Adams County District 2 | _Adams 2,_DISTRICT2,275,119,25,1,5,1,0,1,1,0,7,318,85,13,6,2,0
+0,_Adams,_Adams County District 3 | _Adams 3,_DISTRICT3,271,125,16,5,0,0,0,2,0,0,7,298,97,15,4,3,0
+0,_Adams,_Adams County District 4 | _Adams 4,_DISTRICT4,308,113,14,2,2,0,0,1,0,0,3,328,94,10,4,3,0
+0,_Adams,_Adams County District 5 | _Adams 5,_DISTRICT5,311,84,12,0,4,0,1,0,0,0,3,320,78,9,1,1,0
+0,_Allamakee,_Frankling-Post | _Pct 03 - PO/FK,_FRANKLIN,247,79,8,1,0,0,2,3,0,0,1,262,66,4,3,0,0
+0,_Allamakee,_French Creek-Jefferson-Ludlow-Makee-Union P | _Pct 02 - FC/JF/LL/MK/UP,_FRENCHCREEK,816,355,50,9,5,1,2,3,0,0,10,894,304,25,9,7,0
+0,_Allamakee,_Hanover-Waterloo | _Pct 01 - WL/HV,_HANOVER,161,101,3,2,3,3,1,1,0,0,0,173,81,8,3,2,0
+0,_Allamakee,_Harpers Ferry-Fairview-Taylor | _Pct 06 - FV/TL/HF City,_HARPERSFERRY,280,195,10,4,1,0,0,0,0,0,2,292,174,15,6,0,0
+0,_Allamakee,_Lansing-Center-Lafayette-Lansing | _Pct 07 - CN/LF/LS/LS City,_LANSING,586,492,41,8,10,1,1,10,1,0,8,643,443,34,11,7,0
+0,_Allamakee,_New Albin-Iowa-Union City | _Pct 08 - IA/UC/NA City,_NEWALBIN,343,151,12,6,3,0,0,3,0,0,7,370,123,18,5,1,0
+0,_Allamakee,_Postville | _Pct 04 - PV City,_POSTVILLE,258,220,24,6,1,0,0,3,0,1,3,302,180,11,4,1,0
+0,_Allamakee,_Waterville-Linton-Paint Creek | _Pct 05 - LT/PC/WV City,_WATERVILLE,270,117,12,3,4,0,0,4,0,0,2,294,96,6,3,1,0
+0,_Allamakee,_Waukon 1 | _Pct 09 - Waukon 1,_WAUKON1,404,244,25,2,6,0,1,0,0,0,4,464,194,21,6,1,1
+0,_Allamakee,_Waukon 2 | _Pct 10 - Waukon 2,_WAUKON2,334,250,27,4,0,0,2,3,0,0,8,354,237,18,7,4,0
+0,_Allamakee,_Waukon 3 | _Pct 11 - Waukon 3,_WAUKON3,394,217,15,1,2,1,1,4,0,0,4,425,201,8,5,0,0
+0,_Appanoose,_Bellair/Lincoln | _Bellair/Lincoln,_BELLAIR,263,94,11,0,1,1,0,1,0,0,2,269,82,13,3,0,3
+0,_Appanoose,_Caldwell | _Caldwell Township,_CALDWELL,158,62,3,4,1,0,0,0,0,0,1,159,60,4,2,0,0
+0,_Appanoose,_Centerville 1 | _Centerville Ward 1,_CENTER1,548,294,23,9,2,1,2,4,1,0,11,550,294,18,6,3,1
+0,_Appanoose,_Centerville 2 | _Centerville Ward 2,_CENTER2,443,278,18,8,6,1,1,5,0,0,3,461,252,21,8,3,1
+0,_Appanoose,_Centerville 3 | _Centerville Ward 3,_CENTER3,436,260,24,9,5,3,1,2,0,1,6,456,244,17,11,4,0
+0,_Appanoose,_Johns/Independence | _Johns/Independence,_JOHNS,208,91,2,0,0,1,0,1,0,0,3,206,82,7,1,1,0
+0,_Appanoose,_Pleasant/Franklin | _Pleasant/Franklin,_PLEASANT,296,117,5,4,1,1,1,4,0,1,1,295,109,10,3,0,1
+0,_Appanoose,_Taylor/Chariton | _Taylor/Chariton,_TAYLOR,402,170,17,2,0,0,1,0,0,0,4,404,167,8,8,2,0
+0,_Appanoose,_Union/Udell | _Union/Udell Township,_UNION,237,78,10,3,0,0,0,3,0,0,2,248,77,4,0,0,0
+0,_Appanoose,_Vermillion/Douglas/Sharon | _Vermillion/Douglas/Sharon,_VERMILLION,407,153,14,1,3,2,0,2,0,0,4,428,134,8,6,1,0
+0,_Appanoose,_Walnut | _Walnut,_WALNUT,302,116,0,1,0,0,0,2,0,0,0,300,100,5,2,3,0
+0,_Appanoose,_Washington/Wells | _Washington/Wells,_WASHINGTON,333,101,12,1,6,1,2,0,0,0,0,346,89,6,6,1,0
+0,_Audubon,_Audubon | _Precinct 1,_AUDUBON,1230,559,64,10,12,2,0,4,0,0,14,1352,427,39,16,7,0
+0,_Audubon,_Exira | _Precinct 2,_EXIRA,906,521,43,14,5,2,2,5,2,1,16,971,420,31,19,0,0
+0,_Benton,_Benton Cnty Bruce/ Cedar/ Mt. Auburn Pct | _Bruce-Cedar-Mt Auburn,_BCM,385,112,13,1,4,0,0,0,1,0,1,414,92,7,2,0,1
+0,_Benton,_Benton Cty Benton/ Canton/ Shellsburg Prnct | _Benton-Canton-Shellsburg,_BCS,912,520,49,17,9,3,1,10,0,2,17,1014,442,46,15,3,3
+0,_Benton,_Belle Plaine 1 | _Belle Plaine 1,_BP1,263,147,16,3,4,0,1,3,0,0,2,302,125,5,6,0,0
+0,_Benton,_Belle Plaine 2 | _Belle Plaine 2,_BP2,228,102,13,2,2,0,1,3,0,0,3,241,86,13,7,0,0
+0,_Benton,_Belle Plaine 3 | _Belle Plaine 3,_BP3,177,133,6,5,3,1,1,2,0,0,4,201,110,13,6,1,1
+0,_Benton,_Benton Cnty Big Grove/ Union/ Van Horne Pct | _Big Grove-Union-Van Horne,_BUV,402,208,23,7,3,0,1,6,0,0,11,454,173,20,4,2,0
+0,_Benton,_Benton County Eden/ Harrison/ Taylor Pct | _Eden-Harrison-Taylor,_EHT,571,238,40,10,2,1,1,5,0,0,8,643,205,15,5,4,0
+0,_Benton,_Benton County El Dorado/ Newhall Pct | _Eldorado-Newhall,_EN,403,250,27,4,3,0,0,2,1,0,9,496,181,10,7,0,0
+0,_Benton,_Benton County Fremont/ Adkins Precinct | _Fremont-Atkins,_FA,898,483,72,8,5,2,1,9,0,0,18,1026,383,44,14,4,0
+0,_Benton,_Benton County Florence/ St. Clair/ Norway P | _Florence-St Clair-Norway,_FSN,486,290,31,0,1,2,0,4,0,0,6,533,243,22,5,2,0
+0,_Benton,_Benton Cty Homer/ Monroe/ Jackson/ Garrison | _Homer-Monroe-Jackson-Garrison,_HMJG,408,143,24,1,0,0,0,1,0,0,2,428,123,14,5,1,0
+0,_Benton,_Benton Cty Iowa/ Leroy/ Luzerne/ Blairstown | _Iowa-Leroy-Luzerne-Blairstown,_ILLB,521,245,30,3,4,0,4,3,0,0,11,565,213,26,12,0,0
+0,_Benton,_Benton County Kane/ Keystone Precinct | _Kane-Keystone,_KK,303,150,15,0,3,0,1,2,0,0,5,333,120,13,3,1,0
+0,_Benton,_Benton County Polk/ Urbana Pct | _Polk-Urbana,_PU,680,460,57,9,8,2,0,7,0,1,9,791,380,34,13,2,0
+0,_Benton,_Vinton Precinct 1 | _Vinton 1,_VIN1,334,278,31,3,3,0,2,4,0,0,6,423,210,13,9,1,0
+0,_Benton,_Vinton Precinct 2 | _Vinton 2,_VIN2,254,207,13,5,1,0,1,2,0,1,8,301,157,14,5,2,0
+0,_Benton,_Vinton Precinct 3 | _Vinton 3,_VIN3,369,255,34,6,2,1,1,2,0,0,3,448,193,19,5,1,1
+0,_Benton,_Vinton Precinct 4 | _Vinton 4,_VIN4,342,220,30,1,2,1,0,2,0,0,9,406,175,13,7,0,0
+0,_Benton,_Walford | _Walford,_WALFORD,296,237,18,1,2,0,1,3,0,0,7,332,200,14,4,2,2
+0,_Black Hawk,_Black Hawk County Barclary/ Lester Precinct | _Barclay Lester Dunkerton,_BARCLALESTER,633,348,33,13,4,3,0,3,0,0,11,705,305,21,11,4,0
+0,_Black Hawk,_Black Hawk County Bennington Precinct | _Bennington,_BENNINGTON,210,69,12,0,0,0,0,0,3,0,3,225,59,9,4,0,0
+0,_Black Hawk,_Black Hawk County Big Creek Precinct | _Big Creek La Porte,_BIGCREEK,714,504,67,8,4,1,0,7,2,0,14,811,428,49,23,0,0
+0,_Black Hawk,_Black Hawk County Black Hawk Precinct | _Black Hawk Hudson Lincoln,_BLACKHAWK,1104,598,72,7,8,2,3,15,1,0,23,1309,458,37,14,3,2
+0,_Black Hawk,_Black Hawk County Cedar/ Orange Precinct | _Cedar Orange,_CEDARORANGE,586,440,36,14,3,1,1,5,0,0,10,664,368,29,16,4,1
+0,_Black Hawk,_Cedar Falls ward 1 precinct 1 | _CF W1 P1,_CFW1P1,486,496,52,3,2,3,1,6,0,0,15,598,414,30,6,1,0
+0,_Black Hawk,_Cedar Falls ward 1 precinct 2 | _CF W1 P2,_CFW1P2,632,908,76,12,10,3,1,15,3,1,23,847,766,43,13,4,4
+0,_Black Hawk,_Cedar Falls ward 1 precinct 3 | _CF W1 P3,_CFW1P3,470,920,51,27,7,6,1,9,1,0,26,646,794,47,11,7,0
+0,_Black Hawk,_Cedar Falls ward 2 precinct 1 | _CF W2 P1,_CFW2P1,257,282,28,14,1,1,2,10,0,0,4,331,223,14,8,1,2
+0,_Black Hawk,_Cedar Falls ward 2 precinct 2/CF Twp | _CF W2 P2 & CF Twp,_CFW2P2,816,858,84,21,5,0,2,28,0,0,22,1048,702,39,11,7,2
+0,_Black Hawk,_Cedar Falls ward 2 precinct 3 | _CF W2 P3,_CFW2P3,1299,1154,103,24,9,3,2,28,0,0,49,1679,909,52,15,6,0
+0,_Black Hawk,_Cedar Falls ward 3 precinct 1 | _CF W3 P1,_CFW3P1,699,645,56,12,2,0,0,14,0,0,23,900,492,25,6,6,1
+0,_Black Hawk,_Cedar Falls ward 3 precinct 2 | _CF W3 P2,_CFW3P2,955,900,78,6,6,1,4,16,0,1,32,1216,693,44,14,0,1
+0,_Black Hawk,_Cedar Falls ward 3 precinct 3 | _CF W3 P3,_CFW3P3,559,636,81,11,5,1,1,16,0,1,18,731,492,32,14,3,3
+0,_Black Hawk,_Cedar Falls ward 4 precinct 1 | _CF W4 P1,_CFW4P1,663,814,61,17,3,3,1,16,1,0,21,844,683,41,10,4,1
+0,_Black Hawk,_Cedar Falls ward 4 precinct 2 | _CF W4 P2,_CFW4P2,370,639,70,21,2,2,1,12,0,1,12,500,546,43,11,5,0
+0,_Black Hawk,_Cedar Falls ward 4 precinct 3 | _CF W4 P3,_CFW4P3,338,597,69,16,3,0,1,13,1,0,12,536,421,29,16,2,1
+0,_Black Hawk,_Cedar Falls ward 5 precinct 1 | _CF W5 P1,_CFW5P1,596,786,59,17,4,2,2,13,0,0,20,793,640,33,10,3,1
+0,_Black Hawk,_Cedar Falls ward 5 precinct 2 | _CF W5 P2,_CFW5P2,606,804,62,10,4,1,1,18,0,1,25,781,680,39,6,4,1
+0,_Black Hawk,_Cedar Falls ward 5 precinct 3 | _CF W5 P3,_CFW5P3,768,672,53,7,4,2,1,24,0,0,22,969,544,29,5,1,0
+0,_Black Hawk,_Black Hawk County Eagle Precinct | _Eagle,_EAGLE,220,57,6,1,3,1,0,2,0,0,3,227,56,8,2,0,0
+0,_Black Hawk,_Black Hawk County Elk Run Heights/ Raymond | _Elk Run Heights & Raymond,_ELKRUNRAYMON,546,412,40,2,7,2,0,2,0,0,8,612,347,26,10,1,2
+0,_Black Hawk,_Evansdale 1 | _Evansdale W1,_EVANSDALE1,260,250,21,5,4,2,1,1,0,0,7,271,234,22,12,2,2
+0,_Black Hawk,_Evansdale 2 | _Evansdale W2,_EVANSDALE2,249,208,29,1,0,0,0,3,0,0,1,278,174,15,9,0,0
+0,_Black Hawk,_Evansdale 3 | _Evansdale W3,_EVANSDALE3,247,231,15,7,1,4,0,1,0,0,4,275,198,18,2,3,0
+0,_Black Hawk,_Evansdale 4 | _Evansdale W4,_EVANSDALE4,290,282,27,0,2,1,0,0,0,0,11,327,237,20,9,3,0
+0,_Black Hawk,_Black Hawk County Mount Vernon Precinct | _Mt Vernon,_MOUNTVERNON,348,257,31,3,0,0,0,0,0,0,3,418,204,15,2,0,0
+0,_Black Hawk,_Black Hawk County Poyner 1/ East Waterloo | _Poyner P1 & East Wloo,_POY1EASTWLOO,298,210,19,3,2,0,0,3,0,0,1,326,190,15,4,1,0
+0,_Black Hawk,_Black Hawk Poyner 2/ Fox Precinct | _Poyner P2 Fox Gilbert Jesup,_POY2FOX,580,426,35,3,2,0,1,7,1,0,10,685,341,13,9,3,0
+0,_Black Hawk,_Black Hawk County Spring Creek Precinct | _Spring Creek,_SPRINGCREEK,127,45,13,1,1,1,0,0,0,0,2,139,42,5,1,0,0
+0,_Black Hawk,_Black Hawk County Union Precinct | _Union/Udell Township,_UNION,361,194,18,3,1,0,0,12,0,0,12,432,156,11,2,0,1
+0,_Black Hawk,_Waterloo ward 1 precinct 1 | _WL 1-1,_W1P1,549,581,41,14,3,0,0,11,1,0,7,667,475,43,7,0,1
+0,_Black Hawk,_Waterloo ward 1 precinct 2 | _WL 1-2,_W1P2,529,554,52,14,2,2,2,8,1,0,17,650,450,43,11,1,2
+0,_Black Hawk,_Waterloo ward 1 precinct 3 | _WL 1-3,_W1P3,311,548,47,12,1,3,0,11,0,0,14,387,496,41,6,2,1
+0,_Black Hawk,_Waterloo ward 1 precinct 4 | _WL 1-4,_W1P4,543,571,42,16,0,5,0,17,0,1,20,659,493,30,11,2,3
+0,_Black Hawk,_Waterloo ward 1 precinct 5 | _WL 1-5,_W1P5,456,511,33,3,6,1,1,6,0,0,11,547,422,27,6,4,0
+0,_Black Hawk,_Waterloo ward 1 precinct 6 | _WL 1-6,_W1P6,893,657,40,11,5,1,3,17,0,0,25,1067,537,30,9,2,2
+0,_Black Hawk,_Waterloo ward 2 precinct 1 | _WL 2-1,_W2P1,339,406,22,6,1,1,0,3,1,1,18,439,330,9,9,2,1
+0,_Black Hawk,_Waterloo ward 2 precinct 2 | _WL 2-2,_W2P2,260,464,22,5,5,1,1,6,0,0,9,313,424,12,6,2,0
+0,_Black Hawk,_Waterloo ward 2 precinct 3 | _WL 2-3,_W2P3,436,602,42,14,2,2,0,3,0,0,14,502,546,26,13,3,4
+0,_Black Hawk,_Waterloo ward 2 precinct 4 | _WL 2-4,_W2P4,726,894,44,7,5,2,2,3,2,0,12,878,747,38,14,1,2
+0,_Black Hawk,_Waterloo ward 2 precinct 5 | _WL 2-5,_W2P5,613,571,47,12,4,1,1,8,0,0,17,693,506,35,13,8,1
+0,_Black Hawk,_Waterloo ward 2 precinct 6 | _WL 2-6,_W2P6,630,561,29,4,1,1,1,12,1,1,12,741,468,23,10,2,0
+0,_Black Hawk,_Waterloo ward 3 precinct 1 | _WL 3-1,_W3P1,385,517,26,11,4,3,2,7,0,0,11,478,445,31,3,3,2
+0,_Black Hawk,_Waterloo ward 3 precinct 2 | _WL 3-2,_W3P2,306,610,26,7,10,2,1,7,0,1,11,360,555,31,10,2,3
+0,_Black Hawk,_Waterloo ward 3 precinct 3 | _WL 3-3,_W3P3,79,470,15,10,1,2,1,2,0,0,8,123,433,11,6,0,1
+0,_Black Hawk,_Waterloo ward 3 precinct 4 | _WL 3-4,_W3P4,181,518,12,8,1,0,1,3,0,0,10,221,462,23,14,2,2
+0,_Black Hawk,_Waterloo ward 3 precinct 5 | _WL 3-5,_W3P5,522,694,57,19,9,5,3,5,1,1,20,665,583,52,19,3,0
+0,_Black Hawk,_Waterloo ward 3 precinct 6 | _WL 3-6,_W3P6,142,405,18,15,0,0,2,3,0,0,7,203,355,14,11,0,2
+0,_Black Hawk,_Waterloo ward 4 precinct 1 | _WL 4-1,_W4P1,66,717,5,5,2,1,3,1,0,0,5,96,677,16,4,1,0
+0,_Black Hawk,_Waterloo ward 4 precinct 2 | _WL 4-2,_W4P2,56,467,12,8,2,0,0,1,0,0,7,99,430,11,4,2,1
+0,_Black Hawk,_Waterloo ward 4 precinct 3 | _WL 4-3,_W4P3,73,382,6,7,2,1,0,0,0,0,4,120,340,7,0,2,0
+0,_Black Hawk,_Waterloo ward 4 precinct 4 | _WL 4-4,_W4P4,216,491,16,23,2,4,2,1,0,0,10,257,442,24,18,3,0
+0,_Black Hawk,_Waterloo ward 4 precinct 5 | _WL 4-5,_W4P5,138,763,10,8,1,3,2,2,0,0,9,185,707,17,6,2,2
+0,_Black Hawk,_Waterloo ward 4 precinct 6 | _WL 4-6,_W4P6,247,338,24,18,0,1,1,2,0,0,11,276,304,24,13,2,0
+0,_Black Hawk,_Waterloo ward 5 precinct 1 | _WL 5-1,_W5P1,107,295,14,8,0,0,0,0,0,0,10,137,269,14,1,4,1
+0,_Black Hawk,_Waterloo ward 5 precinct 2 | _WL 5-2,_W5P2,383,540,35,13,11,1,1,9,0,0,14,476,463,35,14,5,0
+0,_Black Hawk,_Waterloo ward 5 precinct 3 | _WL 5-3,_W5P3,306,501,28,12,1,1,1,0,1,0,14,357,464,20,10,1,0
+0,_Black Hawk,_Waterloo ward 5 precinct 4 | _WL 5-4,_W5P4,497,598,40,11,4,1,0,14,0,1,16,620,494,30,3,2,3
+0,_Black Hawk,_Waterloo ward 5 precinct 5 | _WL 5-5,_W5P5,538,636,52,11,4,2,1,18,0,0,23,703,533,35,5,0,1
+0,_Black Hawk,_Waterloo ward 5 precinct 6 | _WL 5-6,_W5P6,425,572,39,5,2,3,1,9,0,0,15,544,485,33,6,2,1
+0,_Black Hawk,_Black Hawk County Washington Precinct | _Washington/Wells,_WASHINGTON,237,157,15,4,3,1,0,2,1,0,7,298,114,5,3,0,0
+0,_Boone,_Boone 1 | _Boone 1st Ward,_BOONE1,579,521,66,10,7,1,4,14,0,0,17,727,425,40,10,3,1
+0,_Boone,_Boone 2 | _Boone 2nd Ward,_BOONE2,675,593,51,12,5,2,2,14,1,0,11,812,486,40,14,4,0
+0,_Boone,_Boone 3 | _Boone 3rd Ward,_BOONE3,617,576,76,9,9,2,1,23,1,0,30,760,499,52,15,1,0
+0,_Boone,_Boone-Rural and Boone City 4 | _Boone 4th Ward,_BOONE4,845,654,74,19,5,3,4,26,2,0,27,949,604,59,20,6,2
+0,_Boone,_Boone 5 | _Boone 5th Ward,_BOONE5,631,552,68,10,0,1,2,17,0,0,14,721,482,49,17,7,0
+0,_Boone,_Madrid 1 | _Madrid 1st Ward,_MADRID1,244,209,21,1,2,2,0,4,0,0,3,265,178,22,10,5,2
+0,_Boone,_Madrid 2 | _Madrid 2nd Ward,_MADRID2,276,204,23,3,1,2,0,6,0,0,4,308,183,21,3,0,2
+0,_Boone,_Madrid 3 | _Madrid 3rd Ward,_MADRID3,225,186,20,5,1,3,1,0,0,0,2,250,166,15,4,0,0
+0,_Boone,_Boone-City of Ogden | _Ogden,_OGDEN,612,392,48,11,6,1,4,12,0,0,10,676,359,37,13,1,0
+0,_Boone,_Boone-Rural Precinct 1 | _Rural Precinct 1,_RURAL1,347,277,28,5,3,1,1,9,1,0,9,411,226,26,7,2,1
+0,_Boone,_Boone-Rural Precinct 2 | _Rural Precinct 2,_RURAL2,623,384,36,3,9,0,0,7,0,0,12,681,350,24,7,0,1
+0,_Boone,_Boone-Rural Precinct 3 | _Rural Precinct 3,_RURAL3,266,150,17,1,0,0,1,2,0,0,6,306,126,4,4,0,0
+0,_Boone,_Boone-Rural Precinct 4 | _Rural Precinct 4,_RURAL4,706,356,51,7,3,2,1,13,1,0,7,783,308,33,9,1,2
+0,_Boone,_Boone-Rural Precinct 5 | _Rural Precinct 5,_RURAL5,251,143,18,2,2,0,0,2,0,0,3,267,129,15,1,3,1
+0,_Boone,_Boone-Rural Precinct 6 | _Rural Precinct 6,_RURAL6,587,344,46,6,3,0,1,9,0,0,7,677,299,18,8,1,0
+0,_Bremer,_Bremer County Denver Precinct | _City of Denver/Jefferson Twp,_DENVER,1110,660,71,13,6,3,1,8,0,0,22,1273,547,45,12,4,0
+0,_Bremer,_Bremer County Frederika Precinct | _City of Frederika-Frederika & Leroy Twp,_FREDERIKA,203,107,5,1,4,0,1,0,0,0,1,214,89,11,2,0,2
+0,_Bremer,_Bremer County Janesville Precinct | _City of Janesville/Jackson Twp,_JANESVILLE,549,313,49,4,3,6,1,4,0,0,13,627,275,24,10,2,2
+0,_Bremer,_Bremer County Lafayette/ Warren Precinct | _Lafayette Twp/Warren Twp,_LAFAYETTE,384,312,33,4,1,1,0,1,1,0,7,476,240,18,4,3,0
+0,_Bremer,_Bremer County Plainfield Precinct | _City of Plainfield/Polk Twp/Douglas Twp,_PLAINFIELD,454,205,22,2,3,0,0,6,0,0,5,486,182,17,5,1,0
+0,_Bremer,_Bremer County Readlyn Precinct | _City of Readlyn/Maxfield & Franklin Twp,_READLYN,642,254,26,4,2,0,1,8,0,0,16,688,225,21,7,2,0
+0,_Bremer,_Bremer County Sumner Precinct | _City of Sumner/Sumner Twp/Dayton Twp,_SUMNER,888,422,68,5,11,1,3,7,0,0,17,984,363,41,14,5,2
+0,_Bremer,_Bremer County Tripoli Precinct | _City of Tripoli/Fremont,_TRIPOLI,468,344,37,7,1,2,1,1,0,0,12,533,299,25,7,1,0
+0,_Bremer,_Bremer County Waverly Ward 1 | _Waverly Ward I/E Washington Twp,_WAVERLYWARD1,667,619,53,10,6,3,1,12,1,0,23,842,494,36,7,1,5
+0,_Bremer,_Bremer County Waverly Ward 2 Precinct | _Waverly Ward II/NE 1/4 Sec 36 Washington Twp,_WAVERLYWARD2,527,512,46,4,4,1,0,5,0,0,17,670,401,28,10,2,0
+0,_Bremer,_Bremer County Waverly Ward 3 Precinct | _Waverly Ward III,_WAVERLYWARD3,269,426,32,13,6,1,0,7,2,0,13,367,337,20,8,2,0
+0,_Bremer,_Bremer County Waverly Ward 4 Precinct | _Waverly Ward IV,_WAVERLYWARD4,466,532,46,9,2,2,0,17,1,1,12,642,404,31,6,3,0
+0,_Bremer,_Bremer County Waverly Ward 5 Precinct | _Waverly Ward V/W Washington Twp,_WAVERLYWARD5,581,650,55,5,5,1,1,12,0,0,13,781,501,17,8,2,2
+0,_Buchanan,_Aurora | _Aurora,_AURORA,305,229,19,4,5,0,0,1,0,0,3,360,184,12,4,0,0
+0,_Buchanan,_Brandon | _Brandon,_BRANDON,245,157,20,2,3,1,1,2,0,0,7,279,127,19,8,0,0
+0,_Buchanan,_Fairbank | _Fairbank,_FAIRBANK,350,228,7,1,0,0,2,4,0,0,7,347,226,11,7,2,0
+0,_Buchanan,_Hazleton | _Hazleton,_HAZLETON,318,188,19,0,2,0,0,2,1,1,2,347,151,19,11,1,1
+0,_Buchanan,_Independence 1 | _Independence 1st Ward,_IND1,631,487,55,6,4,1,1,4,0,0,13,758,385,31,14,6,0
+0,_Buchanan,_Independence 2 | _Independence 2nd Ward,_IND2,297,260,29,2,6,0,0,2,0,0,2,363,206,12,7,2,0
+0,_Buchanan,_Independence 3 | _Independence 3rd Ward,_IND3,523,378,54,5,7,1,2,3,1,0,10,615,307,36,11,1,1
+0,_Buchanan,_Independence 4 | _Independence 4th Ward,_IND4,239,252,34,6,1,1,2,3,0,0,14,289,226,14,9,3,0
+0,_Buchanan,_Independence 5 | _Independence 5th Ward,_IND5,272,246,33,6,3,1,2,1,0,0,11,328,216,18,2,1,1
+0,_Buchanan,_Jesup | _Jesup,_JESUP,671,461,61,8,9,3,2,11,0,0,13,765,390,42,16,4,1
+0,_Buchanan,_Middlefield/Newton | _Middlefield-Newton,_MIDDLEFIELD,207,115,16,5,3,1,0,0,0,0,4,247,94,9,3,2,0
+0,_Buchanan,_Perry/Westburg | _Perry-Westburg,_PERRY,364,241,27,1,8,0,1,3,0,0,3,418,211,15,7,1,0
+0,_Buchanan,_Quasqueton | _Quasqueton,_QUASQUETON,373,238,35,6,4,0,1,4,0,0,2,402,207,20,10,3,3
+0,_Buchanan,_Rowley | _Rowley,_ROWLEY,324,197,33,1,1,0,2,5,0,0,7,377,168,17,4,0,0
+0,_Buchanan,_Winthrop | _Winthrop,_WINTHROP,391,293,36,1,2,0,1,3,0,0,7,487,215,23,8,2,0
+0,_Buena Vista,_Albert City-Fairfield-Coon | _Albert City Fairfield Coon,_ACFC,429,112,24,1,3,0,1,3,0,0,6,455,99,12,4,0,0
+0,_Buena Vista,_Alta-Nokomis-Elk | _Alta Nokomis Elk,_ALNE,809,308,51,5,7,0,1,7,0,0,11,897,238,30,11,1,0
+0,_Buena Vista,_Lakeside-Hayes-Maple Valley | _Lakeside Hayes Maple Valley,_LKHM,495,199,19,0,3,0,0,6,0,0,5,521,169,16,3,2,0
+0,_Buena Vista,_Newell-Newell-Providence | _Newell Newell Providence,_NENP,510,134,27,5,6,0,3,1,0,0,5,528,118,16,7,1,0
+0,_Buena Vista,_Storm Lake 1 | _Storm Lake 01,_SL01,347,485,27,6,2,1,1,4,0,0,7,403,401,21,8,2,1
+0,_Buena Vista,_Storm Lake 2 | _Storm Lake 02,_SL02,146,324,11,3,2,0,1,5,0,0,5,162,281,17,7,1,0
+0,_Buena Vista,_Storm Lake 3 | _Storm Lake 03,_SL03,558,413,29,10,0,1,1,11,1,0,14,639,340,26,8,2,1
+0,_Buena Vista,_Storm Lake 4 | _Storm Lake 04,_SL04,396,504,52,14,0,0,2,17,0,0,16,486,431,34,9,1,2
+0,_Buena Vista,_Sioux Rapids-Marathon-Linn Grove-Rembrandt | _Sioux Rapids Marathon Linn Grove Rembrandt,_SMLR,881,264,38,4,0,2,2,2,0,0,7,914,216,31,12,3,0
+0,_Buena Vista,_Truesdale-Washington-Grant | _Truesdale Washington Grant,_TRWG,332,113,10,0,0,0,1,2,0,0,8,364,89,7,3,0,0
+0,_Butler,_Butler 1 - GR | _1-GR,_1-GR,614,371,25,8,9,2,1,5,0,0,7,670,326,18,16,2,1
+0,_Butler,_Butler 2 - CL | _2-CL,_2-CL,789,395,33,7,12,0,0,10,0,0,5,855,343,25,13,3,2
+0,_Butler,_Butler 3 - DU | _3-DU,_3-DU,527,158,25,4,4,3,1,3,0,0,6,596,109,16,9,1,0
+0,_Butler,_Butler 4 - AL | _4-AL,_4-AL,513,148,26,4,1,1,0,4,1,0,9,560,126,12,3,3,1
+0,_Butler,_Butler 5 - AP | _5-AP,_5-AP,686,162,20,3,7,0,0,13,0,0,11,736,140,16,7,1,0
+0,_Butler,_Butler 6 - SR | _6-SR,_6-SR,742,405,47,6,7,2,0,5,0,0,5,828,329,28,19,3,1
+0,_Butler,_Butler 7 - PB | _7-PB,_7-PB,773,337,31,4,3,1,2,8,1,0,8,859,266,21,10,3,0
+0,_Butler,_Butler 8 - NH | _8-NH,_8-NH,277,181,12,7,4,2,1,2,1,0,6,329,143,10,4,0,1
+0,_Calhoun,_Calhoun County Precinct 1 | _Butler-Williams,_CALHOUN1,349,126,19,3,1,0,1,2,0,0,6,364,117,14,3,0,0
+0,_Calhoun,_Calhoun County Precinct 10 | _Union,_CALHOUN10,179,56,10,0,2,0,0,0,0,0,6,193,48,6,1,0,1
+0,_Calhoun,_Calhoun County Precinct 2 | _Calhoun-Jackson-EG-LK,_CALHOUN2,654,373,33,7,7,0,1,4,0,1,4,736,294,31,9,4,1
+0,_Calhoun,_Calhoun County Precinct 3 | _Cedar,_CALHOUN3,144,38,2,1,0,0,0,1,0,0,3,144,36,6,0,0,0
+0,_Calhoun,_Calhoun County Precinct 4 | _Center-Logan-TL-GA-L,_CALHOUN4,316,107,13,0,3,0,0,2,0,0,5,344,91,10,1,2,0
+0,_Calhoun,_Calhoun County Precinct 5 | _Greenfield & Lincoln 2,_CALHOUN5,176,49,9,0,0,0,0,0,0,0,0,185,42,3,3,0,0
+0,_Calhoun,_Calhoun County Precinct 6 | _Lincoln 1,_CALHOUN6,638,234,41,3,5,1,0,5,0,0,7,703,198,19,8,3,0
+0,_Calhoun,_Calhoun County Precinct 7 | _Reading,_CALHOUN7,189,62,12,2,2,1,1,0,0,0,4,216,46,8,0,0,0
+0,_Calhoun,_Calhoun County Precinct 8 | _Rockwell City,_CALHOUN8,575,287,31,2,8,0,0,2,0,0,10,636,236,20,6,1,3
+0,_Calhoun,_Calhoun County Precinct 9 | _Sherman,_CALHOUN9,248,66,3,0,1,0,1,1,0,0,4,277,46,2,1,0,0
+0,_Carroll,_Carroll Precinct 1 | _Carroll Ward One,_CARP1,837,464,38,11,5,2,3,8,0,0,11,943,358,34,13,3,1
+0,_Carroll,_Carroll Precinct 10 | _Pleasant Valley-Newton,_CARP10,301,86,9,1,2,0,1,2,0,0,1,306,78,5,5,0,0
+0,_Carroll,_Carroll Precinct 11 | _Ewoldt,_CARP11,572,270,19,4,5,0,2,1,0,0,21,604,249,17,8,1,0
+0,_Carroll,_Carroll Precinct 12 | _Eden,_CARP12,218,75,7,1,0,0,0,3,0,0,2,233,62,11,3,0,0
+0,_Carroll,_Carroll Precinct 13 | _Union,_CARP13,482,217,18,1,0,1,0,5,0,0,4,527,173,21,6,1,0
+0,_Carroll,_Carroll Precinct 2 | _Carroll Ward Two & N1/2 Maple River Twp,_CARP2,903,579,45,4,5,2,4,12,0,0,6,1013,478,40,5,2,2
+0,_Carroll,_Carroll Precinct 3 | _Carroll Ward Three & S1/2 Maple River Twp,_CARP3,772,436,55,5,9,1,0,1,1,0,10,855,350,32,14,0,0
+0,_Carroll,_Carroll Precinct 4 | _Carroll Ward Four,_CARP4,595,442,41,10,6,2,3,5,0,0,12,691,346,27,18,5,0
+0,_Carroll,_Carroll Precinct 5 | _Wheatland-Kniest,_CARP5,401,140,13,4,3,1,0,2,0,0,4,441,94,12,4,2,0
+0,_Carroll,_Carroll Precinct 6 | _Sheridan-Grant-Jasper,_CARP6,419,161,21,4,4,1,1,1,0,0,6,441,146,12,7,0,0
+0,_Carroll,_Carroll Precinct 7 | _Arcadia,_CARP7,266,79,11,7,0,0,0,2,0,0,5,259,83,8,4,2,0
+0,_Carroll,_Carroll Precinct 8 | _Glidden-Richland,_CARP8,541,231,32,7,2,1,1,10,0,0,5,593,193,17,10,3,0
+0,_Carroll,_Carroll Precinct 9 | _Washington-Roselle,_CARP9,331,129,9,2,0,2,4,2,0,0,3,353,104,8,7,1,0
+0,_Cass,_Cass 1/Atlantic 1 | _Atlantic 1/Brighton-Grove-Pymosa-Washington,_CASS1,328,158,18,7,0,1,2,10,0,0,6,343,142,14,17,3,1
+0,_Cass,_Cass 10 | _CASS10,_CASS10,441,243,20,3,3,1,0,1,0,0,4,499,173,15,11,3,0
+0,_Cass,_Cass 11 | _Noble-Pleasant Twp/Griswold,_CASS11,615,181,19,2,3,0,1,5,0,1,3,648,137,10,11,1,0
+0,_Cass,_Cass 12 | _Massena Twp/Massena City,_CASS12,192,80,4,3,3,0,1,2,0,0,2,221,55,2,6,1,0
+0,_Cass,_Cass 13 | _Union Twp/Cumberland,_CASS13,170,44,5,1,1,2,0,0,0,0,1,171,37,11,3,0,0
+0,_Cass,_Cass 2/Atlantic 2 | _Atlantic 2/3,_CASS2,320,185,20,11,2,2,1,1,0,0,6,334,152,22,9,3,0
+0,_Cass,_Cass 3/Atlantic 3 | _CASS3,_CASS3,465,222,28,9,3,2,0,9,0,0,4,508,174,21,7,2,0
+0,_Cass,_Cass 4/Atlantic 4 | _Atlantic 4/5,_CASS4,555,227,25,1,0,0,3,9,0,0,9,600,179,17,9,2,1
+0,_Cass,_Cass 5/Atlantic 5 | _CASS5,_CASS5,515,258,19,8,3,0,4,1,0,0,4,545,213,20,6,2,1
+0,_Cass,_Cass 6 - Bear Grove and Cass/Lewis | _Bear Grove-Cass Twp/Lewis,_CASS6,320,108,20,1,1,0,1,3,0,0,6,340,84,10,9,2,1
+0,_Cass,_Cass 7 - Benton and Franklin/Wiota | _Benton-Franklin-Grant-Lincoln,_CASS7,171,75,11,1,0,0,0,4,0,0,2,192,61,4,2,0,1
+0,_Cass,_Cass 8 | _CASS8,_CASS8,564,139,13,5,4,0,0,5,0,0,8,564,125,14,13,2,0
+0,_Cass,_Cass 9 | _Edna-Victoria Twp,_CASS9,105,31,4,0,2,0,0,1,0,0,2,116,26,1,0,0,0
+0,_Cedar,_Cass/Center/Iowa/Rochester | _Cass/Center/Iowa/Rochester,_CASS,765,420,39,6,3,0,1,4,1,0,11,862,320,40,11,3,1
+0,_Cedar,_Dayton/Fairfield | _Dayton/Fairfield,_DAYTON,478,223,17,9,5,2,0,3,0,0,3,515,189,21,6,5,1
+0,_Cedar,_Farmington/Sugar Creek | _Farmington/Sugar Creek,_FARMINGTON,883,404,53,10,9,3,2,7,0,0,13,976,341,34,9,4,2
+0,_Cedar,_Fremont/Red Oak | _Fremont/Red Oak,_FREMONT,333,184,20,6,4,1,1,0,1,0,8,375,143,24,9,2,0
+0,_Cedar,_Gower/Springdale | _Gower/Springdale,_GOWER,303,353,25,4,1,0,1,6,0,0,18,378,291,17,10,3,1
+0,_Cedar,_Inland | _Inland,_INLAND,249,112,16,1,1,3,0,2,0,0,1,285,85,9,3,1,1
+0,_Cedar,_Linn/Pioneer | _Linn/Pioneer,_LINN,553,382,48,6,3,0,1,7,0,0,16,648,298,41,10,2,1
+0,_Cedar,_Massillon/Springfield | _Massillon/Springfield,_MASSILLON,498,205,23,7,3,1,3,3,0,0,10,535,178,15,11,2,2
+0,_Cedar,_Tipton 1 | _Tipton 1,_TIPTON1,217,191,18,3,1,3,1,1,0,0,3,273,145,13,3,2,0
+0,_Cedar,_Tipton 2 | _Tipton 2,_TIPTON2,243,214,22,4,3,2,0,0,0,0,6,290,174,9,3,1,0
+0,_Cedar,_Tipton 3 | _Tipton 3,_TIPTON3,315,249,29,3,1,0,0,3,0,0,8,392,183,17,3,0,0
+0,_Cedar,_West Branch 1 | _West Branch 1,_WESTBRANCH1,458,662,55,11,1,1,0,2,0,0,14,574,561,28,13,6,0
+0,_Cerro Gordo,_Clear Lake/Grant/Union | _Clear Lake-Grant-Union,_CLEARLAKE,832,398,33,1,2,0,3,7,1,0,13,879,335,38,11,10,0
+0,_Cerro Gordo,_Clear Lake 1 | _Clear Lake-Ward 1,_CLEARLAKE1,863,533,48,8,1,0,1,10,0,0,13,1006,406,33,10,3,0
+0,_Cerro Gordo,_Clear Lake 2 | _Clear Lake-Ward 2,_CLEARLAKE2,868,626,57,7,1,0,1,16,0,0,17,1001,507,38,14,16,3
+0,_Cerro Gordo,_Clear Lake 3 | _Clear Lake-Ward 3,_CLEARLAKE3,766,483,64,6,2,2,2,5,2,0,13,841,431,34,11,11,2
+0,_Cerro Gordo,_Falls/Plymouth | _Falls-Plymouth Pct,_FALLS-PLY,197,136,12,2,1,0,1,1,0,0,2,210,116,7,9,4,0
+0,_Cerro Gordo,_Falls-Rock Falls | _Falls-Rock Falls Pct,_FALLS-ROCK,122,80,7,1,0,0,0,0,0,0,2,129,75,2,4,1,0
+0,_Cerro Gordo,_Geneseo | _Geneseo Twp Pct,_GENESEO,360,258,24,3,0,0,0,4,0,0,2,406,210,12,10,3,0
+0,_Cerro Gordo,_Grimes-Meservey | _Grimes-Meservey Pct,_GRIMES-MES,96,38,4,0,0,0,0,0,0,0,1,105,26,4,1,0,0
+0,_Cerro Gordo,_Grimes-Thornton | _Grimes-Thornton Pct,_GRIMES-THOR,162,78,5,2,1,1,1,4,0,0,4,169,68,6,4,2,0
+0,_Cerro Gordo,_Lake/Lincoln | _Lake/Lincoln Twps Pct,_LAKE-LINCOLN,200,104,14,3,3,0,0,2,0,0,0,235,68,11,2,5,0
+0,_Cerro Gordo,_Lime Creek/Mason North | _Lime Creek/Mason N Twps,_LIMECREEK,203,117,12,0,0,0,0,1,0,0,3,220,93,10,2,1,0
+0,_Cerro Gordo,_Mason South/Bath | _Mason S/Bath Twps,_MASONSOUTH,240,107,14,0,0,0,2,2,0,0,0,259,84,13,2,1,0
+0,_Cerro Gordo,_Mason City ward 1 precinct 1 | _Mason City W-1 P-1,_MCW1P1,300,489,24,3,1,2,2,5,0,0,15,387,402,20,12,5,0
+0,_Cerro Gordo,_Mason City ward 1 precinct 2 | _Mason City W-1 P-2,_MCW1P2,577,544,54,4,1,1,5,3,0,0,27,679,456,35,22,9,2
+0,_Cerro Gordo,_Mason City ward 1 precinct 3 | _Mason City W-1 P-3,_MCW1P3,657,596,28,4,2,0,2,9,3,0,15,769,489,25,11,7,0
+0,_Cerro Gordo,_Mason City ward 2 precinct 1 | _Mason City W-2 P-1,_MCW2P1,289,400,46,4,1,1,3,5,0,0,14,358,337,30,13,8,1
+0,_Cerro Gordo,_Mason City ward 2 precinct 2 | _Mason City W-2 P-2,_MCW2P2,750,719,60,11,4,0,2,9,0,0,15,885,615,35,11,12,0
+0,_Cerro Gordo,_Mason City ward 2 precinct 3 | _Mason City W-2 P-3,_MCW2P3,379,475,44,7,1,1,2,4,0,0,15,458,394,33,18,8,2
+0,_Cerro Gordo,_Mason City ward 3 precinct 1 | _Mason City W-3 P-1,_MCW3P1,437,588,37,12,0,3,2,11,1,0,14,538,492,34,17,6,1
+0,_Cerro Gordo,_Mason City ward 3 precinct 2 | _Mason City W-3 P-2,_MCW3P2,447,476,54,12,1,4,4,7,1,0,8,542,403,19,16,5,2
+0,_Cerro Gordo,_Mason City ward 3 precinct 3 | _Mason City W-3 P-3,_MCW3P3,839,797,64,11,2,0,2,17,0,0,13,1019,639,34,16,12,1
+0,_Cerro Gordo,_Mason City ward 4 precinct 1 | _Mason City W-4 P-1,_MCW4P1,308,428,36,13,0,3,1,4,0,0,17,402,337,33,18,7,2
+0,_Cerro Gordo,_Mason City ward 4 precinct 2 | _Mason City W-4 P-2,_MCW4P2,545,490,34,8,1,2,3,6,0,0,16,619,409,34,16,7,2
+0,_Cerro Gordo,_Mason City ward 4 precinct 3 | _Mason City W-4 P-3,_MCW4P3,633,634,46,7,1,0,3,11,0,1,12,732,542,32,13,7,1
+0,_Cerro Gordo,_Mount Vernon/Pleasant Valley | _Mt Vernon,_MOUNTVERNON,244,110,9,0,0,1,0,2,0,1,1,248,99,7,7,5,2
+0,_Cerro Gordo,_Portland/Owen/Dougherty | _Portland-Owen-Dougherty,_PORTLAND,307,158,21,1,0,0,1,0,0,0,4,321,140,9,6,3,0
+0,_Cherokee,_Cherokee city 1 | _#5 Cherokee Ward 1,_CHERCITY1,555,297,36,4,10,3,0,7,0,0,14,665,224,23,7,3,0
+0,_Cherokee,_Cherokee city 2 | _#6 Cherokee Ward 2,_CHERCITY2,420,212,33,6,3,4,1,2,0,0,7,460,189,12,8,3,2
+0,_Cherokee,_Cherokee city 3 | _#7 Cherokee Ward 3,_CHERCITY3,492,293,21,6,4,0,2,8,0,0,9,595,215,14,6,2,1
+0,_Cherokee,_Cherokee 1 | _#1 Aurelia,_CHEROKEE1,648,248,40,4,3,0,2,3,1,0,13,719,201,26,5,2,0
+0,_Cherokee,_Cherokee 2 | _#2 Cleghorn/Marcus,_CHEROKEE2,951,296,28,2,6,0,1,16,0,0,14,1041,231,25,8,0,0
+0,_Cherokee,_Cherokee 3 | _#3 Quimby,_CHEROKEE3,578,172,27,5,2,0,1,2,0,0,4,614,142,12,5,2,0
+0,_Cherokee,_Cherokee 4 | _#4 Cherokee,_CHEROKEE4,548,161,21,2,1,0,2,3,0,0,4,576,129,16,5,4,1
+0,_Chickasaw,_Bradford | _Bradford,_BRADFORD,685,413,38,10,4,2,3,12,0,2,9,769,346,34,12,5,1
+0,_Chickasaw,_Chickasaw | _Chickasaw,_CHICKASAW,135,80,8,5,2,0,0,1,0,0,2,144,68,12,4,1,0
+0,_Chickasaw,_Dayton-Richland | _Dayton-Richland,_DAY-RICH,253,97,12,3,4,0,0,2,0,0,7,278,75,8,3,3,0
+0,_Chickasaw,_Deerfield-Washington | _Deerfield-Washington 2,_DEER-WASH,243,129,16,2,3,0,1,0,0,0,6,284,100,7,4,2,0
+0,_Chickasaw,_Dresden-Fredericksburg | _Dresden-Fredericksburg,_DRES-FRED,558,262,45,5,3,0,0,1,0,0,8,621,223,15,14,2,0
+0,_Chickasaw,_Jasonville-Utica | _Jacksonville-Utica,_JACK-UTICA,251,106,9,2,1,1,0,0,1,0,5,265,98,8,7,0,0
+0,_Chickasaw,_New Hampton | _New Hampton Rural,_NEWHAMP,266,113,18,2,1,0,0,0,0,0,2,302,90,6,4,0,0
+0,_Chickasaw,_New Hampton 1 | _City of New Hampton Ward One,_NH1,207,206,9,3,4,0,1,3,0,1,4,222,190,14,7,2,0
+0,_Chickasaw,_New Hampton 2 | _City of New Hampton Ward Two,_NH2,212,166,19,4,3,1,1,0,0,0,5,237,150,11,4,3,0
+0,_Chickasaw,_New Hampton 3 | _City of New Hampton Ward Three,_NH3,251,238,21,5,4,0,1,2,0,0,9,305,208,12,5,1,0
+0,_Chickasaw,_New Hampton 4 | _City of New Hampton Ward Four,_NH4,285,224,18,2,1,1,1,3,0,0,3,327,189,10,4,1,0
+0,_Chickasaw,_Stapleton | _Stapleton,_STAPLETON,267,160,14,4,3,0,2,4,0,0,3,295,144,10,4,1,0
+0,_Chickasaw,_Washington | _Washington/Wells,_WASHINGTON,129,72,9,1,0,0,0,0,0,0,0,128,75,6,1,1,0
+0,_Clarke,_Middle | _Middle Precinct,_MIDDLE,411,155,25,2,1,1,1,1,0,0,5,435,140,15,7,3,0
+0,_Clarke,_Murray | _Murray Precinct,_MURRAY,433,188,29,7,4,0,4,2,0,0,5,478,160,15,16,1,0
+0,_Clarke,_Northeast | _Northeast Precinct,_NORTHEAST,573,255,34,2,3,0,1,4,0,0,10,602,238,19,9,0,1
+0,_Clarke,_Osceola 1 | _Osceola 1st Ward Precinct,_OSCEOLA1,371,226,24,3,8,2,1,6,0,0,7,394,205,23,12,1,1
+0,_Clarke,_Osceola 2 | _Osceola 2nd Ward Precinct,_OSCEOLA2,253,239,20,2,6,0,2,3,0,0,3,293,189,16,7,2,0
+0,_Clarke,_Osceola 3 | _Osceola 3rd Ward Precinct,_OSCEOLA3,451,302,25,2,4,1,0,3,0,0,9,498,238,22,16,2,4
+0,_Clarke,_Woodburn | _Woodburn Precinct,_WOODBURN,221,100,3,0,0,0,0,1,0,0,0,203,103,8,6,3,0
+0,_Clay,_Douglas/Peterson | _Douglas-Peterson,_DGPE,306,80,11,1,1,0,2,4,0,0,3,315,71,13,3,1,0
+0,_Clay,_Garfield/Herdland | _Garfield-Herdland,_GFHD,187,55,5,1,0,0,0,0,0,0,0,198,38,5,2,0,0
+0,_Clay,_Lake/Freeman | _Lake-Freeman,_LAFR,204,83,9,1,1,0,0,3,0,0,0,212,73,11,0,1,0
+0,_Clay,_Logan/Gillett Grove | _Logan-Gillett Grove,_LGGG,197,52,11,1,2,0,2,1,0,0,5,196,55,11,5,0,0
+0,_Clay,_Lincoln/Clay | _Lincoln-Clay,_LNCL,351,96,13,0,1,0,0,3,0,1,2,375,71,7,4,1,0
+0,_Clay,_Spencer 1 | _Spencer Ward 1,_SPENCER1,563,281,30,7,1,2,3,5,0,0,13,577,257,36,8,4,0
+0,_Clay,_Spencer 2 | _Spencer Ward 2,_SPENCER2,618,328,49,4,5,2,1,5,0,0,9,675,283,34,7,2,2
+0,_Clay,_Spencer 3 | _Spencer Ward 3,_SPENCER3,678,304,51,5,7,1,2,7,2,0,10,745,258,31,8,3,0
+0,_Clay,_Spencer 4 | _Spencer Ward 4,_SPENCER4,956,341,31,6,2,0,0,13,0,0,9,1069,256,19,4,0,0
+0,_Clay,_Spencer 5 | _Spencer Ward 5,_SPENCER5,811,351,32,5,3,0,2,7,0,0,4,870,300,21,5,5,2
+0,_Clay,_Summit/Riverton/Sioux/Meadow | _Summit-Riverton-Sioux-Meadow,_SRSM,610,179,31,1,2,1,1,6,0,0,4,610,160,28,9,4,1
+0,_Clay,_Waterford/Lone Tree | _Waterford-Lone Tree,_WFLT,396,99,15,3,0,0,0,4,0,0,4,418,72,11,6,4,0
+0,_Clayton,_Boardman-Highland | _Boardman-Highland,_BOARDMAN,544,507,62,8,1,3,5,4,1,0,12,669,417,25,31,1,0
+0,_Clayton,_Buena Vista | _Buena Vista,_BUENAVISTA,79,77,4,0,1,0,0,0,0,0,0,77,71,4,3,1,0
+0,_Clayton,_Cass | _Cass/Center/Iowa/Rochester,_CASS,500,308,21,6,2,1,1,9,1,0,5,534,275,21,13,0,0
+0,_Clayton,_Clayton-Garnavillo | _Clayton-Garnavillo,_CLAYTON,444,195,24,0,3,4,4,3,0,1,5,492,160,13,11,1,0
+0,_Clayton,_Cox Creek-Sperry | _Cox Creek-Sperry,_COXCREEK,293,138,22,1,2,1,2,2,0,0,3,330,119,5,8,0,0
+0,_Clayton,_Elk-Mallory-Volga | _Elk-Mallory-Volga,_ELK-MALLORY,349,157,14,4,0,2,2,1,0,0,2,374,135,11,8,2,0
+0,_Clayton,_Farmersburg-Wagner | _Farmersburg-Wagner,_FARMERSBURG,281,176,11,5,3,2,1,5,0,0,3,329,128,12,12,0,0
+0,_Clayton,_Giard-Luana-Monona | _Giard-Luana-Monona,_GIARD-LUANA,800,374,55,6,0,1,4,8,1,0,10,864,330,17,29,3,0
+0,_Clayton,_Grand Meadow | _Grand Meadow,_GRANDMEADOW,156,80,3,1,0,1,0,1,0,0,1,161,68,4,4,1,0
+0,_Clayton,_Jefferson-Millville | _Jefferson-Millville,_JEFFERSON,961,599,67,10,2,5,5,7,0,0,17,1035,534,35,35,3,1
+0,_Clayton,_Lodomillo | _Lodomillo,_LODOMILLO,221,90,11,3,1,0,1,2,0,0,5,236,80,2,9,0,0
+0,_Clayton,_Marion | _Marion,_MARION,119,45,4,0,0,1,0,3,0,0,0,129,34,3,5,1,0
+0,_Clayton,_Mendon | _Mendon,_MENDON,480,434,28,6,1,2,3,2,0,0,3,524,375,18,17,3,0
+0,_Clayton,_Read | _Read,_READ,90,57,8,1,0,0,2,0,0,0,4,97,53,5,5,0,0
+0,_Clinton,_Camanche 1 | _Camanche 1,_CAMANCHE1,590,577,54,3,11,4,5,8,0,0,9,649,515,41,29,1,0
+0,_Clinton,_Camanche 2 | _Camanche 2,_CAMANCHE2,556,527,28,7,1,2,1,7,0,0,9,617,455,33,19,0,1
+0,_Clinton,_BrookfieldBloomfieldDelmar | _Bloomfield Brookfield Delmar,_CLINT1,350,222,17,3,7,1,2,1,0,0,1,375,191,15,11,1,1
+0,_Clinton,_Clinton-Orange/Ground Mound | _Orange Grand Mound,_CLINT10,357,235,37,2,2,7,3,0,0,0,12,390,212,26,14,0,0
+0,_Clinton,_Clinton-Sharon/Lost Nation | _Sharon Lost Nation,_CLINT11,235,98,9,4,1,0,2,5,0,0,0,252,81,11,6,1,0
+0,_Clinton,_Clinton-Spring Rock/Wheatland | _Spring Rock Wheatland,_CLINT12,340,174,26,5,2,4,1,4,0,0,1,377,146,15,6,0,1
+0,_Clinton,_Clinton-Washington/Welton/Welton | _Welton Washington Welton,_CLINT13,296,187,25,4,4,1,2,7,0,0,0,335,163,10,9,1,0
+0,_Clinton,_Clinton-Waterford/Charlotte | _Waterford Charlotte,_CLINT14,216,98,12,0,1,1,3,3,0,0,1,251,77,5,4,0,0
+0,_Clinton,_Clinton-Center | _Center Twp,_CLINT2,224,85,9,3,2,2,0,4,0,0,9,232,87,9,6,0,0
+0,_Clinton,_Clinton-CamancheEden | _Eden Camanche Twp,_CLINT3,204,98,11,2,1,0,2,0,0,0,2,234,76,6,8,0,0
+0,_Clinton,_Clinton-DeepCreek/GooseLake | _Deep Creek Goose Lake,_CLINT4,236,104,16,2,1,1,1,1,0,0,4,250,95,7,9,0,0
+0,_Clinton,_Clinton-Dewitt | _DeWitt Twp,_CLINT5,551,255,36,6,2,2,3,7,0,0,19,605,227,14,12,2,2
+0,_Clinton,_Clinton-GrantOliveCalamus | _Olive Grant Calamus,_CLINT6,416,155,21,3,5,3,1,6,0,0,5,456,128,12,15,0,0
+0,_Clinton,_Clinton-HampshireElkRiverAndover | _Elk River Hampshire Andover,_CLINT7,560,263,39,7,2,6,7,3,0,1,6,614,228,19,17,1,0
+0,_Clinton,_Clinton-Liberty/Toronto | _Liberty Toronto,_CLINT8,104,52,5,0,1,0,0,1,0,0,4,113,38,3,7,2,0
+0,_Clinton,_Clinton-Low Moor | _Low Moor,_CLINT9,85,51,3,1,1,2,0,0,0,0,2,96,42,3,2,0,0
+0,_Clinton,_DeWitt 1 | _DeWitt 1,_DEWITT1,641,582,51,8,11,4,4,5,0,1,9,719,512,47,27,2,1
+0,_Clinton,_DeWitt 2 | _DeWitt 2,_DEWITT2,767,665,73,15,4,4,3,11,2,0,17,923,573,31,16,6,0
+0,_Clinton,_Clinton ward 1 precinct 1 | _WL 1-1,_W1P1,320,517,33,15,6,11,4,5,0,1,20,379,491,23,22,2,2
+0,_Clinton,_Clinton ward 1 precinct 2 | _WL 1-2,_W1P2,523,646,52,15,10,9,5,4,1,0,16,619,562,37,36,2,2
+0,_Clinton,_Clinton ward 2 precinct 1 | _WL 2-1,_W2P1,359,562,42,15,6,7,2,1,0,2,18,425,510,36,22,3,1
+0,_Clinton,_Clinton ward 2 precinct 2 | _WL 2-2,_W2P2,737,817,49,18,3,7,4,9,1,0,22,858,710,38,34,0,1
+0,_Clinton,_Clinton ward 3 precinct 1 | _WL 3-1,_W3P1,527,750,29,13,6,8,3,15,0,0,24,643,653,26,28,4,2
+0,_Clinton,_Clinton ward 3 precinct 2 | _WL 3-2,_W3P2,680,899,56,8,7,5,2,11,0,1,10,826,767,42,26,2,0
+0,_Clinton,_Clinton ward 4 precinct 1 | _WL 4-1,_W4P1,719,777,43,16,4,7,4,10,1,0,25,843,675,28,26,4,1
+0,_Clinton,_Clinton ward 4 precinct 2 | _WL 4-2,_W4P2,683,699,49,9,4,5,2,7,0,0,22,740,638,47,34,3,0
+0,_Crawford,_Charter Oak | _Charter Oak,_CHARTEROAK,379,95,11,1,0,3,1,1,0,0,5,378,90,12,4,2,0
+0,_Crawford,"_Dow City, Arion, and Buck Grove | _DCAB",_DCAB,515,187,21,2,1,0,0,1,0,0,1,505,162,10,6,1,1
+0,_Crawford,_Denison 1 | _Denison Ward 1,_DENISON1,493,323,22,8,1,1,0,3,0,0,9,536,285,18,6,2,0
+0,_Crawford,_Denison 2 | _Denison Ward 2-Denison Twp,_DENISON2,569,378,38,9,2,1,0,3,2,0,10,587,342,37,13,4,0
+0,_Crawford,_Denison 3 | _Denison Ward 3-Goodrich Twp,_DENISON3,749,407,27,5,5,0,2,2,2,1,8,774,332,30,12,3,1
+0,_Crawford,_Northeast | _Northeast Precinct,_NORTHEAST,571,193,20,3,8,0,1,5,1,0,7,570,184,21,13,0,1
+0,_Crawford,_Southeast | _Southeast,_SOUTHEAST,702,247,17,4,7,1,1,3,0,0,9,699,224,35,10,3,0
+0,_Crawford,"_Schleswig, Ricketts, and Kiron | _SRK",_SRK,639,161,16,1,1,0,2,1,1,1,8,625,152,19,10,2,0
+0,_Dallas,_Dallas Adams Precinct | _Adams,_ADAMS,459,201,33,4,5,0,1,7,1,0,9,545,155,13,6,2,0
+0,_Dallas,_Dallas County Adel 1 Precinct | _Adel 1,_ADEL1,409,301,44,8,2,0,1,2,1,0,11,487,237,29,10,4,3
+0,_Dallas,_Dallas County Adel 2 Precinct | _Adel 2,_ADEL2,718,425,85,8,4,1,1,16,0,0,18,887,319,36,13,2,0
+0,_Dallas,_Dallas County Beaver/ Des Moines Precinct | _Beaver/Des Moines,_BEAVERDSM,519,395,51,8,6,1,2,3,0,0,15,587,341,45,10,4,1
+0,_Dallas,_Dallas County Clive 5 Precinct | _Clive 5,_CLIVE5,711,610,59,7,4,2,0,22,1,0,13,935,452,30,4,5,2
+0,_Dallas,_Dallas County Clive 6 Precinct | _Clive 6,_CLIVE6,882,719,70,2,3,0,1,36,0,0,33,1191,491,33,7,4,2
+0,_Dallas,_Dallas County Colfax/ Adel Precinct | _Colfax/Adel,_COLFAXADEL,419,189,27,1,4,0,0,11,0,0,5,494,135,17,5,2,0
+0,_Dallas,_Dallas County Dallas Spring Valley Precinct | _Spring Valley/Dallas,_DALLASSPRING,254,176,19,2,1,0,0,4,0,1,4,292,148,18,4,0,0
+0,_Dallas,_Dallas County De Soto Precinct | _De Soto,_DESOTO,222,155,22,3,2,2,0,7,0,0,4,238,143,20,2,0,0
+0,_Dallas,_Dallas County Lincoln/ Washington/ Linn Pre | _Lincoln/Washington/Linn,_LINCWASHLINN,366,153,21,2,2,0,1,5,0,0,2,399,122,18,6,0,0
+0,_Dallas,_Dallas County Perry 1 Precinct | _Perry 1,_PERRY1,336,486,33,10,8,1,2,10,0,0,5,438,392,40,15,4,1
+0,_Dallas,_Dallas County Perry 2 Precinct | _Perry 2,_PERRY2,322,467,28,6,4,0,1,3,2,0,17,390,389,29,12,5,2
+0,_Dallas,_Dallas County Perry 3 Precinct | _Perry 3,_PERRY3,314,436,37,8,2,0,3,4,0,0,9,392,352,31,13,6,1
+0,_Dallas,_Dallas County Sugar Grove/ Dallas Center Pr | _Sugar Grove/Dallas Center,_SGROVEDCNTR,760,460,43,7,7,2,1,15,0,0,13,845,372,43,13,5,0
+0,_Dallas,_Dallas County Union Precinct | _Union/Udell Township,_UNION,606,330,30,3,6,2,1,6,0,0,12,657,285,33,12,1,3
+0,_Dallas,_Dallas County Urbandale 13 Precinct | _Urbandale 13,_URB13,1044,853,103,4,7,2,1,19,1,0,26,1362,610,54,13,3,1
+0,_Dallas,_Dallas County Urbandale 14 Precinct | _Urbandale 14,_URB14,881,639,36,3,4,0,0,17,0,0,28,1123,440,18,3,4,2
+0,_Dallas,_Dallas County Urbandale 15 Precinct | _Urbandale 15,_URB15,483,335,39,1,1,0,0,21,0,0,10,653,218,12,6,0,0
+0,_Dallas,_Dallas County Van Meter Precinct | _Van Meter,_VANMETER,839,420,82,6,7,1,2,20,1,0,28,999,315,51,13,3,1
+0,_Dallas,_Dallas County Walnut/ Grimes/ Grant Precinc | _Walnut/Grimes/Grant,_WALNGRIMGRAN,689,391,67,1,5,3,0,15,0,1,14,795,329,32,17,6,2
+0,_Dallas,_Dallas County Waukee Precinct 1 | _Waukee 1,_WAUKEE1,776,626,78,7,6,1,0,28,1,2,20,957,502,45,14,2,2
+0,_Dallas,_Dallas County Waukee Precinct 2 | _Waukee 2,_WAUKEE2,586,572,86,9,3,0,0,21,0,0,22,762,435,49,21,2,3
+0,_Dallas,_Dallas County Waukee Precinct 3 | _Waukee 3,_WAUKEE3,763,846,64,1,9,3,3,28,2,0,26,1000,670,37,11,4,2
+0,_Dallas,_Dallas County Waukee Precinct 4 | _Waukee 4,_WAUKEE4,815,556,55,4,3,1,1,22,0,0,34,1085,371,22,8,2,2
+0,_Dallas,_Dallas County Waukee Precinct 5 | _Waukee 5,_WAUKEE5,596,484,73,9,4,1,1,22,0,1,14,798,346,32,5,4,0
+0,_Dallas,_Dallas County Waukee Precinct 6 | _Waukee 6,_WAUKEE6,609,500,69,6,3,0,0,23,1,1,18,801,357,46,9,4,0
+0,_Dallas,_Dallas County West Des Moines Precinct 221 | _West Des Moines 221,_WDM221,893,860,76,13,3,0,0,14,1,0,31,1152,641,44,8,7,0
+0,_Dallas,_Dallas County West Des Moines 222  Precinct | _West Des Moines 222,_WDM222,553,617,44,7,4,0,1,17,0,0,23,739,472,31,10,3,0
+0,_Dallas,_Dallas County West Des Moines 223 Precinct | _West Des Moines 223,_WDM223,479,457,49,6,0,0,0,23,0,1,12,624,352,25,4,2,1
+0,_Dallas,_Dallas County West Des Moines Precinct 224 | _West Des Moines 224,_WDM224,101,70,12,1,1,0,0,10,0,0,0,129,59,6,0,1,0
+0,_Dallas,_Dallas County West Des Moines 225 Precinct | _West Des Moines 225,_WDM225,825,898,102,14,10,1,3,44,2,0,27,1126,652,54,25,7,2
+0,_Dallas,_Dallas County West Des Moines 226 Precinct | _West Des Moines 226,_WDM226,366,430,65,6,8,1,1,15,0,0,16,522,323,44,5,1,1
+0,_Dallas,_West Des Moines Precinct 321 | _West Des Moines 321,_WDM321,423,416,40,3,3,1,0,7,1,1,13,578,295,23,7,1,0
+0,_Dallas,_West Des Moines Precinct 322 | _West Des Moines 322,_WDM322,321,228,15,1,2,0,0,2,0,0,3,392,156,12,4,3,1
+0,_Davis,_Bloomfield 1 | _BLOOMFIELD1,_BLOOMFIELD1,293,161,14,5,5,1,0,4,0,0,2,303,163,8,1,2,2
+0,_Davis,_Bloomfield 2 | _BLOOMFIELD2,_BLOOMFIELD2,281,159,9,2,1,0,1,3,0,0,1,294,143,12,3,2,0
+0,_Davis,_Bloomfield 3 | _BLOOMFIELD3,_BLOOMFIELD3,241,129,12,3,0,0,0,4,0,0,2,257,115,12,3,0,0
+0,_Davis,_Central | _Central,_CENTRAL,445,155,7,1,1,3,0,0,0,0,5,454,143,9,6,0,0
+0,_Davis,_Northeast | _Northeast Precinct,_NORTHEAST,481,118,13,4,3,0,1,2,1,0,6,470,131,11,5,7,0
+0,_Davis,_Northwest | _Northwest,_NORTHWEST,389,98,12,6,4,1,2,6,0,0,1,386,110,14,2,0,0
+0,_Davis,_Southeast | _Southeast,_SOUTHEAST,399,91,12,2,1,0,2,0,0,0,3,385,102,11,3,1,1
+0,_Davis,_Southwest | _Southwest,_SOUTHWEST,194,66,6,2,2,1,1,2,0,0,0,201,65,5,0,1,0
+0,_Decatur,_Decatur County Precinct 1 | _BL/FA/Lamoni,_DECATUR1,555,539,49,14,4,1,0,9,1,0,8,643,445,40,13,8,2
+0,_Decatur,_Decatur County Precinct 2 | _BU/HA/MO/NB/Davis City/Pleasanton,_DECATUR2,292,59,9,6,6,0,0,2,0,0,5,280,75,11,10,0,1
+0,_Decatur,_Decatur County Precinct 3 | _CE/ED/Leon,_DECATUR3,693,294,31,6,11,0,3,4,0,0,12,746,257,21,11,6,2
+0,_Decatur,_Decatur County Precinct 4 | _DE/Decatur City,_DECATUR4,143,38,6,0,1,0,1,1,0,0,0,147,35,3,1,0,0
+0,_Decatur,_Decatur County Precinct 5 | _GG/HP/WO/Garden Grove/LeRoy,_DECATUR5,222,93,18,1,3,0,0,2,0,0,1,248,74,8,3,1,0
+0,_Decatur,_Decatur County Precinct 6 | _GR/RL/Grand River,_DECATUR6,157,59,4,0,0,0,0,0,0,0,3,162,54,3,5,0,0
+0,_Decatur,_Decatur County Precinct 7 | _FR/LC/Van Wert/Weldon,_DECATUR7,234,119,6,2,1,0,1,2,0,1,2,262,97,5,2,0,0
+0,_Delaware,_Delaware County Precinct 1 | _Adams/Hazel Green,_DELAWARE1,363,191,21,2,2,0,0,8,0,0,3,418,147,14,9,0,0
+0,_Delaware,_Delaware County Precinct 10 | _Oneida/N Fork/Bremen,_DELAWARE10,986,315,39,5,13,6,13,6,0,0,14,1062,250,33,31,2,0
+0,_Delaware,_Delaware County Precinct 11 | _Richland/Coffins Grove,_DELAWARE11,362,216,27,6,3,4,5,3,0,0,4,402,196,15,9,0,0
+0,_Delaware,_Delaware County Precinct 12 | _South Fork/Union,_DELAWARE12,385,231,36,3,2,0,1,1,0,1,9,435,192,18,15,3,0
+0,_Delaware,_Delaware County Precinct 2 | _Colony,_DELAWARE2,284,110,16,4,1,2,3,2,0,0,2,304,98,8,10,0,0
+0,_Delaware,_Delaware County Precinct 3 | _Delaware,_DELAWARE3,420,151,5,2,2,0,1,1,0,0,4,449,118,7,6,2,0
+0,_Delaware,_Delaware County Precinct 4 | _Delhi/Delaware Corp,_DELAWARE4,416,182,18,5,4,1,1,4,0,0,3,456,141,18,11,1,0
+0,_Delaware,_Delaware County Precinct 5 | _Honey Creek/Elk,_DELAWARE5,520,232,27,3,1,2,3,2,0,0,1,553,203,15,12,2,0
+0,_Delaware,_Delaware County Precinct 6 | _Manchester Ward 1,_DELAWARE6,373,311,31,3,2,1,4,9,0,0,9,469,244,16,13,1,0
+0,_Delaware,_Delaware County Precinct 7 | _Manchester Ward 2,_DELAWARE7,487,328,35,1,4,0,3,3,0,0,7,578,258,16,14,2,0
+0,_Delaware,_Delaware County Precinct 8 | _Manchester Ward 3,_DELAWARE8,430,387,44,3,1,2,2,6,0,0,10,549,295,20,14,2,0
+0,_Delaware,_Delaware County Precinct 9 | _Milo/Prairie,_DELAWARE9,668,303,38,3,3,0,3,2,0,1,3,770,227,11,16,0,0
+0,_Des Moines,_Burlington 1-T | _PCT 1T,_BURL1,901,656,51,15,8,5,2,9,1,0,29,941,619,40,19,3,2
+0,_Des Moines,_Burlington 2 | _PCT 2,_BURL2,619,730,43,10,6,2,4,7,1,1,29,699,673,32,14,1,3
+0,_Des Moines,_Burlington 3 | _PCT 3,_BURL3,491,584,57,13,1,4,4,15,1,0,25,535,578,33,22,6,3
+0,_Des Moines,_Burlington 4 | _PCT 4,_BURL4,417,583,52,13,2,1,6,8,0,0,19,427,562,48,14,2,0
+0,_Des Moines,_Burlington 5 | _PCT 5,_BURL5,571,620,40,4,5,2,2,6,0,0,18,645,556,26,10,1,1
+0,_Des Moines,_Burlington 6 | _PCT 6,_BURL6,231,429,28,8,3,4,0,3,0,0,15,269,398,18,8,3,4
+0,_Des Moines,_Burlington 7 | _PCT 7,_BURL7,656,680,61,14,8,5,4,10,2,0,24,733,633,53,14,2,0
+0,_Des Moines,_Burlington 8-C | _PCT 8C,_BURL8,823,808,52,10,9,3,3,14,2,2,18,931,726,43,6,4,2
+0,_Des Moines,_Burlington 9 | _PCT 9,_BURL9,707,724,33,12,10,1,4,12,0,0,27,790,639,39,24,1,4
+0,_Des Moines,_DesMoines10-Danville twnshp and city | _PCT DM,_DM,611,247,31,4,3,3,2,12,0,0,17,639,236,27,8,2,0
+0,_Des Moines,_DesMoines11-Flint Rvr/Middltwn/Beavrdale | _PCT FM,_FM,790,567,43,7,4,1,1,9,0,1,14,835,528,27,9,5,2
+0,_Des Moines,_DesMoines12-Huron/Jackson/Benton | _PCT HJ,_HJ,478,185,20,3,1,0,1,5,0,0,13,502,171,8,5,0,2
+0,_Des Moines,_DesMoines-YellowSpring/Franklin/Mediapolis | _PCT MY,_MY,983,443,43,3,5,2,4,9,0,0,19,1037,393,34,15,3,2
+0,_Des Moines,_DesMoines14-Pleasant Grove/Washington | _PCT PW,_PW,294,97,11,5,1,0,0,2,0,0,5,318,84,4,1,0,0
+0,_Des Moines,_DesMoines15-Union Twnshp | _UNTWN,_UNTWN,272,164,16,1,4,1,0,1,0,0,4,284,155,11,4,1,0
+0,_Des Moines,_Des Moines 16-West Burlington | _PCT WB,_WB,685,695,54,12,5,2,3,8,1,0,24,768,638,32,13,6,1
+0,_Dickinson,_Dickinson 1 | _Precinct No. 01,_DICKINSON1,511,181,25,4,2,1,0,7,0,0,5,555,135,17,6,4,0
+0,_Dickinson,_Dickinson 10 | _Precinct No. 10,_DICKINSON10,336,164,15,0,2,0,0,2,0,0,2,367,132,10,6,0,1
+0,_Dickinson,_Dickinson 11 | _Precinct No. 11,_DICKINSON11,390,256,23,6,1,0,0,4,0,0,5,464,194,14,1,0,0
+0,_Dickinson,_Dickinson 12 | _Precinct No. 12,_DICKINSON12,378,149,12,2,2,1,1,4,0,0,1,432,110,4,1,4,0
+0,_Dickinson,_Dickinson 13 - Spirit Lake North | _Precinct No. 13,_DICKINSON13,536,247,26,3,4,3,2,6,0,0,5,590,206,20,7,1,1
+0,_Dickinson,_Dickinson 14 - Spirit Lake West | _Precinct No. 14,_DICKINSON14,288,163,7,4,1,0,0,2,0,0,7,309,139,10,3,3,1
+0,_Dickinson,_Dickinson 15 - Spirit Lake South | _Precinct No. 15,_DICKINSON15,1008,471,47,10,4,2,2,6,3,0,17,1137,364,31,15,5,1
+0,_Dickinson,_Dickinson 2 | _Precinct No. 02,_DICKINSON2,443,183,15,4,2,0,0,4,0,0,11,492,150,14,4,2,0
+0,_Dickinson,_Dickinson 3 | _Precinct No. 03,_DICKINSON3,412,224,13,3,2,0,1,3,0,0,2,464,184,7,2,3,0
+0,_Dickinson,_Dickinson 4 | _Precinct No. 04,_DICKINSON4,167,79,9,2,1,0,0,2,0,0,1,186,63,1,7,2,0
+0,_Dickinson,_Dickinson 5 | _Precinct No. 05,_DICKINSON5,648,278,19,2,3,4,1,1,1,0,10,707,223,20,7,1,1
+0,_Dickinson,_Dickinson 6/7 | _DICKINSON6/7,_DICKINSON6/7,272,125,14,2,1,0,0,1,0,0,5,294,100,16,4,0,0
+0,_Dickinson,_Dickinson 8 | _Precinct No. 08,_DICKINSON8,1281,512,61,12,6,3,1,9,2,0,18,1403,405,40,21,3,1
+0,_Dickinson,_Dicksinon 9 | _Precinct No. 09,_DICKINSON9,83,24,6,0,0,0,0,0,0,0,0,89,16,0,1,2,0
+0,_Dubuque,_Asbury East - Dubuque precinct 31 | _Dubuque_31,_ASBURYEAST,816,878,71,13,0,2,3,16,1,2,18,985,722,36,10,3,7
+0,_Dubuque,_Asbury west/Center north - precinct 32 | _Dubuque_32,_ASBURYWEST,1260,859,84,11,2,1,3,20,0,0,21,1419,710,49,12,5,3
+0,_Dubuque,_Cascade/White Water - Dubuque 33 | _Dubuque_33,_CASCADE,681,554,57,2,0,0,3,5,3,0,13,827,433,27,15,5,1
+0,_Dubuque,_Center South/Vernon - Dubuque 34 | _Dubuque_34,_CENTERSOUTH,1276,805,93,7,0,3,2,13,1,0,18,1518,601,43,16,1,1
+0,_Dubuque,_Concord/Liberty/New Wine - Dubuque 35 | _Dubuque_35,_CONCORD,930,364,54,6,0,0,1,7,0,0,6,1011,299,34,8,3,0
+0,_Dubuque,_Dubuque 1 | _Dubuque_01,_DUB1,952,836,86,16,3,1,5,6,0,0,14,1125,704,53,11,2,0
+0,_Dubuque,_Dubuque 10 | _Dubuque_10,_DUB10,667,907,86,20,4,0,10,17,0,1,17,775,820,44,27,5,4
+0,_Dubuque,_Dubuque 11 | _Dubuque_11,_DUB11,563,716,60,14,0,1,2,9,0,0,16,660,610,42,19,5,2
+0,_Dubuque,_Dubuque 12 | _Dubuque_12,_DUB12,645,857,55,15,2,0,3,7,0,1,12,736,762,44,13,7,2
+0,_Dubuque,_Dubuque 13 | _Dubuque_13,_DUB13,467,545,37,11,1,1,2,6,0,0,10,473,521,27,20,3,0
+0,_Dubuque,_Dubuque 14 | _Dubuque_14,_DUB14,317,528,39,13,4,0,1,4,0,0,13,370,466,45,12,5,0
+0,_Dubuque,_Dubuque 15 | _Dubuque_15,_DUB15,553,688,55,13,1,0,2,7,0,0,20,622,620,51,13,1,1
+0,_Dubuque,_Dubuque 16 | _Dubuque_16,_DUB16,209,469,22,9,2,3,1,8,0,0,6,260,397,23,13,2,2
+0,_Dubuque,_Dubuque 17 | _Dubuque_17,_DUB17,267,400,45,11,2,4,1,5,0,0,12,320,374,25,7,5,0
+0,_Dubuque,_Dubuque 18 | _Dubuque_18,_DUB18,345,651,66,22,0,1,2,5,0,1,14,439,569,45,15,7,1
+0,_Dubuque,_Dubuque 19 | _Dubuque_19,_DUB19,456,827,70,18,2,1,1,9,0,0,18,582,714,47,12,5,3
+0,_Dubuque,_Dubuque 2 | _Dubuque_02,_DUB2,818,970,64,9,1,1,2,12,0,2,22,1024,801,34,14,2,0
+0,_Dubuque,_Dubuque 20 | _Dubuque_20,_DUB20,645,936,64,22,4,1,2,14,0,1,25,819,802,36,8,6,3
+0,_Dubuque,_Dubuque 3 | _Dubuque_03,_DUB3,450,585,52,13,1,0,0,10,0,0,9,520,502,33,13,3,3
+0,_Dubuque,_Dubuque 4 | _Dubuque_04,_DUB4,925,1050,73,12,0,0,2,8,2,0,23,1091,855,49,16,4,5
+0,_Dubuque,_Dubuque 5 | _Dubuque_05,_DUB5,811,923,86,10,1,4,2,16,0,0,17,991,771,44,9,5,1
+0,_Dubuque,_Dubuque 6 | _Dubuque_06,_DUB6,731,809,68,15,1,4,3,6,1,0,20,902,653,38,12,3,1
+0,_Dubuque,_Dubuque 7 | _Dubuque_07,_DUB7,742,1029,57,15,3,4,6,7,0,1,21,935,863,35,8,4,1
+0,_Dubuque,_Dubuque 8 | _Dubuque_08,_DUB8,514,571,54,6,6,0,2,15,0,0,13,616,502,36,6,3,1
+0,_Dubuque,_Dubuque 9 | _Dubuque_09,_DUB9,528,744,77,24,1,0,2,11,0,0,26,677,615,49,17,4,2
+0,_Dubuque,_Dubuque North - precinct 36 | _Dubuque_36,_DUBUQUENORTH,901,598,60,9,2,2,2,9,1,0,20,1003,502,32,11,6,0
+0,_Dubuque,_Dyersville/Dodge - Dubuque precinct 39 | _Dubuque_39,_DYERS-DODGE,890,430,44,5,4,0,1,7,2,1,13,959,357,36,10,4,0
+0,_Dubuque,_Dyersville 2 - Dubuque precinct 37 | _Dubuque_37,_DYERSVILLE2,414,242,13,3,2,0,3,5,0,0,5,468,191,8,4,0,0
+0,_Dubuque,_Dyersville 3 - Dubuque 38 | _Dubuque_38,_DYERSVILLE3,414,231,36,4,1,0,1,4,0,0,5,475,179,20,9,1,0
+0,_Dubuque,_Farley - Dubuque 40 | _Dubuque_40,_FARLEY,442,305,38,3,1,1,1,2,0,0,3,513,241,23,4,1,0
+0,_Dubuque,_Iowa/Taylor - Dubuque precinct 41 | _Dubuque_41,_IOWA-TAYLOR,801,592,50,4,2,1,6,8,0,1,10,899,493,30,10,8,0
+0,_Dubuque,_Jefferson/Peru - Dubuque 42 | _Dubuque_42,_JEFF-PERU,979,592,73,9,0,1,6,8,0,1,19,1063,524,40,17,7,1
+0,_Dubuque,_Mosalem/Table Mound E/Wshngtn - Dubuque 43 | _Dubuque_43,_MOSALEM,1048,743,53,9,3,0,3,14,1,0,10,1166,608,42,12,4,1
+0,_Dubuque,_Prairie Creek - Dubuque precinct 44 | _Dubuque_44,_PRAIRIECREEK,216,121,14,2,2,0,1,0,0,0,4,235,106,7,3,1,0
+0,_Dubuque,_Table Mound West - Dubuque precinct 45 | _Dubuque_45,_TABLEMOUNDW,787,495,57,4,2,1,1,5,0,0,11,870,404,39,10,3,0
+0,_Emmet,_Emmet County Precinct 1 | _AG-IL-Armstrong,_EMMET1,500,158,12,1,3,0,3,2,0,0,2,520,134,4,11,1,0
+0,_Emmet,_Emmet County Precinct 11 | _HL-TM-Wallingford,_EMMET11,209,72,7,2,3,2,0,0,0,0,7,225,66,7,5,0,0
+0,_Emmet,_Emmet County Precinct 2 | _CN-SL-Gruver,_EMMET2,162,44,15,0,0,0,1,0,0,0,0,179,35,3,1,0,0
+0,_Emmet,_Emmet County Precinct 3 | _DM-JC-Ringsted,_EMMET3,218,77,7,0,0,3,4,0,0,0,3,217,68,13,14,0,0
+0,_Emmet,_Emmet County Precinct 4 | _EL-LN-Dolliver,_EMMET4,154,38,2,1,1,0,0,0,0,0,1,160,31,2,3,0,0
+0,_Emmet,_Emmet County Precinct 5 | _Emmet-Estherville,_EMMET5,251,67,9,3,2,0,0,1,0,0,0,265,60,3,3,1,1
+0,_Emmet,_Estherville Precinct/ Ward 1 | _Estherville Ward 1,_EST1,450,205,23,4,3,1,3,3,0,0,12,495,176,11,16,0,0
+0,_Emmet,_Estherville Precinct/ Ward 2 | _Estherville Ward 2,_EST2,360,170,15,3,2,2,2,3,0,0,4,367,155,10,16,2,0
+0,_Emmet,_Estherville Precinct/ Ward 3 | _Estherville Ward 3,_EST3,329,213,20,4,0,3,1,3,0,0,3,371,178,10,15,2,0
+0,_Emmet,_Estherville Precinct/ Ward 4 | _Estherville Ward 4,_EST4,259,166,17,5,3,0,1,3,0,1,6,287,146,12,11,0,0
+0,_Emmet,_Estherville Precinct/ Ward 5 | _Estherville Ward 5,_EST5,232,147,12,3,3,2,1,1,0,0,3,255,122,8,13,1,0
+0,_Fayette,_Auburn | _Auburn Twp,_AUBURN,203,77,12,3,0,1,0,2,0,0,1,210,65,10,14,0,0
+0,_Fayette,_Banks-Fremont | _Banks-Fremont Twp,_B-F,309,128,18,1,3,2,2,2,0,0,3,345,104,5,10,1,1
+0,_Fayette,_Bethel-Windsor | _Bethel-Windsor Twp,_B-W,315,175,16,2,1,2,0,0,0,0,1,355,138,14,7,0,0
+0,_Fayette,_Center | _Center Twp,_CENTER,118,42,5,3,2,0,1,1,0,0,1,133,30,1,10,1,0
+0,_Fayette,_Clermont | _Clermont Twp,_CLERMONT,317,138,14,0,1,0,1,5,0,0,6,379,92,4,6,1,0
+0,_Fayette,_Dover | _Dover Twp,_DOVER,204,63,4,2,2,0,1,1,0,1,2,218,58,2,3,0,0
+0,_Fayette,_Eden | _Eden Twp,_EDEN,179,82,6,1,2,1,3,1,0,0,3,187,71,7,7,1,0
+0,_Fayette,_Fairbank | _Fairbank,_FAIRBANK,104,99,6,0,0,1,0,0,0,0,2,114,89,3,6,0,0
+0,_Fayette,_Fairfield-Putnam | _Fairfield-Putnam Twp,_F-P,314,143,12,5,2,3,0,1,0,0,1,338,117,13,10,0,0
+0,_Fayette,_Harlan | _Harlan Twp,_HARLAN,249,149,10,1,3,0,1,2,0,0,3,266,132,6,13,0,4
+0,_Fayette,_Illyria | _Illyria Twp,_ILLYRIA,161,94,10,2,1,0,0,1,0,0,2,179,81,7,1,0,0
+0,_Fayette,_Jefferson | _Jefferson-Millville,_JEFFERSON,158,116,5,2,1,1,3,2,0,0,2,185,96,3,6,0,0
+0,_Fayette,_Oelwin 1 | _Oelwein Ward 1,_OELWIN1,333,334,40,5,8,5,1,4,1,0,8,410,278,19,21,1,1
+0,_Fayette,_Oelwin 2 | _Oelwein Ward 2,_OELWIN2,242,283,24,6,2,5,1,2,1,0,7,277,260,17,13,4,1
+0,_Fayette,_Oelwin 3 | _Oelwein Ward 3,_OELWIN3,222,322,18,3,3,5,0,5,0,0,8,273,268,15,22,2,2
+0,_Fayette,_Oelwin 4 | _Oelwein Ward 4,_OELWIN4,373,402,20,3,3,3,5,10,1,0,8,445,334,19,22,1,2
+0,_Fayette,_Oran | _Oran Twp,_ORAN,148,76,14,0,1,0,0,1,0,0,2,164,60,11,7,0,0
+0,_Fayette,_Pleasant Valley | _Pleasant Valley Twp,_PV,302,160,16,6,2,2,2,3,0,0,3,332,132,19,9,1,0
+0,_Fayette,_Scott | _Scott Twp,_SCOTT,90,34,7,0,0,0,1,0,0,0,0,102,27,2,1,0,0
+0,_Fayette,_Smithfield | _Smithfield Twp,_SMITHFIELD,87,39,1,0,0,0,0,3,0,0,2,104,27,3,1,0,0
+0,_Fayette,_Union | _Union/Udell Township,_UNION,186,54,6,2,1,0,0,2,0,0,1,188,54,6,0,0,0
+0,_Fayette,_Westfield | _Westfield Twp,_WESTFIELD,339,252,35,8,2,3,1,2,1,0,23,422,208,13,21,2,0
+0,_Fayette,_West Union 1 | _West Union Ward 1,_WESTUNION1,246,188,12,4,0,1,0,8,0,0,4,304,142,8,3,1,1
+0,_Fayette,_West Union 2 | _West Union Ward 2,_WESTUNION2,180,112,11,1,0,0,0,2,0,0,2,206,95,8,2,0,1
+0,_Fayette,_West Union 3 | _West Union Ward 3,_WESTUNION3,241,127,6,2,3,0,1,5,0,0,9,276,111,1,5,1,0
+0,_Floyd,_Charles City 1 | _Charles City Corp/CC1,_CHARLESCITY1,526,505,40,6,6,1,2,1,1,1,11,624,452,18,9,2,3
+0,_Floyd,_Charles City 2 | _Charles City Corp/CC2,_CHARLESCITY2,610,605,30,13,5,2,2,15,0,0,16,728,527,25,10,1,0
+0,_Floyd,_Charles City 3 | _Charles City Corp/CC3,_CHARLESCITY3,536,527,33,18,7,0,2,9,1,1,9,615,456,34,15,3,0
+0,_Floyd,_Floyd-Cedar-Niles | _Floyd-Cedar-Niles,_FLOYD,562,294,23,3,4,0,5,7,0,0,5,612,251,15,9,3,1
+0,_Floyd,_Rockford-Ulster | _Rockford-Ulster,_ROCKFORD,526,254,18,6,5,1,2,3,0,1,7,564,212,23,12,6,0
+0,_Floyd,_Rock Grove-Rudd | _Rock Grove-Rudd,_ROCKGROVE,598,469,54,8,3,2,1,13,1,0,7,662,396,39,25,4,1
+0,_Floyd,_Scott-Union-Pleasant Grove | _Scott Twp,_SCOTT,335,176,7,3,5,2,0,5,0,0,4,358,161,4,7,2,0
+0,_Floyd,_St. Charles-Riverton | _St. Charles-Riverton,_STCHARLES,682,349,36,3,8,0,2,10,0,0,10,784,270,25,10,0,0
+0,_Franklin,_Franklin County Precinct 1 | _Geneva/Ingham/East Mott,_FRANKLIN1,268,96,7,4,0,0,0,2,0,0,1,285,70,15,5,0,0
+0,_Franklin,_Franklin County Precinct 10 | _West Mott Township,_FRANKLIN10,175,67,6,0,0,0,0,4,0,0,1,185,57,5,0,2,0
+0,_Franklin,_Franklin County Precinct 12 | _Wisner/Scott,_FRANKLIN12,204,55,7,0,0,0,1,0,0,0,2,210,45,6,6,0,0
+0,_Franklin,_Franklin County Precinct 2 | _Grant/Osceola,_FRANKLIN2,206,74,13,0,0,0,1,5,0,0,3,239,57,6,1,0,0
+0,_Franklin,_Franklin County Precinct 3 | _Hamilton/Lee/Reeve,_FRANKLIN3,241,89,10,0,1,1,0,3,0,0,0,267,66,6,3,3,0
+0,_Franklin,_Franklin County Precinct 4 | _Hampton 1,_FRANKLIN4,178,140,22,5,1,0,0,2,0,0,5,212,117,17,3,0,1
+0,_Franklin,_Franklin County Precinct 5 | _Hampton 2,_FRANKLIN5,267,168,24,1,2,1,1,0,0,0,1,318,119,18,5,1,0
+0,_Franklin,_Franklin County Precinct 6 | _Hampton 3,_FRANKLIN6,291,194,23,5,4,0,0,5,0,0,9,358,151,16,3,4,0
+0,_Franklin,_Franklin County Precinct 7 | _Hampton 4,_FRANKLIN7,218,176,15,6,1,0,1,3,1,0,5,262,146,8,4,1,0
+0,_Franklin,_Franklin County Precinct 8 | _Marion,_FRANKLIN8,234,81,16,2,2,0,0,1,0,0,1,266,58,7,4,1,1
+0,_Franklin,_Franklin County Precinct 9 | _Oakland/Morgan,_FRANKLIN9,242,87,18,2,0,1,0,1,0,0,2,258,70,16,5,1,0
+0,_Franklin,_Franklin County Precinct 11 | _Richland/Ross/West Fork,_PRECINCT11,639,266,27,6,5,2,0,2,1,0,8,690,216,30,11,3,0
+0,_Fremont,_Farragut | _Farragut,_FAR,450,184,17,3,2,2,1,2,2,0,11,475,151,23,13,1,0
+0,_Fremont,_Green | _Green Riverside Scott,_GREEN,672,255,46,7,2,6,2,7,0,1,6,743,178,37,11,5,1
+0,_Fremont,_Hamburg/Washington | _Hamburg/Washington,_HAMBURG,432,189,16,2,7,1,3,7,1,0,4,475,138,15,10,3,0
+0,_Fremont,_Riverton | _Riverton,_RIVER,172,63,7,1,0,1,0,0,0,1,2,185,42,11,3,1,0
+0,_Fremont,_Sidney | _Sidney,_SID,681,272,29,8,4,0,3,3,0,0,8,704,226,34,17,3,0
+0,_Greene,_Greene Co Central | _Central,_CENTRAL,451,172,21,8,0,0,0,2,0,0,7,488,142,12,8,2,2
+0,_Greene,_Greene Co East | _East Precinct,_EAST,428,245,29,4,3,4,1,4,1,1,13,454,220,33,11,2,0
+0,_Greene,_Jefferson Precinct 1 | _Jefferson 1 Precinct,_JEF1,355,258,24,6,3,4,0,9,0,0,3,413,205,15,7,2,0
+0,_Greene,_Jefferson Precinct 2 | _Jefferson 2 Precinct,_JEF2,413,276,17,2,2,0,0,3,0,0,11,492,200,11,5,3,0
+0,_Greene,_Jefferson Precinct 3 | _Jefferson 3 Precinct,_JEF3,430,397,29,4,8,0,2,7,0,0,15,534,301,30,11,2,3
+0,_Greene,_Greene Co North | _North Precinct,_NORTH,384,210,21,5,2,1,1,2,0,0,4,448,164,10,6,2,0
+0,_Greene,_Greene Co West | _West Precinct,_WEST,359,133,19,2,2,0,0,2,0,0,2,368,112,12,13,0,0
+0,_Grundy,_Grundy precinct 1 | _Precinct 1,_P1,600,271,34,3,7,2,3,6,0,0,13,693,211,25,7,2,1
+0,_Grundy,_Grundy precinct 2 | _Precinct 2,_P2,309,114,20,5,0,0,1,7,0,0,6,368,72,12,9,3,1
+0,_Grundy,_Grundy Precinct 3 | _Precinct 3,_P3,658,138,32,4,2,1,3,5,0,0,9,710,105,19,10,0,1
+0,_Grundy,_Grundy precinct 4 | _Precinct 4,_P4,394,84,12,4,4,0,0,9,2,0,2,444,58,7,5,0,0
+0,_Grundy,_Grundy Precinct 5 | _Precinct 5,_P5,833,442,41,5,6,2,2,5,0,0,18,991,320,23,20,2,1
+0,_Grundy,_Grundy Precinct 6 | _Precinct 6,_P6,926,385,52,7,11,3,6,7,1,0,20,1105,271,22,20,1,0
+0,_Grundy,_Grundy precinct 7 | _Precinct 7,_P7,807,422,42,10,7,3,6,11,0,0,28,950,333,19,24,3,0
+0,_Guthrie,_Guthrie - Black | _Black,_BLACK,270,132,13,0,1,2,0,3,0,0,3,289,107,16,5,4,0
+0,_Guthrie,_Guthrie - Blue | _Blue,_BLUE,763,395,46,5,2,2,0,3,0,0,17,873,313,45,8,2,1
+0,_Guthrie,_Guthrie - Brown | _Brown,_BROWN,337,155,15,2,4,1,1,1,0,0,9,377,124,18,3,0,1
+0,_Guthrie,_Guthrie - Gold | _Gold,_GOLD,674,346,79,3,3,3,3,5,0,0,4,769,282,47,9,6,2
+0,_Guthrie,_Guthrie - Green | _Green Riverside Scott,_GREEN,414,196,30,3,3,2,0,2,0,0,4,453,156,24,7,4,0
+0,_Guthrie,_Guthrie - Purple | _Purple,_PURPLE,668,379,57,6,4,4,2,4,0,0,13,734,313,59,13,4,0
+0,_Guthrie,_Guthrie - Red | _Red,_RED,289,86,10,0,0,0,0,0,0,0,2,284,81,11,8,1,2
+0,_Guthrie,_Guthrie - White | _White,_WHITE,213,43,8,0,3,1,1,0,0,0,1,225,37,5,2,0,0
+0,_Hamilton,_Hamilton 1 - CA-FD-FMN-IN | _PCT 1 Cass Freedom Fremont Independence,_HAMILTON1,453,217,26,2,4,2,1,7,1,0,11,495,186,19,9,4,1
+0,_Hamilton,_Hamilton 2 - BL-LB-WM | _PCT 2 Blairsburg Liberty Williams,_HAMILTON2,399,149,20,0,3,1,1,5,0,0,6,430,124,11,9,2,0
+0,_Hamilton,_Hamilton 3 - CL-HA-MN-WB | _PCT 3 Clear Lake Hamilton Marion Webster,_HAMILTON3,732,321,46,2,5,0,0,11,0,0,7,831,247,23,14,2,1
+0,_Hamilton,_Hamilton 4 - LY-EL | _PCT 4 Lyon Ellsworth,_HAMILTON4,648,343,31,3,9,0,1,7,0,0,12,743,266,23,12,3,0
+0,_Hamilton,_Hamilton 5 - LC-RG-SC | _PCT 5 Lincoln Rose Grove Scott,_HAMILTON5,417,177,29,5,2,0,2,6,0,0,5,499,105,18,10,1,0
+0,_Hamilton,_Webster City 1 | _Webster City 1,_WEBSTERCITY1,638,525,43,6,13,1,1,15,0,0,13,740,437,36,16,1,1
+0,_Hamilton,_Webster City 2 | _Webster City 2,_WEBSTERCITY2,761,617,49,8,7,0,0,14,1,0,19,941,480,38,12,5,3
+0,_Hamilton,_Webster City 3 | _Webster City 3,_WEBSTERCITY3,415,377,15,5,8,1,2,3,1,0,7,463,325,19,12,2,0
+0,_Hancock,_Hancock County Precinct 1 | _Precinct 01,_HAN1,427,194,16,8,0,0,1,1,0,0,6,474,151,16,7,1,1
+0,_Hancock,_Hancock County Precinct 10 | _Precinct 10,_HAN10,116,59,6,0,1,0,0,1,0,0,1,126,47,8,2,0,0
+0,_Hancock,_Hancock County Precinct 2 | _Precinct 02,_HAN2,136,69,14,1,0,2,1,0,0,0,1,148,56,8,8,0,0
+0,_Hancock,_Hancock County Precinct 3 | _Precinct 03,_HAN3,129,51,6,1,0,2,0,0,0,0,1,149,37,2,1,1,0
+0,_Hancock,_Hancock County Precinct 4 | _Precinct 04,_HAN4,967,319,30,2,6,0,2,7,0,0,11,978,296,40,14,6,0
+0,_Hancock,_Hancock County Precinct 5 | _Precinct 05,_HAN5,144,34,5,0,1,0,0,0,0,0,0,145,32,4,1,0,0
+0,_Hancock,_Hancock County Precinct 6 | _Precinct 06,_HAN6,1207,538,54,8,7,4,5,7,1,0,17,1302,435,53,26,7,2
+0,_Hancock,_Hancock County Precinct 7 | _Precinct 07,_HAN7,309,130,14,3,7,0,1,7,0,0,3,343,110,13,2,2,1
+0,_Hancock,_Hancock County Precinct 8 | _Precinct 08,_HAN8,196,76,8,1,0,0,3,2,0,0,1,203,67,12,2,1,1
+0,_Hancock,_Hancock County Precinct 9 | _Precinct 09,_HAN9,346,117,13,0,1,0,0,6,0,0,0,364,93,14,6,0,1
+0,_Hardin,_Hardin County Alden/ Buckeye Precinct | _Alden/Buckeye,_ALDENBUCKEYE,432,208,26,3,0,0,0,1,1,0,5,462,183,20,6,2,1
+0,_Hardin,_Hardin Cnty Concord/ Sherman/ Grant/ Tip | _Concord/Sherman/Grant/Tipton,_CSGT,875,351,52,2,3,0,1,12,0,0,8,950,301,29,9,2,0
+0,_Hardin,_Hardin County Eldora City Precinct | _Eldora City,_ELDORACITY,745,381,56,5,1,0,2,8,0,0,9,835,293,44,21,5,1
+0,_Hardin,_Hardin Cnty Eldora/ Pleasant/ Provid/ Union | _Eldora/Pleasant/Providence/Union,_EPPU,611,265,23,4,2,0,0,10,0,1,12,665,228,24,6,2,0
+0,_Hardin,_Hardin County Etna/ Clay Precinct | _Etna/Clay,_ETNACLAY,767,370,32,5,0,0,1,10,1,0,6,852,303,32,10,1,0
+0,_Hardin,_Hardin County Hardin/ Ellis/ Jackson Pct | _Hardin/Ellis/Jackson,_HEJ,527,287,20,2,0,0,0,8,1,1,4,592,228,17,4,2,1
+0,_Hardin,_Hardin County Iowa Falls 1 Precinct | _Iowa Falls #1,_IOWAFALLS1,486,435,43,3,1,2,2,12,0,1,12,556,363,30,12,5,1
+0,_Hardin,_Hardin County Iowa Falls 2 Precinct | _Iowa Falls #2,_IOWAFALLS2,811,490,46,4,1,1,3,8,1,1,13,929,385,38,12,2,0
+0,_Harrison,_Harrison 1 | _Precinct #01 Little Sioux,_HARRISON1,80,55,4,4,2,0,0,0,0,0,1,84,45,2,7,0,0
+0,_Harrison,_Harrison 10 | _Precinct #10 Logan,_HARRISON10,409,213,29,4,5,1,2,3,0,0,10,439,167,25,13,0,0
+0,_Harrison,_Harrison 11 | _Precinct #11 St John,_HARRISON11,501,200,15,3,4,1,1,4,0,0,7,506,174,27,10,1,0
+0,_Harrison,_Harrison 12 | _Precinct #12 Missouri Valley,_HARRISON12,752,431,34,10,6,2,5,6,0,1,13,790,353,57,20,8,1
+0,_Harrison,_Harrison 13 | _Precinct #13 Persia,_HARRISON13,456,122,18,4,2,1,0,1,0,0,11,466,103,15,8,5,1
+0,_Harrison,_Harrison 2 | _Precinct #02 Pisgah,_HARRISON2,225,81,8,2,3,0,1,4,0,0,3,242,70,9,5,1,0
+0,_Harrison,_Harrison 3 | _Precinct #03 Dunlap,_HARRISON3,422,272,17,9,2,0,1,1,0,0,4,456,225,25,8,1,1
+0,_Harrison,_Harrison 4 | _Precinct #04 Mondamin,_HARRISON4,251,109,5,2,5,0,1,3,0,0,1,251,98,12,4,3,1
+0,_Harrison,_Harrison 5 | _Precinct #05 Magnolia,_HARRISON5,456,133,13,4,0,1,1,3,1,0,4,458,113,15,10,3,1
+0,_Harrison,_Harrison 6 | _Precinct #06 Boyer/Lincoln,_HARRISON6,187,77,11,1,3,0,0,1,0,0,1,205,56,10,3,3,0
+0,_Harrison,_Harrison 7 | _Precinct #07 Woodbine,_HARRISON7,466,213,24,2,3,1,5,3,2,0,7,507,182,18,15,1,0
+0,_Harrison,_Harrison 8 | _Precinct #08 Modale,_HARRISON8,293,133,14,1,1,0,0,6,0,0,2,302,119,14,7,1,2
+0,_Harrison,_Harrison 9 | _Precinct #09 Jefferson/LaGrange,_HARRISON9,404,92,18,4,1,0,0,4,0,0,4,402,83,19,9,0,1
+0,_Henry,_Henry 1/Northwest | _Northwest Precinct,_HENRY1,639,265,35,10,7,1,2,6,0,0,8,688,230,31,5,4,2
+0,_Henry,_Henry 2/Northeast | _Northeast Precinct,_HENRY2,600,242,32,8,6,0,0,5,0,0,10,666,202,13,6,6,0
+0,_Henry,_Henry 3/Central | _Central Precinct,_HENRY3,1015,384,41,12,4,4,2,9,0,1,17,1071,336,35,15,3,2
+0,_Henry,_Henry 4/Mount Pleasant 1 | _Mt. Pleasant,_HENRY4,515,332,27,14,3,2,2,7,1,1,10,549,308,26,11,1,0
+0,_Henry,_Henry 5/Mount Pleasant 2 | _HENRY5,_HENRY5,491,366,52,19,3,2,2,12,0,1,12,548,339,33,10,4,3
+0,_Henry,_Henry 6/Mount Pleasant 3 | _HENRY6,_HENRY6,501,335,39,16,3,2,0,9,1,0,11,571,284,28,16,1,2
+0,_Henry,_Henry 7/Mount Pleasant 4 | _HENRY7,_HENRY7,427,244,25,14,4,1,0,21,0,0,7,533,191,8,3,1,0
+0,_Henry,_Henry 8/Southwest | _Southwest Precinct,_HENRY8,551,183,28,5,3,1,2,8,0,0,7,569,168,16,7,2,3
+0,_Henry,_Henry 9/Southeast | _Southeast Precinct,_HENRY9,1040,553,58,15,7,2,4,23,2,1,12,1099,477,58,36,4,1
+0,_Howard,_Albion-Forest City | _Albion/Forest City,_ALBION,261,160,15,5,6,3,0,1,0,0,4,301,127,12,6,2,0
+0,_Howard,_Cresco 1A | _CRESCO1A,_CRESCO1A,141,119,12,4,1,0,1,0,0,0,3,152,105,12,2,2,1
+0,_Howard,_Cresco 1b-Vernon Springs | _CRESCO1B,_CRESCO1B,348,206,14,6,2,1,2,2,0,0,6,373,191,9,4,2,1
+0,_Howard,_Cresco 2 | _CRESCO2,_CRESCO2,346,311,21,3,0,2,3,4,0,0,11,417,258,16,10,0,0
+0,_Howard,_Cresco 3 | _CRESCO3,_CRESCO3,334,246,15,9,3,4,0,0,0,0,6,358,224,19,6,0,0
+0,_Howard,_New Oregon | _New Oregon,_NEWOREGON,282,130,11,4,1,2,0,1,0,0,4,279,138,14,4,2,0
+0,_Howard,_Riceville-Jamestown-Oakdale | _Jamestown/Oakdale,_OAKDALE,229,111,9,2,0,0,3,3,0,0,5,254,91,11,6,0,0
+0,_Howard,_Paris-Afton-Howard | _Afton/Howard/Paris,_PARIS,442,262,24,4,0,1,1,3,0,1,6,474,218,25,10,1,0
+0,_Howard,_Saratoga-Howard Center-Chester | _Saratoga/Howard Ctr/Chester,_SARATOGA,228,132,10,1,2,0,1,1,0,0,2,251,107,11,2,2,0
+0,_Humboldt,_Humboldt County Avery/North Weaver Precinct | _Avery-North Weaver,_AVERYNWEAVER,189,76,1,1,4,0,1,1,0,0,1,192,68,7,2,0,0
+0,_Humboldt,_Humboldt County Dakota City/ Grove Pct | _Dakota City-Grove,_DAKCITYGROVE,412,142,20,5,0,2,1,1,0,0,5,448,105,23,7,2,0
+0,_Humboldt,_Humboldt County Precinct 1 | _Humboldt 1-Corinth-South Weaver,_HUMBOLDT1,832,278,21,4,2,1,0,10,1,1,9,903,226,14,4,5,0
+0,_Humboldt,_Humboldt County Precinct 2 | _Humboldt 2-Beaver-South Norway,_HUMBOLDT2,624,262,27,2,1,1,1,12,1,0,14,714,194,13,12,3,2
+0,_Humboldt,_Humboldt County Precinct 3 | _Humboldt 3-South Rutland,_HUMBOLDT3,694,271,32,4,1,1,4,7,0,0,10,757,219,26,10,1,1
+0,_Humboldt,_Humboldt County Humboldt West Vernon Precin | _Humboldt-West Vernon,_HUMBWVERN,267,60,10,1,0,0,0,2,0,0,3,274,50,6,2,2,0
+0,_Humboldt,_Humboldt County North Lake East Vernon Pct | _North Lake-East Vernon,_NLAKEEVERNON,151,51,2,0,2,0,1,2,0,0,1,162,35,4,3,2,1
+0,_Humboldt,_Humboldt County S Lake/ N Norway Pct | _South Lake-North Norway,_SLAKENNORWAY,137,36,2,2,1,1,0,3,0,1,0,132,35,4,4,2,1
+0,_Humboldt,_Humboldt County Wacousta/ Delana/ N Rutland | _Delana-Wacousta-North Rutland,_WDR,262,76,12,1,2,0,0,2,0,0,6,278,67,13,2,1,1
+0,_Ida,_Ida 1 - Ida Grove 1 | _Ida Grove Ward 1,_IDA1,218,98,11,1,0,1,1,0,0,0,2,252,61,8,2,0,1
+0,_Ida,_Ida 2 - Ida Grove 2 | _Ida Grove Ward 2,_IDA2,310,83,6,1,1,2,0,2,0,0,0,321,66,8,0,3,0
+0,_Ida,_Ida 3 - Ida Grove 3 | _Ida Grove Ward 3,_IDA3,311,94,5,3,0,0,0,1,0,0,1,316,88,6,2,1,0
+0,_Ida,_Ida 4 | _City of Arthur,_IDA4,331,62,14,1,0,0,0,1,0,0,5,348,50,9,4,0,1
+0,_Ida,_Ida 5 | _City of Galva,_IDA5,212,37,7,0,0,0,0,3,0,0,0,219,31,4,1,0,0
+0,_Ida,_Ida 6 | _City of Holstein,_IDA6,627,260,38,3,2,0,0,6,0,1,5,720,178,28,8,1,0
+0,_Ida,_Ida 7 | _City of Battle Creek & Grant Twp,_IDA7,646,158,22,0,5,1,1,3,0,1,8,692,116,15,7,2,2
+0,_Iowa,_Dayton - English 1 | _Dayton/Fairfield,_DAYTON,223,82,18,2,6,0,0,4,1,0,1,255,75,7,0,1,0
+0,_Iowa,_English 2 | _English II,_ENGLISH2,319,191,18,3,5,0,1,4,1,0,5,367,157,17,6,1,0
+0,_Iowa,_Fillmore-Greene | _Fillmore/Greene,_FILLMORE,410,247,20,9,7,1,1,4,0,0,4,485,189,14,12,4,1
+0,_Iowa,_Hartford 1 - Sumner | _Hartford I/Sumner,_HARTFORD1,263,103,10,2,3,1,0,3,0,0,2,279,84,4,8,0,0
+0,_Iowa,_Hartford 2 - Lincoln | _Hartford II/Lincoln,_HARTFORD2,410,184,25,2,3,0,2,2,1,0,2,463,148,14,5,1,0
+0,_Iowa,_Honey Creek-Marengo | _Honey Creek/Marengo Rural,_HONEYCREEK,272,103,6,3,2,0,0,3,0,0,1,297,83,3,4,0,0
+0,_Iowa,_Lenox-Iowa | _Lenox/Iowa,_LENOX,784,629,55,13,5,3,3,11,1,0,19,963,478,34,15,8,1
+0,_Iowa,_Marengo | _Marengo City,_MARENGO,623,429,51,7,5,4,3,9,0,0,21,714,373,33,7,3,0
+0,_Iowa,_Pilot-Troy-York | _Pilot/Troy/York,_PILOT,470,183,18,1,6,0,0,5,0,0,7,544,136,9,2,0,1
+0,_Iowa,_Washington-Hilton | _Washington/Wells,_WASHINGTON,478,237,22,4,4,0,1,6,0,0,10,534,190,22,6,3,0
+0,_Iowa,_Williamsburg | _Williamsburg,_WILLIAMSBURG,953,696,74,15,23,0,3,3,2,0,13,1161,530,52,17,3,1
+0,_Jackson,_Jackson 1 | _Jackson 01,_JACKSON1,830,714,62,13,3,2,1,11,0,0,25,951,597,43,13,2,0
+0,_Jackson,_Jackson 10 | _Jackson 10,_JACKSON10,254,121,13,3,1,0,1,0,1,0,3,271,105,7,1,0,0
+0,_Jackson,_Jackson 11 | _Jackson 11,_JACKSON11,242,136,8,2,0,0,0,1,0,0,2,236,121,4,6,1,0
+0,_Jackson,_Jackson 12 | _Jackson 12,_JACKSON12,234,218,23,7,2,1,1,5,1,0,6,264,205,12,8,2,1
+0,_Jackson,_Jackson 13 | _Jackson 13,_JACKSON13,213,181,14,7,2,2,1,0,1,1,9,232,170,9,3,3,1
+0,_Jackson,_Jackson 14 | _Jackson 14,_JACKSON14,238,223,14,5,3,3,1,4,0,0,1,265,209,7,5,0,0
+0,_Jackson,_Jackson 15 | _Jackson 15,_JACKSON15,300,268,17,9,4,0,1,4,0,0,7,341,238,13,8,3,0
+0,_Jackson,_Jackson 16 | _Jackson 16,_JACKSON16,354,332,25,8,3,1,0,12,0,0,9,392,310,22,3,2,2
+0,_Jackson,_Jackson 2 | _Jackson 02,_JACKSON2,394,194,19,2,6,0,0,2,0,0,1,430,160,10,2,0,0
+0,_Jackson,_Jackson 3 | _Jackson 03,_JACKSON3,356,191,10,4,4,1,1,1,0,0,3,362,177,12,4,1,0
+0,_Jackson,_Jackson 4 | _Jackson 04,_JACKSON4,305,241,14,5,3,0,0,3,1,0,5,321,229,9,4,3,0
+0,_Jackson,_Jackson 5 | _Jackson 05,_JACKSON5,244,138,12,0,2,1,0,2,1,0,5,247,124,14,9,2,0
+0,_Jackson,_Jackson 6 | _Jackson 06,_JACKSON6,418,188,30,5,6,1,0,5,1,0,7,439,187,17,6,1,0
+0,_Jackson,_Jackson 7 | _Jackson 07,_JACKSON7,557,297,19,5,3,2,3,3,0,0,9,588,274,11,3,3,0
+0,_Jackson,_Jackson 8 | _Jackson 08,_JACKSON8,257,136,12,4,3,0,1,0,0,0,1,267,118,12,4,0,1
+0,_Jackson,_Jackson 9 | _Jackson 09,_JACKSON9,628,259,27,6,8,0,1,2,1,1,9,677,226,10,2,3,0
+0,_Jasper,_Jasper County Precinct 1 | _Clear Creek/Poweshiek,_PRECINCT1,544,310,44,6,9,5,1,7,0,0,12,609,291,18,15,2,3
+0,_Jasper,_Jasper County Precinct 10 | _Mound Prairie/Washington,_PRECINCT10,459,224,19,5,3,2,1,2,0,0,5,473,192,19,19,2,1
+0,_Jasper,_Jasper County Precinct 11 | _Richland/Ross/West Fork,_PRECINCT11,417,457,45,5,3,10,0,5,0,0,20,494,389,36,32,0,0
+0,_Jasper,_Jasper County Precinct 12 | _Newton 1-2,_PRECINCT12,293,361,29,3,0,6,3,1,0,0,15,339,325,22,14,0,1
+0,_Jasper,_Jasper County Precinct 13 | _Newton 2-1,_PRECINCT13,476,506,45,7,10,10,3,3,2,2,14,541,435,43,38,0,1
+0,_Jasper,_Jasper County Precinct 14 | _Newton 2-2,_PRECINCT14,395,384,28,3,3,0,0,7,0,0,14,475,306,25,17,2,2
+0,_Jasper,_Jasper County Precinct 15 | _Newton 3-1,_PRECINCT15,525,509,47,7,6,4,3,7,1,0,14,571,463,36,30,2,1
+0,_Jasper,_Jasper County Precinct 16 | _Newton 3-2,_PRECINCT16,344,378,35,5,3,1,4,4,0,0,10,393,331,26,21,3,0
+0,_Jasper,_Jasper County Precinct 17 | _Newton 4-1,_PRECINCT17,668,587,52,6,4,4,1,4,0,0,16,785,490,29,23,3,3
+0,_Jasper,_Jasper County Precinct 18 | _Newton 4-2,_PRECINCT18,328,361,26,5,3,4,2,3,0,0,15,360,311,25,29,4,2
+0,_Jasper,_Jasper County Precinct 19 | _Newton/Sherman,_PRECINCT19,696,463,59,4,4,3,5,5,0,0,11,791,395,27,23,0,0
+0,_Jasper,_Jasper County Precinct 2 | _Colfax Ward 1,_PRECINCT2,147,129,6,3,0,0,1,4,0,0,5,166,109,13,4,0,0
+0,_Jasper,_Jasper County Precinct 20 | _Palo Alto,_PRECINCT20,383,166,20,2,5,1,1,4,0,0,5,396,150,20,9,2,1
+0,_Jasper,_Jasper County Precinct 3 | _Colfax Ward 2,_PRECINCT3,196,159,15,1,3,1,1,2,0,0,9,220,140,12,13,0,1
+0,_Jasper,_Jasper County Precinct 4 | _Colfax Ward 3,_PRECINCT4,150,136,13,3,1,4,0,1,0,0,2,156,130,7,10,1,0
+0,_Jasper,_Jasper County Precinct 5 | _Des Moines,_PRECINCT5,764,382,56,3,5,4,3,5,1,0,25,851,317,40,33,1,2
+0,_Jasper,_Jasper County Precinct 6 | _Fairview,_PRECINCT6,800,441,78,7,4,4,2,3,0,0,9,895,379,38,29,1,0
+0,_Jasper,_Jasper County Precinct 7 | _HG/K/RC/BV/RL,_PRECINCT7,1203,593,41,11,13,7,1,10,0,0,20,1304,505,54,27,5,0
+0,_Jasper,_Jasper County Precinct 8 | _Indep/Malaka/Mariposa,_PRECINCT8,683,411,27,6,7,4,6,5,0,0,21,740,375,19,22,1,2
+0,_Jasper,_Jasper County Precinct 9 | _Elk Creek/Lynngrove,_PRECINCT9,1089,152,30,3,4,2,1,9,0,0,11,1129,137,16,13,2,0
+0,_Jefferson,_Black Hawk-Polk | _Black Hawk Hudson Lincoln,_BLACKHAWK,297,83,10,1,2,0,0,1,0,0,4,305,77,6,2,1,1
+0,_Jefferson,_Buchanan | _Buchanan Township,_BUCHANAN,217,112,16,3,1,0,0,0,0,0,3,238,92,11,1,0,0
+0,_Jefferson,_Center-Cedar | _Center-Cedar-Maharishi Vedic City,_CENTERCEDAR,465,513,18,34,2,0,1,6,0,0,21,503,486,26,7,5,2
+0,_Jefferson,_Des Moines-Liberty | _Des Moines-Liberty-Libertyville,_DESMOINES,390,107,17,1,1,0,0,1,0,0,4,396,103,9,1,2,1
+0,_Jefferson,_Fairfield 1 | _Fairfield 1st Ward,_FAIRFIELD1,407,599,38,28,0,0,0,6,0,0,10,497,529,37,9,1,3
+0,_Jefferson,_Fairfield 2 | _Fairfield 2nd Ward,_FAIRFIELD2,141,726,22,78,1,1,2,3,0,0,24,165,719,43,16,5,3
+0,_Jefferson,_Fairfield 3 | _Fairfield 3rd Ward,_FAIRFIELD3,305,270,21,14,4,0,0,2,0,1,12,337,241,23,3,2,1
+0,_Jefferson,_Fairfield 4 | _Fairfield 4th Ward,_FAIRFIELD4,266,577,33,61,1,2,1,0,0,1,27,287,574,53,11,6,4
+0,_Jefferson,_Fairfield 5 | _Fairfield 5th Ward,_FAIRFIELD5,437,467,38,24,3,0,1,4,0,0,17,532,391,27,9,2,1
+0,_Jefferson,_Locust Grove | _Locust Grove-Batavia,_LOCUSTGROVE,258,78,8,2,1,1,0,0,0,0,3,243,79,10,4,5,0
+0,_Jefferson,_Penn | _Penn-Pleasant Plain,_PENN,158,56,4,1,4,1,0,0,0,0,2,161,49,8,4,2,1
+0,_Jefferson,_Walnut | _Walnut,_WALNUT,407,122,21,9,2,0,1,2,0,0,9,430,107,18,7,0,2
+0,_Johnson,_Johnson County Big Grove Precinct | _Big Grove Township,_BIGGROVE,575,529,42,3,4,1,2,7,0,1,11,694,419,22,15,4,2
+0,_Johnson,_Johnson County Cedar Precinct | _Cedar Township,_CEDAR,191,144,10,1,1,1,0,0,0,0,10,221,111,9,5,3,0
+0,_Johnson,_Johnson County Clear Creek Precinct | _Clear Creek/Tiffin,_CLEARCREEK,617,898,76,20,0,3,1,17,1,0,12,783,732,47,16,10,3
+0,_Johnson,_Johnson County Coralville Precinct 1 | _Coralville 01,_CV1,304,1095,65,22,1,5,3,16,2,0,18,466,917,54,21,15,7
+0,_Johnson,_Johnson County Coralville Precinct 2 | _Coralville 02,_CV2,459,990,53,13,1,4,0,27,1,0,25,642,874,21,10,3,2
+0,_Johnson,_Johnson County Coralville Precinct 3 | _Coralville 03,_CV3,272,615,33,8,2,3,0,15,0,0,10,393,512,22,9,3,0
+0,_Johnson,_Johnson County Coralville Precinct 4 | _Coralville 04,_CV4,208,838,39,14,3,3,2,12,1,0,16,318,736,33,15,4,5
+0,_Johnson,_Johnson County Coralville Precinct 5 | _Coralville 05,_CV5,262,926,41,9,4,2,1,12,1,0,15,378,791,42,18,6,3
+0,_Johnson,_Johnson County Coralville Precinct 6 | _Coralville 06,_CV6,576,1181,66,9,2,2,1,16,0,1,21,835,964,25,7,7,2
+0,_Johnson,_Johnson County Coralville Precinct 7 | _Coralville 07,_CV7,371,1072,45,18,3,0,0,27,0,1,26,564,910,33,18,11,5
+0,_Johnson,_Johnson County Fremont Lincoln | _Fremont-Lincoln,_FREMNTLINCLN,519,465,46,10,3,2,0,5,0,0,7,574,412,31,14,9,0
+0,_Johnson,_Johnson County Graham Precinct | _Graham Township,_GRAHAM,122,185,8,3,1,0,0,3,0,0,2,160,148,6,1,3,0
+0,_Johnson,_Johnson County Hardin Precinct | _Hardin Township,_HARDIN,171,153,13,0,1,0,1,3,0,0,3,207,116,7,3,2,0
+0,_Johnson,_Johnson County Hills Precinct | _Hills,_HILLS,165,256,27,5,1,3,3,2,0,0,3,204,214,18,10,3,0
+0,_Johnson,_Johnson County Iowa City Precinct 1 | _Iowa City 01,_IC1,439,1442,34,10,5,0,3,24,0,0,25,673,1240,18,12,7,3
+0,_Johnson,_Johnson County Iowa City Precinct 10 | _Iowa City 10/ELSW,_IC10,322,918,34,14,3,5,0,14,0,0,15,460,779,23,20,8,1
+0,_Johnson,_Johnson County Iowa City Precinct 11 | _Iowa City 11,_IC11,409,1041,79,26,3,2,1,3,0,1,21,534,861,60,13,13,2
+0,_Johnson,_Johnson County Iowa City Precinct 12 | _Iowa City 12/ELSE,_IC12,281,1131,56,21,3,2,2,12,0,2,22,425,981,50,22,14,3
+0,_Johnson,_Johnson County Iowa City Precinct 13 | _Iowa City 13,_IC13,238,977,52,27,3,0,1,16,1,1,21,380,847,41,12,9,5
+0,_Johnson,_Johnson County Iowa City Precinct 14 | _Iowa City 14,_IC14,204,1108,43,27,4,6,2,8,0,0,23,305,1006,38,37,12,5
+0,_Johnson,_Johnson County Iowa City Precinct 15 | _Iowa City 15,_IC15,174,685,38,29,1,3,2,6,0,0,15,272,615,26,15,6,2
+0,_Johnson,_Johnson County Iowa City Precinct 16 | _Iowa City 16,_IC16,247,1321,39,27,2,4,1,20,0,0,18,399,1181,44,20,3,2
+0,_Johnson,_Johnson County Iowa City Precinct 17 | _Iowa City 17,_IC17,260,1568,36,40,0,4,0,12,1,2,29,384,1452,32,16,13,6
+0,_Johnson,_Johnson County Iowa City Precinct 18 | _Iowa City 18,_IC18,191,1471,42,36,1,5,0,13,0,4,21,288,1392,39,13,9,6
+0,_Johnson,_Johnson County Iowa City Precinct 19 | _Iowa City 19,_IC19,334,959,89,26,0,3,1,9,1,2,18,453,786,73,16,4,1
+0,_Johnson,_Johnson County Iowa City Precinct 2 | _Iowa City 02,_IC2,349,1208,55,23,2,4,0,20,0,0,25,531,1070,42,17,6,0
+0,_Johnson,_Johnson County Iowa City Precinct 20 | _Iowa City 20,_IC20,343,1183,71,29,2,5,0,6,0,4,19,472,1013,67,16,8,2
+0,_Johnson,_Johnson County Iowa City Precinct 21 | _Iowa City 21,_IC21,226,1286,52,40,2,1,0,7,0,7,19,292,1201,38,20,11,6
+0,_Johnson,_Johnson County Iowa City Precinct 22 | _Iowa City 22,_IC22,319,1042,42,15,0,1,2,12,0,1,21,444,902,31,17,9,4
+0,_Johnson,_Johnson County Iowa City Precinct 23 | _Iowa City 23,_IC23,372,1488,53,27,0,5,4,14,1,0,36,561,1354,37,16,7,2
+0,_Johnson,_Johnson County Iowa City Precinct 24 | _Iowa City 24,_IC24,547,1388,68,18,4,1,1,23,0,0,33,829,1150,45,18,12,1
+0,_Johnson,_Johnson County Iowa City Precinct 3 | _Iowa City 03,_IC3,551,967,87,19,2,2,0,9,0,0,13,647,765,59,13,6,4
+0,_Johnson,_Johnson County Iowa City Precinct 4 | _Iowa City 04,_IC4,273,1309,59,15,1,1,1,12,0,0,6,456,1129,40,9,2,3
+0,_Johnson,_Johnson County Iowa City Precinct 5 | _Iowa City 05,_IC5,455,1252,86,16,0,4,2,6,0,3,18,586,975,67,22,9,7
+0,_Johnson,_Johnson County Iowa City Precinct 6 | _Iowa City 06,_IC6,364,1358,52,23,5,4,2,22,1,1,20,559,1188,27,18,12,4
+0,_Johnson,_Johnson County Iowa City Precinct 7 | _Iowa City 07,_IC7,294,1016,48,9,1,0,1,15,0,0,17,456,851,40,8,5,2
+0,_Johnson,_Johnson County Iowa City Precinct 8 | _Iowa City 08,_IC8,437,1219,49,11,4,1,2,22,2,0,23,664,1026,24,11,7,2
+0,_Johnson,_Johnson County Iowa City Precinct 9 | _Iowa City 09,_IC9,306,1188,52,25,2,3,0,28,1,1,26,456,1045,46,16,7,1
+0,_Johnson,_Johnson County Jefferson East Precinct | _Jefferson East/Shueyville,_JEFFERSONEST,813,676,59,10,5,0,3,9,0,0,16,988,518,36,15,8,0
+0,_Johnson,_Johnson County Jefferson West Precinct | _JW/MN/SW,_JEFFERSONWST,745,639,31,6,3,1,3,15,0,1,13,882,499,22,17,5,2
+0,_Johnson,_Johnson County Liberty Pleasant Valley Prec | _Liberty-Pleasant Valley,_LIBPLVALLEY,175,197,10,3,0,0,0,0,0,0,3,207,163,5,5,2,2
+0,_Johnson,_Johnson County Newport Precinct | _Newport Township,_NEWPORT,580,898,41,14,6,3,0,12,0,0,29,761,751,31,12,4,3
+0,_Johnson,_Johnson County North Liberty Precinct 1 | _North Liberty 01,_NL1,447,873,62,11,2,6,1,32,1,0,17,655,717,28,18,8,0
+0,_Johnson,_Johnson County North Liberty Precinct 2 | _North Liberty 02,_NL2,446,847,72,7,5,2,0,15,0,0,24,638,687,45,16,6,1
+0,_Johnson,_Johnson County North Liberty 3/ Penn West P | _North Liberty 03/PW,_NL3PENNWEST,618,1056,122,17,6,3,2,34,0,0,27,888,843,54,29,15,6
+0,_Johnson,_Johnson County North Liberty Precinct 4 | _North Liberty 04,_NL4,352,812,50,14,1,4,4,9,0,0,20,506,651,42,24,8,0
+0,_Johnson,_Johnson County North Liberty Precinct 5 | _North Liberty 05,_NL5,337,762,59,13,7,1,3,17,1,0,10,475,640,33,17,0,1
+0,_Johnson,_Johnson County North Liberty 6 | _North Liberty 06/Madison/CCN,_NL6,867,1258,128,22,7,1,1,26,1,1,31,1195,985,62,34,10,0
+0,_Johnson,_Johnson County Oxford Precinct | _Oxford Township/Oxford,_OXFORD,396,373,33,11,1,0,1,3,0,0,13,482,301,22,9,4,0
+0,_Johnson,_Johnson County Penn Precinct | _Penn-Pleasant Plain,_PENN,596,1210,67,12,0,2,1,12,0,0,26,814,1054,28,11,2,0
+0,_Johnson,_Johnson County Scott Precinct | _Scott Twp,_SCOTT,306,569,28,11,2,2,2,0,0,0,10,416,447,25,18,5,3
+0,_Johnson,_Johnson County Sharon Precinct | _Sharon Township,_SHARON,201,139,5,1,0,2,1,5,0,0,6,230,116,4,3,1,0
+0,_Johnson,_Johnson County Solon Precinct | _Solon,_SOLON,612,688,51,11,1,1,1,13,1,1,15,761,548,29,18,9,0
+0,_Johnson,_Johnson County Union Precinct | _Union/Udell Township,_UNION,189,226,6,3,0,0,0,0,0,0,1,232,179,5,2,2,0
+0,_Johnson,_Johnson County University Heights Precinct | _University Heights,_UNIVHEIGHTS,142,527,23,4,0,1,0,6,0,0,12,230,453,18,4,1,1
+0,_Johnson,_Johnson County Washington Precinct | _Washington/Wells,_WASHINGTON,281,173,20,5,4,0,2,11,0,0,2,326,153,7,5,4,0
+0,_Johnson,_Johnson County West Lucas Precinct | _West Lucas Township,_WESTLUCAS,194,405,11,15,3,1,0,7,0,0,6,263,329,18,11,2,2
+0,_Jones,_Anamosa North/Cass | _ANN-Anamosa North/Cass,_ANAMOSANORTH,595,438,37,16,4,5,2,7,0,0,22,685,372,38,19,5,1
+0,_Jones,_Anamosa South/Jackson | _ANS-Anamosa South/Jackson,_ANAMOSASOUTH,826,680,62,8,8,6,5,11,0,0,20,980,563,37,28,4,0
+0,_Jones,_Castle Grove/Lovell/Wayne | _CGLW-Castle Grv/Lov/Wayn,_CASTLEGROVE,720,396,34,4,5,3,2,2,0,0,11,824,305,37,15,1,0
+0,_Jones,_Fairview | _FV-Fairview,_FAIRVIEW,670,389,29,9,5,4,4,5,0,0,16,757,317,28,20,0,1
+0,_Jones,_Greenfield | _GF-Greenfield,_GREENFIELD,234,146,16,0,2,0,0,3,0,0,1,258,125,10,6,0,0
+0,_Jones,_Monticello 1 | _MN1-Monticello 1,_MONTICELLO1,234,182,13,4,3,1,2,1,0,1,5,285,144,9,5,1,0
+0,_Jones,_Monticello 2 | _MN2-Monticello 2,_MONTICELLO2,270,222,27,3,0,1,1,1,0,0,4,318,186,12,7,0,1
+0,_Jones,_Monticello 3 | _MN3-Monticello 3,_MONTICELLO3,206,183,16,2,0,3,2,1,0,0,5,223,157,19,13,2,0
+0,_Jones,_Monticello 4 | _MN4-Monticello 4,_MONTICELLO4,240,224,10,2,4,1,0,5,0,0,5,295,175,13,10,0,0
+0,_Jones,_Oxford | _Oxford Township/Oxford,_OXFORD,215,109,14,3,1,0,2,0,0,0,5,246,77,11,7,0,0
+0,_Jones,_Richland/Washington | _RLWS-Richland/Washington,_RICHLAND,413,222,13,3,3,2,2,5,0,0,2,460,180,12,9,2,0
+0,_Jones,_Rome/Hale | _ROHA-Rome/Hale,_ROME-HALE,396,268,20,2,4,2,1,1,1,0,8,452,205,16,19,3,1
+0,_Jones,_Scotch Grove/Madison/Clay | _SGMC-Sc Grv/Madison/Clay,_SCOTCHGROVE,447,192,7,4,0,3,1,3,0,0,3,488,148,12,7,0,2
+0,_Jones,_Wyoming | _WY-Wyoming,_WYOMING,254,136,7,2,1,1,1,5,0,1,2,280,109,7,7,0,0
+0,_Keokuk,_Adams | _Adams,_KC1,151,59,4,3,0,0,1,0,0,0,2,173,43,0,0,0,0
+0,_Keokuk,_Warren | _Warren,_KC14,127,54,10,0,1,0,1,1,0,0,3,136,41,8,6,1,0
+0,_Keokuk,_What Cheer Washington | _What Cheer/Washington,_KC15,263,120,6,3,5,1,0,1,0,0,3,276,99,10,3,2,1
+0,_Keokuk,_Benton Steady Run | _Benton/Steady Run,_KC2,460,121,16,4,2,0,0,1,0,0,5,456,121,16,7,4,0
+0,_Keokuk,_English River Liberty | _English River/Liberty,_KC3,272,135,17,3,2,0,0,4,0,0,8,303,109,16,3,1,1
+0,_Keokuk,_Jackson | _Jackson,_KC4,170,58,4,0,0,0,0,0,0,0,0,172,53,6,0,0,0
+0,_Keokuk,_Lafayette Clear Creek | _Lafayette/Clear Creek,_KC5,480,234,29,6,1,0,1,2,0,0,8,564,158,14,5,3,0
+0,_Keokuk,_East West Lancaster | _East/West Lancaster,_KC6,128,37,2,3,2,0,1,2,0,0,4,148,20,5,2,0,0
+0,_Keokuk,_Prairie | _Prairie,_KC7,121,42,3,0,0,0,0,2,0,0,2,125,40,4,0,0,0
+0,_Keokuk,_Richland | _Richland,_KC8,297,97,8,1,2,0,1,1,0,1,4,325,75,9,3,1,0
+0,_Keokuk,_Sigourney Plank VanBuren | _Sigourney/Plank/Van Buren,_KC9,290,91,12,1,0,0,0,0,0,0,1,311,75,3,2,0,0
+0,_Keokuk,_Sigourney Precinct/Ward 1 | _Sigourney 1st Ward,_SIG1,159,64,8,1,1,0,0,1,1,0,0,169,51,8,3,1,0
+0,_Keokuk,_Sigourney Precinct/Ward 2 | _Sigourney 2nd Ward,_SIG2,172,71,5,1,1,0,0,0,0,0,3,187,48,4,6,1,1
+0,_Keokuk,_Sigourney Precinct/Ward 3 | _Sigourney 3rd Ward,_SIG3,149,78,5,0,0,0,2,0,0,0,1,177,50,5,2,0,0
+0,_Keokuk,_Sigourney Precinct/Ward 4 | _Sigourney 4th Ward,_SIG4,151,81,10,2,0,0,0,0,0,0,0,175,62,3,1,2,0
+0,_Kossuth,_Kossuth 1 | _EG-GT-HS-SW,_KOSSUTH1,443,138,5,2,1,2,2,5,0,0,1,482,101,1,10,1,0
+0,_Kossuth,_Kossuth 10 | _IV-PC,_KOSSUTH10,67,26,1,2,0,0,1,0,0,0,0,76,19,1,2,0,0
+0,_Kossuth,_Kossuth 11 | _PR-WL,_KOSSUTH11,308,96,12,1,0,1,2,2,0,0,3,309,104,6,7,0,0
+0,_Kossuth,_Kossuth 12 | _GF-WM,_KOSSUTH12,399,126,7,3,2,4,1,3,0,0,2,392,132,6,10,0,1
+0,_Kossuth,_Kossuth 13 | _CR-IV-RV,_KOSSUTH13,400,158,12,2,2,1,1,3,0,0,2,396,153,10,12,0,0
+0,_Kossuth,_Kossuth 14 | _LV-SM,_KOSSUTH14,215,57,9,4,1,0,1,0,0,1,6,214,65,6,6,1,0
+0,_Kossuth,_Kossuth 15 | _CR 1,_KOSSUTH15,27,6,0,0,0,0,0,0,0,0,1,28,4,0,0,0,0
+0,_Kossuth,_Kossuth 16 | _CR 2,_KOSSUTH16,117,58,3,1,0,0,0,4,0,0,1,132,46,1,3,0,1
+0,_Kossuth,_Kossuth 17/Algona 1 | _AL1,_KOSSUTH17,365,262,13,2,1,5,2,2,1,0,5,411,227,13,6,2,1
+0,_Kossuth,_Kossuth 18/Algona 2 | _AL2,_KOSSUTH18,552,341,14,3,5,5,1,2,0,0,7,625,275,8,18,2,0
+0,_Kossuth,_Kossuth 19/Algona 3 | _AL3,_KOSSUTH19,431,288,19,1,2,3,3,4,0,0,9,461,271,13,9,1,0
+0,_Kossuth,_Kossuth 2 | _HB-LY-LN-SF,_KOSSUTH2,316,121,11,2,3,0,2,2,0,0,7,344,101,7,10,4,0
+0,_Kossuth,_Kossuth 20/Algona 4 | _AL4,_KOSSUTH20,393,239,32,3,1,0,4,5,0,0,10,447,209,13,14,1,1
+0,_Kossuth,_Kossuth 3 | _GW-SN,_KOSSUTH3,131,42,3,1,0,0,0,1,0,0,0,135,39,2,3,0,0
+0,_Kossuth,_Kossuth 4 | _GM-RM,_KOSSUTH4,399,146,11,2,1,0,2,0,0,0,4,428,110,3,15,6,0
+0,_Kossuth,_Kossuth 5 | _BT-FT-UN,_KOSSUTH5,492,214,25,1,1,3,1,1,0,0,7,521,190,12,20,1,1
+0,_Kossuth,_Kossuth 6 | _BF-PT,_KOSSUTH6,347,142,10,2,0,2,2,2,0,0,2,361,123,8,10,4,0
+0,_Kossuth,_Kossuth 7 | _LC,_KOSSUTH7,74,26,2,1,1,0,0,0,0,0,0,81,22,1,1,0,0
+0,_Kossuth,_Kossuth 8 | _UN,_KOSSUTH8,49,21,2,0,0,0,1,0,0,0,3,51,25,2,0,1,0
+0,_Kossuth,_Kossuth 9 | _PC,_KOSSUTH9,128,36,3,0,1,0,2,0,0,0,0,133,31,1,1,0,0
+0,_Lee,_Charleston/DSM/Van Buren | _Charleston/DSM/Van Buren,_C-D-VB,658,252,26,6,4,6,3,3,1,0,5,595,277,40,37,1,1
+0,_Lee,_Franklin/Cedar/Marion | _FCM,_FCM,718,369,33,4,3,0,3,3,0,0,10,691,367,28,30,1,1
+0,_Lee,_Fort Madison 1 | _Fort Madison 1,_FM1,227,231,20,12,2,3,1,0,0,0,6,239,222,18,10,0,1
+0,_Lee,_Fort Madison 2 | _Fort Madison 2,_FM2,402,349,39,7,3,6,4,10,1,1,20,397,356,35,31,5,2
+0,_Lee,_Fort Madison 3 | _Fort Madison 3,_FM3,380,448,38,8,13,2,0,3,1,1,12,369,458,24,34,0,0
+0,_Lee,_Fort Madison 4a | _FM4A,_FM4A,326,369,26,8,3,4,4,3,0,0,8,336,358,19,23,0,0
+0,_Lee,_Fort Madison 4b | _FM4B,_FM4B,109,95,13,5,1,3,0,2,0,0,3,102,97,9,12,0,2
+0,_Lee,_Fort Madison ward 5/precinct 6 | _Fort Madison 5,_FM5,469,494,29,11,6,7,3,7,0,0,12,451,503,22,40,1,0
+0,_Lee,_Green Bay/Washington | _Green Bay/Washington,_GB-W,758,389,16,4,1,8,0,17,0,0,18,712,408,30,36,0,3
+0,_Lee,_Harrison | _HARRISON,_HARRISON,149,43,4,2,0,0,2,1,0,0,0,142,48,9,4,1,0
+0,_Lee,_Jackson | _Jackson,_JACKSON,572,278,24,5,3,2,3,4,0,1,3,548,288,22,19,1,0
+0,_Lee,_Jefferson | _Jefferson-Millville,_JEFFERSON,345,185,8,5,1,1,1,2,0,0,3,303,201,5,20,0,0
+0,_Lee,_Keokuk 1 | _Keokuk 1,_KEOKUK1,286,229,24,8,3,3,0,1,0,0,7,284,238,24,11,0,0
+0,_Lee,_Keokuk 2A | _KEOKUK2A,_KEOKUK2A,64,88,7,3,2,2,0,2,0,0,2,61,95,5,5,1,0
+0,_Lee,_Keokuk 2B | _KEOKUK2B,_KEOKUK2B,161,158,14,7,1,1,2,1,0,0,5,145,170,18,10,1,2
+0,_Lee,_Keokuk 3 | _Keokuk 3,_KEOKUK3,304,254,16,15,4,5,0,2,1,0,6,300,257,24,15,2,2
+0,_Lee,_Keokuk 4 | _Keokuk 4,_KEOKUK4,270,239,15,2,3,3,1,3,1,1,8,249,240,19,17,3,1
+0,_Lee,_Keokuk 5 | _Keokuk 5,_KEOKUK5,412,331,25,1,2,4,1,5,0,0,6,383,350,15,12,1,2
+0,_Lee,_Keokuk 6 | _Keokuk 6,_KEOKUK6,268,284,28,6,1,7,3,3,2,1,12,264,292,32,16,3,1
+0,_Lee,_Keokuk 7 | _Keokuk 7,_KEOKUK7,451,341,19,7,1,1,2,3,0,0,13,445,334,22,15,1,0
+0,_Lee,_Montrose | _Montrose,_MONTROSE,538,290,48,10,13,2,0,4,1,0,12,501,309,63,26,1,1
+0,_Lee,_West Point/Pleasant Ridge/Denmark | _West Point/Pleasant Ridge/Denmark,_WP-PR-D,936,499,38,9,7,8,6,5,0,0,16,924,514,21,51,3,0
+0,_Linn,_Bertram | _Bertram,_BERTRAM,1115,880,106,11,3,1,3,19,1,0,58,1454,674,44,7,3,1
+0,_Linn,_Boulder | _Boulder,_BOULDER,155,111,9,0,4,1,0,1,0,0,7,187,91,6,0,1,0
+0,_Linn,_Brown | _Brown,_BROWN,678,419,59,8,2,2,3,9,0,1,12,793,347,25,10,2,1
+0,_Linn,_Buffalo | _Buffalo,_BUFFALO,172,127,17,1,3,0,0,1,0,0,2,196,113,8,3,1,1
+0,_Linn,_Clinton | _Clinton,_CLINTON,241,207,14,0,0,2,0,3,0,0,14,296,170,5,2,1,1
+0,_Linn,_College | _College,_COLLEGE,185,179,10,2,0,0,1,5,0,0,1,202,164,8,4,1,2
+0,_Linn,_Cedar Rapids 1 | _Cedar Rapids 01,_CR1,675,719,77,10,3,2,1,5,0,0,17,864,570,39,13,2,2
+0,_Linn,_Cedar Rapids 10 | _Cedar Rapids 10,_CR10,743,1000,78,7,6,4,1,17,0,0,19,972,797,55,15,8,2
+0,_Linn,_Cedar Rapids 11 | _Cedar Rapids 11,_CR11,977,825,78,8,5,1,0,22,0,0,31,1304,578,40,9,2,2
+0,_Linn,_Cedar Rapids 12 | _Cedar Rapids 12,_CR12,941,1097,78,12,6,0,1,18,0,0,41,1285,832,37,10,3,6
+0,_Linn,_Cedar Rapids 13 | _Cedar Rapids 13,_CR13,548,834,80,23,1,4,3,16,2,0,31,711,705,69,19,7,6
+0,_Linn,_Cedar Rapids 14 | _Cedar Rapids 14,_CR14,546,852,65,25,2,3,3,14,0,0,31,726,715,55,12,6,5
+0,_Linn,_Cedar Rapids 15 | _Cedar Rapids 15,_CR15,400,680,49,14,2,0,2,9,0,2,20,579,540,38,13,1,1
+0,_Linn,_Cedar Rapids 16 | _Cedar Rapids 16,_CR16,430,894,63,22,2,2,0,16,0,0,27,640,729,48,13,7,2
+0,_Linn,_Cedar Rapids 17 | _Cedar Rapids 17,_CR17,302,826,75,22,4,3,4,11,0,0,19,439,702,70,24,2,2
+0,_Linn,_Cedar Rapids 18 | _Cedar Rapids 18,_CR18,429,551,66,12,2,0,0,11,2,0,15,549,471,37,9,1,2
+0,_Linn,_Cedar Rapids 19 | _Cedar Rapids 19,_CR19,761,939,116,13,1,3,0,11,1,1,25,942,774,91,21,6,1
+0,_Linn,_Cedar Rapids 2 | _Cedar Rapids 02,_CR2,500,636,70,5,5,0,1,20,0,0,24,685,505,45,8,3,0
+0,_Linn,_Cedar Rapids 20 | _Cedar Rapids 20,_CR20,825,949,83,19,1,4,1,12,0,0,21,1052,768,52,12,7,1
+0,_Linn,_Cedar Rapids 21 | _Cedar Rapids 21,_CR21,574,929,82,11,7,2,1,15,0,1,26,760,773,73,13,4,4
+0,_Linn,_Cedar Rapids 22 | _Cedar Rapids 22,_CR22,187,638,49,8,1,2,0,10,0,0,17,278,531,49,10,4,5
+0,_Linn,_Cedar Rapids 23 | _Cedar Rapids 23,_CR23,268,891,62,18,3,1,3,14,1,0,29,403,788,63,19,4,1
+0,_Linn,_Cedar Rapids 24 | _Cedar Rapids 24,_CR24,664,1022,52,22,2,3,0,14,0,2,31,916,835,33,7,4,2
+0,_Linn,_Cedar Rapids 25 | _Cedar Rapids 25,_CR25,902,1256,91,10,4,2,5,19,1,0,26,1199,1025,54,12,7,3
+0,_Linn,_Cedar Rapids 26 | _Cedar Rapids 26,_CR26,538,1191,99,19,1,1,1,13,1,1,25,767,1003,80,15,3,3
+0,_Linn,_Cedar Rapids 27 | _Cedar Rapids 27,_CR27,407,741,63,16,0,2,0,4,2,0,19,506,611,85,14,7,1
+0,_Linn,_Cedar Rapids 28 | _Cedar Rapids 28,_CR28,673,957,76,22,7,2,6,17,0,1,20,836,814,74,23,7,3
+0,_Linn,_Cedar Rapids 29 | _Cedar Rapids 29,_CR29,576,845,71,10,5,0,0,16,0,0,18,730,719,54,6,6,2
+0,_Linn,_Cedar Rapids 3 | _Cedar Rapids 03,_CR3,553,625,62,5,2,0,0,20,0,0,14,758,467,34,7,1,1
+0,_Linn,_Cedar Rapids 30 | _Cedar Rapids 30,_CR30,632,928,77,23,5,1,0,10,0,0,29,859,743,55,12,8,0
+0,_Linn,_Cedar Rapids 31 | _Cedar Rapids 31,_CR31,887,1002,68,15,8,2,0,19,1,0,20,1167,765,60,9,4,2
+0,_Linn,_Cedar Rapids 32 | _Cedar Rapids 32,_CR32,432,796,74,7,2,3,2,7,0,1,25,593,650,67,6,1,2
+0,_Linn,_Cedar Rapids 33 | _Cedar Rapids 33,_CR33,460,866,99,17,4,2,3,7,1,0,24,632,725,80,22,6,2
+0,_Linn,_Cedar Rapids 34 | _Cedar Rapids 34,_CR34,382,812,71,20,2,2,3,6,0,1,27,538,665,68,22,6,3
+0,_Linn,_Cedar Rapids 35 | _Cedar Rapids 35,_CR35,270,850,67,25,3,3,2,1,1,1,22,395,753,60,13,4,0
+0,_Linn,_Cedar Rapids 36 | _Cedar Rapids 36,_CR36,645,1061,94,21,5,0,0,8,0,0,19,858,878,78,14,4,1
+0,_Linn,_Cedar Rapids 37 | _Cedar Rapids 37,_CR37,597,978,88,19,6,1,3,8,0,0,27,774,859,54,16,7,1
+0,_Linn,_Cedar Rapids 38 | _Cedar Rapids 38,_CR38,443,744,47,26,2,1,0,5,0,0,18,536,632,47,25,7,1
+0,_Linn,_Cedar Rapids 39 | _Cedar Rapids 39,_CR39,739,1015,87,21,5,4,2,13,0,1,22,945,843,72,17,1,0
+0,_Linn,_Cedar Rapids 4 | _Cedar Rapids 04,_CR4,588,632,68,7,5,0,1,35,1,0,21,846,449,35,6,2,2
+0,_Linn,_Cedar Rapids 40 | _Cedar Rapids 40,_CR40,477,684,36,11,1,0,1,4,0,1,13,579,583,30,7,6,1
+0,_Linn,_Cedar Rapids 41 | _Cedar Rapids 41,_CR41,753,1015,93,13,1,3,3,17,0,1,24,989,829,65,17,4,4
+0,_Linn,_Cedar Rapids 42 | _Cedar Rapids 42,_CR42,635,630,68,16,1,1,0,9,0,0,19,787,503,42,16,2,1
+0,_Linn,_Cedar Rapids 43 | _Cedar Rapids 43,_CR43,405,611,67,27,3,3,2,9,0,1,21,526,533,44,23,6,1
+0,_Linn,_Cedar Rapids 44 | _Cedar Rapids 44,_CR44,326,409,50,14,3,1,3,1,0,1,20,405,342,37,13,3,1
+0,_Linn,_Cedar Rapids 5 | _Cedar Rapids 05,_CR5,589,892,65,16,1,0,2,9,0,0,20,824,689,39,12,5,0
+0,_Linn,_Cedar Rapids 6 | _Cedar Rapids 06,_CR6,685,814,92,6,6,0,1,19,0,0,21,950,608,64,9,4,2
+0,_Linn,_Cedar Rapids 7 | _Cedar Rapids 07,_CR7,323,514,42,7,4,0,2,11,1,0,16,438,416,29,11,5,1
+0,_Linn,_Cedar Rapids 8 | _Cedar Rapids 08,_CR8,495,675,77,15,4,3,1,13,0,0,29,677,544,52,16,4,2
+0,_Linn,_Cedar Rapids 9 | _Cedar Rapids 09,_CR9,397,702,56,12,1,1,1,10,1,0,26,534,597,41,14,2,2
+0,_Linn,_Fairfax | _Fairfax Township,_FAIRFAX,500,354,38,1,1,1,0,5,0,0,9,583,298,19,3,2,0
+0,_Linn,_Fairfax City | _Fairfax City,_FAIRFAXCITY,787,664,65,4,1,1,5,7,0,0,30,988,490,39,9,2,1
+0,_Linn,_Fayette | _Fayette,_FAYETTE,421,293,46,2,1,0,1,3,0,0,4,481,238,29,5,5,1
+0,_Linn,_Franklin | _Pct 03 - PO/FK,_FRANKLIN,740,779,71,13,6,0,5,8,0,0,21,929,635,46,10,4,0
+0,_Linn,_Grant | _Grant,_GRANT,375,291,24,2,2,2,2,3,0,1,7,483,195,18,4,1,1
+0,_Linn,_Hiawatha 1 | _Hiawatha 1,_HIAWATHA1,755,889,79,21,2,1,2,19,3,0,22,990,712,59,18,3,1
+0,_Linn,_Hiawatha 2 | _Hiawatha 2,_HIAWATHA2,439,624,56,12,4,1,1,6,1,2,12,555,530,39,17,3,4
+0,_Linn,_Hiawatha 3 | _Hiawatha 3,_HIAWATHA3,265,251,16,6,1,1,0,4,0,0,8,336,193,9,3,1,0
+0,_Linn,_Hiawatha 4 | _Hiawatha 4,_HIAWATHA4,107,67,7,0,0,0,1,1,0,0,3,131,49,4,2,0,0
+0,_Linn,_Jackson | _Jackson,_JACKSON,414,300,50,5,6,1,1,6,0,0,8,485,257,29,10,0,0
+0,_Linn,_Linn | _Linn/Pioneer,_LINN,280,196,17,2,1,0,0,6,0,0,9,336,155,8,2,0,1
+0,_Linn,_Maine | _Maine,_MAINE,524,396,46,3,4,3,5,4,0,0,6,609,311,41,10,3,0
+0,_Linn,_Marion township | _Marion,_MARION,544,310,45,4,6,0,1,11,0,0,16,660,251,25,5,1,1
+0,_Linn,_Marion 1 | _Marion 01,_MARION1,441,692,68,14,3,3,4,7,0,0,19,566,586,54,15,5,1
+0,_Linn,_Marion 10 | _Marion 10,_MARION10,514,688,58,8,1,2,1,6,1,1,25,658,566,45,20,6,0
+0,_Linn,_Marion 11 | _Marion 11,_MARION11,1037,903,82,9,5,1,0,12,0,1,35,1348,662,42,11,3,2
+0,_Linn,_Marion 12 | _Marion 12,_MARION12,446,435,58,6,0,1,3,5,2,0,9,587,318,28,11,1,3
+0,_Linn,_Marion 13 | _Marion 13,_MARION13,753,717,88,12,2,0,0,16,1,0,17,935,575,60,7,2,0
+0,_Linn,_Marion 14 | _Marion 14,_MARION14,701,579,65,4,3,0,1,29,0,0,15,935,414,25,9,3,0
+0,_Linn,_Marion 2 | _Marion 02,_MARION2,372,436,55,7,2,1,2,9,0,0,22,516,341,29,7,7,2
+0,_Linn,_Marion 3 | _Marion 03,_MARION3,513,668,66,15,6,3,2,5,2,0,23,648,564,47,17,8,0
+0,_Linn,_Marion 4 | _Marion 04,_MARION4,465,542,41,5,4,2,3,5,0,0,20,592,421,38,13,4,1
+0,_Linn,_Marion 5 | _Marion 05,_MARION5,920,1033,74,12,3,2,0,18,0,0,34,1238,763,43,14,5,1
+0,_Linn,_Marion 6 | _Marion 06,_MARION6,859,931,123,16,5,1,4,17,2,0,25,1119,768,61,16,3,1
+0,_Linn,_Marion 7 | _Marion 07,_MARION7,892,797,93,25,3,1,1,24,1,0,23,1175,600,50,12,3,1
+0,_Linn,_Marion 8 | _Marion 08,_MARION8,702,831,90,15,3,4,0,9,1,1,19,892,677,68,13,1,4
+0,_Linn,_Marion 9 | _Marion 09,_MARION9,669,707,93,22,6,2,2,19,1,0,18,883,547,65,16,3,1
+0,_Linn,_Monroe 1 | _Monroe 1,_MONROE1,757,459,47,5,4,1,2,8,0,0,17,901,355,23,7,4,2
+0,_Linn,_Monroe 2 | _Monroe 2,_MONROE2,730,414,42,3,7,0,0,13,0,0,12,892,298,23,8,0,0
+0,_Linn,_Mount Vernon north | _Mount Vernon North,_MVNORTH,271,573,48,9,1,0,1,4,0,0,19,386,499,23,8,1,1
+0,_Linn,_Mount Vernon South | _Mount Vernon South,_MVSOUTH,409,971,67,17,3,2,2,20,0,0,21,585,833,49,9,2,0
+0,_Linn,_Otter Creek | _Otter Creek,_OTTERCREEK,524,255,35,5,1,0,1,1,0,0,8,573,217,24,7,1,1
+0,_Linn,_Putnam | _Putnam,_PUTNAM,749,721,92,8,3,0,1,9,0,0,11,914,584,49,13,1,1
+0,_Linn,_Robins | _Robins,_ROBINS,1174,822,102,8,8,0,2,20,1,0,33,1491,608,45,10,10,0
+0,_Linn,_Spring Grove | _Spring Grove,_SPRINGGROVE,248,149,25,2,0,0,1,0,0,0,3,288,113,17,5,0,0
+0,_Linn,_Washington | _Washington/Wells,_WASHINGTON,968,748,99,10,2,4,4,11,1,0,17,1168,595,55,18,5,1
+0,_Louisa,_Columbus Junction | _Columbus Junction,_COLJUNC,243,328,13,3,4,1,1,5,0,0,5,282,285,19,3,3,1
+0,_Louisa,_Grandview Port Louisa | _Grandview-Port Louisa,_GRANDVIEW,621,301,34,8,5,0,0,12,0,1,8,649,291,31,9,1,0
+0,_Louisa,_Morning Sun Marshall | _Morning Sun-Marshall,_MORNINGSUN,470,189,17,4,3,0,1,3,0,1,9,505,155,13,5,1,3
+0,_Louisa,_Southeast Louisa | _Southeast,_SOUTHEAST,1045,477,32,6,11,2,2,13,1,2,16,1119,409,43,19,3,1
+0,_Louisa,_West Louisa | _West Louisa,_WESTLOUISA,690,353,40,7,3,1,1,6,0,0,10,748,289,40,7,3,2
+0,_Lucas,_Chariton Precinct 1 | _Chariton Precinct 1,_CHAR1,599,314,29,6,4,0,0,5,0,0,14,652,271,20,7,2,1
+0,_Lucas,_Chariton Precinct 2 | _Chariton Precinct 2,_CHAR2,598,310,30,6,6,4,1,2,0,0,11,659,252,25,12,2,0
+0,_Lucas,_Lucas-Extension Office Precinct | _Lucas-Extension Office,_LUCAS3,294,91,10,3,0,0,0,2,0,0,1,306,77,8,3,1,0
+0,_Lucas,_Lucas-Lucas Precinct | _Lucas,_LUCAS4,365,130,14,1,3,1,0,2,0,0,7,392,116,10,2,0,0
+0,_Lucas,_Lucas-Pin Oak Marsh precinct | _Pin Oak Marsh,_LUCAS5,330,121,11,1,0,0,0,4,0,0,5,351,102,11,3,0,0
+0,_Lucas,_Lucas-Russell precinct | _City of Russell-Cedar & Washington Twps,_LUCAS6,327,126,8,7,3,0,1,1,0,1,7,337,115,8,5,1,0
+0,_Lucas,_Lucas-Williamson precinct | _Williamson,_LUCAS7,364,147,13,4,2,1,2,0,0,0,5,367,135,17,5,2,0
+0,_Lyon,_Lyon County Precinct 1 | _PCT 1 George,_LYON1,1079,145,22,0,3,1,1,4,0,0,4,1102,119,11,6,3,0
+0,_Lyon,_Lyon County Precinct 2 | _PCT 2 Doon,_LYON2,795,56,18,0,2,0,1,7,0,0,2,820,42,10,2,1,1
+0,_Lyon,_Lyon County Precinct 3 | _PCT 3 Inwood,_LYON3,486,92,9,3,1,1,1,8,0,0,2,498,71,16,4,1,0
+0,_Lyon,_Lyon County Precinct 4 | _PCT 4 Larchwood,_LYON4,452,210,20,5,4,1,3,7,0,1,7,477,177,15,11,0,1
+0,_Lyon,_Lyon County Precinct 5 | _PCT 5 Lester,_LYON5,408,65,11,7,0,0,2,5,1,0,2,421,59,7,1,1,0
+0,_Lyon,_Lyon County Precinct 6 | _PCT 6 Little Rock,_LYON6,317,35,6,0,2,1,0,0,0,0,1,319,31,9,2,0,0
+0,_Lyon,_Lyon County Precinct 7 | _PCT 7 Rock Rapids,_LYON7,677,125,23,1,2,2,3,3,0,0,8,688,102,19,9,2,1
+0,_Lyon,_Lyon County Precinct 8 | _PCT 8 Rock Rapids,_LYON8,978,192,28,2,4,1,5,1,0,0,6,1003,160,20,9,3,0
+0,_Madison,_Grand River-Monroe-Webster | _Grand River-Monroe-Webster,_GRANDRIVER,340,91,12,2,1,0,0,0,0,0,4,349,82,7,5,2,0
+0,_Madison,_Jackson-Douglas-Lincoln | _Jackson,_JACKSON,516,199,29,4,7,0,1,7,0,0,6,542,174,32,9,1,0
+0,_Madison,_Jefferson-Lee | _Jefferson-Lee,_JEFFERSONLEE,544,258,16,4,5,2,2,17,0,1,7,617,207,11,10,1,2
+0,_Madison,_Penn-Madison | _Penn-Madison,_PENNMADISON,706,366,52,3,9,0,2,21,0,0,16,814,285,37,11,4,2
+0,_Madison,_South | _South,_SOUTH,512,260,42,7,3,0,2,5,0,0,3,558,216,31,12,2,1
+0,_Madison,_Union-Crawford-Scott | _Union/Udell Township,_UNION,750,385,56,3,2,1,2,12,0,0,9,808,336,42,13,1,1
+0,_Madison,_Walnut-Ohio | _Walnut-Ohio,_WALNUTOHIO,503,180,37,4,3,0,0,4,0,0,4,526,159,32,9,2,0
+0,_Madison,_Winterset 1 | _Winterset 1,_WINTERSET1,734,471,56,5,3,0,1,11,1,0,13,866,360,41,8,4,1
+0,_Madison,_Winterset 2 | _Winterset 2,_WINTERSET2,755,468,47,9,4,2,1,7,0,0,9,841,386,46,12,1,1
+0,_Mahaska,_Mahaska County Precinct 1 | _Adams-Monroe-Pleasant Grove-Union,_MAHASKA1,432,89,11,1,1,0,0,2,0,0,11,451,71,7,7,2,0
+0,_Mahaska,_Mahaska County Precinct 10 | _Oskoloosa Ward 4,_MAHASKA10,806,419,49,6,4,2,1,11,0,0,12,873,360,42,11,1,3
+0,_Mahaska,_Mahaska County Precinct 11 | _Prairie-Richland,_MAHASKA11,838,237,18,1,6,1,0,9,0,0,9,871,218,18,3,0,0
+0,_Mahaska,_Mahaska County Precinct 2 | _Black Oak-Scott,_MAHASKA2,539,85,20,0,3,0,2,9,0,0,16,589,69,4,5,1,0
+0,_Mahaska,_Mahaska County Precinct 3 | _Cedar-Harrison-White Oak,_MAHASKA3,762,197,44,2,3,2,1,3,0,0,6,771,189,27,10,4,0
+0,_Mahaska,_Mahaska County Precinct 4 | _E&W Des Moines-Jefferson,_MAHASKA4,283,77,7,2,5,0,1,1,0,0,1,287,74,11,2,3,0
+0,_Mahaska,_Mahaska County Precinct 5 | _Garfield-Lincoln-Madison,_MAHASKA5,788,162,20,3,3,1,1,8,0,0,6,802,165,14,8,5,0
+0,_Mahaska,_Mahaska County Precinct 6 | _Spring Creek,_MAHASKA6,495,151,12,2,1,0,1,7,0,0,2,529,125,8,4,1,1
+0,_Mahaska,_Mahaska County Precinct 7 | _Oskaloosa Ward 1,_MAHASKA7,654,335,41,3,1,1,1,3,0,0,10,676,299,34,10,4,0
+0,_Mahaska,_Mahaska County Precinct 8 | _Oskaloosa Ward 2,_MAHASKA8,826,396,37,6,1,1,2,9,0,0,6,854,337,41,13,4,0
+0,_Mahaska,_Mahaska County Precinct 9 | _Oskaloosa Ward 3-University Park,_MAHASKA9,1009,471,59,12,7,1,3,11,0,0,16,1109,395,42,15,2,1
+0,_Marion,_Clay | _Clay,_CLAY,352,128,15,2,5,1,2,0,0,0,10,366,119,16,11,1,0
+0,_Marion,_Dallas | _Dallas,_DALLAS,390,308,37,1,8,0,3,3,0,0,3,428,285,21,8,1,2
+0,_Marion,_Indiana | _Indiana Township,_INDIANANA,263,120,8,0,2,2,0,1,0,0,3,257,121,8,5,1,0
+0,_Marion,_Knoxville | _Knoxville Township,_KNOXVILLE,1038,478,60,5,10,1,1,9,1,0,18,1099,438,52,17,4,1
+0,_Marion,_Knoxville 1 | _Knoxville 1,_KNOXVILLE1,424,328,28,5,7,3,7,2,1,0,9,482,280,18,13,4,1
+0,_Marion,_Knoxville 2 | _Knoxville 2,_KNOXVILLE2,447,348,42,4,3,2,0,7,0,0,14,527,286,27,4,6,0
+0,_Marion,_Knoxville 3 | _Knoxville 3,_KNOXVILLE3,532,513,34,9,6,1,1,5,0,0,18,610,445,21,24,4,2
+0,_Marion,_Knoxville 4 | _Knoxville 4,_KNOXVILLE4,347,277,31,1,4,3,0,3,1,0,5,396,240,18,7,3,0
+0,_Marion,_Lake Prairie | _Lake Prairie Township,_LAKEPRAIRIE,991,256,26,3,13,2,1,34,0,0,19,1142,184,22,2,0,1
+0,_Marion,_Liberty | _Liberty,_LIBERTY,270,125,7,1,3,0,0,0,1,1,7,263,132,10,3,2,0
+0,_Marion,_Otley | _Otley,_OTLEY,815,304,48,6,4,0,1,13,1,0,13,902,251,32,10,2,1
+0,_Marion,_Pella 1 | _Pella 1,_PELLA1,969,378,77,6,10,1,1,24,1,0,25,1148,296,39,12,2,0
+0,_Marion,_Pella 2 | _Pella 2,_PELLA2,993,389,57,8,9,0,4,35,1,0,22,1176,292,23,14,3,1
+0,_Marion,_Pella 3 | _Pella 3,_PELLA3,1112,426,75,4,10,1,3,36,0,0,18,1326,323,29,10,0,1
+0,_Marion,_Pella 4 | _Pella 4,_PELLA4,699,389,93,9,3,0,0,21,0,0,15,863,274,21,5,4,0
+0,_Marion,_Pleasantville | _Pleasant/Franklin,_PLEASANT,1139,638,60,8,11,2,4,10,0,0,18,1244,516,63,18,6,3
+0,_Marion,_Washington | _Washington/Wells,_WASHINGTON,181,77,8,1,3,0,0,1,0,0,6,178,80,9,3,1,0
+0,_Marshall,_Bangor/Liscomb | _Bangor/Liscomb,_BANGOR,294,128,11,1,1,0,1,7,0,0,8,316,118,10,2,1,0
+0,_Marshall,_Eden/Logan | _Eden/Logan,_EDEN-LOGAN,555,320,35,4,5,1,1,2,1,0,12,594,300,19,9,2,0
+0,_Marshall,_Green Castle | _Green Castle,_GREENCASTLE,358,161,19,5,4,0,1,4,0,1,2,374,144,20,11,0,0
+0,_Marshall,_Jefferson | _Jefferson-Millville,_JEFFERSON,273,163,19,2,3,0,0,5,0,0,4,301,151,13,2,0,0
+0,_Marshall,_Le Grand | _Le Grand,_LEGRAND,499,266,36,3,2,1,2,5,1,0,10,533,232,33,8,0,1
+0,_Marshall,_Liberty/Minerva | _Liberty,_LIBERTY,271,103,18,1,0,0,1,0,0,0,4,286,96,5,2,1,0
+0,_Marshall,_Marietta/Washington | _Marietta/Washington,_MARIETTA,301,109,15,1,1,0,0,0,0,1,3,317,93,13,1,1,0
+0,_Marshall,_Marion/Vienna | _Marion,_MARION,449,196,21,7,6,0,1,4,0,0,10,488,177,17,9,0,0
+0,_Marshall,_Marshalltown 1 | _Marshalltown 1-1,_MARSH1,159,523,22,8,2,1,4,1,0,0,10,210,452,26,17,2,2
+0,_Marshall,_Marshalltown 2 | _Marshalltown 1-2,_MARSH2,294,504,22,10,6,5,0,4,0,1,14,381,413,22,14,5,2
+0,_Marshall,_Marshalltown 3 | _Marshalltown 2-1,_MARSH3,524,689,49,13,8,4,5,10,0,1,18,600,608,47,20,7,0
+0,_Marshall,_Marshalltown 4 | _Marshalltown 2-2,_MARSH4,780,761,40,16,7,2,3,8,0,3,25,915,640,44,12,6,1
+0,_Marshall,_Marshalltown 5 | _Marshalltown 3-1,_MARSH5,736,710,44,10,7,7,3,3,1,0,18,871,592,40,15,4,2
+0,_Marshall,_Marshalltown 6 | _Marshalltown 3-2,_MARSH6,925,873,53,8,10,2,3,12,1,0,26,1161,674,50,11,5,0
+0,_Marshall,_Marshalltown 7 | _Marshalltown 4-1,_MARSH7,544,683,39,8,4,3,3,6,0,0,14,613,616,30,20,5,1
+0,_Marshall,_Marshalltown 8 | _Marshalltown 4-2,_MARSH8,735,699,55,13,4,2,0,15,1,0,19,879,609,33,8,3,1
+0,_Marshall,_State Center | _State Center,_STATECENTER,670,335,41,2,2,1,2,12,0,0,14,748,291,27,10,3,0
+0,_Marshall,_Taylor | _Taylor/Chariton,_TAYLOR,370,225,23,3,4,4,3,6,0,0,11,412,197,21,8,1,0
+0,_Marshall,_Timber Creek | _Timber Creek,_TIMBERCREEK,409,204,15,2,1,1,0,0,0,0,6,433,182,11,3,3,0
+0,_Mills,_Glenwood 1 | _Glenwood Ward 1,_GLENWOOD1,344,199,27,6,2,0,0,4,1,0,10,362,165,23,10,6,0
+0,_Mills,_Glenwood 2 | _Glenwood Ward 2,_GLENWOOD2,470,216,37,8,6,1,1,9,1,0,7,495,186,36,5,4,1
+0,_Mills,_Glenwood 3 | _Glenwood Ward 3,_GLENWOOD3,536,324,30,8,2,3,2,16,0,0,5,611,257,23,7,3,1
+0,_Mills,_Mills-Emerson/Hastings/Indian Creek | _Emerson/Hastings/Indian Creek,_MILLS1,308,99,15,2,3,1,0,2,0,0,0,328,72,13,6,0,0
+0,_Mills,_Mills-PacificJunction/Plattville/Lyons | _Pacific Junction/Lyons/Plattville,_MILLS10,383,146,18,6,0,1,0,8,0,0,1,383,124,17,12,3,1
+0,_Mills,_Mills-Silver City/Ingraham | _Silver City/Ingraham,_MILLS11,197,68,14,2,3,0,0,6,0,0,6,217,56,11,4,1,0
+0,_Mills,_Mills-Glenwood township | _Glenwood Township,_MILLS2,495,184,34,2,2,0,1,7,0,0,6,528,159,17,6,2,2
+0,_Mills,_Mills-Deer Creek/White Cloud | _Deer Creek/White Cloud,_MILLS6,133,44,6,2,1,0,0,1,0,0,0,135,40,4,1,1,0
+0,_Mills,_Mills-Henderson/Anderson | _Henderson/Anderson,_MILLS7,176,64,7,3,0,1,0,1,0,0,3,180,52,12,5,0,0
+0,_Mills,_Mills-Malvern/Tabor/SliverCrk/Centr/Rawls | _Malvern/Tabor/Center Twp/Rawles Twp/Silver Creek,_MILLS8,896,338,60,5,5,1,2,8,0,0,9,914,289,43,16,6,3
+0,_Mills,_Mills-Oak/Saint Marys | _Oak/Saint Marys,_MILLS9,1129,408,59,12,2,0,1,14,0,0,12,1137,340,60,21,4,2
+0,_Mitchell,_Mitchell 1 | _MITCHELL1,_MITCHELL1,255,133,18,2,1,2,0,1,0,0,2,296,94,12,5,2,0
+0,_Mitchell,_Mitchell 10 | _MITCHELL10,_MITCHELL10,591,275,26,3,2,1,2,4,0,0,3,658,218,12,3,3,0
+0,_Mitchell,_Mitchell 11 | _MITCHELL11,_MITCHELL11,221,139,14,4,1,2,3,1,0,0,6,267,103,11,5,0,1
+0,_Mitchell,_Mitchell 2 | _MITCHELL2,_MITCHELL2,205,91,7,1,1,0,0,2,0,0,2,241,69,4,2,0,0
+0,_Mitchell,_Mitchell 3 | _MITCHELL3,_MITCHELL3,246,166,9,1,2,0,0,7,0,0,3,267,153,10,3,0,0
+0,_Mitchell,_Mitchell 4 | _MITCHELL4,_MITCHELL4,472,208,34,2,3,4,2,5,0,0,1,521,187,10,5,1,1
+0,_Mitchell,_Mitchell 9 | _MITCHELL9,_MITCHELL9,258,129,6,0,1,0,2,0,1,0,5,286,103,7,5,1,0
+0,_Mitchell,_Osage 1 | _Osage 01/Mitchell 12,_OSAGE1,259,199,17,3,1,0,0,0,0,0,3,309,160,7,1,1,0
+0,_Mitchell,_Osage 2 | _Osage 02,_OSAGE2,222,155,24,3,1,0,1,3,0,0,3,263,125,9,8,1,1
+0,_Mitchell,_Osage 3 | _Osage 03/Mitchell 10/11,_OSAGE3,236,174,29,1,2,0,0,0,0,0,3,287,144,6,3,1,0
+0,_Mitchell,_Osage 4 | _Osage 04,_OSAGE4,225,219,26,8,1,1,4,2,0,1,3,285,180,14,6,1,1
+0,_Monona,_AS001 | _Ashton Belvidere Kennebec Lincoln Franklin Turin,_AS001,302,136,8,0,1,1,0,2,0,1,1,332,99,14,3,0,1
+0,_Monona,_CN002 | _Castana Center Jordan,_CN002,143,58,5,0,1,0,2,0,0,0,1,157,42,9,4,0,0
+0,_Monona,_CP003 | _Cooper Maple Mapleton,_CP003,558,225,19,3,1,0,0,3,0,1,8,586,197,17,8,1,0
+0,_Monona,_FV004 | _Fairview Grant Lake Rodney West Fork Whiting,_FV004,511,162,21,3,2,1,1,2,0,0,2,532,150,12,8,2,0
+0,_Monona,_MH005 | _Moorhead Soldier Spring Valley Willow,_MH005,288,103,14,5,0,1,0,1,0,0,5,292,101,13,5,1,2
+0,_Monona,_ON106 | _Onawa Ward 1,_ON106,189,99,8,3,1,0,0,0,0,0,6,202,86,12,1,2,0
+0,_Monona,_ON207 | _Onawa Ward 2-NE Franklin,_ON207,269,100,9,5,2,0,0,3,0,0,7,292,88,5,6,0,1
+0,_Monona,_ON308 | _Onawa Ward 3,_ON308,245,112,14,0,0,1,0,0,0,0,0,282,73,5,4,1,0
+0,_Monona,_ON409 | _Onawa Ward 4,_ON409,196,89,5,3,0,0,1,1,0,0,5,202,77,10,4,1,0
+0,_Monona,_SH010 | _Sherman SE Franklin Blencoe Sioux,_SH010,198,87,5,0,1,0,0,0,0,0,3,217,70,3,2,1,0
+0,_Monona,_STC11 | _St Clair Ute,_STC11,221,76,4,0,1,0,0,0,0,0,1,221,66,7,1,0,0
+0,_Monroe,_Albia 1 | _No. 1 Albia First Ward,_ALBIA1,317,171,22,3,0,2,0,2,1,0,2,314,197,6,1,0,0
+0,_Monroe,_Albia 2 | _No. 2 Albia Second Ward,_ALBIA2,290,95,20,3,4,0,0,0,0,0,3,245,153,12,4,2,0
+0,_Monroe,_Albia 3 | _No. 3 Albia Third Ward,_ALBIA3,197,124,10,0,0,1,0,0,0,0,3,182,137,4,2,0,0
+0,_Monroe,_Albia 4 | _No. 4 Albia Fourth Ward,_ALBIA4,258,151,10,2,3,0,0,2,0,0,3,222,188,11,1,1,0
+0,_Monroe,_Monroe Precinct 5 | _Precinct 5,_P5,943,266,31,1,8,0,0,9,0,0,2,885,331,32,3,2,0
+0,_Monroe,_Monroe Precinct 6 | _Precinct 6,_P6,418,144,10,4,4,0,1,2,0,0,1,392,179,6,4,2,1
+0,_Monroe,_Monroe Precinct 7 | _Precinct 7,_P7,215,105,1,0,1,0,0,0,0,0,0,218,95,4,1,0,0
+0,_Montgomery,_Montgomery Precinct 7 | _MTG7,_MTG7,508,184,19,5,5,0,4,2,0,0,5,518,155,24,15,2,0
+0,_Montgomery,_Montgomery Precinct 1 | _Ward1 Pilot Grove Frankfort Ro Twp,_MTGP1,614,255,29,8,4,3,1,5,0,0,5,649,205,35,13,4,1
+0,_Montgomery,_Montgomery Precinct 2 | _Ward2 Sherman Ro Twp,_MTGP2,542,275,30,9,2,0,2,7,0,1,10,600,222,23,16,1,2
+0,_Montgomery,_Montgomery Precinct 3 | _Ward3 Sherman Pilot Grove Frankfort Ro Twp,_MTGP3,681,314,36,6,3,0,1,5,0,0,12,754,250,25,7,3,1
+0,_Montgomery,_Montgomery Precinct 4 | _4 Grfld Lncln Sher Pilot Grove Twp Elliott,_MTGP4,376,88,9,3,2,1,0,0,0,1,4,384,74,13,2,3,0
+0,_Montgomery,_Montgomery Precinct 5 | _5 Pilot Grove Frankfort Douglas Wash Twp Grant,_MTGP5,205,68,10,2,0,1,0,4,1,0,0,222,46,9,5,2,0
+0,_Montgomery,_Montgomery Precinct 6 | _6 West Grant Scott Twp Coburg Stanton,_MTGP6,510,130,19,5,5,0,0,4,0,1,3,519,115,19,10,1,0
+0,_Muscatine,_Muscatine County Seventy-Six/ Cedar Precinc | _Seventy-Six/Cedar,_76CEDAR,196,126,14,3,4,0,1,1,0,0,4,227,105,5,6,1,0
+0,_Muscatine,_Muscatine County Bloomington Precinct | _Bloomington,_BLOOMINGTON,823,478,54,5,7,1,3,17,0,0,20,977,359,23,22,2,1
+0,_Muscatine,_Muscatine County Fruitland 2/ Lake Precinct | _Fruitland Two/Lake,_FRUIT2LAKE,305,192,12,1,2,0,1,15,0,1,5,358,155,10,8,0,0
+0,_Muscatine,_Muscatine County Fruitland 1 Precinct | _Fruitland One,_FRUITLAND1,409,235,34,9,4,2,1,5,0,0,5,466,184,20,17,2,1
+0,_Muscatine,_Muscatine County Fulton/ Montpelier Precinc | _Fulton/Montpelier,_FULTONMONTP,552,287,28,6,3,3,2,3,0,0,6,576,243,27,30,3,2
+0,_Muscatine,_Muscatine County Goshen Precinct | _Goshen City,_GOSHEN,131,86,30,3,1,2,0,2,0,0,3,158,71,19,4,0,1
+0,_Muscatine,_Muscatine County Moscow/ Wilton Precinct | _Wilton/Moscow,_MOSCOWWILTON,412,162,20,2,5,0,1,3,0,0,4,446,130,10,12,0,1
+0,_Muscatine,_Muscatine 1 | _Muscatine 01st,_MUSC1,675,603,49,15,6,1,4,15,2,0,23,828,488,30,25,0,0
+0,_Muscatine,_Muscatine 10 | _Muscatine 10th,_MUSC10,455,538,38,16,2,6,2,2,0,0,14,529,462,35,22,1,0
+0,_Muscatine,_Muscatine 2 | _Muscatine 02nd,_MUSC2,518,455,38,7,9,2,2,5,0,1,20,588,400,23,25,2,0
+0,_Muscatine,_Muscatine 3 | _Muscatine 03rd,_MUSC3,387,451,39,12,2,8,3,8,1,1,12,439,390,39,27,2,3
+0,_Muscatine,_Muscatine 4 | _Muscatine 04th,_MUSC4,271,412,40,10,1,2,1,9,0,1,10,346,346,32,19,5,1
+0,_Muscatine,_Muscatine 5 | _Muscatine 05th,_MUSC5,313,397,28,7,3,4,1,2,0,1,9,347,351,33,15,0,0
+0,_Muscatine,_Muscatine 6 | _Muscatine 06th,_MUSC6,653,628,59,12,5,1,4,7,0,0,12,822,494,35,15,2,0
+0,_Muscatine,_Muscatine 7 | _Muscatine 07th,_MUSC7,374,374,27,8,4,4,3,4,0,0,14,437,304,23,19,4,1
+0,_Muscatine,_Muscatine 8 | _Muscatine 08th,_MUSC8,407,337,23,12,2,6,3,4,0,1,8,419,318,24,16,3,1
+0,_Muscatine,_Muscatine 9 | _Muscatine 09th,_MUSC9,409,500,41,12,5,4,1,10,0,1,10,489,435,32,15,2,0
+0,_Muscatine,_Muscatine County Orono Precinct | _Orono City,_ORONO,108,76,7,0,1,0,0,0,0,0,0,119,56,4,3,0,0
+0,_Muscatine,_Muscatine County Pike Precinct | _Pike City,_PIKE,243,109,14,2,3,4,1,0,0,0,9,266,94,16,9,2,0
+0,_Muscatine,_Muscatine County Sweetland Precinct | _Sweetland,_SWEETLAND,593,305,28,7,7,1,1,7,0,0,4,673,236,20,9,1,2
+0,_Muscatine,_West Liberty 2 | _West Liberty 2,_WESTLIBERTY2,146,440,20,7,4,3,0,7,0,0,6,208,379,14,14,5,2
+0,_Muscatine,_Muscatine County Wilton City Precinct | _Wilton City,_WILTONCITY,781,543,66,16,5,5,6,3,0,0,8,888,442,41,23,2,1
+0,_Muscatine,_Muscatine County West Liberty 1/ Wapsi Prec | _West Liberty 1/Wapsie,_WL1WAPSIE,423,634,39,11,2,4,1,7,0,0,7,551,521,28,16,2,3
+0,_Obrien,_O'Brien 1 - Carroll-Floyd | _Carroll-Floyd,_OBRIEN1,318,54,9,0,0,1,0,1,0,0,4,343,36,4,0,0,0
+0,_Obrien,_O'Brien 2 - Franklin | _Franklin,_OBRIEN2,707,103,20,4,2,0,1,7,0,0,2,728,89,16,3,0,1
+0,_Obrien,_O'Brien 3 - Hartley-Lincoln-Omega | _Hartley-Lincoln-Omega,_OBRIEN3,841,250,38,3,4,1,5,6,0,0,7,888,213,19,6,4,1
+0,_Obrien,_O'Brien 4 - Sheldon 1 | _Sheldon 1st Ward,_OBRIEN4,887,155,23,3,1,1,2,4,0,0,6,929,120,12,3,1,1
+0,_Obrien,_O'Brien 5 - Sheldon 2 | _Sheldon 2nd Ward,_OBRIEN5,573,141,17,5,5,0,2,5,0,0,6,615,106,11,4,4,1
+0,_Obrien,_O'Brien 6 - Sheldon 3 | _Sheldon 3rd Ward,_OBRIEN6,540,124,21,5,3,1,1,1,1,0,4,557,107,12,5,1,2
+0,_Obrien,_O'Brien 7 - Summit-Center-Dale-Highland | _Summit-Center-Dale-Highland,_OBRIEN7,652,209,23,3,2,0,2,1,0,1,2,712,153,9,6,1,1
+0,_Obrien,_O'Brien 8 - Union-Baker-Caledonia | _Union-Baker-Caledonia,_OBRIEN8,718,159,20,2,3,0,1,5,0,0,4,760,132,10,4,0,0
+0,_Obrien,_O'Brien 9 - Waterman-Grant-Liberty | _Waterman-Grant-Liberty,_OBRIEN9,516,120,26,3,2,0,2,1,2,1,1,544,104,16,6,4,0
+0,_Osceola,_Ashton | _Ashton Precinct 0100,_ASHTON,340,51,5,0,3,0,0,2,0,0,2,345,43,8,0,1,2
+0,_Osceola,_Harris | _Harris Precinct 0200,_HARRIS,142,32,5,0,0,0,0,2,0,0,0,153,22,2,2,0,0
+0,_Osceola,_May City | _May City Precinct 0300,_MAYCITY,126,38,1,0,0,0,0,0,0,0,0,121,34,3,1,0,0
+0,_Osceola,_Melvin | _Melvin Precinct 0400,_MELVIN,228,35,3,0,0,0,0,0,0,0,1,220,35,2,0,0,1
+0,_Osceola,_Ocheyedan | _Ocheyedan Precinct 0500,_OCHEYEDAN,235,59,6,3,3,0,0,5,0,0,1,246,51,8,2,0,0
+0,_Osceola,_Osceola 1 | _Osceola 1st Ward Precinct,_OSCEOLA1,416,75,17,3,1,0,0,2,0,0,1,427,54,10,6,6,0
+0,_Osceola,_Osceola 2 | _Osceola 2nd Ward Precinct,_OSCEOLA2,490,120,23,3,2,0,2,7,0,1,3,512,99,16,5,1,0
+0,_Osceola,_Osceola 3 | _Osceola 3rd Ward Precinct,_OSCEOLA3,554,142,13,1,1,0,1,2,0,0,5,577,117,4,5,2,0
+0,_Page,_Clarinda 1 | _Clarinda Ward 1,_CLARINDA1,518,191,20,7,3,0,0,7,1,0,6,557,157,10,6,2,3
+0,_Page,_Clarinda 2 | _Clarinda Ward 2,_CLARINDA2,870,402,29,12,6,1,0,9,1,0,9,932,335,36,11,3,0
+0,_Page,_East River | _Am-Bu-ER-Doug-Har-Neb-Nod-Brad-CS-He-Sh-Yt,_EASTRIVER,1058,240,41,4,11,0,3,6,0,0,6,1095,190,34,15,1,0
+0,_Page,_Grant | _Grant,_GRANT,581,169,21,1,2,0,0,1,1,0,7,605,134,25,6,0,0
+0,_Page,"_Pierce | _Pierce and Fremont Townships, Essex",_PIERCE,459,117,17,0,0,0,0,4,0,0,3,476,98,10,6,0,0
+0,_Page,_Shenandoah 1 | _Shenandoah 1,_SHENANDOAH1,319,158,9,7,2,1,1,2,0,0,5,335,139,17,4,3,1
+0,_Page,_Shenandoah 2 | _Shenandoah 2,_SHENANDOAH2,519,260,18,5,0,2,2,1,0,0,8,572,198,25,7,1,0
+0,_Page,_Shenandoah 3 | _Shenandoah 3,_SHENANDOAH3,569,270,21,1,6,3,1,5,0,0,5,636,210,19,6,1,0
+0,_Palo Alto,_Emmetsburg 1 | _Emmetsburg Ward 1,_EMMETSBURG1,293,192,14,5,1,0,4,1,0,0,1,354,139,5,9,0,0
+0,_Palo Alto,_Emmetsburg 2 | _Emmetsburg Ward 2,_EMMETSBURG2,231,200,11,2,0,1,2,1,0,0,3,269,163,6,5,1,0
+0,_Palo Alto,_Emmetsburg 3 | _EM Ward 3/Ayrshire/pt. HL&WL&EM,_EMMETSBURG3,581,291,33,2,3,2,1,1,0,1,9,638,234,21,10,4,1
+0,_Palo Alto,_Emmetsburg 4 | _EM Ward 4/FV/FR/VN/pt. EM,_EMMETSBURG4,631,259,24,4,4,1,4,6,0,0,7,700,197,19,19,1,0
+0,_Palo Alto,_Palo Alto 5 | _WB/EL/RL/BO/GO/NV,_PALOALTO5,787,197,26,3,0,3,0,3,0,0,2,838,146,15,15,2,1
+0,_Palo Alto,_Palo Alto 6 | _GR/RV/LI/pt. HL&WL,_PALOALTO6,558,259,23,4,4,2,3,1,0,0,2,578,230,17,15,1,0
+0,_Plymouth,_Plymouth 11/Le Mars 1 | _Plymouth 11/Le Mars 1,_PLY11-LM1,1134,449,54,7,2,1,3,8,0,1,15,1248,345,38,15,2,1
+0,_Plymouth,_Plymouth 12/Le Mars 2 | _Plymouth 12/Le Mars 2,_PLY12-LM2,1282,448,54,7,3,1,0,11,0,0,22,1399,349,37,7,2,1
+0,_Plymouth,_Plymouth 13/Le Mars 3 | _Plymouth 13/Le Mars 3,_PLY13-LM3,828,308,46,9,5,0,2,11,1,0,13,908,244,26,7,5,0
+0,_Plymouth,_Plymouth 1 | _Plymouth 01/Ak,_PLYMOUTH1,631,214,22,3,4,0,1,2,0,0,6,670,169,15,3,2,0
+0,_Plymouth,_Plymouth 10 | _Plymouth 10/Kl,_PLYMOUTH10,786,224,27,2,4,1,2,4,0,0,8,877,145,17,4,0,0
+0,_Plymouth,_Plymouth 2 | _Plymouth 02/Mrhg,_PLYMOUTH2,372,76,16,0,1,0,0,0,0,0,0,380,69,7,2,1,0
+0,_Plymouth,_Plymouth 3 | _Plymouth 03/Sb,_PLYMOUTH3,413,78,6,1,2,1,0,0,0,0,3,411,66,11,5,0,0
+0,_Plymouth,_Plymouth 4 | _Plymouth 04/Bv,_PLYMOUTH4,613,143,18,1,1,0,1,13,0,0,5,669,102,11,6,0,0
+0,_Plymouth,_Plymouth 5 | _Plymouth 05/Rm,_PLYMOUTH5,1021,202,24,4,3,0,3,5,0,0,5,1056,172,17,8,1,1
+0,_Plymouth,_Plymouth 6 | _Plymouth 06/Wf,_PLYMOUTH6,303,108,11,3,0,0,0,1,0,0,1,318,94,5,0,0,0
+0,_Plymouth,_Plymouth 7 | _Plymouth 07/Mr,_PLYMOUTH7,649,205,37,4,3,0,0,3,0,1,4,687,174,26,8,3,0
+0,_Plymouth,_Plymouth 8 | _Plymouth 08/Py,_PLYMOUTH8,743,201,7,7,0,0,1,6,0,0,9,775,164,10,5,3,0
+0,_Plymouth,_Plymouth 9 | _Plymouth 09/Ht,_PLYMOUTH9,905,229,21,4,5,1,1,8,0,1,11,940,207,14,5,1,0
+0,_Pocahontas,_Pocahontas County Precinct 1 | _Precinct 1,_P1,519,191,28,4,3,1,0,3,0,0,3,555,150,25,7,2,0
+0,_Pocahontas,_Pocahontas County Precinct 2 | _Precinct 2,_P2,519,166,17,1,2,2,1,0,0,0,6,535,147,17,3,4,1
+0,_Pocahontas,_Pocahontas Precinct 3 | _Precinct 3,_P3,166,40,4,0,2,0,0,2,0,0,1,186,24,4,0,0,0
+0,_Pocahontas,_Pocahontas Precinct 4 | _Precinct 4,_P4,537,272,22,3,9,1,1,4,1,0,8,587,210,29,15,1,0
+0,_Pocahontas,_Pocahontas County Precinct 5 | _Precinct 5,_P5,251,88,14,2,3,1,1,0,0,0,2,283,71,5,2,1,0
+0,_Pocahontas,_Pocahontas County Precinct 6 | _Precinct 6,_P6,376,149,21,2,1,0,3,2,0,0,1,403,125,14,12,1,0
+0,_Pocahontas,_Pocahontas County Precinct 7 | _Precinct 7,_P7,334,57,9,2,1,1,0,3,0,0,2,342,57,2,2,2,0
+0,_Polk,_Polk County Alleman 1 | _Alleman 01,_ALLEMAN1,374,172,12,6,2,0,1,3,0,0,5,416,141,10,2,2,0
+0,_Polk,_Polk County Allen 1 | _Allen 01,_ALLEN1,126,85,11,0,2,0,0,0,0,0,3,127,76,10,3,2,2
+0,_Polk,_Altoona Precinct 1 | _Altoona 01,_ALT1,489,448,58,4,4,4,1,1,0,0,13,587,374,35,11,2,1
+0,_Polk,_Altoona Precinct 2 | _Altoona 02,_ALT2,698,716,76,6,6,1,3,20,0,1,20,841,612,52,14,3,1
+0,_Polk,_Altoona Precinct 3 | _Altoona 03,_ALT3,1125,1012,109,18,13,2,4,24,0,0,22,1300,850,90,33,5,2
+0,_Polk,_Altoona Precinct 4 | _Altoona 04,_ALT4,1052,846,98,12,8,0,0,21,0,0,33,1268,689,58,18,5,1
+0,_Polk,_Altoona Precinct 5 | _Altoona 05,_ALT5,1068,849,93,7,2,1,1,27,1,0,26,1320,642,59,23,4,2
+0,_Polk,_Ankeny Precinct 1 | _Ankeny 01,_ANK1,1894,1644,162,18,10,1,3,52,1,1,48,2378,1264,88,25,9,1
+0,_Polk,_Ankeny Precinct 10 | _Ankeny 10,_ANK10,809,745,73,7,17,0,1,48,1,0,15,1033,608,42,17,4,1
+0,_Polk,_Ankeny Precinct 11 | _Ankeny 11,_ANK11,905,794,81,18,16,2,3,40,1,0,35,1131,650,64,23,14,3
+0,_Polk,_Ankeny Precinct 12 | _Ankeny 12,_ANK12,1523,1324,172,24,10,2,2,56,0,0,33,1976,1010,83,23,9,1
+0,_Polk,_Ankeny Precinct 13 | _Ankeny 13,_ANK13,1576,1167,160,10,7,4,1,61,0,0,47,2016,882,74,15,5,4
+0,_Polk,_Ankeny Precinct 14 | _Ankeny 14,_ANK14,846,745,93,8,7,0,3,13,0,0,24,1038,598,47,15,5,1
+0,_Polk,_Ankeny Precinct 15 | _Ankeny 15,_ANK15,814,687,91,10,3,2,2,20,1,1,25,1002,561,51,19,5,1
+0,_Polk,_Ankeny Precinct 2 | _Ankeny 02,_ANK2,1005,822,68,7,5,2,0,19,0,0,22,1293,612,33,7,2,2
+0,_Polk,_Ankeny Precinct 3 | _Ankeny 03,_ANK3,760,728,78,8,5,0,1,34,0,0,24,942,592,53,21,5,3
+0,_Polk,_Ankeny Precinct 4 | _Ankeny 04,_ANK4,907,778,86,9,8,0,2,27,1,0,24,1117,612,60,18,9,3
+0,_Polk,_Ankeny Precinct 5 | _Ankeny 05,_ANK5,920,858,94,14,3,1,0,36,0,0,21,1110,728,60,13,8,2
+0,_Polk,_Ankeny Precinct 6 | _Ankeny 06,_ANK6,836,868,106,12,7,0,2,21,2,0,26,1080,703,46,30,4,3
+0,_Polk,_Ankeny Precinct 7 | _Ankeny 07,_ANK7,640,636,79,12,3,0,2,27,1,0,14,780,539,53,17,3,1
+0,_Polk,_Ankeny Precinct 8 | _Ankeny 08,_ANK8,924,850,97,12,7,0,2,35,1,0,29,1163,673,53,17,7,1
+0,_Polk,_Ankeny Precinct 9 | _Ankeny 09,_ANK9,804,775,96,13,3,2,3,20,1,1,20,961,672,42,22,2,2
+0,_Polk,_Polk County Bondurant 1 | _Bondurant 01,_BONDURANT1,720,493,92,7,8,1,2,8,0,0,18,835,400,40,28,6,4
+0,_Polk,_Polk County Bondurant 2 | _Bondurant 02,_BONDURANT2,759,508,69,9,7,0,1,14,1,0,17,921,396,35,12,7,0
+0,_Polk,_Polk County Clay Precinct 1 | _Clay Precinct 01,_CLAY1,383,227,30,3,4,1,0,3,0,0,6,422,195,26,10,0,0
+0,_Polk,_Clive Precinct 1 | _Clive 01,_CLV1,361,521,29,9,4,3,0,8,1,0,17,441,458,23,11,1,1
+0,_Polk,_Clive Precinct 2 | _Clive 02,_CLV2,582,715,72,9,2,1,2,13,0,0,16,757,575,40,8,9,0
+0,_Polk,_Clive Precinct 3 | _Clive 03,_CLV3,997,1011,60,7,5,1,2,19,0,0,32,1284,790,29,6,1,4
+0,_Polk,_Clive Precinct 4 | _Clive 04,_CLV4,891,845,50,10,3,0,0,21,0,0,31,1193,615,32,5,4,1
+0,_Polk,_Polk County Crocker 1 | _Crocker 01,_CROCKER1,815,584,64,5,2,0,1,8,0,1,15,965,456,47,8,7,1
+0,_Polk,_Polk County Crocker 2 | _Crocker 02,_CROCKER2,540,326,41,4,3,0,0,14,0,0,12,650,253,24,4,3,1
+0,_Polk,_Polk County Delaware 1 | _Adams/Hazel Green,_DELAWARE1,562,447,58,13,3,2,3,8,0,3,12,597,427,41,17,7,2
+0,_Polk,_Polk County Delaware 2 | _Colony,_DELAWARE2,162,156,16,2,0,0,0,1,1,0,1,186,131,11,5,1,0
+0,_Polk,_Polk County Douglas 1 | _Douglas 01,_DOUGLAS1,433,227,27,0,1,0,0,4,0,0,10,493,184,17,4,2,1
+0,_Polk,_Des Moines Precinct 1 | _Des Moines 01,_DSM1,334,383,34,2,4,0,1,9,0,0,6,389,334,21,11,1,1
+0,_Polk,_Des Moines Precinct 10 | _Des Moines 10,_DSM10,501,877,68,13,3,3,1,17,0,0,19,687,746,32,12,2,2
+0,_Polk,_Des Moines Precinct 11 | _Des Moines 11,_DSM11,466,926,80,12,3,1,2,13,0,1,21,634,783,60,14,9,6
+0,_Polk,_Des Moines Precinct 12 | _Des Moines 12,_DSM12,247,480,39,11,2,0,0,10,0,0,12,331,406,32,17,5,1
+0,_Polk,_Des Moines Precinct 13 | _Des Moines 13,_DSM13,313,568,51,14,6,2,1,3,0,0,12,398,504,37,9,4,2
+0,_Polk,_Des Moines Precinct 14 | _Des Moines 14,_DSM14,298,562,42,7,3,2,1,2,0,1,14,368,510,28,8,4,0
+0,_Polk,_Des Moines Precinct 15 | _Des Moines 15,_DSM15,610,1366,110,23,6,1,0,30,0,0,29,885,1167,71,14,11,2
+0,_Polk,_Des Moines Precinct 16 | _Des Moines 16,_DSM16,504,1259,93,29,3,3,0,26,1,1,17,743,1074,64,11,11,8
+0,_Polk,_Des Moines Precinct 17 | _Des Moines 17,_DSM17,248,548,38,11,2,2,1,6,0,0,17,323,485,29,10,6,1
+0,_Polk,_Des Moines Precinct 18 | _Des Moines 18,_DSM18,77,468,22,12,0,0,0,3,0,0,4,117,408,28,4,4,0
+0,_Polk,_Des Moines Precinct 19 | _Des Moines 19,_DSM19,158,377,12,7,4,1,1,3,0,2,8,190,338,21,9,4,3
+0,_Polk,_Des Moines Precinct 2 | _Des Moines 02,_DSM2,345,634,41,15,0,1,0,2,0,1,20,434,538,32,20,4,1
+0,_Polk,_Des Moines Precinct 20 | _Des Moines 20,_DSM20,362,737,35,16,5,1,2,4,2,3,17,454,653,33,11,8,2
+0,_Polk,_Des Moines Precinct 21 | _Des Moines 21,_DSM21,389,777,80,13,7,1,4,17,1,0,11,493,690,44,25,11,7
+0,_Polk,_Des Moines Precinct 22 | _Des Moines 22,_DSM22,244,682,38,7,3,1,4,2,0,0,16,311,620,37,12,5,5
+0,_Polk,_Des Moines Precinct 23 | _Des Moines 23,_DSM23,141,640,9,11,1,3,2,2,0,1,4,190,567,15,13,3,4
+0,_Polk,_Des Moines Precinct 24 | _Des Moines 24,_DSM24,271,386,20,2,6,4,1,8,0,0,5,317,338,24,10,4,1
+0,_Polk,_Des Moines Precinct 25 | _Des Moines 25,_DSM25,347,552,33,13,4,3,1,2,0,0,7,394,503,27,17,4,2
+0,_Polk,_Des Moines Precinct 26 | _Des Moines 26,_DSM26,584,717,57,16,3,1,1,2,1,1,14,672,628,51,15,5,1
+0,_Polk,_Des Moines Precinct 27 | _Des Moines 27,_DSM27,439,480,41,12,4,1,0,9,1,1,17,517,414,35,12,4,1
+0,_Polk,_Des Moines Precinct 28 | _Des Moines 28,_DSM28,636,847,64,11,6,1,2,11,2,0,29,756,727,64,21,10,4
+0,_Polk,_Des Moines Precinct 29 | _Des Moines 29,_DSM29,633,628,43,7,5,0,1,12,1,0,17,731,536,44,14,1,0
+0,_Polk,_Des Moines Precinct 3 | _Des Moines 03,_DSM3,655,814,59,7,10,2,3,6,0,0,15,764,696,48,17,5,1
+0,_Polk,_Des Moines Precinct 30 | _Des Moines 30,_DSM30,409,485,42,9,3,0,2,3,0,1,7,456,441,24,14,4,2
+0,_Polk,_Des Moines Precinct 31 | _Des Moines 31,_DSM31,459,670,53,13,4,0,2,8,0,0,13,516,588,47,25,11,2
+0,_Polk,_Des Moines Precinct 32 | _Des Moines 32,_DSM32,249,616,31,6,2,2,1,3,0,0,7,316,519,35,20,6,3
+0,_Polk,_Des Moines Precinct 33 | _Des Moines 33,_DSM33,148,592,22,12,1,1,2,10,0,0,9,215,504,25,20,8,2
+0,_Polk,_Des Moines Precinct 34 | _Des Moines 34,_DSM34,68,315,5,6,2,1,1,3,0,0,4,104,269,9,7,2,0
+0,_Polk,_Des Moines Precinct 35 | _Des Moines 35,_DSM35,72,362,8,8,0,1,0,1,0,0,5,103,311,17,5,6,2
+0,_Polk,_Des Moines Precinct 36 | _Des Moines 36,_DSM36,86,777,11,11,0,4,1,3,0,0,11,144,704,23,10,6,0
+0,_Polk,_Des Moines Precinct 37 | _Des Moines 37,_DSM37,105,668,22,8,4,0,2,7,0,0,4,201,572,13,10,4,0
+0,_Polk,_Des Moines Precinct 38 | _Des Moines 38,_DSM38,197,635,53,11,0,0,0,9,4,0,10,313,526,42,3,5,1
+0,_Polk,_Des Moines Precinct 39 | _Des Moines 39,_DSM39,325,1209,59,20,1,1,1,24,0,3,27,502,1079,46,16,1,3
+0,_Polk,_Des Moines Precinct 4 | _Des Moines 04,_DSM4,268,533,38,10,3,4,1,1,1,0,17,362,437,33,14,5,3
+0,_Polk,_Des Moines Precinct 40 | _Des Moines 40,_DSM40,177,654,58,18,2,1,1,19,0,0,12,297,558,27,16,8,5
+0,_Polk,_Des Moines Precinct 41 | _Des Moines 41,_DSM41,483,1404,78,18,7,1,1,24,0,2,25,720,1230,56,9,6,6
+0,_Polk,_Des Moines Precinct 42 | _Des Moines 42,_DSM42,598,1147,114,18,6,7,3,21,1,0,33,825,983,82,21,9,2
+0,_Polk,_Des Moines Precinct 43 | _Des Moines 43,_DSM43,306,892,51,6,2,1,1,17,1,2,11,452,778,40,5,4,4
+0,_Polk,_Des Moines Precinct 44 | _Des Moines 44,_DSM44,262,1003,56,24,7,0,0,18,1,0,17,403,902,40,10,6,5
+0,_Polk,_Des Moines Precinct 45 | _Des Moines 45,_DSM45,102,527,27,15,2,1,0,15,0,1,12,163,482,17,8,6,3
+0,_Polk,_Des Moines Precinct 46 | _Des Moines 46,_DSM46,105,587,13,11,0,0,1,9,0,0,9,160,525,14,9,3,1
+0,_Polk,_Des Moines Precinct 47 | _Des Moines 47,_DSM47,152,640,24,3,0,0,3,4,0,2,9,216,576,12,10,4,1
+0,_Polk,_Des Moines Precinct 48 | _Des Moines 48,_DSM48,35,134,4,2,0,0,0,1,0,0,2,47,111,7,6,1,0
+0,_Polk,_Des Moines Precinct 49 | _Des Moines 49,_DSM49,137,274,19,5,0,1,1,0,0,0,4,171,233,16,7,3,2
+0,_Polk,_Des Moines Precinct 5 | _Des Moines 05,_DSM5,209,350,19,4,2,0,0,3,0,0,3,251,288,20,9,5,1
+0,_Polk,_Des Moines Precinct 50 | _Des Moines 50,_DSM50,321,719,44,16,3,2,2,6,1,0,17,450,588,44,11,5,2
+0,_Polk,_Des Moines Precinct 51 | _Des Moines 51,_DSM51,204,507,39,7,1,1,3,6,0,0,7,274,442,20,19,5,4
+0,_Polk,_Des Moines Precinct 52 | _Des Moines 52,_DSM52,197,422,24,4,0,1,0,6,1,0,12,266,356,25,10,4,0
+0,_Polk,_Des Moines Precinct 53 | _Des Moines 53,_DSM53,209,355,15,3,0,1,0,1,1,0,7,231,328,16,3,4,3
+0,_Polk,_Des Moines Precinct 54 | _Des Moines 54,_DSM54,135,253,17,1,0,1,0,2,0,0,8,153,233,14,9,0,1
+0,_Polk,_Des Moines Precinct 55 | _Des Moines 55,_DSM55,355,1151,66,22,1,0,4,12,0,0,20,557,971,49,13,11,3
+0,_Polk,_Des Moines Precinct 56 | _Des Moines 56,_DSM56,168,1025,47,24,5,0,1,9,1,0,18,317,879,39,23,4,2
+0,_Polk,_Des Moines Precinct 57 | _Des Moines 57,_DSM57,103,670,36,10,0,2,0,24,1,1,7,221,573,26,3,2,4
+0,_Polk,_Des Moines Precinct 58 | _Des Moines 58,_DSM58,221,926,42,23,1,1,1,12,0,2,8,321,835,44,12,8,4
+0,_Polk,_Des Moines Precinct 59 | _Des Moines 59,_DSM59,272,1024,66,19,1,2,0,15,2,2,10,427,891,44,10,5,2
+0,_Polk,_Des Moines Precinct 6 | _Des Moines 06,_DSM6,253,409,43,7,0,1,1,4,0,0,9,311,349,35,12,6,1
+0,_Polk,_Des Moines Precinct 60 | _Des Moines 60,_DSM60,218,867,42,19,1,2,3,7,0,0,15,349,764,33,10,4,3
+0,_Polk,_Des Moines Precinct 61 | _Des Moines 61,_DSM61,325,862,36,13,0,2,1,8,0,0,19,518,724,12,4,2,1
+0,_Polk,_Des Moines Precinct 62 | _Des Moines 62,_DSM62,524,1575,65,16,5,0,1,21,0,1,31,864,1302,40,9,2,4
+0,_Polk,_Des Moines Precinct 63 | _Des Moines 63,_DSM63,326,888,56,8,0,0,0,10,0,0,25,475,773,32,12,4,6
+0,_Polk,_Des Moines Precinct 64 | _Des Moines 64,_DSM64,328,750,60,22,3,3,2,11,0,0,13,461,658,39,13,5,2
+0,_Polk,_Des Moines Precinct 65 | _Des Moines 65,_DSM65,634,939,58,16,0,2,2,11,0,1,15,837,799,25,11,2,4
+0,_Polk,_Des Moines Precinct 66 | _Des Moines 66,_DSM66,605,1038,64,6,6,1,1,6,0,0,21,740,917,48,9,4,4
+0,_Polk,_Des Moines Precinct 67 | _Des Moines 67,_DSM67,80,160,8,7,0,0,1,2,1,0,4,97,140,9,6,1,2
+0,_Polk,_Des Moines Precinct 68 | _Des Moines 68,_DSM68,272,456,39,12,4,4,1,2,0,1,5,337,409,32,7,7,2
+0,_Polk,_Des Moines Precinct 69 | _Des Moines 69,_DSM69,437,726,56,8,6,2,1,4,1,0,8,534,644,41,9,0,1
+0,_Polk,_Des Moines Precinct 7 | _Des Moines 07,_DSM7,442,808,71,16,5,2,1,8,1,0,26,547,729,58,18,9,3
+0,_Polk,_Des Moines Precinct 70 | _Des Moines 70,_DSM70,253,538,37,6,1,1,0,4,0,0,9,316,465,29,19,4,1
+0,_Polk,_Des Moines Precinct 71 | _Des Moines 71,_DSM71,626,817,56,9,8,0,2,9,0,0,20,764,697,48,13,5,1
+0,_Polk,_Des Moines Precinct 72 | _Des Moines 72,_DSM72,43,35,2,0,0,1,0,0,0,0,0,47,32,1,0,0,0
+0,_Polk,_Des Moines Precinct 73 | _Des Moines 73,_DSM73,511,746,64,3,6,2,0,17,1,0,16,651,640,43,12,1,2
+0,_Polk,_Des Moines Precinct 74 | _Des Moines 74,_DSM74,246,297,33,1,1,0,0,3,1,0,6,293,263,18,8,1,1
+0,_Polk,_Des Moines Precinct 75 | _Des Moines 75,_DSM75,450,675,43,3,5,2,3,3,0,0,4,525,593,33,17,2,1
+0,_Polk,_Des Moines Precinct 76 | _Des Moines 76,_DSM76,407,693,42,12,4,1,0,6,3,0,19,520,582,41,14,2,2
+0,_Polk,_Des Moines Precinct 77 | _Des Moines 77,_DSM77,369,577,36,6,3,3,0,3,2,0,10,446,494,33,9,3,2
+0,_Polk,_Des Moines Precinct 78 | _Des Moines 78,_DSM78,387,607,53,6,5,2,0,4,0,1,12,473,525,40,9,5,4
+0,_Polk,_Des Moines Precinct 79 | _Des Moines 79,_DSM79,461,662,63,15,5,2,0,2,1,0,11,544,579,55,19,5,2
+0,_Polk,_Des Moines Precinct 8 | _Des Moines 08,_DSM8,269,566,36,8,2,1,2,14,1,0,17,361,495,28,9,5,3
+0,_Polk,_Des Moines Precinct 80 | _Des Moines 80,_DSM80,638,868,61,16,2,1,5,14,1,0,13,757,760,55,17,5,1
+0,_Polk,_Des Moines Precinct 81 | _Des Moines 81,_DSM81,423,593,53,8,2,0,1,8,2,0,13,534,497,26,19,3,2
+0,_Polk,_Des Moines Precinct 82 | _Des Moines 82,_DSM82,420,544,35,3,4,0,0,4,0,0,8,505,457,31,6,3,4
+0,_Polk,_Des Moines Precinct 83 | _Des Moines 83,_DSM83,550,740,67,18,3,3,2,5,1,1,21,650,644,52,21,11,5
+0,_Polk,_Des Moines Precinct 84 | _Des Moines 84,_DSM84,232,405,16,9,2,0,1,4,0,0,7,263,367,26,9,5,3
+0,_Polk,_Des Moines Precinct 9 | _Des Moines 09,_DSM9,510,783,50,11,8,2,2,14,0,0,18,632,680,37,15,4,5
+0,_Polk,_Polk County Elkhart 1 | _Elkhart 01,_ELKHART1,575,281,44,3,6,1,1,7,0,0,15,658,234,24,8,2,0
+0,_Polk,_Polk County Four Mile 1 | _Four Mile 01,_FOURMILE1,858,465,54,6,7,1,3,12,0,0,15,957,400,36,16,2,1
+0,_Polk,_Polk County Franklin 1 | _Geneva/Ingham/East Mott,_FRANKLIN1,574,295,38,1,2,0,0,7,0,0,6,618,258,21,7,3,0
+0,_Polk,_Polk County Granger 1 | _Granger 01,_GRANGER1,104,59,9,0,1,0,0,1,0,0,0,120,47,5,1,1,0
+0,_Polk,_Grimes Precinct 1 | _Grimes 01,_GRIMES1,1463,1074,177,15,9,2,3,55,2,0,27,1841,808,94,24,10,4
+0,_Polk,_Grimes Precinct 2 | _Grimes 02,_GRIMES2,1237,943,129,14,4,2,4,26,0,0,24,1491,727,90,28,7,1
+0,_Polk,_Grimes Precinct 3 | _Grimes 03,_GRIMES3,584,578,56,6,4,1,1,24,0,0,6,703,470,46,11,3,1
+0,_Polk,_Polk County Jefferson 1 | _Jefferson 01,_JEFFERSON1,756,441,52,9,4,1,0,17,1,0,21,909,355,26,4,1,2
+0,_Polk,_Polk County Johnston Precinct 1 | _Johnston 01,_JOHNSTON1,984,988,126,12,5,1,1,24,2,0,28,1239,818,66,14,4,6
+0,_Polk,_Polk County Johnston Precinct 2 | _Johnston 02,_JOHNSTON2,754,1013,55,11,4,0,1,15,0,0,11,983,805,41,15,2,1
+0,_Polk,_Polk County Johnston Precinct 3 | _Johnston 03,_JOHNSTON3,832,708,62,4,5,1,2,20,0,0,23,1075,537,31,6,2,4
+0,_Polk,_Polk County Johnston Precinct 4 | _Johnston 04,_JOHNSTON4,949,887,107,11,3,2,0,18,1,0,25,1301,634,37,5,1,0
+0,_Polk,_Polk County Johnston Precinct 5 | _Johnston 05,_JOHNSTON5,1342,1353,161,18,5,3,2,29,1,0,47,1750,1061,80,23,8,2
+0,_Polk,_Polk County Johnston Precinct 6 | _Johnston 06,_JOHNSTON6,635,461,47,6,2,1,0,11,0,0,11,759,374,27,8,4,0
+0,_Polk,_Madison Precinct 1 | _Madison 01,_MADISON1,63,33,2,0,0,0,0,0,0,0,1,72,25,1,1,0,0
+0,_Polk,_Polk County Mitchellville 1 | _Mitchellville 01,_MITCHELLVIL1,802,506,59,4,9,1,0,19,0,0,11,913,419,47,14,0,1
+0,_Polk,_Pleasant Hill Precinct 1 | _Pleasant Hill 01,_PH1,788,734,72,18,13,2,0,34,0,0,21,936,652,52,21,7,0
+0,_Polk,_Pleasant Hill Precinct 2 | _Pleasant Hill 02,_PH2,781,742,58,9,3,2,0,15,0,1,36,962,615,45,6,1,3
+0,_Polk,_Pleasant Hill Precinct 3 | _Pleasant Hill 03,_PH3,839,686,74,7,5,2,0,14,0,0,18,967,581,51,17,3,1
+0,_Polk,_Polk County Polk City | _Polk City 01,_POLKCITY,1428,879,120,12,11,5,3,30,1,0,41,1680,724,61,18,9,9
+0,_Polk,_Polk County Runnells 1 | _Runnells 01,_RUNNELLS1,828,399,28,6,5,3,2,9,0,0,11,898,342,27,9,5,1
+0,_Polk,_Polk County Saylor 1 | _Saylor 01,_SAYLOR1,871,642,70,7,7,0,1,3,0,1,24,960,567,57,13,5,1
+0,_Polk,_Polk County Saylor 2/ Des Moines Prct 5A | _Saylor 02,_SAYLOR2,661,490,57,4,4,1,3,6,0,0,14,718,457,32,8,5,0
+0,_Polk,_Polk County Union Sheldahl | _Sheldahl 01,_UNIONSHELDL,186,79,7,1,4,0,1,8,0,0,2,208,67,7,0,2,0
+0,_Polk,_Urbandale Precinct 1 | _Urbandale 01,_URB1,704,811,80,7,4,0,3,16,0,0,24,869,675,55,14,5,3
+0,_Polk,_Urbandale Precinct 10 | _Urbandale 10,_URB10,845,832,66,5,9,0,0,13,0,0,24,1072,660,36,8,2,2
+0,_Polk,_Urbandale Precinct 11 | _Urbandale 11,_URB11,836,757,46,7,3,0,0,29,0,0,26,1085,562,32,7,5,1
+0,_Polk,_Urbandale Precinct 2 | _Urbandale 02,_URB2,740,937,80,12,3,0,4,20,2,1,20,939,795,44,14,5,2
+0,_Polk,_Urbandale Precinct 3 | _Urbandale 03,_URB3,703,915,81,13,8,1,2,19,1,0,23,905,771,51,20,1,2
+0,_Polk,_Urbandale Precinct 4 | _Urbandale 04,_URB4,797,820,59,7,7,0,2,20,0,0,19,1044,634,23,11,6,2
+0,_Polk,_Urbandale Precinct 5 | _Urbandale 05,_URB5,666,810,84,9,5,1,4,16,0,0,28,868,663,41,15,5,5
+0,_Polk,_Urbandale Precinct 6 | _Urbandale 06,_URB6,657,964,70,10,3,0,1,18,0,0,22,844,826,37,9,9,7
+0,_Polk,_Urbandale Precinct 7 | _Urbandale 07,_URB7,864,935,75,8,5,1,2,21,1,0,25,1181,684,40,9,4,5
+0,_Polk,_Urbandale Precinct 8 | _Urbandale 08,_URB8,786,917,78,8,5,1,1,21,0,0,28,1007,740,58,15,5,3
+0,_Polk,_Urbandale Precinct 9 | _Urbandale 09,_URB9,777,911,89,21,9,0,0,22,0,1,26,1004,764,46,18,4,1
+0,_Polk,_Polk County Washington | _Washington/Wells,_WASHINGTON,199,60,12,2,0,0,0,1,0,0,3,218,50,5,1,3,0
+0,_Polk,_West Des Moines Precinct 111 | _WDM Precinct 111,_WDM111,440,680,76,15,2,0,1,17,0,0,12,569,577,56,13,8,1
+0,_Polk,_West Des Moines Precinct 112 | _WDM Precinct 112,_WDM112,334,447,22,5,0,0,1,6,0,2,5,406,373,25,9,3,0
+0,_Polk,_West Des Moines Precinct 113 | _WDM Precinct 113,_WDM113,417,744,70,19,2,2,2,12,0,0,18,514,667,50,16,6,0
+0,_Polk,_West Des Moines Precinct 114 | _WDM Precinct 114,_WDM114,713,1029,83,13,8,0,2,15,0,0,20,961,826,48,17,5,3
+0,_Polk,_West Des Moines Precinct 115 | _WDM Precinct 115,_WDM115,526,576,51,7,2,1,2,24,1,0,14,702,458,29,12,0,0
+0,_Polk,_West Des Moines Precinct 116 | _WDM Precinct 116,_WDM116,640,765,72,8,0,1,0,22,0,0,27,833,639,36,9,5,2
+0,_Polk,_West Des Moines Precinct 117 | _WDM Precinct 117,_WDM117,613,750,65,11,5,1,0,13,0,0,17,773,628,38,10,6,0
+0,_Polk,_West Des Moines Precinct 118 | _WDM Precinct 118,_WDM118,427,743,67,19,4,1,1,14,1,0,18,567,639,43,14,4,1
+0,_Polk,_West Des Moines Precinct 211 | _WDM Precinct 211,_WDM211,450,640,53,11,3,2,1,12,0,1,18,618,508,24,12,5,3
+0,_Polk,_West Des Moines Precinct 212 | _WDM Precinct 212,_WDM212,579,926,76,17,0,2,4,12,0,0,17,759,771,57,18,5,4
+0,_Polk,_West Des Moines Precinct 213 | _WDM Precinct 213,_WDM213,573,473,43,4,2,2,1,14,1,0,15,725,365,28,6,1,0
+0,_Polk,_West Des Moines Precinct 311 | _WDM Precinct 311,_WDM311,763,815,82,6,1,0,4,23,1,0,23,1032,602,39,10,3,2
+0,_Polk,_West Des Moines Precinct 312 | _WDM Precinct 312,_WDM312,595,826,75,9,2,1,2,21,0,0,18,806,680,35,14,8,3
+0,_Polk,_West Des Moines Precinct 313 | _WDM Precinct 313,_WDM313,338,319,34,1,4,1,1,16,0,0,10,449,245,20,6,6,2
+0,_Polk,_West Des Moines Precinct 314 | _WDM Precinct 314,_WDM314,296,510,43,8,0,0,0,16,0,1,5,394,426,27,11,4,2
+0,_Polk,_West Des Moines Precinct 315 | _WDM Precinct 315,_WDM315,568,709,66,11,1,1,1,17,1,0,26,755,587,28,9,2,4
+0,_Polk,_West Des Moines Precinct 316 | _WDM Precinct 316,_WDM316,787,927,75,12,5,0,3,14,0,0,31,1047,722,37,14,2,1
+0,_Polk,_West Des Moines Precinct 317 | _WDM Precinct 317,_WDM317,854,808,55,3,3,2,0,15,1,1,32,1120,604,28,4,4,3
+0,_Polk,_West Des Moines Precinct 318 | _WDM Precinct 318,_WDM318,384,270,19,0,0,0,0,0,0,0,9,493,170,10,4,0,2
+0,_Polk,_Polk County Webster 1 | _Webster 01,_WEBSTER1,157,158,19,3,1,0,0,1,0,0,4,177,144,15,1,1,0
+0,_Polk,_Windsor Heights Precinct 1 | _Windsor Heights 01,_WH1,299,525,57,5,2,1,1,9,0,0,9,429,439,19,9,1,0
+0,_Polk,_Windsor Heights Precinct 2 | _Windsor Heights 02,_WH2,381,557,26,8,6,1,0,23,1,0,14,515,470,22,5,4,3
+0,_Polk,_Windsor Heights Precinct 3 | _Windsor Heights 03,_WH3,412,735,58,14,5,1,2,15,0,1,21,540,653,37,14,4,2
+0,_Pottawattamie,_Avoca | _Avoca,_AVOCA,671,315,42,7,3,3,2,3,0,0,7,709,267,25,21,3,1
+0,_Pottawattamie,_Carson | _Carson,_CARSON,335,116,22,3,3,0,7,1,0,0,4,337,100,11,18,1,2
+0,_Pottawattamie,_Carter Lake 1 | _Carter Lake 1,_CARTERLAKE1,424,277,26,4,1,4,2,4,0,0,10,440,226,24,33,1,0
+0,_Pottawattamie,_Carter Lake 2 | _Carter Lake 2,_CARTERLAKE2,452,266,26,6,0,6,3,6,0,0,7,444,234,27,25,4,1
+0,_Pottawattamie,_Council Bluffs 1 | _Council Bluffs 01,_CB1,383,318,30,12,1,3,5,0,0,0,16,385,288,27,31,4,0
+0,_Pottawattamie,_Council Bluffs 10A | _Council Bluffs 10A,_CB10A,973,741,51,13,4,5,10,14,0,0,19,1047,634,49,41,7,3
+0,_Pottawattamie,_Council Bluffs 10B | _Council Bluffs 10B,_CB10B,931,558,43,6,1,2,1,8,0,0,16,1013,438,31,33,5,0
+0,_Pottawattamie,_Council Bluffs 11 | _Council Bluffs 11,_CB11,653,646,64,23,5,6,1,14,1,0,20,726,561,65,41,6,3
+0,_Pottawattamie,_Council Bluffs 12 | _Council Bluffs 12,_CB12,775,520,53,12,2,4,3,12,0,0,19,834,440,48,36,7,3
+0,_Pottawattamie,_Council Bluffs 13 | _Council Bluffs 13,_CB13,298,376,22,9,6,2,2,5,1,0,15,330,315,31,34,4,4
+0,_Pottawattamie,_Council Bluffs 14 | _Council Bluffs 14,_CB14,399,394,40,5,2,7,2,2,0,0,9,405,325,38,43,3,2
+0,_Pottawattamie,_Council Bluffs 15 | _Council Bluffs 15,_CB15,425,421,39,12,1,2,3,2,0,0,9,415,369,31,53,9,2
+0,_Pottawattamie,_Council Bluffs 16 | _Council Bluffs 16,_CB16,485,452,39,13,5,8,8,9,0,0,10,514,366,43,62,5,3
+0,_Pottawattamie,_Council Bluffs 17 | _Council Bluffs 17,_CB17,612,628,48,12,1,5,4,3,0,0,13,675,509,47,35,2,1
+0,_Pottawattamie,_Council Bluffs 18 | _Council Bluffs 18,_CB18,580,490,42,5,3,7,1,4,0,0,7,606,410,35,40,4,2
+0,_Pottawattamie,_Council Bluffs 19 | _Council Bluffs 19,_CB19,384,329,28,5,2,1,3,5,0,1,6,394,288,24,38,4,2
+0,_Pottawattamie,_Council Bluffs 2 | _Council Bluffs 02,_CB2,654,463,38,8,3,4,9,10,1,0,19,648,406,41,62,5,3
+0,_Pottawattamie,_Council Bluffs 20 | _Council Bluffs 20,_CB20,544,349,25,5,0,6,2,5,0,0,6,582,279,32,23,2,0
+0,_Pottawattamie,_Council Bluffs 21 | _Council Bluffs 21,_CB21,491,341,24,7,2,4,5,9,1,1,14,510,300,26,41,5,1
+0,_Pottawattamie,_Council Bluffs 3 | _Council Bluffs 03,_CB3,457,403,29,15,2,6,8,2,0,0,13,475,348,40,35,4,0
+0,_Pottawattamie,_Council Bluffs 4 | _Council Bluffs 04,_CB4,496,417,36,8,1,6,8,4,0,0,9,504,361,29,44,5,4
+0,_Pottawattamie,_Council Bluffs 5 | _Council Bluffs 05,_CB5,545,400,38,11,3,5,6,6,0,0,3,543,354,40,46,4,1
+0,_Pottawattamie,_Council Bluffs 6 | _Council Bluffs 06,_CB6,779,561,48,15,2,7,6,5,1,0,13,847,455,52,47,4,0
+0,_Pottawattamie,_Council Bluffs 7 | _Council Bluffs 07,_CB7,720,555,62,15,3,8,5,16,0,0,12,768,499,43,47,3,1
+0,_Pottawattamie,_Council Bluffs 8 | _Council Bluffs 08,_CB8,842,692,77,15,3,6,7,11,0,0,12,943,584,40,38,11,0
+0,_Pottawattamie,_Council Bluffs 9 | _Council Bluffs 09,_CB9,685,500,56,9,4,2,3,9,0,1,15,726,431,44,31,7,1
+0,_Pottawattamie,_Crescent | _Crescent,_CRESCENT,1033,493,32,16,6,3,6,7,0,0,14,1036,429,53,40,5,5
+0,_Pottawattamie,_Garner | _Garner,_GARNER,1237,524,63,6,5,2,5,10,2,0,11,1290,431,37,52,1,3
+0,_Pottawattamie,_GLWCW | _GLWCW,_GLWCW,371,105,18,3,3,0,1,1,0,0,3,402,80,8,8,0,2
+0,_Pottawattamie,_Hancock | _Hancock,_HANCOCK,159,57,11,2,1,2,0,2,0,0,2,177,46,5,4,1,0
+0,_Pottawattamie,_Lewis 1 | _Lewis 1,_LEWIS1,849,431,33,3,1,1,3,7,0,0,17,913,351,30,22,2,2
+0,_Pottawattamie,_Lewis 2 | _Lewis 2,_LEWIS2,1034,441,48,7,1,1,3,9,0,0,14,1064,382,37,41,6,0
+0,_Pottawattamie,_Macedonia | _Macedonia,_MACEDONIA,166,47,6,0,2,0,0,0,0,0,0,165,40,7,6,0,0
+0,_Pottawattamie,_McClelland | _McClelland,_MCCLELLAND,480,132,22,1,2,2,0,13,0,0,6,523,108,7,9,1,1
+0,_Pottawattamie,_Minden | _Minden,_MINDEN,504,168,25,2,3,0,1,1,0,0,6,527,134,18,11,1,0
+0,_Pottawattamie,_Neola | _Neola,_NEOLA,729,292,33,8,1,0,4,10,0,0,10,754,240,23,27,2,0
+0,_Pottawattamie,_Oakland | _Oakland,_OAKLAND,802,285,30,4,1,2,5,5,1,1,12,847,214,25,38,3,1
+0,_Pottawattamie,_Treynor | _Treynor,_TREYNOR,799,228,35,4,1,2,2,7,0,0,14,842,173,18,21,1,2
+0,_Pottawattamie,_Underwood | _Underwood,_UNDERWOOD,994,464,48,11,3,3,6,8,0,2,17,1034,395,43,46,6,0
+0,_Pottawattamie,_Walnut | _Walnut,_WALNUT,297,160,17,5,0,0,2,4,0,0,2,327,133,10,10,0,1
+0,_Poweshiek,_BMWJ #2 - Poweshiek | _BMWJ,_BMWJ,1022,431,46,6,7,1,1,4,0,1,12,1101,350,44,13,4,1
+0,_Poweshiek,_CGWS #5 - Poweshiek | _CGWS,_CGWS,609,248,26,4,4,3,0,7,0,1,14,647,224,25,9,2,1
+0,_Poweshiek,_DRL #3 - Poweshiek | _DRL,_DRL,279,70,7,1,3,1,0,3,0,0,1,310,46,5,2,2,0
+0,_Poweshiek,_Grinnell 1 #6 - Poweshiek | _1st Ward,_GRINNELL1,220,1099,31,14,4,3,1,4,1,3,11,315,1010,28,6,1,2
+0,_Poweshiek,_Grinnell 2 #7 - Poweshiek | _2nd Ward,_GRINNELL2,558,744,43,10,5,1,1,11,1,1,10,714,631,24,9,5,0
+0,_Poweshiek,_Grinnell 3 #8 - Poweshiek | _3rd Ward,_GRINNELL3,409,528,50,10,6,5,1,1,0,0,10,479,467,38,14,6,1
+0,_Poweshiek,_Grinnell 4 #9 - Poweshiek | _4th Ward,_GRINNELL4,437,677,26,16,6,4,3,4,0,0,16,536,586,42,14,4,1
+0,_Poweshiek,_JUPS #10 - Poweshiek | _JUPS,_JUPS,706,214,20,7,4,2,1,3,1,0,5,732,191,21,6,1,0
+0,_Poweshiek,_Montezuma #11 - Poweshiek | _MONTEZUMA,_MONTEZUMA,467,164,23,3,3,0,1,3,0,1,12,511,130,13,10,2,1
+0,_Poweshiek,_MS #4 - Poweshiek | _MS,_MS,239,129,11,2,2,0,2,6,0,1,4,272,113,4,4,1,0
+0,_Ringgold,_Athens | _Athens,_ATHENS,226,79,11,0,2,0,2,2,0,0,2,226,77,12,5,0,0
+0,_Ringgold,_Clinton | _Clinton,_CLINTON,125,54,0,2,0,0,0,1,0,0,0,126,48,1,1,1,0
+0,_Ringgold,_M1 | _Mount Ayr 1,_M1,410,218,16,1,3,0,1,0,0,0,6,461,174,9,2,0,0
+0,_Ringgold,_M2 | _Mount Ayr 2,_M2,435,195,15,3,8,0,2,2,1,0,6,490,157,11,7,3,1
+0,_Ringgold,_Tingley | _Tingley,_TINGLEY,129,30,5,0,2,1,0,0,0,0,1,138,23,3,1,0,0
+0,_Ringgold,_Union | _Union/Udell Township,_UNION,156,88,7,1,0,0,0,1,0,0,1,176,69,8,1,0,0
+0,_Ringgold,_Washington | _Washington/Wells,_WASHINGTON,343,89,18,1,0,1,0,1,1,0,3,372,69,10,3,1,0
+0,_Sac,_Auburn | _Auburn Twp,_AUBURN,181,69,6,1,3,0,0,2,0,0,3,194,63,1,3,0,0
+0,_Sac,_Early | _Early,_EARLY,284,98,13,0,2,1,0,0,0,0,6,293,88,12,2,1,1
+0,_Sac,_Lake View | _Lake View,_LAKEVIEW,675,233,16,8,6,0,3,5,0,0,9,739,176,12,6,4,1
+0,_Sac,_Lytton | _Lytton,_LYTTON,211,67,9,2,1,1,1,2,0,0,2,229,47,5,2,1,1
+0,_Sac,_Nemaha | _Nemaha,_NEMAHA,142,43,11,1,1,0,0,0,0,0,2,152,35,7,2,0,0
+0,_Sac,_Odebolt | _Odebolt,_ODEBOLT,540,133,17,4,0,0,0,0,1,0,1,576,96,9,5,2,1
+0,_Sac,_Sac City | _Sac City,_SACCITY,744,381,36,7,2,1,0,3,0,0,13,830,293,30,9,2,2
+0,_Sac,_Schaller | _Schaller,_SCHALLER,463,143,14,0,2,1,1,1,0,0,5,473,132,14,6,0,0
+0,_Sac,_Wall Lake | _Wall Lake,_WALLLAKE,463,103,7,0,0,0,3,2,0,0,1,479,85,7,2,1,0
+0,_Scott,_Allen's Grove | _(AG) Allen's Grove Township,_ALLENSGROVE,229,100,6,4,3,0,0,2,0,0,5,255,87,3,3,0,1
+0,_Scott,_Blue Grass | _(BG) Blue Grass Township,_BLUEGRASS,891,545,59,7,6,2,1,9,0,0,14,1016,441,36,7,5,5
+0,_Scott,_Buffalo | _Buffalo,_BUFFALO,318,194,41,5,5,0,0,5,0,0,4,353,170,31,7,2,1
+0,_Scott,_Buffalo Township | _(BU) Buffalo Township,_BUFFALOTWP,1083,647,64,14,7,4,1,16,0,0,28,1228,532,51,13,5,2
+0,_Scott,_Bettendorf ward 1 precinct 1 | _(B11) City of Bettendorf,_BW1P1,881,878,69,20,8,3,1,13,0,1,34,1046,753,54,10,4,6
+0,_Scott,_Bettendorf ward 1 precinct 2 | _(B12) City of Bettendorf,_BW1P2,835,816,79,19,6,3,2,15,0,0,36,988,694,67,11,3,2
+0,_Scott,_Bettendorf ward 2 precinct 1 | _(B21) City of Bettendorf,_BW2P1,527,558,58,18,3,0,4,14,0,0,17,628,478,53,12,2,2
+0,_Scott,_Bettendorf ward 2 precinct 2 | _(B22) City of Bettendorf,_BW2P2,993,832,110,14,4,2,2,16,0,1,28,1205,695,63,18,5,2
+0,_Scott,_Bettendorf ward 2 precinct 3 | _(B23) City of Bettendorf,_BW2P3,214,147,21,3,4,1,1,7,0,0,7,267,122,9,2,2,0
+0,_Scott,_Bettendorf ward 3 precinct 1 | _(B31) City of Bettendorf,_BW3P1,832,864,89,16,7,3,2,15,1,0,26,1003,718,66,17,10,4
+0,_Scott,_Bettendorf ward 3 precinct 2 | _(B32) City of Bettendorf,_BW3P2,860,879,88,17,2,3,2,16,1,0,25,1040,748,50,7,5,2
+0,_Scott,_Bettendorf ward 4 precinct 1 | _(B41) City of Bettendorf,_BW4P1,1182,930,71,7,6,0,2,20,1,0,39,1498,706,30,7,1,2
+0,_Scott,_Bettendorf ward 4 precinct 2 | _(B42) City of Bettendorf,_BW4P2,1021,970,89,11,5,3,5,20,1,0,32,1263,774,60,14,5,2
+0,_Scott,_Bettendorf ward 5 precinct 1 | _(B51) City of Bettendorf,_BW5P1,1124,967,70,15,7,3,1,20,0,1,27,1350,764,52,10,6,2
+0,_Scott,_Bettendorf ward 5 precinct 2 | _(B52) City of Bettendorf,_BW5P2,1595,1246,106,14,3,2,2,31,0,0,27,1956,952,70,8,1,2
+0,_Scott,_Davenport 11 | _(D11) City of Davenport,_DAVENPORT11,595,677,59,7,4,1,3,8,2,0,16,701,574,42,16,6,6
+0,_Scott,_Davenport 12 | _(D12) City of Davenport,_DAVENPORT12,507,825,50,6,6,1,4,5,0,1,13,620,694,49,9,6,5
+0,_Scott,_Davenport 13 | _(D13) City of Davenport,_DAVENPORT13,772,785,66,22,2,0,0,3,0,1,20,852,698,59,15,7,7
+0,_Scott,_Davenport 14 | _(D14) City of Davenport,_DAVENPORT14,485,641,58,14,9,6,0,5,1,0,17,569,587,41,11,4,3
+0,_Scott,_Davenport 21 | _(D21) City of Davenport,_DAVENPORT21,706,790,64,5,9,4,0,16,1,0,27,821,689,48,13,9,2
+0,_Scott,_Davenport 22 | _(D22) City of Davenport,_DAVENPORT22,495,632,40,15,5,2,1,12,1,0,24,592,548,34,15,4,9
+0,_Scott,_Davenport 23 | _(D23) City of Davenport,_DAVENPORT23,621,546,45,14,5,2,1,13,0,0,12,717,474,34,11,0,3
+0,_Scott,_Davenport 24 | _(D24) City of Davenport,_DAVENPORT24,573,801,75,14,7,0,3,11,0,1,13,702,684,54,12,10,1
+0,_Scott,_Davenport 31 | _(D31) City of Davenport,_DAVENPORT31,380,674,45,15,3,2,2,5,1,0,23,460,594,62,8,2,1
+0,_Scott,_Davenport 32 | _(D32) City of Davenport,_DAVENPORT32,194,514,25,12,4,3,1,5,1,0,13,244,479,23,12,1,1
+0,_Scott,_Davenport 33 | _(D33) City of Davenport,_DAVENPORT33,215,593,43,16,1,0,0,4,0,0,12,277,513,42,8,3,1
+0,_Scott,_Davenport 34 | _(D34) City of Davenport,_DAVENPORT34,268,711,46,14,7,1,3,5,1,0,12,316,670,35,8,9,3
+0,_Scott,_Davenport 41 | _(D41) City of Davenport,_DAVENPORT41,695,885,87,25,6,4,2,13,2,1,20,833,763,89,18,5,4
+0,_Scott,_Davenport 42 | _(D42) City of Davenport,_DAVENPORT42,479,710,66,22,4,2,2,6,0,0,15,566,622,55,19,6,1
+0,_Scott,_Davenport 43 | _(D43) City of Davenport,_DAVENPORT43,509,722,64,22,3,2,2,12,0,0,28,607,655,55,7,3,5
+0,_Scott,_Davenport 44 | _(D44) City of Davenport,_DAVENPORT44,326,759,48,14,1,3,2,5,1,0,17,402,675,42,9,5,6
+0,_Scott,_Davenport 51 | _(D51) City of Davenport,_DAVENPORT51,635,962,74,29,7,1,2,14,0,0,23,766,854,70,10,7,7
+0,_Scott,_Davenport 52 | _(D52) City of Davenport,_DAVENPORT52,493,811,61,20,2,1,2,14,1,0,25,622,707,49,16,6,1
+0,_Scott,_Davenport 53 | _(D53) City of Davenport,_DAVENPORT53,506,862,56,26,5,1,2,8,0,1,19,623,759,59,13,5,4
+0,_Scott,_Davenport 54 | _(D54) City of Davenport,_DAVENPORT54,263,745,42,23,3,3,0,1,1,0,13,328,692,36,7,3,4
+0,_Scott,_Davenport 61 | _(D61) City of Davenport,_DAVENPORT61,876,807,61,14,6,2,1,15,0,0,26,1060,669,37,11,3,10
+0,_Scott,_Davenport 62 | _(D62) City of Davenport,_DAVENPORT62,953,689,54,10,5,0,0,11,0,0,19,1120,539,42,5,7,9
+0,_Scott,_Davenport 63 | _(D63) City of Davenport,_DAVENPORT63,773,1023,106,24,9,0,1,18,1,1,36,968,879,80,17,9,7
+0,_Scott,_Davenport 64 | _(D64) City of Davenport,_DAVENPORT64,898,1239,73,24,11,1,1,25,0,0,37,1114,1080,54,12,5,2
+0,_Scott,_Davenport 71 | _(D71) City of Davenport,_DAVENPORT71,810,982,68,10,7,1,0,11,0,0,32,979,832,58,9,2,3
+0,_Scott,_Davenport 72 | _(D72) City of Davenport,_DAVENPORT72,625,876,79,25,7,3,4,14,0,0,21,773,757,53,21,8,6
+0,_Scott,_Davenport 73 | _(D73) City of Davenport,_DAVENPORT73,580,788,60,9,7,0,2,9,1,2,15,695,685,62,13,2,3
+0,_Scott,_Davenport 74 | _(D74) City of Davenport,_DAVENPORT74,319,570,43,10,4,1,0,9,0,0,12,412,493,42,10,1,4
+0,_Scott,_Davenport 81 | _(D81) City of Davenport,_DAVENPORT81,499,701,71,13,6,6,1,11,1,0,12,602,635,39,21,3,1
+0,_Scott,_Davenport 82 | _(D82) City of Davenport,_DAVENPORT82,749,886,72,14,4,3,2,17,2,0,19,861,791,43,14,8,7
+0,_Scott,_Davenport 83 | _(D83) City of Davenport,_DAVENPORT83,732,891,71,11,10,1,3,8,0,0,14,852,789,49,9,4,7
+0,_Scott,_Davenport 84 | _(D84) City of Davenport,_DAVENPORT84,691,678,44,15,3,0,2,10,1,2,32,873,516,35,10,2,7
+0,_Scott,_Donahue | _(DH) City of Donahue,_DONAHUE,99,71,15,1,0,0,0,0,0,0,0,111,66,5,2,0,0
+0,_Scott,_Eldridge 1 | _(EL1) City of Eldridge,_ELDRIDGE1,1072,764,63,14,7,3,4,16,0,1,18,1252,606,47,15,4,3
+0,_Scott,_Eldridge 2 | _(EL2) City of Eldridge,_ELDRIDGE2,1076,660,81,9,7,3,0,10,0,0,25,1214,557,45,10,3,6
+0,_Scott,_Hickory Grove | _(HG) Hickory Grove Township,_HICKORYGROVE,243,118,8,1,2,0,1,1,0,0,5,266,96,9,2,1,0
+0,_Scott,_LeClaire | _(LCT) LeClaire Township,_LECLAIRE,554,305,45,2,1,0,0,7,3,0,11,628,248,39,3,0,2
+0,_Scott,_LeClaire 1 | _(LC1) City of LeClaire,_LECLAIRE1,664,515,65,6,5,2,0,11,0,0,7,740,447,62,5,4,0
+0,_Scott,_LeClaire 2 | _(LC2) City of LeClaire,_LECLAIRE2,698,436,64,2,1,0,0,14,0,0,11,794,350,46,8,4,1
+0,_Scott,_Liberty | _Liberty,_LIBERTY,272,115,14,6,4,3,0,0,0,0,3,281,111,18,3,1,0
+0,_Scott,_Long Grove | _(LG) City of Long Grove,_LONGGROVE,257,222,16,4,5,0,0,1,1,0,2,312,173,7,4,3,0
+0,_Scott,_McCausland | _(MC) City of McCausland,_MCCAUSLAND,352,189,21,2,3,0,1,1,0,0,5,395,158,10,9,1,1
+0,_Scott,_Parkview | _(PKV) Park View,_PARKVIEW,983,554,91,9,5,1,2,18,0,0,20,1105,470,61,12,2,0
+0,_Scott,_Pleasant Valley | _Pleasant/Franklin,_PLEASANT,493,232,33,9,1,0,1,4,0,0,5,571,180,20,1,0,2
+0,_Scott,_Princeton | _(PR) City of Princeton,_PRINCETON,488,276,32,10,1,0,1,4,0,0,7,530,249,26,4,2,0
+0,_Scott,_Riverdale | _(RV) City of Riverdale,_RIVERDALE,133,103,11,2,0,0,0,2,0,0,1,152,82,10,3,0,0
+0,_Scott,_Walcott | _(WC) Walcott Precinct,_WALCOTT,628,350,45,6,6,0,0,14,1,2,12,706,299,33,8,1,1
+0,_Scott,_Winfield | _(WF) Winfield Township,_WINFIELD,330,182,15,3,2,1,0,2,0,0,1,335,181,12,2,2,1
+0,_Shelby,_Cass-Center-Jackson-Lincoln | _Cass/Center/Iowa/Rochester,_CASS,647,205,27,2,5,0,1,10,1,0,9,677,162,24,4,0,0
+0,_Shelby,_Clay-Monroe | _Clay-Monroe,_CLAY-MONROE,399,158,33,1,3,0,1,4,0,0,10,430,145,19,1,2,0
+0,_Shelby,_Douglas-Greeley-Jefferson-Polk | _Douglas-Greeley-Jefferson-Polk,_DOUGLAS,505,113,19,3,1,2,0,6,0,0,3,498,112,15,5,2,0
+0,_Shelby,_Fairview-Shelby | _FV-Fairview,_FAIRVIEW,453,167,14,4,2,1,1,2,0,1,5,452,136,13,9,1,0
+0,_Shelby,_Grove-Union-Washington-Westphalia | _Grove-Union-Washington-Westphalia,_GROVE,741,265,12,3,4,0,2,5,0,0,10,735,241,17,9,5,1
+0,_Shelby,_Harlan 1 | _Harlan 1,_HARLAN1,361,169,20,5,1,0,1,4,1,0,5,352,137,17,6,0,1
+0,_Shelby,_Harlan 2 | _Harlan 2,_HARLAN2,476,190,16,4,1,1,3,2,0,0,7,514,148,14,1,1,0
+0,_Shelby,_Harlan 3 | _Harlan 3,_HARLAN3,436,217,17,6,4,0,3,3,0,0,8,464,186,24,8,0,0
+0,_Shelby,_Harlan 4 | _Harlan 4,_HARLAN4,344,178,16,0,0,1,1,3,0,0,6,358,142,10,8,2,2
+0,_Sioux,_Sioux 1 | _Alton/Nassau/East Orange,_SIOUX1,791,187,24,4,5,0,2,12,0,0,7,858,136,16,6,1,0
+0,_Sioux,_Sioux 10 - Rock Valley East | _Rock Valley East,_SIOUX10,907,112,20,0,7,0,0,11,1,0,3,938,90,8,3,0,1
+0,_Sioux,_Sioux 11 - Rock Valley West | _Rock Valley West/Rock,_SIOUX11,1141,84,5,2,1,0,0,4,0,0,4,1144,69,12,1,0,0
+0,_Sioux,_Sioux 12 | _Sherman,_SIOUX12,319,19,7,0,0,0,0,2,0,0,2,324,18,4,1,0,0
+0,_Sioux,_Sioux 13 - Sioux Center North | _SCN/Capel/Welcome,_SIOUX13,1002,97,25,0,2,0,1,29,0,0,4,1079,63,9,4,1,0
+0,_Sioux,_Sioux 14 - Sioux Center Central | _Sioux Center Central,_SIOUX14,1002,210,69,2,9,1,2,58,1,0,19,1152,143,30,4,3,3
+0,_Sioux,_Sioux 15 - Sioux Center South | _Sioux Center South,_SIOUX15,1628,173,57,5,13,0,0,46,0,0,17,1768,123,17,8,2,0
+0,_Sioux,_Sioux 16 | _West Branch/Center North,_SIOUX16,414,27,7,2,1,0,0,8,0,0,4,434,18,6,0,0,0
+0,_Sioux,"_Sioux 2 - Floyd, Lynn | _Floyd/Lynn",_SIOUX2,687,85,17,2,2,0,0,9,1,0,6,712,74,7,2,1,0
+0,_Sioux,"_Sioux 3 - Grant, Sheridan | _Grant/Sheridan",_SIOUX3,713,92,14,2,2,0,1,12,0,0,5,745,81,4,6,0,0
+0,_Sioux,_Sioux 4 | _HW/BC/LG/WA/EG S,_SIOUX4,873,377,38,7,4,1,1,3,0,0,11,952,295,29,8,0,0
+0,_Sioux,_Sioux 5 | _Lincoln,_SIOUX5,1385,108,23,1,6,0,0,17,0,0,4,1445,76,14,4,3,1
+0,_Sioux,_Sioux 6 - Orange City 1 | _OC 1/Holland West,_SIOUX6,1355,294,60,14,13,3,1,62,1,0,34,1546,218,30,15,1,0
+0,_Sioux,_Sioux 7 - Orange City 2 | _OC 2/Holland E/NS 4-9,_SIOUX7,1372,323,46,10,12,0,1,66,0,0,33,1563,216,28,6,1,3
+0,_Sioux,_Sioux 8 | _PL/GF/ST/SX/EG N,_SIOUX8,729,57,13,1,4,0,0,4,0,0,7,749,54,6,1,1,0
+0,_Sioux,_Sioux 9 | _Reading/Center South,_SIOUX9,467,55,10,1,5,0,0,9,0,0,5,493,35,5,3,2,0
+0,_Story,_Ames 1-1 | _Ames 1-1,_AMES1-1,578,826,126,15,5,0,0,56,2,1,21,783,697,69,22,8,3
+0,_Story,_Ames 1-2 | _Ames 1-2,_AMES1-2,539,1057,97,25,1,0,3,34,1,0,26,739,876,56,14,12,5
+0,_Story,_Ames 1-3 | _Ames 1-3 - Grant Twp 2,_AMES1-3,441,823,119,25,8,0,2,38,0,0,36,630,719,71,18,9,4
+0,_Story,_Ames 1-4 | _Ames 1-4,_AMES1-4,331,1081,85,46,2,1,5,53,0,0,22,518,996,51,15,7,0
+0,_Story,_Ames 1-5 | _Ames 1-5,_AMES1-5,552,1137,69,18,7,1,3,60,0,3,24,799,971,59,18,5,2
+0,_Story,_Ames 2-1 | _Ames 2-1,_AMES2-1,522,1308,140,32,5,0,1,59,2,3,28,768,1118,86,20,7,5
+0,_Story,_Ames 2-2 | _Ames 2-2,_AMES2-2,345,948,85,26,10,1,4,45,1,0,25,564,822,51,19,5,1
+0,_Story,_Ames 2-3 | _Ames 2-3,_AMES2-3,514,959,85,17,4,0,2,40,0,0,30,730,825,43,13,6,3
+0,_Story,_Ames 2-4 | _Ames 2-4,_AMES2-4,634,1101,77,4,4,1,2,53,0,0,29,921,892,38,12,8,2
+0,_Story,_Ames 2-5 | _Ames 2-5,_AMES2-5,797,1157,87,9,4,0,1,52,0,0,26,1110,933,42,11,3,2
+0,_Story,_Ames 3-1 | _Ames 3-1,_AMES3-1,603,1097,96,21,4,0,1,40,0,1,28,838,918,53,9,8,4
+0,_Story,_Ames 3-2 | _Ames 3-2,_AMES3-2,381,658,80,14,0,0,3,19,1,0,19,502,559,38,11,8,1
+0,_Story,_Ames 3-3 | _Ames 3-3,_AMES3-3,346,677,91,25,3,0,2,32,1,0,17,484,589,57,16,9,1
+0,_Story,_Ames 3-4 | _Ames 3-4,_AMES3-4,603,915,108,13,0,2,1,37,0,0,21,838,732,63,14,10,1
+0,_Story,_Ames 3-5 | _Ames 3-5,_AMES3-5,382,1017,81,14,3,2,3,31,0,0,21,576,871,54,17,8,0
+0,_Story,_Ames 4-1 | _Ames 4-1,_AMES4-1,868,971,133,9,0,1,1,25,0,0,26,1106,698,66,9,5,2
+0,_Story,_Ames 4-2 | _Ames 4-2,_AMES4-2,536,556,75,10,3,0,0,20,0,1,13,625,401,40,5,7,2
+0,_Story,_Ames 4-3 | _Ames 4-3,_AMES4-3,424,684,112,19,1,0,0,17,0,0,14,584,536,44,13,11,2
+0,_Story,_Ames 4-4 | _Ames 4-4,_AMES4-4,422,964,134,30,3,0,2,34,1,0,24,629,817,56,18,9,0
+0,_Story,_Ames 4-5 | _Ames 4-5,_AMES4-5,534,1020,93,13,6,2,1,30,0,1,24,775,863,40,7,6,3
+0,_Story,_Collins | _Collins Twp-Collins,_COLLINS,287,107,22,1,2,0,1,4,0,0,6,305,106,12,4,1,0
+0,_Story,_Franklin | _Pct 03 - PO/FK,_FRANKLIN,1058,870,113,19,10,1,1,59,0,1,42,1328,749,53,15,5,2
+0,_Story,_Grant | _Grant,_GRANT,156,105,17,0,1,0,0,3,0,0,2,183,78,14,1,4,0
+0,_Story,_Howard | _Howard Twp-Roland,_HOWARD,566,423,63,6,8,2,2,15,0,2,17,708,343,32,8,1,3
+0,_Story,_Huxley | _Huxley,_HUXLEY,945,738,139,12,3,0,4,55,0,0,13,1181,596,74,17,2,2
+0,_Story,_Indian Creek | _Indian Creek Twp-Maxwell,_INDIANCREEK,503,245,51,6,2,0,1,8,0,0,4,535,234,30,12,1,1
+0,_Story,_Lafayette | _Lafayette Twp/Warren Twp,_LAFAYETTE,151,79,17,0,1,0,0,5,0,1,1,179,66,6,3,0,0
+0,_Story,_Lincoln | _Lincoln Twp-Zearing,_LINCOLN,240,113,15,0,1,1,0,2,1,0,3,259,96,9,7,3,0
+0,_Story,_Milford | _Milford Township,_MILFORD,172,126,17,4,2,0,0,7,0,0,5,214,105,9,1,1,0
+0,_Story,_Nevada | _Nevada Township,_NEVADA,251,162,15,4,1,0,1,11,0,0,1,285,145,9,5,2,0
+0,_Story,_Nevada 1 | _Nevada 1,_NEVADA1,377,380,72,8,1,1,2,8,0,0,8,480,311,40,12,3,0
+0,_Story,_Nevada 2 | _Nevada 2,_NEVADA2,312,387,61,7,1,2,1,14,1,0,10,419,316,39,7,4,1
+0,_Story,_Nevada 3 | _Nevada 3 - Grant Twp 3,_NEVADA3,402,402,68,2,2,0,5,9,1,0,9,489,333,44,15,3,3
+0,_Story,_Nevada 4 | _Nevada 4,_NEVADA4,411,406,46,2,1,0,0,6,1,0,14,507,327,30,8,1,0
+0,_Story,_New Albany | _New Albany Twp-Colo,_NEWALBANY,393,214,33,2,2,1,1,3,0,0,10,447,163,23,13,4,1
+0,_Story,_Palestine | _Palestine Township,_PALESTINE,274,178,20,1,0,0,1,7,0,0,3,327,143,9,1,3,0
+0,_Story,_Richland | _RLWS-Richland/Washington,_RICHLAND,139,66,12,1,0,0,0,0,0,1,1,156,50,5,5,1,0
+0,_Story,_Sherman | _Sherman Township,_SHERMAN,98,35,1,0,0,1,0,1,0,0,0,105,25,3,3,0,0
+0,_Story,_Slater/Sheldahl | _Slater/Sheldahl-Pal 2,_SLATER,493,400,72,6,0,1,1,18,1,0,16,588,353,38,9,2,2
+0,_Story,_Story City | _Story City,_STORYCITY,1007,770,101,10,3,1,4,26,1,0,25,1248,620,47,14,0,2
+0,_Story,_Union | _Union/Udell Township,_UNION,393,260,47,7,6,1,1,6,0,0,15,458,219,37,11,0,1
+0,_Story,_Warren | _Warren Twp-McCallsburg,_WARREN,199,75,11,1,2,1,0,3,0,0,4,214,71,5,3,0,0
+0,_Story,_Washington | _Washington/Wells,_WASHINGTON,279,212,28,7,4,0,0,16,0,0,8,341,190,13,1,2,0
+0,_Tama,_Tama 1 - Buckingham/Perry/East Crystal | _Perry/Buckingham/E Crystal,_TAMA1,741,378,36,12,5,4,5,4,0,1,14,865,303,23,18,2,0
+0,_Tama,_Tama 10 - South Otter Creek | _S. Otter Creek,_TAMA10,68,29,4,2,1,0,0,0,0,0,1,72,22,7,3,0,0
+0,_Tama,_Tama 11 - Lincoln | _Lincoln,_TAMA11,156,44,8,0,2,3,0,2,0,0,3,170,38,4,5,0,0
+0,_Tama,_Tama 12 - Richland/Salt Creek | _Richland/Salt Creek,_TAMA12,209,97,11,1,2,0,3,1,0,0,3,222,86,7,9,1,1
+0,_Tama,_Tama 13 - Howard/Toledo 1/Toledo Twp | _Howard/Toledo,_TAMA13,414,266,23,1,7,3,3,7,0,0,3,432,246,22,14,2,1
+0,_Tama,_Tama 14 - Toledo 2 | _Toledo City,_TAMA14,106,163,7,2,1,0,1,1,0,0,8,137,142,6,5,0,1
+0,_Tama,_Tama 15 - Toledo 3 | _York,_TAMA15,175,181,9,2,0,3,1,1,0,0,10,198,163,9,7,2,1
+0,_Tama,_Tama 16 - York | _TAMA16,_TAMA16,179,85,5,3,8,2,0,0,0,0,1,171,96,10,8,0,0
+0,_Tama,_Tama 2 - Carlton | _Carlton,_TAMA2,273,157,18,3,3,3,1,0,0,0,7,287,145,14,14,0,1
+0,_Tama,_Tama 3 - Carroll/Oneida/North Otter Creek | _Carroll/Oneida/N Otter Cr,_TAMA3,280,119,8,1,2,0,0,2,0,0,3,318,84,7,9,0,1
+0,_Tama,_Tama 4 - Clark/Geneseo | _Clark/Geneseo,_TAMA4,765,320,40,13,5,0,0,14,0,0,12,843,269,28,19,1,1
+0,_Tama,_Tama 5 - Columbia/Tama | _Columbia/Tama,_TAMA5,619,624,27,12,4,7,5,5,0,1,30,722,536,23,38,2,2
+0,_Tama,_Tama 6 - West Crystal/Spring Creek | _Spring Creek/W Crystal,_TAMA6,564,206,32,3,1,4,1,4,0,0,4,600,176,21,18,0,1
+0,_Tama,_Tama 7 - Grant | _Grant,_TAMA7,105,45,5,0,0,0,0,3,0,0,1,118,39,0,3,0,0
+0,_Tama,_Tama 8 - Highland/Indian Village/Tama | _Highland/Indian Village,_TAMA8,287,146,7,4,5,6,0,0,1,0,2,298,131,15,8,0,0
+0,_Tama,_Tama 9 - Indian Settlement | _Indian Settlement,_TAMA9,30,336,5,20,0,2,0,0,0,1,8,83,293,8,13,0,2
+0,_Taylor,_Taylor 1-1 | _1-1 Blockton,_1-1,133,40,6,1,1,0,0,3,0,0,1,143,31,3,1,0,0
+0,_Taylor,_Taylor 2-1 | _2-1 Clearfield,_2-1,133,55,6,0,0,0,0,0,0,0,3,140,44,7,2,1,0
+0,_Taylor,_Taylor 3-1 | _3-1 Gravity,_3-1,179,47,3,0,0,0,1,1,0,0,0,181,39,3,1,0,0
+0,_Taylor,_Taylor 4-1 | _4-1 New Market,_4-1,300,75,6,3,0,0,0,1,1,0,4,303,58,9,3,1,1
+0,_Taylor,_Taylor 5-2 | _5-2 Lenox,_5-2,519,307,45,1,6,1,0,4,0,0,3,592,236,23,12,2,1
+0,_Taylor,_Taylor 6-3 | _6-3 City of Bedford,_6-3,537,155,24,5,4,1,2,0,1,0,8,546,132,20,8,3,0
+0,_Taylor,_Taylor 7-3 | _7-3 Legion,_7-3,310,79,7,0,3,0,0,3,0,0,1,315,73,5,2,0,0
+0,_Union,_Afton | _Afton,_AFTON,512,213,29,4,4,0,1,1,0,0,7,539,185,20,13,3,0
+0,_Union,_Arispe | _Arispe,_ARISPE,184,55,13,3,0,0,1,0,0,0,4,200,52,6,3,1,0
+0,_Union,_Creston 1 | _Creston 1,_CRESTON1,291,237,31,10,3,2,2,0,0,0,6,346,191,20,9,3,1
+0,_Union,_Creston 2 | _Creston 2 - SWCC,_CRESTON2,936,455,46,10,3,3,0,4,1,0,12,1035,377,22,16,3,1
+0,_Union,_Creston 3 | _Creston 3,_CRESTON3,405,308,17,5,4,1,2,4,0,0,4,459,250,21,12,1,0
+0,_Union,_Creston 4 | _Creston 4 - Supertel,_CRESTON4,388,265,25,8,3,1,0,4,0,0,4,464,212,11,7,3,0
+0,_Union,_Creston 5 | _Creston 5,_CRESTON5,564,301,39,9,8,2,1,1,0,0,11,626,266,25,13,0,0
+0,_Union,_Lorimor | _Lorimor,_LORIMOR,245,88,13,3,1,0,2,4,0,0,9,244,92,15,6,2,0
+0,_Van Buren,_Birmingham Precinct | _Birmingham,_BIRM,417,105,10,3,2,0,0,5,0,0,6,437,101,3,3,0,1
+0,_Van Buren,_Bonaparte Precinct | _Bonaparte,_BONA,338,132,12,4,4,1,1,3,1,0,7,347,125,17,8,1,0
+0,_Van Buren,_Cantril Precinct | _Cantril,_CAN,161,58,10,0,1,0,1,1,0,0,2,172,43,4,10,0,0
+0,_Van Buren,_Douds Precinct | _Douds,_DOUDS,315,79,7,3,2,0,2,4,0,0,4,334,72,6,7,1,0
+0,_Van Buren,_Farmington Precinct | _Farmington,_FARM,304,119,8,4,2,1,1,4,0,0,3,309,108,10,10,0,0
+0,_Van Buren,_Keosauqua Precinct | _Keosauqua,_KEO,614,270,22,2,7,0,3,4,0,0,4,638,238,25,17,2,1
+0,_Van Buren,_Milton Precinct | _Milton,_MIL,212,47,7,1,0,1,0,0,0,0,1,204,50,8,5,0,1
+0,_Van Buren,_Stockport Precinct | _Stockport,_STOCK,166,35,7,2,4,0,0,0,0,0,5,177,27,3,4,1,1
+0,_Wapello,_Adams | _Adams,_ADAMS,521,176,21,4,3,2,1,3,1,0,2,494,196,13,14,0,0
+0,_Wapello,_Agency | _Agency/Agency/Pleasant,_AGENCY,502,211,20,10,5,2,2,2,0,0,9,483,227,13,15,1,1
+0,_Wapello,_Cass | _Cass/Center/Iowa/Rochester,_CASS,95,19,2,2,0,0,0,0,0,0,0,83,19,5,8,0,0
+0,_Wapello,_Center | _Center Twp,_CENTER,481,225,17,7,3,2,0,5,0,0,6,472,237,17,10,0,0
+0,_Wapello,_Columbia | _Columbia/Eddyville,_COLUMBIA,306,130,13,1,1,0,2,0,0,0,5,285,145,11,17,0,0
+0,_Wapello,_Competine precinct | _Competine Twp,_COMPETINE,102,18,1,1,0,0,0,0,0,0,0,101,15,1,1,0,0
+0,_Wapello,_Dahlongea | _Dahlongea Twp,_DAHLONEGA,206,87,8,1,4,0,1,1,0,0,2,217,84,3,3,0,0
+0,_Wapello,_Green | _Green Riverside Scott,_GREEN,320,117,6,4,0,0,0,3,0,0,1,323,112,7,3,0,1
+0,_Wapello,_Highland | _Highland Twp,_HIGHLAND,111,30,4,0,0,1,0,0,0,0,2,113,21,8,3,2,0
+0,_Wapello,_Keokuk | _Keokuk twp,_KEOKUK,319,116,11,2,0,1,1,1,0,0,2,293,124,5,11,1,1
+0,_Wapello,_Ottumwa 1 | _Ottumwa Pct 01,_OTTUMWA1,520,435,26,6,3,4,2,4,0,0,8,517,403,28,25,3,2
+0,_Wapello,_Ottumwa 10 | _Ottumwa Pct 10,_OTTUMWA10,497,419,20,9,1,4,3,2,1,0,6,506,384,19,27,3,1
+0,_Wapello,_Ottumwa 2 | _Ottumwa Pct 02,_OTTUMWA2,656,548,36,7,4,2,1,3,0,1,15,721,481,22,16,1,2
+0,_Wapello,_Ottumwa 3 | _Ottumwa Pct 03,_OTTUMWA3,783,584,49,6,3,5,2,12,1,0,18,868,518,24,18,1,3
+0,_Wapello,_Ottumwa 4 | _Ottumwa Pct 04,_OTTUMWA4,335,320,16,4,4,4,1,2,0,0,11,317,304,21,21,1,2
+0,_Wapello,_Ottumwa 5 | _Ottumwa Pct 05,_OTTUMWA5,327,343,25,9,4,2,1,2,0,0,9,343,331,24,15,2,0
+0,_Wapello,_Ottumwa 6 | _Ottumwa Pct 06,_OTTUMWA6,411,358,15,5,3,3,5,5,0,0,10,397,354,23,23,3,0
+0,_Wapello,_Ottumwa 7 | _Ottumwa Pct 07,_OTTUMWA7,413,320,14,11,5,2,2,5,0,0,3,388,305,19,25,6,0
+0,_Wapello,_Ottumwa 8 | _Ottumwa Pct 08,_OTTUMWA8,522,375,28,18,1,6,1,5,1,0,10,520,363,27,29,1,1
+0,_Wapello,_Ottumwa 9 | _Ottumwa Pct 09,_OTTUMWA9,631,515,16,9,3,1,4,4,0,0,13,640,485,24,16,1,1
+0,_Wapello,_Richland | _RLWS-Richland/Washington,_RICHLAND,246,96,20,3,0,4,0,2,0,0,8,221,114,19,11,0,2
+0,_Wapello,_Washington | _Washington/Wells,_WASHINGTON,411,152,12,3,2,0,1,4,0,0,4,390,143,19,26,1,0
+0,_Warren,_Warren County Allen 2 | _Allen 2,_ALLEN2,555,440,47,4,10,1,1,4,1,0,18,638,377,38,7,6,1
+0,_Warren,_Warren County Allen 3 | _Allen 3,_ALLEN3,689,518,57,7,4,0,0,17,1,0,9,824,411,42,8,4,0
+0,_Warren,_Warren County Belmont | _Belmont Twp,_BELMONT,158,43,6,1,0,0,0,2,0,1,3,169,38,4,2,0,0
+0,_Warren,_Warren County Des Moines Precinct 85 | _Greenfield 1/DM85,_DSM85,439,445,41,6,5,2,1,6,2,0,12,510,406,21,10,2,1
+0,_Warren,_Des Moines Precinct 86 | _GR1-DM86 City,_DSM86,44,37,4,0,0,0,0,0,0,0,3,50,29,4,1,1,0
+0,_Warren,_Warren County Greenfield 1 | _Greenfield 1 Twp,_GREENFIELD1,506,319,29,3,1,0,1,5,0,0,12,567,279,17,4,1,1
+0,_Warren,_Warren County Greenfield 2 | _Greenfield 2/Lincoln 2,_GREENFIELD2,812,471,67,4,7,0,1,7,0,0,12,907,408,30,13,3,1
+0,_Warren,_Warren County Jackson | _Jackson,_JACKSON,342,180,21,1,8,1,1,4,0,0,2,361,170,15,6,1,0
+0,_Warren,_Warren County Jefferson | _Jefferson-Millville,_JEFFERSON,649,321,44,6,2,1,1,10,0,0,9,710,282,35,6,1,1
+0,_Warren,_Warren County Liberty Precinct | _Liberty,_LIBERTY,202,70,17,1,0,1,0,1,0,0,2,204,72,8,1,2,0
+0,_Warren,_Warren County Lincoln Precinct | _Lincoln Twp-Zearing,_LINCOLN,245,154,20,1,0,0,0,5,0,0,1,294,113,8,2,3,0
+0,_Warren,_Warren County Linn Precinct | _Linn/Pioneer,_LINN,1049,806,91,9,7,1,3,17,0,1,30,1215,668,57,25,8,4
+0,_Warren,_Warren County Norwalk Precinct 1 | _Norwalk 1,_NORWALK1,772,566,77,4,5,0,0,16,1,0,21,923,440,47,15,6,0
+0,_Warren,_Warren County Norwalk Precinct 2 | _Norwalk 2/Greenfield,_NORWALK2,617,478,74,5,5,1,0,7,0,0,18,766,373,35,5,4,1
+0,_Warren,_Warren County Norwalk Precinct 4 | _Norwalk 4 City,_NORWALK4,938,694,69,8,4,0,2,4,0,2,26,1111,556,40,5,6,2
+0,_Warren,_Warren County Otter Precinct | _Otter/Milo,_OTTER,594,272,31,4,5,0,1,9,0,1,4,628,234,19,10,4,3
+0,_Warren,_Warren County Palmyra Precinct | _Palmyra Twp,_PALMYRA,213,96,8,1,4,1,0,4,0,0,2,228,86,7,6,0,1
+0,_Warren,_Indianola-Precinct 1 | _Indianola 1,_PRCT1,403,312,44,1,5,0,2,2,2,0,9,472,264,30,4,0,0
+0,_Warren,_Indianola-Precinct 2 | _Indianola 2,_PRCT2,633,638,81,7,4,4,3,7,0,1,11,748,530,47,12,6,3
+0,_Warren,_Indianola-Precinct 3 | _Indianola 3,_PRCT3,282,397,42,7,2,0,1,6,0,1,9,393,304,15,3,1,1
+0,_Warren,_Indianola-Precinct 4 | _Indianola 4,_PRCT4,752,793,71,9,6,2,1,8,1,0,16,956,638,36,4,2,0
+0,_Warren,_Indianola-Precinct 5 | _Indianola 5,_PRCT5,547,407,63,6,6,0,4,21,0,0,11,645,366,27,12,6,2
+0,_Warren,_Indianola-Precinct 6 | _Indianola 6,_PRCT6,459,366,41,3,4,2,3,9,0,0,7,534,310,20,12,2,0
+0,_Warren,_Indianola-Precinct 7 | _Indianola 7,_PRCT7,766,615,103,7,7,0,1,10,2,0,21,917,500,63,21,1,3
+0,_Warren,_Warren County Richland Precinct | _RLWS-Richland/Washington,_RICHLAND,401,196,26,8,3,0,1,4,1,0,4,433,173,15,17,0,0
+0,_Warren,_Warren County Squaw Precinct | _Squaw Creek Twp,_SQUAW,279,113,12,3,4,0,0,1,0,0,2,289,102,14,7,0,0
+0,_Warren,_Warren County Union Precinct | _Union/Udell Township,_UNION,205,90,11,1,1,0,0,1,0,0,3,229,67,7,2,1,0
+0,_Warren,_Warren County Virginia Precinct | _Virginia,_VIRGINIA,396,158,22,1,6,0,0,2,1,0,1,411,142,23,4,6,0
+0,_Warren,_Warren County West Des Moines Precinct 131 | _Cumming/WDM,_WDM131,225,129,18,2,4,0,0,1,0,0,7,263,102,12,1,0,0
+0,_Warren,_Warren County White Breast Precinct | _White Breast,_WHITEBREAST,265,98,27,0,2,0,0,0,0,0,6,277,101,11,4,1,0
+0,_Warren,_Warren County White Oak Precinct | _White Oak Twp,_WHITEOAK,377,189,11,3,3,0,0,4,0,0,4,409,159,15,4,0,0
+0,_Washington,_Ainsworth | _Ainsworth,_AINSWORTH,661,448,53,8,3,1,2,5,0,1,7,792,331,33,5,4,1
+0,_Washington,_Brighton/Marion/Crawford | _Brighton/Marion/Crawford,_BRIGHTON,692,256,38,8,8,0,1,5,0,0,8,765,206,33,6,2,0
+0,_Washington,_Kalona | _Kalona,_KALONA,784,519,55,11,3,0,1,17,1,0,19,926,396,53,13,4,0
+0,_Washington,_Riverside | _Riverside,_RIVERSIDE,327,411,33,6,3,3,0,14,0,0,10,432,322,24,7,4,0
+0,_Washington,_Washington ward 1 | _Washington Ward 1,_WASHWARD1,434,340,39,8,6,0,1,6,0,0,6,503,282,30,16,2,0
+0,_Washington,_Washington ward 2 | _Washington Ward 2,_WASHWARD2,608,419,50,9,7,2,1,3,0,0,8,709,329,30,12,4,1
+0,_Washington,_Washington ward 3 | _Washington Ward 3,_WASHWARD3,596,459,53,5,7,1,1,6,0,0,14,739,336,44,7,1,3
+0,_Washington,_Washington ward 4 | _Washington Ward 4,_WASHWARD4,687,432,51,8,6,2,2,10,1,1,8,816,335,34,7,2,1
+0,_Washington,_Wellman | _Wellman,_WELLMAN,887,505,68,12,14,1,1,24,0,0,13,1025,411,50,5,5,3
+0,_Washington,_West Chester | _West Chester,_WESTCHESTER,497,154,19,4,6,0,0,2,0,0,3,544,114,12,5,0,1
+0,_Wayne,_A01 - Wayne county precinct | _A-01 Allerton-Clio-Lineville,_A01,532,140,16,5,4,1,1,7,1,0,6,550,139,14,7,2,0
+0,_Wayne,_C02 - Wayne county precinct | _C-02 Corydon,_C02,622,244,31,6,4,1,1,11,0,0,3,684,214,19,10,0,0
+0,_Wayne,_H03 - Wayne county precinct | _H-03 Humeston-Millerton,_H03,426,160,20,6,2,1,2,2,0,0,2,459,143,8,6,0,0
+0,_Wayne,_S04 - Wayne county precinct | _S-04 Seymour-Promise City,_S04,489,175,11,0,0,0,0,0,0,0,8,502,149,15,5,2,1
+0,_Webster,_Badger | _Badger-NW Cooper,_BADGER,474,215,15,2,1,0,0,0,1,0,8,496,185,12,2,4,0
+0,_Webster,_Clay/Roland | _Clay-Roland,_CLAYROLAND,350,82,14,0,2,0,0,5,0,0,4,363,68,13,3,1,1
+0,_Webster,_Colfax/Duncombe | _Colfax-Duncombe,_COLFAX-DUN,201,93,13,2,1,0,1,2,0,0,3,208,87,8,5,1,0
+0,_Webster,_Cooper | _Cooper,_COOPER,102,42,12,0,0,1,0,0,0,0,3,108,44,4,3,0,0
+0,_Webster,_Dayton-Burnside | _Dayton-Burnside,_DAYTON-BURN,457,224,33,3,2,2,1,2,0,0,7,503,194,14,9,5,1
+0,_Webster,_Deer Creek/Jackson | _Deer Creek-Jackson,_DEERCREEK,321,97,17,3,0,0,0,1,0,0,7,337,84,11,3,3,0
+0,_Webster,_Douglas | _Douglas-Greeley-Jefferson-Polk,_DOUGLAS,407,201,15,2,2,0,1,5,0,0,4,432,181,5,9,2,0
+0,_Webster,_Elkhorn | _Elkhorn,_ELKHORN,283,129,10,1,1,1,0,7,0,0,5,312,107,6,6,0,0
+0,_Webster,_Fort Dodge 1 | _Fort Dodge 01,_FORTDODGE1,753,481,40,4,4,3,0,6,0,0,13,873,378,28,14,2,0
+0,_Webster,_Fort Dodge 10 | _Fort Dodge 10,_FORTDODGE10,507,399,31,5,7,1,1,10,0,0,9,597,332,14,11,5,0
+0,_Webster,_Fort Dodge 11 | _Fort Dodge 11,_FORTDODGE11,893,431,49,9,2,4,2,10,0,0,15,1017,340,25,10,1,2
+0,_Webster,_Fort Dodge 12 | _Fort Dodge 12,_FORTDODGE12,479,379,29,2,2,0,1,5,0,1,7,519,323,27,8,5,0
+0,_Webster,_Fort Dodge 2 | _Fort Dodge 02,_FORTDODGE2,493,435,38,11,3,2,3,3,0,0,16,577,360,27,21,4,2
+0,_Webster,_Fort Dodge 3 | _Fort Dodge 03,_FORTDODGE3,371,317,31,7,2,1,0,6,0,1,11,432,276,21,8,3,0
+0,_Webster,_Fort Dodge 4 | _Fort Dodge 04,_FORTDODGE4,471,376,30,11,3,1,2,4,1,1,8,511,348,19,12,5,2
+0,_Webster,_Fort Dodge 5 | _Fort Dodge 05,_FORTDODGE5,368,300,22,7,5,1,1,2,0,0,6,427,248,24,7,1,3
+0,_Webster,_Fort Dodge 6 | _Fort Dodge 06,_FORTDODGE6,154,177,15,4,3,1,0,5,0,0,2,164,166,9,8,3,1
+0,_Webster,_Fort Dodge 7 | _Fort Dodge 07,_FORTDODGE7,285,383,21,10,8,3,1,6,0,0,11,325,348,27,15,3,1
+0,_Webster,_Fort Dodge 8 | _Fort Dodge 08,_FORTDODGE8,317,348,31,7,2,0,0,6,2,0,6,363,289,30,9,4,0
+0,_Webster,_Fort Dodge 9 | _Fort Dodge 09,_FORTDODGE9,365,377,30,7,5,1,1,0,1,0,5,414,309,26,16,5,1
+0,_Webster,_Fulton | _Fulton,_FULTON,165,60,4,4,1,0,0,0,0,0,0,177,48,6,2,0,0
+0,_Webster,_Gowrie | _Gowrie,_GOWRIE,417,168,23,3,2,0,0,5,0,0,4,447,143,16,8,4,0
+0,_Webster,_Johnson | _Johnson,_JOHNSON,148,84,5,1,1,0,0,1,0,0,2,151,80,4,3,0,0
+0,_Webster,_Lost Grove | _Lost Grove,_LOSTGROVE,208,44,8,2,0,0,0,3,0,0,2,220,41,2,3,0,0
+0,_Webster,_Newark | _Newark,_NEWARK,122,60,2,0,0,0,0,0,0,0,2,126,48,4,2,0,0
+0,_Webster,_Otho/Pleasant Valley | _Otho-Pleasant Valley,_OTHO-PV,518,216,18,5,4,0,0,4,0,0,7,497,219,19,15,0,1
+0,_Webster,_Sumner/Webster/Yell/Hardin | _Sumner-Webster-Yell-Hardin,_SWYH,300,146,6,0,2,2,1,3,0,0,3,317,114,9,7,2,0
+0,_Webster,_Washington | _Washington/Wells,_WASHINGTON,127,41,7,1,0,0,0,3,0,0,0,132,36,5,3,2,1
+0,_Winnebago,_Winnebago Precinct 1-1 | _Newton Forest,_WINN1-1,284,112,22,3,5,0,2,6,0,0,1,313,102,12,3,2,0
+0,_Winnebago,_Winnebago Precinct 1-2 | _Forest City Ward 1,_WINN1-2,322,208,29,2,4,0,2,4,1,1,6,371,178,14,7,2,1
+0,_Winnebago,_Winnebago Precinct 1-3 | _Forest City Ward 2,_WINN1-3,225,214,16,8,3,0,1,5,1,0,3,289,162,12,9,2,0
+0,_Winnebago,_Winnebago Precinct 1-4 | _Forest City Ward 4,_WINN1-4,199,149,19,0,3,1,0,5,0,0,7,257,109,12,6,1,0
+0,_Winnebago,_Winnebago Precinct 2-1 | _Eden Logan Norway,_WINN2-1,249,108,6,2,0,0,0,6,1,0,1,286,81,3,1,0,0
+0,_Winnebago,_Winnebago Precinct 2-2 | _Center,_WINN2-2,742,475,51,7,10,2,2,9,1,0,17,868,383,36,12,3,0
+0,_Winnebago,_Winnebago Precinct 2-3 | _Mt. Valley,_WINN2-3,241,100,10,1,2,0,0,0,1,0,1,242,93,11,3,0,0
+0,_Winnebago,_Winnebago Precinct 3-1 | _Buffalo Grant Lincoln,_WINN3-1,582,242,29,4,4,0,1,5,0,0,5,635,214,15,4,0,1
+0,_Winnebago,_Winnebago Precinct 3-2 | _King Linden,_WINN3-2,298,118,10,2,1,1,0,0,1,0,1,321,97,12,7,2,0
+0,_Winnebago,_Winnebago Precinct 3-3 | _Forest City Ward 3,_WINN3-3,305,205,26,5,4,2,2,9,1,0,6,356,171,26,10,3,1
+0,_Winneshiek,_Winneshiek 1 | _PCT 01 - HE/HI/PL,_WINNESHIEK1,359,273,13,8,2,2,0,3,0,0,4,396,239,11,4,0,0
+0,_Winneshiek,_Winneshiek 10 | _PCT 10 - JA/SU/WA,_WINNESHIEK10,470,274,20,5,6,1,2,7,0,0,6,542,225,18,4,0,0
+0,_Winneshiek,_Winneshiek 11 | _PCT 11 - DETSUP5,_WINNESHIEK11,34,39,6,0,0,0,0,1,0,0,0,42,33,2,1,0,0
+0,_Winneshiek,_Winneshiek 2 | _PCT 02 - FR/GL/DEW3/DETSUP1,_WINNESHIEK2,784,886,64,11,3,0,2,31,0,0,25,982,736,43,19,5,1
+0,_Winneshiek,_Winneshiek 3 | _PCT 03 - DEW1/DETSUP2,_WINNESHIEK3,660,755,46,16,3,1,1,9,0,0,13,817,626,42,15,5,0
+0,_Winneshiek,_Winneshiek 4 | _PCT 04 - DEW2,_WINNESHIEK4,273,653,21,20,3,1,2,11,0,0,12,341,591,30,14,8,0
+0,_Winneshiek,_Winneshiek 5 | _PCT 05 - CN/DEW4/DETSUP3,_WINNESHIEK5,446,736,55,10,4,0,2,5,0,0,11,542,609,42,13,8,2
+0,_Winneshiek,_Winneshiek 6 | _PCT 06 - DEW5,_WINNESHIEK6,198,593,21,7,0,1,2,5,0,0,8,312,466,16,3,2,0
+0,_Winneshiek,_Winneshiek 7 | _PCT 07 - CA/SP,_WINNESHIEK7,726,377,51,9,3,6,1,9,0,0,15,808,343,38,8,3,0
+0,_Winneshiek,_Winneshiek 8 | _PCT 08 - MI/BLM,_WINNESHIEK8,579,272,53,7,7,0,2,12,0,0,9,678,220,30,6,2,2
+0,_Winneshiek,_Winneshiek 9 | _PCT 09 - BLF/BO/FR/LI/MA/OR,_WINNESHIEK9,815,396,32,6,4,1,3,9,0,0,13,889,348,24,10,3,0
+0,_Woodbury,_Woodbury 1/Sioux City 1 | _Sioux City 01,_WOODBURY1,761,502,33,9,8,6,2,5,0,0,21,848,408,37,26,4,2
+0,_Woodbury,_Woodbury 10/Sioux City 10 | _Sioux City 10,_WOODBURY10,839,536,38,7,4,4,1,16,0,0,21,984,418,24,17,1,1
+0,_Woodbury,_Woodbury 11/Sioux City 11 | _Sioux City 11,_WOODBURY11,135,294,4,6,5,3,4,0,1,0,9,167,244,10,13,3,1
+0,_Woodbury,_Woodbury 12/Sioux City 12 | _Sioux City 12,_WOODBURY12,713,609,44,15,9,3,1,15,1,1,32,809,548,42,24,1,0
+0,_Woodbury,_Woodbury 13/Sioux City 13 | _Sioux City 13,_WOODBURY13,406,267,24,7,4,4,2,0,0,0,10,408,261,19,14,1,1
+0,_Woodbury,_Woodbury 14/Sioux City 14 | _Sioux City 14,_WOODBURY14,218,446,26,5,4,4,0,3,0,0,20,277,397,16,16,0,0
+0,_Woodbury,_Woodbury 15 | _Sioux City 15,_WOODBURY15,905,438,44,9,10,2,1,7,1,0,13,950,397,37,22,4,0
+0,_Woodbury,_Woodbury 16/Sioux City 16 | _Sioux City 16,_WOODBURY16,566,519,30,13,2,5,0,3,1,0,20,649,450,29,16,1,0
+0,_Woodbury,_Woodbury 17/Sioux City 17 | _Sioux City 17,_WOODBURY17,748,630,49,11,5,2,3,15,0,0,18,871,516,38,26,4,1
+0,_Woodbury,_Woodbury 18/Sioux City 18 | _Sioux City 18,_WOODBURY18,766,506,38,15,7,2,2,10,0,0,15,814,449,31,28,6,1
+0,_Woodbury,_Woodbury 19/Sioux City 19 | _Sioux City 19,_WOODBURY19,909,623,52,10,7,3,4,15,0,1,22,1050,532,29,18,3,1
+0,_Woodbury,_Woodbury 2/Sioux City 2 | _Sioux City 02,_WOODBURY2,369,564,19,8,3,6,4,0,0,2,16,421,502,13,30,0,4
+0,_Woodbury,_Woodbury 20/Sioux City 20 | _Sioux City 20,_WOODBURY20,151,372,10,3,5,5,2,2,0,0,6,179,324,18,15,2,2
+0,_Woodbury,_Woodbury 21/Sioux City 21 | _Sioux City 21,_WOODBURY21,616,467,39,15,7,3,1,8,2,1,24,708,391,29,34,4,1
+0,_Woodbury,_Woodbury 22/Sioux City 22 | _Woodbury 22,_WOODBURY22,808,578,44,17,8,5,7,8,1,0,17,892,494,44,27,3,3
+0,_Woodbury,_Woodbury 23/Sioux City 23 | _Sioux City 23,_WOODBURY23,680,512,39,18,7,8,5,3,0,1,21,736,453,50,28,6,1
+0,_Woodbury,_Woodbury 24/Sioux City 24 | _Woodbury 24,_WOODBURY24,838,454,55,9,7,4,2,5,2,1,13,912,371,34,35,6,1
+0,_Woodbury,_Woodbury 25/Sioux City 25 | _Woodbury 25,_WOODBURY25,689,534,42,15,16,9,0,7,0,0,19,779,449,46,35,0,0
+0,_Woodbury,_Woodbury 26/Sioux City 26 | _Woodbury 26,_WOODBURY26,902,496,25,4,6,2,6,12,0,1,12,970,432,21,17,2,1
+0,_Woodbury,_Woodbury 27/Sioux City 27 | _Woodbury 27,_WOODBURY27,825,506,37,23,13,8,5,16,0,1,17,887,454,40,34,3,0
+0,_Woodbury,_Woodbury 28 | _Woodbury 28,_WOODBURY28,1786,769,72,9,9,5,9,12,1,0,34,2015,622,35,27,2,3
+0,_Woodbury,_Woodbury 29 | _29 Sergeant Bluff East/Woodbury,_WOODBURY29,1195,465,40,5,8,6,3,6,0,1,22,1280,365,43,23,3,1
+0,_Woodbury,_Woodbury 3/Sioux City 3 | _Sioux City 03,_WOODBURY3,807,566,41,12,4,6,2,10,1,0,23,879,500,21,29,5,3
+0,_Woodbury,_Woodbury 30 | _30 Sergeant Bluff West,_WOODBURY30,941,374,34,4,2,1,4,5,0,0,9,1003,302,15,23,4,1
+0,_Woodbury,_Woodbury 31 | _31 Salix/Liberty/Lakeport,_WOODBURY31,459,167,12,3,2,0,2,3,0,0,3,459,149,17,12,3,0
+0,_Woodbury,_Woodbury 32 | _32 Bronson/Floyd/Grange,_WOODBURY32,446,138,10,2,3,2,0,3,0,1,5,479,113,8,4,1,0
+0,_Woodbury,_Woodbury 33 | _33 Pierson/Rutland,_WOODBURY33,212,62,11,0,2,2,1,1,0,0,1,214,56,13,5,0,0
+0,_Woodbury,_Woodbury 34 | _34 Correctionville/Kedron/Union,_WOODBURY34,396,162,12,1,2,0,1,6,0,0,8,447,120,10,6,3,1
+0,_Woodbury,_Woodbury 35 | _35 Moville/Arlington/Wolf Creek,_WOODBURY35,1037,296,31,4,11,2,2,5,0,0,12,1076,265,29,19,0,0
+0,_Woodbury,_Woodbury 36 | _36 Lawton/Banner,_WOODBURY36,531,146,17,2,7,0,0,4,0,0,8,556,120,19,7,2,1
+0,_Woodbury,_Woodbury 37 | _37 Climbing Hill/Grant/West Fork,_WOODBURY37,209,60,5,3,1,0,0,0,0,0,6,226,47,6,3,0,0
+0,_Woodbury,_Woodbury 38 | _38 Sloan,_WOODBURY38,394,152,18,3,2,1,0,6,0,0,11,430,128,9,7,0,0
+0,_Woodbury,_Woodbury 39 | _39 Hornick/Willow,_WOODBURY39,207,32,6,4,1,4,0,0,0,0,1,209,36,3,7,0,0
+0,_Woodbury,_Woodbury 4/Sioux City 4 | _Sioux City 04,_WOODBURY4,280,350,18,7,1,10,0,1,0,0,7,298,323,14,17,0,0
+0,_Woodbury,_Woodbury 40 | _40 Anthon/Miller,_WOODBURY40,279,92,6,7,0,0,1,5,0,0,1,299,74,9,5,1,0
+0,_Woodbury,_Woodbury 41 | _41 Danbury/Liston/Morgan,_WOODBURY41,306,51,8,4,0,1,0,0,0,0,3,300,58,6,5,0,1
+0,_Woodbury,_Woodbury 42 | _42 Smithland/Little Sioux,_WOODBURY42,186,36,8,1,0,0,0,0,0,0,0,187,31,5,4,0,0
+0,_Woodbury,_Woodbury 43 | _43 Oto/Oto Township,_WOODBURY43,110,26,1,0,1,2,0,0,0,0,1,107,24,5,1,0,1
+0,_Woodbury,_Woodbury 44 | _44 Cushing/Rock,_WOODBURY44,165,52,4,0,1,0,0,0,0,0,3,173,44,4,0,0,0
+0,_Woodbury,_Woodbury 5/Sioux City 5 | _Sioux City 05,_WOODBURY5,579,548,26,6,5,5,2,0,0,0,22,629,480,32,33,7,0
+0,_Woodbury,_Woodbury 6/Sioux City 6 | _Sioux City 06,_WOODBURY6,491,600,44,8,4,7,4,6,1,0,17,600,509,31,23,3,2
+0,_Woodbury,_Woodbury 7/Sioux City 7 | _Sioux City 07,_WOODBURY7,572,562,41,11,3,5,8,8,0,1,14,659,475,35,30,4,1
+0,_Woodbury,_Woodbury 8/Sioux City 8 | _Sioux City 08,_WOODBURY8,183,405,13,6,1,2,2,1,0,0,8,202,370,23,17,1,0
+0,_Woodbury,_Woodbury 9/Sioux City 9 | _Sioux City 09,_WOODBURY9,112,246,9,3,0,2,0,2,0,0,4,128,208,16,8,2,1
+0,_Worth,_Worth 1-1 | _Barton/Deer Creek/Union/Grafton,_WORTH1-1,311,171,21,3,2,0,0,4,0,0,2,360,137,11,5,1,0
+0,_Worth,_Worth 1-2 | _Lincoln/Manly,_WORTH1-2,380,388,35,2,0,2,3,4,0,0,10,463,309,22,13,2,0
+0,_Worth,_Worth 2-1 | _Bristol/Silver Lake/Joice,_WORTH2-1,244,135,8,6,2,0,1,4,0,0,2,272,109,13,6,3,0
+0,_Worth,_Worth 2-2 | _Brookfield/Kensett,_WORTH2-2,261,140,24,1,3,0,1,4,1,0,1,280,121,24,9,0,1
+0,_Worth,_Worth 2-3 | _Danville/Hanlontown,_WORTH2-3,161,92,10,0,1,0,2,2,0,0,2,183,68,9,7,0,0
+0,_Worth,_Worth 2-4 | _Fertile,_WORTH2-4,245,103,13,2,2,0,0,6,0,0,4,266,93,8,8,0,1
+0,_Worth,_Worth 3-1 | _Deer Creek/Grove/Hartland/Northwood,_WORTH3-1,851,501,54,10,5,2,0,10,0,0,3,950,409,33,23,2,1
+0,_Wright,_Belmond | _Belmond,_BELMOND,939,600,39,10,3,0,3,4,0,0,23,1034,503,51,8,2,1
+0,_Wright,_Big 6 | _Big 6,_BIG6,435,145,18,5,1,1,1,3,0,0,4,480,118,11,4,0,0
+0,_Wright,_Clarion | _Clarion,_CLARION,766,380,43,10,0,1,0,11,1,1,12,871,296,38,9,2,2
+0,_Wright,_Dows | _Dows,_DOWS,208,116,17,4,2,1,0,1,0,0,5,236,101,8,6,0,0
+0,_Wright,_Eagle Grove ward 1 | _Eagle Grove #1,_EGWARD1,146,88,7,1,0,2,1,1,0,0,1,156,75,7,3,4,0
+0,_Wright,_Eagle Grove ward 2 | _Eagle Grove #2,_EGWARD2,195,121,4,0,1,0,0,0,0,0,3,223,91,6,2,0,0
+0,_Wright,_Eagle Grove ward 3 | _Eagle Grove #3,_EGWARD3,273,140,13,2,3,0,0,1,0,0,2,295,121,15,0,1,0
+0,_Wright,_Eagle Grove ward 4 | _Eagle Grove #4,_EGWARD4,209,114,12,2,1,1,1,3,0,0,6,243,92,9,2,0,0
+0,_Wright,_Goldfield | _Goldfield,_GOLDFIELD,323,99,10,0,2,0,0,1,0,0,2,342,72,18,5,0,0
+0,_Wright,_Rural Eagle Grove | _Rural Eagle Grove,_RURALEG,306,93,13,1,6,0,0,0,0,1,2,328,81,5,0,3,1
