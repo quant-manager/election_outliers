@@ -1,0 +1,610 @@
+IS_AUDITED,COUNTY_NAME,PRECINCT_NAME,PRECINCT_CODE,USA_ME_20161108_GEN_PRE_DEM_CLINTON,USA_ME_20161108_GEN_PRE_REP_TRUMP,USA_ME_20161108_GEN_PRE_LIB_JOHNSON,USA_ME_20161108_GEN_PRE_GRE_STEIN,USA_ME_20161108_GEN_PRE_OTH_WRITEIN
+0,_Androscoggin,_Auburn Ward 1,_Auburn Ward 1,1110,1045,185,40,10
+0,_Androscoggin,_Auburn Ward 2,_Auburn Ward 2,1346,1060,164,51,7
+0,_Androscoggin,_Auburn Ward 3,_Auburn Ward 3,954,1131,149,33,11
+0,_Androscoggin,_Auburn Ward 4,_Auburn Ward 4,805,891,87,38,10
+0,_Androscoggin,_Auburn Ward 5,_Auburn Ward 5,1126,1208,157,47,5
+0,_Androscoggin,_Durham,_Durham,1093,1268,148,44,0
+0,_Androscoggin,_Greene,_Greene,817,1545,151,26,0
+0,_Androscoggin,_Leeds,_Leeds,418,752,76,17,10
+0,_Androscoggin,_Lewiston Ward 1,_Lewiston Ward 1,1529,805,113,34,8
+0,_Androscoggin,_Lewiston Ward 2,_Lewiston Ward 2,1332,1521,177,40,10
+0,_Androscoggin,_Lewiston Ward 3,_Lewiston Ward 3,1490,555,103,43,7
+0,_Androscoggin,_Lewiston Ward 4,_Lewiston Ward 4,1014,1132,144,26,6
+0,_Androscoggin,_Lewiston Ward 5,_Lewiston Ward 5,816,547,90,29,5
+0,_Androscoggin,_Lewiston Ward 6,_Lewiston Ward 6,1065,1572,176,37,10
+0,_Androscoggin,_Lewiston Ward 7,_Lewiston Ward 7,1047,1218,148,28,8
+0,_Androscoggin,_Lisbon,_Lisbon,1711,2754,283,84,17
+0,_Androscoggin,_Livermore,_Livermore,475,705,64,22,29
+0,_Androscoggin,_Livermore Falls,_Livermore Falls,555,729,115,44,0
+0,_Androscoggin,_Mechanic Falls,_Mechanic Falls,519,873,118,24,5
+0,_Androscoggin,_Minot,_Minot,544,983,101,22,7
+0,_Androscoggin,_Poland,_Poland,1255,1688,200,59,7
+0,_Androscoggin,_Sabattus,_Sabattus,872,1704,153,51,0
+0,_Androscoggin,_Turner,_Turner,1092,2014,150,47,12
+0,_Androscoggin,_Wales,_Wales,221,579,64,6,6
+0,_Aroostook,_Allagash,_Allagash,70,85,3,2,1
+0,_Aroostook,_Amity,_Amity,29,82,4,2,2
+0,_Aroostook,_Ashland,_Ashland,210,348,40,11,0
+0,_Aroostook,_Big Twenty/T15 R15,_Big Twenty/T15 R15,0,2,0,0,0
+0,_Aroostook,_Blaine,_Blaine,95,284,13,2,2
+0,_Aroostook,_Bridgewater,_Bridgewater,86,202,17,5,0
+0,_Aroostook,_Caribou/Connor,_Caribou/Connor,1609,2110,214,46,18
+0,_Aroostook,_Cary,_Cary,24,81,6,1,0
+0,_Aroostook,_Castle Hill,_Castle Hill,86,123,11,3,0
+0,_Aroostook,_Caswell,_Caswell,74,58,6,4,0
+0,_Aroostook,_Central Aroostook,_Central Aroostook,0,0,0,0,0
+0,_Aroostook,_Chapman,_Chapman,100,156,15,5,4
+0,_Aroostook,_Cross Lake,_Cross Lake,53,55,9,2,0
+0,_Aroostook,_Crystal,_Crystal,33,102,8,3,0
+0,_Aroostook,_Cyr,_Cyr,22,28,1,0,0
+0,_Aroostook,_Dyer Brook,_Dyer Brook,38,96,9,4,0
+0,_Aroostook,_E Twp,_E Twp,5,28,1,1,0
+0,_Aroostook,_Eagle Lake,_Eagle Lake,220,231,16,3,0
+0,_Aroostook,_Easton,_Easton,219,409,28,15,1
+0,_Aroostook,_Fort Fairfield,_Fort Fairfield,665,890,70,13,18
+0,_Aroostook,_Fort Kent,_Fort Kent,994,999,96,30,4
+0,_Aroostook,_Frenchville,_Frenchville,266,313,22,8,2
+0,_Aroostook,_Garfield,_Garfield,14,31,4,1,0
+0,_Aroostook,_Glenwood,_Glenwood,0,2,0,0,0
+0,_Aroostook,_Grand Isle,_Grand Isle,123,93,4,4,0
+0,_Aroostook,_Hamlin,_Hamlin,48,52,0,1,0
+0,_Aroostook,_Hammond,_Hammond,8,37,3,1,0
+0,_Aroostook,_Haynesville,_Haynesville,11,33,2,1,2
+0,_Aroostook,_Hersey,_Hersey,4,23,5,0,2
+0,_Aroostook,_Hodgdon,_Hodgdon,149,500,22,6,3
+0,_Aroostook,_Houlton,_Houlton,948,1576,135,36,9
+0,_Aroostook,_Island Falls,_Island Falls,124,250,16,11,0
+0,_Aroostook,_Limestone,_Limestone,328,411,37,15,2
+0,_Aroostook,_Linneus,_Linneus,89,359,17,3,0
+0,_Aroostook,_Littleton,_Littleton,113,357,19,7,0
+0,_Aroostook,_Ludlow,_Ludlow,66,140,19,4,0
+0,_Aroostook,_Macwahoc,_Macwahoc,14,27,2,0,1
+0,_Aroostook,_Madawaska,_Madawaska,1188,847,95,36,1
+0,_Aroostook,_Madawaska Lake,_Madawaska Lake,58,47,1,1,0
+0,_Aroostook,_Mapleton,_Mapleton,362,694,57,13,2
+0,_Aroostook,_Mars Hill,_Mars Hill,195,519,28,8,4
+0,_Aroostook,_Masardis,_Masardis,44,79,3,2,0
+0,_Aroostook,_Merrill,_Merrill,37,82,11,3,0
+0,_Aroostook,_Molunkus,_Molunkus,19,29,0,0,0
+0,_Aroostook,_Monticello,_Monticello,97,297,8,6,2
+0,_Aroostook,_Moro/T7 R5,_Moro/T7 R5,1,25,0,0,1
+0,_Aroostook,_Nashville,_Nashville,7,12,1,0,0
+0,_Aroostook,_New Canada,_New Canada,69,85,4,4,0
+0,_Aroostook,_New Limerick,_New Limerick,98,224,11,2,0
+0,_Aroostook,_New Sweden,_New Sweden,148,185,24,8,2
+0,_Aroostook,_Northwest Aroostook,_Northwest Aroostook,0,0,0,0,0
+0,_Aroostook,_Oakfield,_Oakfield,103,255,16,7,2
+0,_Aroostook,_Orient,_Orient,13,69,1,1,0
+0,_Aroostook,_Oxbow North,_Oxbow North,10,25,1,1,0
+0,_Aroostook,_Perham,_Perham,61,119,9,7,0
+0,_Aroostook,_Portage Lake,_Portage Lake,89,153,6,3,0
+0,_Aroostook,_Presque Isle,_Presque Isle,1794,2106,283,79,28
+0,_Aroostook,_Reed/Upper Molunkus,_Reed/Upper Molunkus,14,61,0,3,0
+0,_Aroostook,_Sherman/Benedicta/Silver Ridge,_Sherman/Benedicta/Silver Ridge,142,468,20,6,0
+0,_Aroostook,_Smyrna,_Smyrna,38,99,4,4,0
+0,_Aroostook,_South Aroostook,_South Aroostook,0,0,0,0,0
+0,_Aroostook,_Square Lake,_Square Lake,0,0,0,0,0
+0,_Aroostook,_St. Agatha/Sinclair,_St. Agatha/Sinclair,260,280,28,6,1
+0,_Aroostook,_St. Francis,_St. Francis,128,96,10,3,1
+0,_Aroostook,_St. John,_St. John,59,92,9,3,0
+0,_Aroostook,_Stockholm,_Stockholm,68,53,7,25,0
+0,_Aroostook,_T11 R4 WELS,_T11 R4 WELS,7,15,0,1,0
+0,_Aroostook,_T12 R13 WELS/T9 R8 WELS,_T12 R13 WELS/T9 R8 WELS,2,1,0,0,0
+0,_Aroostook,_T15 R6 WELS,_T15 R6 WELS,0,7,1,0,0
+0,_Aroostook,_T17 R3,_T17 R3,8,12,2,0,0
+0,_Aroostook,_T4 R3,_T4 R3,1,0,0,0,0
+0,_Aroostook,_TD R2 WELS,_TD R2 WELS,4,0,0,0,0
+0,_Aroostook,_Van Buren,_Van Buren,505,392,27,11,2
+0,_Aroostook,_Wade,_Wade,41,86,11,4,0
+0,_Aroostook,_Wallagrass,_Wallagrass,155,127,9,1,0
+0,_Aroostook,_Washburn,_Washburn,286,483,45,7,7
+0,_Aroostook,_Westfield,_Westfield,86,146,13,1,1
+0,_Aroostook,_Westmanland,_Westmanland,24,24,0,1,0
+0,_Aroostook,_Weston/Bancroft,_Weston/Bancroft,55,121,1,3,0
+0,_Aroostook,_Winterville,_Winterville,53,73,5,2,0
+0,_Aroostook,_Woodland,_Woodland,233,393,33,6,0
+0,_Cumberland,_Baldwin,_Baldwin,273,561,58,16,3
+0,_Cumberland,_Bridgton,_Bridgton,1234,1477,159,70,6
+0,_Cumberland,_Brunswick 1-7,_Brunswick 1-7,8060,3654,582,238,26
+0,_Cumberland,_Cape Elizabeth,_Cape Elizabeth,4518,1596,230,71,7
+0,_Cumberland,_Casco,_Casco,826,1119,105,47,10
+0,_Cumberland,_Chebeague Island,_Chebeague Island,234,66,17,11,0
+0,_Cumberland,_Cumberland,_Cumberland,3211,1758,285,56,29
+0,_Cumberland,_Falmouth,_Falmouth,4919,2638,307,108,22
+0,_Cumberland,_Freeport,_Freeport,3471,1647,267,87,10
+0,_Cumberland,_Frye Island,_Frye Island,43,26,8,0,0
+0,_Cumberland,_Gorham 1-1,_Gorham 1-1,1341,947,123,45,5
+0,_Cumberland,_Gorham 1-2,_Gorham 1-2,1136,976,124,49,12
+0,_Cumberland,_Gorham 2,_Gorham 2,2561,2030,242,70,86
+0,_Cumberland,_Gray,_Gray,2038,2402,271,82,14
+0,_Cumberland,_Harpswell - Great Island,_Harpswell - Great Island,650,518,56,16,3
+0,_Cumberland,_Harpswell - Mainland,_Harpswell - Mainland,842,541,50,34,7
+0,_Cumberland,_Harpswell - Orr's/Bailey,_Harpswell - Orr's/Bailey,405,260,22,1,0
+0,_Cumberland,_Harrison,_Harrison,573,762,81,38,6
+0,_Cumberland,_Long Island,_Long Island,110,52,7,2,2
+0,_Cumberland,_Naples,_Naples,833,1280,119,39,0
+0,_Cumberland,_New Gloucester,_New Gloucester,1362,1660,168,62,19
+0,_Cumberland,_North Yarmouth,_North Yarmouth,1506,924,119,35,4
+0,_Cumberland,_Portland Precinct 1-1,_Portland Precinct 1-1,2909,382,96,110,5
+0,_Cumberland,_Portland Precinct 1-2,_Portland Precinct 1-2,2275,466,129,141,5
+0,_Cumberland,_Portland Precinct 1-3,_Portland Precinct 1-3,705,107,15,15,1
+0,_Cumberland,_Portland Precinct 2-1,_Portland Precinct 2-1,3711,382,110,125,6
+0,_Cumberland,_Portland Precinct 2-2,_Portland Precinct 2-2,2702,371,94,176,5
+0,_Cumberland,_Portland Precinct 3-1,_Portland Precinct 3-1,3167,683,123,94,6
+0,_Cumberland,_Portland Precinct 3-2,_Portland Precinct 3-2,2723,755,157,77,6
+0,_Cumberland,_Portland Precinct 4-1,_Portland Precinct 4-1,3557,929,163,83,8
+0,_Cumberland,_Portland Precinct 4-2,_Portland Precinct 4-2,2058,795,90,41,5
+0,_Cumberland,_Portland Precinct 5-1,_Portland Precinct 5-1,2028,611,100,77,5
+0,_Cumberland,_Portland Precinct 5-2,_Portland Precinct 5-2,2942,1322,159,65,8
+0,_Cumberland,_Pownal,_Pownal,561,422,60,16,1
+0,_Cumberland,_Raymond,_Raymond,1274,1384,94,75,4
+0,_Cumberland,_Scarborough,_Scarborough,6952,4928,536,193,41
+0,_Cumberland,_Sebago,_Sebago,425,601,64,20,6
+0,_Cumberland,_South Portland District 1,_South Portland District 1,2440,674,89,53,5
+0,_Cumberland,_South Portland District 2,_South Portland District 2,2214,617,126,58,5
+0,_Cumberland,_South Portland District 3/4,_South Portland District 3/4,3817,1883,228,117,9
+0,_Cumberland,_South Portland District 5,_South Portland District 5,1533,784,87,67,3
+0,_Cumberland,_Standish,_Standish,2162,2879,282,81,15
+0,_Cumberland,_Westbrook Ward 1,_Westbrook Ward 1,1014,713,113,33,2
+0,_Cumberland,_Westbrook Ward 2,_Westbrook Ward 2,1195,632,104,45,4
+0,_Cumberland,_Westbrook Ward 3,_Westbrook Ward 3,1033,704,86,37,2
+0,_Cumberland,_Westbrook Ward 4,_Westbrook Ward 4,997,590,120,39,0
+0,_Cumberland,_Westbrook Ward 5,_Westbrook Ward 5,1238,940,75,48,3
+0,_Cumberland,_Windham,_Windham,4345,4869,520,170,28
+0,_Cumberland,_Yarmouth,_Yarmouth,3737,1506,237,72,5
+0,_Franklin,_Avon,_Avon,77,146,15,4,0
+0,_Franklin,_Carrabassett Valley,_Carrabassett Valley,266,127,32,23,0
+0,_Franklin,_Carthage,_Carthage,91,139,20,33,1
+0,_Franklin,_Chesterville,_Chesterville,278,376,60,15,3
+0,_Franklin,_Coplin,_Coplin,38,44,11,3,0
+0,_Franklin,_Dallas,_Dallas,91,92,15,4,3
+0,_Franklin,_East Central Franklin,_East Central Franklin,0,0,0,0,0
+0,_Franklin,_Eustis/Alder Stream/Coburn Gore/Jim Pond,_Eustis/Alder Stream/Coburn Gore/Jim Pond,137,222,37,12,0
+0,_Franklin,_Farmington,_Farmington,1996,1486,262,105,18
+0,_Franklin,_Industry,_Industry,191,234,28,8,0
+0,_Franklin,_Jay,_Jay,1153,1186,143,28,5
+0,_Franklin,_Kingfield/Salem,_Kingfield/Salem,300,404,65,18,0
+0,_Franklin,_New Sharon,_New Sharon,313,499,69,31,3
+0,_Franklin,_New Vineyard,_New Vineyard,131,257,29,7,5
+0,_Franklin,_North Franklin,_North Franklin,0,0,0,0,0
+0,_Franklin,_Perkins,_Perkins,8,4,1,0,0
+0,_Franklin,_Phillips/Madrid,_Phillips/Madrid,232,345,34,14,3
+0,_Franklin,_Rangeley Plt,_Rangeley Plt,51,97,5,3,0
+0,_Franklin,_Sandy River,_Sandy River,45,40,1,5,0
+0,_Franklin,_Strong/Freeman,_Strong/Freeman,227,461,54,13,1
+0,_Franklin,_Temple,_Temple,155,146,15,6,0
+0,_Franklin,_Washington,_Washington,7,9,1,0,0
+0,_Franklin,_Weld,_Weld,110,148,17,1,0
+0,_Franklin,_West Central Franklin,_West Central Franklin,0,0,0,0,0
+0,_Franklin,_Wilton,_Wilton,879,1068,156,30,33
+0,_Franklin,_Wyman,_Wyman,10,17,0,3,0
+0,_Franklin/Oxford,_Rangeley/Adamstown/Lower Cupsuptic,_Rangeley/Adamstown/Lower Cupsuptic,289,385,37,11,1
+0,_Hancock,_Amherst,_Amherst,58,99,7,6,0
+0,_Hancock,_Aurora/T28 MD,_Aurora/T28 MD,17,48,5,3,1
+0,_Hancock,_Bar Harbor,_Bar Harbor,2263,713,108,59,8
+0,_Hancock,_Blue Hill,_Blue Hill,1097,561,83,45,2
+0,_Hancock,_Brooklin,_Brooklin,349,177,20,16,3
+0,_Hancock,_Brooksville,_Brooksville,409,190,15,21,0
+0,_Hancock,_Bucksport,_Bucksport,1044,1338,149,48,14
+0,_Hancock,_Castine,_Castine,332,205,37,8,2
+0,_Hancock,_Cranberry Isles,_Cranberry Isles,101,41,6,4,0
+0,_Hancock,_Dedham,_Dedham,454,543,57,20,6
+0,_Hancock,_Deer Isle,_Deer Isle,690,454,43,21,0
+0,_Hancock,_East Hancock,_East Hancock,0,0,0,0,0
+0,_Hancock,_Eastbrook,_Eastbrook,67,150,16,6,1
+0,_Hancock,_Ellsworth 1,_Ellsworth 1,726,729,106,38,6
+0,_Hancock,_Ellsworth 2/Fletcher's Landing,_Ellsworth 2/Fletcher's Landing,273,352,39,16,3
+0,_Hancock,_Ellsworth 3,_Ellsworth 3,240,376,31,7,3
+0,_Hancock,_Ellsworth 4,_Ellsworth 4,586,660,67,29,5
+0,_Hancock,_Franklin,_Franklin,306,427,48,11,0
+0,_Hancock,_Frenchboro,_Frenchboro,7,23,0,2,0
+0,_Hancock,_Gouldsboro,_Gouldsboro,413,560,39,11,0
+0,_Hancock,_Great Pond/T32 MD,_Great Pond/T32 MD,15,22,3,1,0
+0,_Hancock,_Hancock,_Hancock,511,679,73,29,4
+0,_Hancock,_Lamoine,_Lamoine,485,517,60,12,8
+0,_Hancock,_Mariaville,_Mariaville,92,165,20,4,5
+0,_Hancock,_Marshall Island,_Marshall Island,0,0,0,0,0
+0,_Hancock,_Mount Desert,_Mount Desert,925,390,54,21,7
+0,_Hancock,_Orland,_Orland,628,652,72,31,0
+0,_Hancock,_Osborn,_Osborn,14,26,1,0,0
+0,_Hancock,_Otis,_Otis,138,261,25,3,2
+0,_Hancock,_Penobscot,_Penobscot,449,280,29,29,4
+0,_Hancock,_Sedgwick,_Sedgwick,400,288,33,16,1
+0,_Hancock,_Sorrento,_Sorrento,100,87,11,4,1
+0,_Hancock,_Southwest Harbor,_Southwest Harbor,652,401,31,15,4
+0,_Hancock,_Stonington,_Stonington,353,214,19,14,0
+0,_Hancock,_Sullivan,_Sullivan,287,301,51,14,0
+0,_Hancock,_Surry,_Surry,494,419,46,25,2
+0,_Hancock,_Swans Island,_Swans Island,103,122,13,8,4
+0,_Hancock,_T10 SD,_T10 SD,4,10,0,0,0
+0,_Hancock,_T22 MD,_T22 MD,0,5,0,0,0
+0,_Hancock,_T3 ND,_T3 ND,3,3,0,0,0
+0,_Hancock,_T7 SD,_T7 SD,0,0,2,3,0
+0,_Hancock,_T9 SD,_T9 SD,2,5,0,0,0
+0,_Hancock,_Tremont,_Tremont,481,382,44,19,1
+0,_Hancock,_Trenton,_Trenton,401,397,42,15,3
+0,_Hancock,_Verona Island,_Verona Island,123,164,19,2,3
+0,_Hancock,_Waltham,_Waltham,48,141,15,3,1
+0,_Hancock,_Winter Harbor,_Winter Harbor,114,153,25,8,0
+0,_Kennebec,_Albion/Unity,_Albion/Unity,332,717,65,27,3
+0,_Kennebec,_Augusta Ward 1,_Augusta Ward 1,1116,739,111,39,9
+0,_Kennebec,_Augusta Ward 2,_Augusta Ward 2,1146,861,116,46,6
+0,_Kennebec,_Augusta Ward 3,_Augusta Ward 3,1043,1090,126,60,0
+0,_Kennebec,_Augusta Ward 4,_Augusta Ward 4,1129,1122,152,50,0
+0,_Kennebec,_Belgrade,_Belgrade,833,1064,90,18,4
+0,_Kennebec,_Benton,_Benton,549,844,102,20,2
+0,_Kennebec,_Chelsea,_Chelsea,524,862,63,26,1
+0,_Kennebec,_China,_China,927,1350,136,43,7
+0,_Kennebec,_Clinton,_Clinton,525,1014,87,29,0
+0,_Kennebec,_Farmingdale,_Farmingdale,780,763,97,32,8
+0,_Kennebec,_Fayette,_Fayette,347,374,40,10,4
+0,_Kennebec,_Gardiner,_Gardiner,1458,1364,157,81,6
+0,_Kennebec,_Hallowell,_Hallowell,1102,375,71,47,6
+0,_Kennebec,_Litchfield,_Litchfield,707,1158,110,44,12
+0,_Kennebec,_Manchester,_Manchester,752,771,85,19,0
+0,_Kennebec,_Monmouth,_Monmouth,872,1273,167,36,9
+0,_Kennebec,_Mount Vernon,_Mount Vernon,462,476,63,27,1
+0,_Kennebec,_Oakland,_Oakland,1454,1718,233,65,11
+0,_Kennebec,_Pittston,_Pittston,582,938,102,29,0
+0,_Kennebec,_Randolph,_Randolph,430,476,59,18,4
+0,_Kennebec,_Readfield,_Readfield,800,711,85,29,5
+0,_Kennebec,_Rome,_Rome,284,269,28,16,0
+0,_Kennebec,_Sidney,_Sidney,947,1414,161,47,21
+0,_Kennebec,_Vassalboro,_Vassalboro,912,1338,127,34,3
+0,_Kennebec,_Vienna,_Vienna,158,195,25,8,0
+0,_Kennebec,_Waterville 1-7,_Waterville 1-7,4206,2429,414,153,28
+0,_Kennebec,_Wayne,_Wayne,428,322,42,15,0
+0,_Kennebec,_West Gardiner,_West Gardiner,799,1188,122,41,8
+0,_Kennebec,_Windsor,_Windsor,409,815,91,31,6
+0,_Kennebec,_Winslow,_Winslow,1841,2104,256,69,5
+0,_Kennebec,_Winthrop,_Winthrop,1697,1605,209,87,12
+0,_Knox,_Appleton,_Appleton,396,397,41,16,3
+0,_Knox,_Camden,_Camden,2451,804,81,61,8
+0,_Knox,_Criehaven,_Criehaven,1,0,0,0,0
+0,_Knox,_Cushing,_Cushing,375,441,34,12,2
+0,_Knox,_Friendship,_Friendship,273,426,31,13,1
+0,_Knox,_Hope,_Hope,542,419,44,20,3
+0,_Knox,_Isle au Haut,_Isle au Haut,38,15,3,7,0
+0,_Knox,_Matinicus Isle,_Matinicus Isle,33,18,0,0,0
+0,_Knox,_Muscle Ridge Islands,_Muscle Ridge Islands,0,0,0,0,0
+0,_Knox,_North Haven,_North Haven,191,67,18,11,0
+0,_Knox,_Owls Head,_Owls Head,500,432,35,36,1
+0,_Knox,_Rockland,_Rockland,2041,1211,148,106,16
+0,_Knox,_Rockport,_Rockport,1393,741,108,35,13
+0,_Knox,_South Thomaston,_South Thomaston,449,384,46,13,3
+0,_Knox,_St. George,_St. George,938,622,47,29,9
+0,_Knox,_Thomaston,_Thomaston,792,582,63,38,0
+0,_Knox,_Union,_Union,587,666,59,27,5
+0,_Knox,_Vinalhaven,_Vinalhaven,452,250,34,32,0
+0,_Knox,_Warren,_Warren,772,1183,110,46,5
+0,_Knox,_Washington,_Washington,326,508,50,36,4
+0,_Lincoln,_Alna,_Alna,264,176,15,14,0
+0,_Lincoln,_Boothbay,_Boothbay,988,901,113,40,2
+0,_Lincoln,_Boothbay Harbor,_Boothbay Harbor,735,542,64,22,0
+0,_Lincoln,_Bremen,_Bremen,284,194,11,6,2
+0,_Lincoln,_Bristol/Louds Island,_Bristol/Louds Island,944,769,73,35,14
+0,_Lincoln,_Damariscotta,_Damariscotta,774,455,70,23,0
+0,_Lincoln,_Dresden,_Dresden,451,514,63,20,6
+0,_Lincoln,_Edgecomb,_Edgecomb,426,322,47,14,1
+0,_Lincoln,_Hibberts Gore,_Hibberts Gore,0,0,0,0,0
+0,_Lincoln,_Jefferson,_Jefferson,553,876,89,40,9
+0,_Lincoln,_Monhegan,_Monhegan,40,6,2,9,0
+0,_Lincoln,_Newcastle,_Newcastle,793,381,43,15,4
+0,_Lincoln,_Nobleboro,_Nobleboro,553,519,45,26,9
+0,_Lincoln,_Somerville,_Somerville,102,197,29,8,2
+0,_Lincoln,_South Bristol,_South Bristol,335,229,40,13,0
+0,_Lincoln,_Southport,_Southport,220,179,18,5,0
+0,_Lincoln,_Waldoboro,_Waldoboro,1143,1412,124,47,18
+0,_Lincoln,_Westport Island,_Westport Island,243,219,29,12,1
+0,_Lincoln,_Whitefield,_Whitefield,610,688,62,38,2
+0,_Lincoln,_Wiscasset,_Wiscasset,871,1166,106,39,1
+0,_Oxford,_Albany,_Albany,107,152,33,13,0
+0,_Oxford,_Andover/Andover North Surplus,_Andover/Andover North Surplus,197,281,40,13,0
+0,_Oxford,_Bethel/Mason,_Bethel/Mason,863,679,103,20,0
+0,_Oxford,_Brownfield,_Brownfield,369,429,42,11,3
+0,_Oxford,_Buckfield,_Buckfield,374,620,58,19,5
+0,_Oxford,_Byron,_Byron,29,52,3,5,0
+0,_Oxford,_Canton,_Canton,153,242,37,77,1
+0,_Oxford,_Denmark,_Denmark,287,383,40,21,1
+0,_Oxford,_Dixfield,_Dixfield,419,710,91,24,0
+0,_Oxford,_Fryeburg,_Fryeburg,817,770,135,38,3
+0,_Oxford,_Gilead,_Gilead,42,62,10,2,0
+0,_Oxford,_Greenwood,_Greenwood,215,211,27,7,0
+0,_Oxford,_Hanover,_Hanover,85,85,11,5,0
+0,_Oxford,_Hartford,_Hartford,208,379,43,10,0
+0,_Oxford,_Hebron,_Hebron,251,398,75,10,3
+0,_Oxford,_Hiram,_Hiram,315,443,49,19,1
+0,_Oxford,_Lincoln/Lynchtown,_Lincoln/Lynchtown,8,17,1,0,3
+0,_Oxford,_Lovell,_Lovell,316,336,44,8,0
+0,_Oxford,_Magalloway,_Magalloway,2,15,0,0,0
+0,_Oxford,_Mexico,_Mexico,549,648,86,28,2
+0,_Oxford,_Milton,_Milton,26,53,4,2,0
+0,_Oxford,_Newry/Riley,_Newry/Riley,137,109,14,10,1
+0,_Oxford,_North Oxford,_North Oxford,0,0,0,0,0
+0,_Oxford,_Norway,_Norway,1065,1316,153,36,22
+0,_Oxford,_Otisfield,_Otisfield,427,561,60,22,0
+0,_Oxford,_Oxford,_Oxford,700,1272,151,39,7
+0,_Oxford,_Paris,_Paris,1043,1375,178,56,16
+0,_Oxford,_Peru,_Peru,324,548,63,10,15
+0,_Oxford,_Porter,_Porter,272,463,48,10,7
+0,_Oxford,_Roxbury,_Roxbury,77,143,17,4,0
+0,_Oxford,_Rumford,_Rumford,1147,1403,183,68,7
+0,_Oxford,_South Oxford,_South Oxford,0,0,0,0,0
+0,_Oxford,_Stoneham,_Stoneham,78,89,5,0,1
+0,_Oxford,_Stow,_Stow,98,98,15,3,0
+0,_Oxford,_Sumner,_Sumner,189,300,28,13,3
+0,_Oxford,_Sweden,_Sweden,116,116,14,3,0
+0,_Oxford,_Upton,_Upton,13,39,3,1,0
+0,_Oxford,_Waterford,_Waterford,341,494,59,20,0
+0,_Oxford,_West Paris,_West Paris,343,545,78,21,2
+0,_Oxford,_Woodstock,_Woodstock,276,405,54,16,11
+0,_Penobscot,_Alton,_Alton,154,274,33,5,0
+0,_Penobscot,_Argyle,_Argyle,34,47,2,1,0
+0,_Penobscot,_Bangor,_Bangor,8224,6013,873,312,91
+0,_Penobscot,_Bradford,_Bradford,187,443,26,8,0
+0,_Penobscot,_Bradley,_Bradley,338,412,42,15,0
+0,_Penobscot,_Brewer,_Brewer,2183,2590,304,93,0
+0,_Penobscot,_Burlington,_Burlington,41,131,10,6,0
+0,_Penobscot,_Carmel,_Carmel,463,1021,80,20,0
+0,_Penobscot,_Carroll,_Carroll,17,72,2,3,0
+0,_Penobscot,_Charleston,_Charleston,141,533,20,9,1
+0,_Penobscot,_Chester,_Chester,66,245,14,4,1
+0,_Penobscot,_Clifton,_Clifton,171,294,30,11,2
+0,_Penobscot,_Corinna,_Corinna,307,739,61,22,5
+0,_Penobscot,_Corinth,_Corinth,371,1059,60,9,6
+0,_Penobscot,_Dexter,_Dexter,577,1064,104,38,0
+0,_Penobscot,_Dixmont,_Dixmont,234,432,31,20,2
+0,_Penobscot,_Drew,_Drew,3,20,1,0,0
+0,_Penobscot,_East Central Penobscot,_East Central Penobscot,0,0,0,0,0
+0,_Penobscot,_East Millinocket/Dolby,_East Millinocket/Dolby,376,495,37,17,0
+0,_Penobscot,_Eddington,_Eddington,448,786,87,20,0
+0,_Penobscot,_Edinburg,_Edinburg,26,47,0,1,0
+0,_Penobscot,_Enfield,_Enfield,261,494,56,9,0
+0,_Penobscot,_Etna,_Etna,200,386,35,16,2
+0,_Penobscot,_Exeter,_Exeter,179,331,28,6,1
+0,_Penobscot,_Garland,_Garland,168,345,34,7,4
+0,_Penobscot,_Glenburn,_Glenburn,941,1414,144,34,13
+0,_Penobscot,_Grand Falls,_Grand Falls,1,2,2,2,0
+0,_Penobscot,_Greenbush,_Greenbush,187,441,45,12,3
+0,_Penobscot,_Grindstone/Soldiertown,_Grindstone/Soldiertown,4,18,2,0,0
+0,_Penobscot,_Hampden,_Hampden,1945,2107,274,75,24
+0,_Penobscot,_Hermon,_Hermon,1110,2174,172,35,18
+0,_Penobscot,_Herseytown,_Herseytown,0,13,1,1,0
+0,_Penobscot,_Holden,_Holden,725,1125,103,36,11
+0,_Penobscot,_Howland,_Howland,250,388,28,6,5
+0,_Penobscot,_Hudson,_Hudson,196,491,38,12,1
+0,_Penobscot,_Kenduskeag,_Kenduskeag,204,462,45,17,0
+0,_Penobscot,_Kingman,_Kingman,16,53,1,0,0
+0,_Penobscot,_Lagrange,_Lagrange,113,237,9,4,0
+0,_Penobscot,_Lakeville,_Lakeville,18,32,6,0,3
+0,_Penobscot,_Lee,_Lee,138,359,11,8,3
+0,_Penobscot,_Levant,_Levant,428,1027,75,15,13
+0,_Penobscot,_Lincoln,_Lincoln,710,1577,125,39,3
+0,_Penobscot,_Lowell,_Lowell,62,155,4,9,1
+0,_Penobscot,_Mattamiscontis,_Mattamiscontis,1,40,1,0,0
+0,_Penobscot,_Mattawamkeag,_Mattawamkeag,106,222,17,7,1
+0,_Penobscot,_Maxfield,_Maxfield,17,36,3,2,0
+0,_Penobscot,_Medway,_Medway,195,509,23,7,6
+0,_Penobscot,_Milford/Greenfield,_Milford/Greenfield,790,811,110,31,0
+0,_Penobscot,_Millinocket,_Millinocket,921,1163,102,32,0
+0,_Penobscot,_Millinocket Penobscot,_Millinocket Penobscot,63,63,4,1,0
+0,_Penobscot,_Mount Chase,_Mount Chase,23,71,4,2,0
+0,_Penobscot,_Newburgh,_Newburgh,331,547,41,14,3
+0,_Penobscot,_Newport,_Newport,581,1028,87,31,10
+0,_Penobscot,_North Penobscot,_North Penobscot,0,0,0,0,0
+0,_Penobscot,_Old Town,_Old Town,2046,1517,246,91,9
+0,_Penobscot,_Orono,_Orono,3449,1448,366,116,22
+0,_Penobscot,_Orrington,_Orrington,876,1316,132,38,9
+0,_Penobscot,_Passadumkeag,_Passadumkeag,37,165,10,3,1
+0,_Penobscot,_Patten,_Patten,139,323,20,7,1
+0,_Penobscot,_Penobscot Indian Island,_Penobscot Indian Island,200,43,10,20,0
+0,_Penobscot,_Plymouth,_Plymouth,186,485,42,11,3
+0,_Penobscot,_Prentiss,_Prentiss,18,70,1,2,0
+0,_Penobscot,_Seboeis,_Seboeis,15,19,0,0,0
+0,_Penobscot,_Springfield,_Springfield,34,130,7,1,0
+0,_Penobscot,_Stacyville,_Stacyville,35,148,3,5,0
+0,_Penobscot,_Stetson,_Stetson,208,434,52,17,1
+0,_Penobscot,_T5 R7/T5 R8/T6 R8,_T5 R7/T5 R8/T6 R8,4,8,0,0,0
+0,_Penobscot,_Twombly Ridge,_Twombly Ridge,0,0,0,0,0
+0,_Penobscot,_Veazie,_Veazie,561,484,53,24,10
+0,_Penobscot,_Webster,_Webster,5,26,1,0,0
+0,_Penobscot,_Whitney,_Whitney,0,0,0,0,0
+0,_Penobscot,_Winn,_Winn,36,151,4,3,0
+0,_Penobscot,_Woodville,_Woodville,23,99,7,1,0
+0,_Piscataquis,_Abbot,_Abbot,102,256,31,10,0
+0,_Piscataquis,_Atkinson,_Atkinson,50,120,10,1,1
+0,_Piscataquis,_Barnard/Ebeemee/T4 R9 NWP/Williamsburg,_Barnard/Ebeemee/T4 R9 NWP/Williamsburg,32,55,11,2,0
+0,_Piscataquis,_Beaver Cove/Frenchtown/Lily Bay,_Beaver Cove/Frenchtown/Lily Bay,37,58,4,0,1
+0,_Piscataquis,_Bowerbank,_Bowerbank,25,60,3,0,0
+0,_Piscataquis,_Brownville,_Brownville,213,333,37,13,6
+0,_Piscataquis,_Dover-Foxcroft,_Dover-Foxcroft,796,1140,112,59,13
+0,_Piscataquis,_Elliottsville,_Elliottsville,7,6,1,1,0
+0,_Piscataquis,_Greenville/Unorganized Twps,_Greenville/Unorganized Twps,410,626,41,11,0
+0,_Piscataquis,_Guilford,_Guilford,224,402,32,20,2
+0,_Piscataquis,_Kingsbury,_Kingsbury,9,9,1,0,0
+0,_Piscataquis,_Lake View,_Lake View,33,39,0,0,0
+0,_Piscataquis,_Medford,_Medford,44,96,5,3,0
+0,_Piscataquis,_Millinocket Piscataquis,_Millinocket Piscataquis,14,52,0,0,0
+0,_Piscataquis,_Milo/Orneville,_Milo/Orneville,388,697,55,22,6
+0,_Piscataquis,_Monson/Blanchard,_Monson/Blanchard,160,256,17,10,0
+0,_Piscataquis,_Northeast Piscataquis,_Northeast Piscataquis,0,0,0,0,0
+0,_Piscataquis,_Northwest Piscataquis,_Northwest Piscataquis,0,0,0,0,0
+0,_Piscataquis,_Parkman,_Parkman,152,284,38,3,4
+0,_Piscataquis,_Sangerville,_Sangerville,211,456,32,16,0
+0,_Piscataquis,_Sebec,_Sebec,103,258,18,6,0
+0,_Piscataquis,_Shirley,_Shirley,43,93,8,1,0
+0,_Piscataquis,_T10 R15 WELS,_T10 R15 WELS,0,1,0,0,0
+0,_Piscataquis,_Wellington,_Wellington,48,62,5,2,0
+0,_Piscataquis,_Willimantic,_Willimantic,20,58,4,0,2
+0,_Sagadahoc,_Arrowsic,_Arrowsic,224,98,9,10,0
+0,_Sagadahoc,_Bath 1-7,_Bath 1-7,2740,1574,253,116,5
+0,_Sagadahoc,_Bowdoin,_Bowdoin,594,1009,82,21,12
+0,_Sagadahoc,_Bowdoinham,_Bowdoinham,883,805,110,41,5
+0,_Sagadahoc,_Georgetown,_Georgetown,405,282,29,32,0
+0,_Sagadahoc,_Perkins,_Perkins,0,0,0,0,0
+0,_Sagadahoc,_Phippsburg,_Phippsburg,622,693,67,27,0
+0,_Sagadahoc,_Richmond,_Richmond,739,963,116,54,0
+0,_Sagadahoc,_Topsham,_Topsham,3135,2333,356,92,7
+0,_Sagadahoc,_West Bath,_West Bath,577,563,51,20,1
+0,_Sagadahoc,_Woolwich,_Woolwich,834,1003,112,26,4
+0,_Somerset,_Anson,_Anson,363,706,57,20,2
+0,_Somerset,_Athens,_Athens,161,276,32,13,0
+0,_Somerset,_Bingham,_Bingham,193,303,16,14,0
+0,_Somerset,_Brighton,_Brighton,12,32,2,2,0
+0,_Somerset,_Cambridge,_Cambridge,66,173,18,5,0
+0,_Somerset,_Canaan,_Canaan,365,648,79,27,3
+0,_Somerset,_Caratunk,_Caratunk,27,23,0,0,0
+0,_Somerset,_Concord,_Concord,0,3,0,0,0
+0,_Somerset,_Cornville,_Cornville,253,411,36,16,0
+0,_Somerset,_Dennistown,_Dennistown,5,19,0,0,0
+0,_Somerset,_Detroit,_Detroit,148,228,19,10,0
+0,_Somerset,_Embden,_Embden,168,323,23,10,2
+0,_Somerset,_Fairfield,_Fairfield,1261,1748,207,57,12
+0,_Somerset,_Harmony,_Harmony,155,294,17,6,2
+0,_Somerset,_Hartland,_Hartland,224,601,37,9,3
+0,_Somerset,_Highland Plt/Carrying Place/Dead River,_Highland Plt/Carrying Place/Dead River,33,70,5,5,0
+0,_Somerset,_Jackman/Attean/Big 6/Holeb/Long Pond/Parlin Pond/Raytown/T7 R19/Upper Enchanted,_Jackman/Attean/Big 6/Holeb/Long Pond/Parlin Pond/Raytown/T7 R19/Upper Enchanted,122,377,20,5,3
+0,_Somerset,_Lexington/Spring Lake,_Lexington/Spring Lake,4,14,2,1,0
+0,_Somerset,_Madison,_Madison,820,1264,108,30,8
+0,_Somerset,_Mercer,_Mercer,159,225,16,8,1
+0,_Somerset,_Moose River,_Moose River,15,94,5,1,0
+0,_Somerset,_Moscow/Bowtown,_Moscow/Bowtown,89,155,3,8,0
+0,_Somerset,_New Portland,_New Portland,154,226,29,19,2
+0,_Somerset,_Norridgewock,_Norridgewock,641,1024,93,32,6
+0,_Somerset,_Northeast Somerset,_Northeast Somerset,0,0,0,0,0
+0,_Somerset,_Northwest Somerset,_Northwest Somerset,0,0,0,0,0
+0,_Somerset,_Palmyra,_Palmyra,312,682,54,20,8
+0,_Somerset,_Pittsfield,_Pittsfield,676,1074,127,40,19
+0,_Somerset,_Pleasant Ridge,_Pleasant Ridge,11,33,4,0,1
+0,_Somerset,_Ripley,_Ripley,73,155,12,21,0
+0,_Somerset,_Rockwood Strip/Elm Stream/Pittston/Sandbar Tract/Sapling/Seboomook/Taunton & Raynham/Tomhegan,_Rockwood Strip/Elm Stream/Pittston/Sandbar Tract/Sapling/Seboomook/Taunton & Raynham/Tomhegan,58,156,4,1,0
+0,_Somerset,_Seboomook Lake,_Seboomook Lake,0,0,0,0,0
+0,_Somerset,_Skowhegan,_Skowhegan,1688,2050,212,68,4
+0,_Somerset,_Smithfield,_Smithfield,246,320,29,13,0
+0,_Somerset,_Solon,_Solon,235,317,22,16,2
+0,_Somerset,_St. Albans,_St. Albans,284,770,52,27,7
+0,_Somerset,_Starks,_Starks,123,182,15,14,8
+0,_Somerset,_The Forks/Indian Stream/Moxie Gore,_The Forks/Indian Stream/Moxie Gore,9,21,10,0,0
+0,_Somerset,_West Forks,_West Forks,15,31,3,0,0
+0,_Waldo,_Belfast Ward 1/2,_Belfast Ward 1/2,1016,331,54,43,3
+0,_Waldo,_Belfast Ward 3/4,_Belfast Ward 3/4,987,523,87,39,2
+0,_Waldo,_Belfast Ward 5,_Belfast Ward 5,368,390,37,19,2
+0,_Waldo,_Belmont,_Belmont,227,282,35,12,3
+0,_Waldo,_Brooks,_Brooks,209,299,32,21,7
+0,_Waldo,_Burnham,_Burnham,215,405,35,13,1
+0,_Waldo,_Frankfort,_Frankfort,222,382,34,14,2
+0,_Waldo,_Freedom,_Freedom,173,209,32,12,1
+0,_Waldo,_Islesboro,_Islesboro,282,116,14,9,0
+0,_Waldo,_Jackson,_Jackson,105,189,20,6,2
+0,_Waldo,_Knox,_Knox,132,282,23,9,1
+0,_Waldo,_Liberty,_Liberty,235,268,31,13,2
+0,_Waldo,_Lincolnville,_Lincolnville,891,511,79,44,3
+0,_Waldo,_Monroe,_Monroe,249,247,32,17,1
+0,_Waldo,_Montville,_Montville,290,280,28,30,2
+0,_Waldo,_Morrill,_Morrill,194,297,29,6,4
+0,_Waldo,_Northport,_Northport,533,409,48,16,4
+0,_Waldo,_Palermo,_Palermo,311,468,60,18,6
+0,_Waldo,_Prospect,_Prospect,158,224,17,5,2
+0,_Waldo,_Searsmont,_Searsmont,373,391,45,23,4
+0,_Waldo,_Searsport,_Searsport,695,711,79,36,3
+0,_Waldo,_Stockton Springs,_Stockton Springs,449,472,43,28,1
+0,_Waldo,_Swanville,_Swanville,288,405,49,24,4
+0,_Waldo,_Thorndike,_Thorndike,191,191,24,19,6
+0,_Waldo,_Troy,_Troy,218,289,33,16,3
+0,_Waldo,_Unity,_Unity,452,475,70,45,2
+0,_Waldo,_Waldo,_Waldo,194,245,18,21,0
+0,_Waldo,_Winterport,_Winterport,873,1111,136,35,8
+0,_Washington,_Addison,_Addison,212,410,36,10,0
+0,_Washington,_Alexander,_Alexander,81,208,7,5,5
+0,_Washington,_Baileyville,_Baileyville,265,373,43,8,0
+0,_Washington,_Baring,_Baring,48,66,4,1,1
+0,_Washington,_Beals,_Beals,114,141,18,6,0
+0,_Washington,_Beddington/Devereaux/T24 MD,_Beddington/Devereaux/T24 MD,11,24,1,1,0
+0,_Washington,_Berry/Cathance/Marion,_Berry/Cathance/Marion,17,23,2,0,0
+0,_Washington,_Calais,_Calais,579,764,91,16,5
+0,_Washington,_Centerville,_Centerville,4,13,0,0,0
+0,_Washington,_Charlotte,_Charlotte,51,114,4,6,2
+0,_Washington,_Cherryfield,_Cherryfield,202,367,38,20,0
+0,_Washington,_Columbia,_Columbia,43,151,9,4,3
+0,_Washington,_Columbia Falls,_Columbia Falls,83,190,14,7,0
+0,_Washington,_Cooper,_Cooper,33,55,3,2,0
+0,_Washington,_Crawford,_Crawford,21,48,2,1,0
+0,_Washington,_Cutler,_Cutler,71,202,7,6,0
+0,_Washington,_Danforth/Brookton/Forest,_Danforth/Brookton/Forest,93,243,20,5,0
+0,_Washington,_Deblois,_Deblois,6,30,1,1,0
+0,_Washington,_Dennysville/Edmunds,_Dennysville/Edmunds,95,196,25,7,0
+0,_Washington,_East Central Washington,_East Central Washington,0,0,0,0,0
+0,_Washington,_East Machias,_East Machias,247,425,27,15,3
+0,_Washington,_Eastport,_Eastport,411,310,24,39,0
+0,_Washington,_Grand Lake Stream/Greenlaw Chopping,_Grand Lake Stream/Greenlaw Chopping,32,59,8,0,0
+0,_Washington,_Harrington,_Harrington,130,323,19,8,1
+0,_Washington,_Jonesboro,_Jonesboro,120,177,23,3,2
+0,_Washington,_Jonesport,_Jonesport,242,378,34,10,0
+0,_Washington,_Lubec,_Lubec,377,360,26,19,0
+0,_Washington,_Machias,_Machias,390,455,56,29,4
+0,_Washington,_Machiasport,_Machiasport,186,250,12,38,2
+0,_Washington,_Marshfield,_Marshfield,102,185,13,6,1
+0,_Washington,_Meddybemps,_Meddybemps,30,62,5,1,0
+0,_Washington,_Milbridge,_Milbridge,268,362,32,8,2
+0,_Washington,_North Washington,_North Washington,0,0,0,0,0
+0,_Washington,_Northfield,_Northfield,38,65,2,2,0
+0,_Washington,_Passamaquoddy Indian Township,_Passamaquoddy Indian Township,186,59,13,1,0
+0,_Washington,_Passamaquoddy Pleasant Point,_Passamaquoddy Pleasant Point,163,47,15,19,0
+0,_Washington,_Pembroke,_Pembroke,193,274,15,12,0
+0,_Washington,_Perry,_Perry,172,267,17,5,0
+0,_Washington,_Princeton/Big Lake,_Princeton/Big Lake,120,331,34,12,1
+0,_Washington,_Robbinston,_Robbinston,115,183,13,9,2
+0,_Washington,_Roque Bluffs,_Roque Bluffs,91,72,4,1,0
+0,_Washington,_Steuben,_Steuben,201,369,38,13,0
+0,_Washington,_T26 ED BPP,_T26 ED BPP,0,3,0,0,0
+0,_Washington,_Talmadge,_Talmadge,13,22,2,0,0
+0,_Washington,_Topsfield/Codyville/Kossuth,_Topsfield/Codyville/Kossuth,20,95,2,3,0
+0,_Washington,_Vanceboro/Lambert Lake,_Vanceboro/Lambert Lake,28,57,5,3,0
+0,_Washington,_Waite,_Waite,12,34,5,0,0
+0,_Washington,_Wesley/Day Block,_Wesley/Day Block,27,44,3,2,0
+0,_Washington,_Whiting/Trescott,_Whiting/Trescott,140,168,10,4,2
+0,_Washington,_Whitneyville,_Whitneyville,41,56,10,2,0
+0,_York,_Acton,_Acton,547,822,68,23,3
+0,_York,_Alfred,_Alfred,819,887,93,24,0
+0,_York,_Arundel,_Arundel,1073,1200,142,44,5
+0,_York,_Berwick,_Berwick,1552,2090,208,59,11
+0,_York,_Biddeford 1,_Biddeford 1,1371,742,81,32,4
+0,_York,_Biddeford 2,_Biddeford 2,705,492,57,33,3
+0,_York,_Biddeford 3,_Biddeford 3,987,639,87,35,3
+0,_York,_Biddeford 4,_Biddeford 4,623,487,71,42,3
+0,_York,_Biddeford 5,_Biddeford 5,598,414,56,28,2
+0,_York,_Biddeford 6,_Biddeford 6,644,482,65,31,2
+0,_York,_Biddeford 7,_Biddeford 7,623,480,56,40,2
+0,_York,_Buxton,_Buxton,1911,2543,238,83,14
+0,_York,_Cornish,_Cornish,335,398,64,18,0
+0,_York,_Dayton,_Dayton,471,669,72,23,0
+0,_York,_Eliot,_Eliot,2276,1707,201,59,5
+0,_York,_Hollis,_Hollis,1024,1332,155,59,4
+0,_York,_Kennebunk,_Kennebunk,4260,2653,347,126,0
+0,_York,_Kennebunkport,_Kennebunkport,1368,912,99,30,9
+0,_York,_Kittery,_Kittery,3504,1749,266,83,21
+0,_York,_Lebanon,_Lebanon,947,1949,166,58,60
+0,_York,_Limerick,_Limerick,647,845,88,36,7
+0,_York,_Limington,_Limington,703,1197,104,36,5
+0,_York,_Lyman,_Lyman,1047,1303,133,63,7
+0,_York,_Newfield,_Newfield,287,502,43,13,1
+0,_York,_North Berwick,_North Berwick,1175,1422,154,67,11
+0,_York,_Ogunquit,_Ogunquit,569,287,24,10,0
+0,_York,_Old Orchard Beach,_Old Orchard Beach,3003,2151,224,87,3
+0,_York,_Parsonsfield,_Parsonsfield,370,553,59,22,0
+0,_York,_Saco Ward 1,_Saco Ward 1,841,671,57,31,0
+0,_York,_Saco Ward 2,_Saco Ward 2,773,677,103,27,0
+0,_York,_Saco Ward 3,_Saco Ward 3,731,577,60,19,2
+0,_York,_Saco Ward 4,_Saco Ward 4,1099,660,67,23,2
+0,_York,_Saco Ward 5,_Saco Ward 5,875,549,77,23,0
+0,_York,_Saco Ward 6,_Saco Ward 6,895,493,65,31,3
+0,_York,_Saco Ward 7,_Saco Ward 7,738,447,60,35,4
+0,_York,_Sanford Ward 1,_Sanford Ward 1,1463,1569,196,79,8
+0,_York,_Sanford Ward 2,_Sanford Ward 2,1525,1519,196,91,8
+0,_York,_Sanford Ward 3,_Sanford Ward 3,1497,1665,166,64,10
+0,_York,_Shapleigh,_Shapleigh,539,876,90,35,1
+0,_York,_South Berwick,_South Berwick,2246,1619,224,71,12
+0,_York,_Waterboro,_Waterboro,1385,2193,232,83,5
+0,_York,_Wells,_Wells,3303,2812,336,87,20
+0,_York,_York,_York,4971,3266,376,110,19

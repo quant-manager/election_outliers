@@ -1,0 +1,2175 @@
+IS_AUDITED,COUNTY_NAME,PRECINCT_NAME,PRECINCT_CODE,USA_MA_20161108_GEN_PRE_DEM_CLINTON,USA_MA_20161108_GEN_PRE_REP_TRUMP,USA_MA_20161108_GEN_PRE_LIB_JOHNSON,USA_MA_20161108_GEN_PRE_GRE_STEIN,USA_MA_20161108_GEN_PRE_OTH_WRITEIN
+0,_ABINGTON,_Abington Town Precinct 1,_1_1,818,717,97,25,30
+0,_ABINGTON,_Abington Town Precinct 2,_1_2,739,785,67,27,12
+0,_ABINGTON,_Abington Town Precinct 3,_1_3,773,808,80,18,13
+0,_ABINGTON,_Abington Town Precinct 4,_1_4,877,878,87,16,26
+0,_ABINGTON,_Abington Town Precinct 5,_1_5,908,829,86,16,20
+0,_ACTON,_Acton Town Precinct 1,_2_1,1459,438,89,30,31
+0,_ACTON,_Acton Town Precinct 2,_2_2,1550,480,96,26,43
+0,_ACTON,_Acton Town Precinct 3,_2_3,1580,435,90,44,57
+0,_ACTON,_Acton Town Precinct 4,_2_4,1675,414,104,45,56
+0,_ACTON,_Acton Town Precinct 5,_2_5,1580,387,95,33,36
+0,_ACTON,_Acton Town Precinct 6,_2_6,1354,401,78,30,47
+0,_ACUSHNET,_Acushnet Town Precinct 1,_3_1,783,786,58,26,19
+0,_ACUSHNET,_Acushnet Town Precinct 2,_3_2,756,1043,57,29,29
+0,_ACUSHNET,_Acushnet Town Precinct 3,_3_3,862,1005,59,32,22
+0,_ADAMS,_Adams Town Precinct 1,_4_1,439,255,33,20,5
+0,_ADAMS,_Adams Town Precinct 2,_4_2,476,270,44,17,10
+0,_ADAMS,_Adams Town Precinct 3,_4_3,475,268,36,17,13
+0,_ADAMS,_Adams Town Precinct 4,_4_4,446,233,31,15,7
+0,_ADAMS,_Adams Town Precinct 5,_4_5,577,259,45,11,19
+0,_AGAWAM,_Agawam Town Precinct 1,_5_1,631,827,82,33,11
+0,_AGAWAM,_Agawam Town Precinct 2,_5_2,850,1069,105,25,30
+0,_AGAWAM,_Agawam Town Precinct 3,_5_3,770,921,70,16,20
+0,_AGAWAM,_Agawam Town Precinct 4,_5_4,700,724,69,28,24
+0,_AGAWAM,_Agawam Town Precinct 5,_5_5,861,998,101,39,24
+0,_AGAWAM,_Agawam Town Precinct 6,_5_6,783,882,79,18,25
+0,_AGAWAM,_Agawam Town Precinct 7,_5_7,750,991,81,26,28
+0,_AGAWAM,_Agawam Town Precinct 8,_5_8,863,1009,64,23,35
+0,_ALFORD,_Alford Town Precinct 1,_6_1,226,52,8,8,5
+0,_AMESBURY,_Amesbury Town Precinct 1,_7_1,930,623,102,14,39
+0,_AMESBURY,_Amesbury Town Precinct 2,_7_2,901,503,87,34,27
+0,_AMESBURY,_Amesbury Town Precinct 3,_7_3,960,498,82,25,18
+0,_AMESBURY,_Amesbury Town Precinct 4,_7_4,805,502,86,28,17
+0,_AMESBURY,_Amesbury Town Precinct 5,_7_5,745,675,90,22,32
+0,_AMESBURY,_Amesbury Town Precinct 6,_7_6,833,430,80,28,25
+0,_AMHERST,_Amherst Town Precinct 1,_8_1,955,101,37,79,21
+0,_AMHERST,_Amherst Town Precinct 10,_8_10,1222,154,69,54,24
+0,_AMHERST,_Amherst Town Precinct 2,_8_2,1409,143,51,83,34
+0,_AMHERST,_Amherst Town Precinct 3,_8_3,908,125,56,37,18
+0,_AMHERST,_Amherst Town Precinct 4,_8_4,910,162,46,21,31
+0,_AMHERST,_Amherst Town Precinct 5,_8_5,1023,95,19,40,14
+0,_AMHERST,_Amherst Town Precinct 6,_8_6,1464,134,40,64,34
+0,_AMHERST,_Amherst Town Precinct 7,_8_7,1440,131,37,64,33
+0,_AMHERST,_Amherst Town Precinct 8,_8_8,1644,124,42,80,26
+0,_AMHERST,_Amherst Town Precinct 9,_8_9,1382,79,48,91,29
+0,_ANDOVER,_Andover Town Precinct 1,_9_1,1101,433,88,24,27
+0,_ANDOVER,_Andover Town Precinct 2,_9_2,1312,865,84,28,33
+0,_ANDOVER,_Andover Town Precinct 3,_9_3,1431,651,116,33,30
+0,_ANDOVER,_Andover Town Precinct 4,_9_4,1162,818,108,20,39
+0,_ANDOVER,_Andover Town Precinct 5,_9_5,1257,758,105,18,45
+0,_ANDOVER,_Andover Town Precinct 6,_9_6,1207,842,97,28,40
+0,_ANDOVER,_Andover Town Precinct 7,_9_7,980,548,77,12,35
+0,_ANDOVER,_Andover Town Precinct 7A,_9_7A,256,163,24,1,12
+0,_ANDOVER,_Andover Town Precinct 8,_9_8,1278,685,99,16,61
+0,_ANDOVER,_Andover Town Precinct 9,_9_9,1232,752,95,22,55
+0,_ANDOVER,_Andover Town Precinct 9A,_9_9A,6,7,2,0,1
+0,_AQUINNAH,_Aquinnah Town Precinct 1,_104_1,232,34,6,7,5
+0,_ARLINGTON,_Arlington Town Precinct 1,_10_1,802,173,20,19,17
+0,_ARLINGTON,_Arlington Town Precinct 10,_10_10,1129,192,30,23,33
+0,_ARLINGTON,_Arlington Town Precinct 11,_10_11,1007,306,28,20,30
+0,_ARLINGTON,_Arlington Town Precinct 12,_10_12,1122,229,38,20,27
+0,_ARLINGTON,_Arlington Town Precinct 13,_10_13,846,375,49,8,17
+0,_ARLINGTON,_Arlington Town Precinct 14,_10_14,930,201,28,16,4
+0,_ARLINGTON,_Arlington Town Precinct 15,_10_15,1000,271,46,19,19
+0,_ARLINGTON,_Arlington Town Precinct 16,_10_16,924,199,45,14,11
+0,_ARLINGTON,_Arlington Town Precinct 17,_10_17,908,193,35,18,50
+0,_ARLINGTON,_Arlington Town Precinct 18,_10_18,958,323,49,16,29
+0,_ARLINGTON,_Arlington Town Precinct 19,_10_19,1003,268,34,16,28
+0,_ARLINGTON,_Arlington Town Precinct 2,_10_2,1028,232,43,21,29
+0,_ARLINGTON,_Arlington Town Precinct 20,_10_20,1014,225,21,17,25
+0,_ARLINGTON,_Arlington Town Precinct 21,_10_21,999,159,37,33,30
+0,_ARLINGTON,_Arlington Town Precinct 3,_10_3,1049,169,31,37,25
+0,_ARLINGTON,_Arlington Town Precinct 4,_10_4,1022,195,47,24,21
+0,_ARLINGTON,_Arlington Town Precinct 5,_10_5,932,233,31,33,20
+0,_ARLINGTON,_Arlington Town Precinct 6,_10_6,946,178,25,20,23
+0,_ARLINGTON,_Arlington Town Precinct 7,_10_7,938,173,41,22,14
+0,_ARLINGTON,_Arlington Town Precinct 8,_10_8,1169,153,27,32,12
+0,_ARLINGTON,_Arlington Town Precinct 9,_10_9,813,205,27,29,17
+0,_ASHBURNHAM,_Ashburnham Town Precinct 1,_11_1,1439,1522,247,66,78
+0,_ASHBY,_Ashby Town Precinct 1,_12_1,722,974,129,45,21
+0,_ASHFIELD,_Ashfield Town Precinct 1,_13_1,836,184,52,44,16
+0,_ASHLAND,_Ashland Town Precinct 1,_14_1,1121,536,84,40,0
+0,_ASHLAND,_Ashland Town Precinct 2,_14_2,1166,588,95,16,0
+0,_ASHLAND,_Ashland Town Precinct 3,_14_3,1139,565,87,21,0
+0,_ASHLAND,_Ashland Town Precinct 4,_14_4,1147,576,91,10,0
+0,_ASHLAND,_Ashland Town Precinct 5,_14_5,1111,503,100,18,0
+0,_ATHOL,_Athol Town Precinct 1,_15_1,733,856,126,42,48
+0,_ATHOL,_Athol Town Precinct 2,_15_2,608,781,103,45,63
+0,_ATHOL,_Athol Town Precinct 3,_15_3,735,698,99,29,24
+0,_ATTLEBORO,_Attleboro City Ward 1 Precinct A,_16_A,761,761,78,23,14
+0,_ATTLEBORO,_Attleboro City Ward 1 Precinct B,_16_B,779,758,69,21,19
+0,_ATTLEBORO,_Attleboro City Ward 2 Precinct A,_16_A,894,774,98,18,47
+0,_ATTLEBORO,_Attleboro City Ward 2 Precinct B,_16_B,949,861,91,32,34
+0,_ATTLEBORO,_Attleboro City Ward 3 Precinct A,_16_A,933,650,113,30,16
+0,_ATTLEBORO,_Attleboro City Ward 3 Precinct B,_16_B,949,694,94,18,0
+0,_ATTLEBORO,_Attleboro City Ward 4 Precinct A,_16_A,815,485,68,27,0
+0,_ATTLEBORO,_Attleboro City Ward 4 Precinct B,_16_B,1072,1021,97,36,0
+0,_ATTLEBORO,_Attleboro City Ward 5 Precinct A,_16_A,689,349,63,22,0
+0,_ATTLEBORO,_Attleboro City Ward 5 Precinct B,_16_B,912,682,94,26,0
+0,_ATTLEBORO,_Attleboro City Ward 6 Precinct A,_16_A,818,762,84,38,0
+0,_ATTLEBORO,_Attleboro City Ward 6 Precinct B,_16_B,947,774,83,30,0
+0,_AUBURN,_Auburn Town Precinct 1,_17_1,934,841,115,14,37
+0,_AUBURN,_Auburn Town Precinct 2,_17_2,959,822,87,20,29
+0,_AUBURN,_Auburn Town Precinct 3,_17_3,968,839,99,15,44
+0,_AUBURN,_Auburn Town Precinct 4,_17_4,830,746,153,29,17
+0,_AUBURN,_Auburn Town Precinct 5,_17_5,805,752,99,14,30
+0,_AVON,_Avon Town Precinct 1,_18_1,1254,1068,79,40,17
+0,_AYER,_Ayer Town Precinct 1,_19_1,1078,729,146,43,54
+0,_AYER,_Ayer Town Precinct 2,_19_2,1084,769,146,22,64
+0,_BARNSTABLE,_Barnstable Town Precinct 1,_20_1,1278,1015,91,24,25
+0,_BARNSTABLE,_Barnstable Town Precinct 10,_20_10,928,929,98,27,31
+0,_BARNSTABLE,_Barnstable Town Precinct 11,_20_11,1124,1101,100,27,44
+0,_BARNSTABLE,_Barnstable Town Precinct 12,_20_12,1050,1032,111,26,30
+0,_BARNSTABLE,_Barnstable Town Precinct 13,_20_13,868,619,59,35,15
+0,_BARNSTABLE,_Barnstable Town Precinct 2,_20_2,1022,946,82,32,31
+0,_BARNSTABLE,_Barnstable Town Precinct 3,_20_3,912,643,53,22,33
+0,_BARNSTABLE,_Barnstable Town Precinct 4,_20_4,994,879,73,32,39
+0,_BARNSTABLE,_Barnstable Town Precinct 5,_20_5,1049,1115,68,14,43
+0,_BARNSTABLE,_Barnstable Town Precinct 6,_20_6,1033,1006,107,29,42
+0,_BARNSTABLE,_Barnstable Town Precinct 7,_20_7,1252,994,95,29,44
+0,_BARNSTABLE,_Barnstable Town Precinct 8,_20_8,875,575,70,28,37
+0,_BARNSTABLE,_Barnstable Town Precinct 9,_20_9,620,341,42,23,18
+0,_BARRE,_Barre Town Precinct 1,_21_1,639,712,87,36,28
+0,_BARRE,_Barre Town Precinct 2,_21_2,562,717,77,22,21
+0,_BECKET,_Becket Town Precinct 1,_22_1,571,368,37,25,28
+0,_BEDFORD,_Bedford Town Precinct 1,_23_1,1419,548,116,23,47
+0,_BEDFORD,_Bedford Town Precinct 2,_23_2,1165,648,77,25,37
+0,_BEDFORD,_Bedford Town Precinct 3,_23_3,1379,512,95,19,36
+0,_BEDFORD,_Bedford Town Precinct 4,_23_4,1122,503,116,25,42
+0,_BELCHERTOWN,_Belchertown Town Precinct A,_24_A,1103,698,78,53,29
+0,_BELCHERTOWN,_Belchertown Town Precinct B,_24_B,977,894,117,43,38
+0,_BELCHERTOWN,_Belchertown Town Precinct C,_24_C,1048,955,107,38,11
+0,_BELCHERTOWN,_Belchertown Town Precinct D,_24_D,1280,606,90,58,13
+0,_BELLINGHAM,_Bellingham Town Precinct 1,_25_1,797,786,111,20,33
+0,_BELLINGHAM,_Bellingham Town Precinct 2,_25_2,846,834,107,19,48
+0,_BELLINGHAM,_Bellingham Town Precinct 3,_25_3,895,791,93,25,26
+0,_BELLINGHAM,_Bellingham Town Precinct 4,_25_4,687,711,99,11,35
+0,_BELLINGHAM,_Bellingham Town Precinct 4A,_25_4A,104,92,10,2,4
+0,_BELLINGHAM,_Bellingham Town Precinct 5,_25_5,704,845,82,23,28
+0,_BELMONT,_Belmont Town Precinct 1,_26_1,1326,339,73,27,41
+0,_BELMONT,_Belmont Town Precinct 2,_26_2,1248,501,85,17,73
+0,_BELMONT,_Belmont Town Precinct 3,_26_3,1317,366,57,21,39
+0,_BELMONT,_Belmont Town Precinct 4,_26_4,1132,322,74,28,30
+0,_BELMONT,_Belmont Town Precinct 5,_26_5,1275,350,69,32,28
+0,_BELMONT,_Belmont Town Precinct 6,_26_6,1366,339,52,36,26
+0,_BELMONT,_Belmont Town Precinct 7,_26_7,1339,345,74,48,43
+0,_BELMONT,_Belmont Town Precinct 8,_26_8,1249,544,77,28,39
+0,_BERKLEY,_Berkley Town Precinct 1,_27_1,793,1003,85,32,32
+0,_BERKLEY,_Berkley Town Precinct 2,_27_2,662,923,64,19,24
+0,_BERLIN,_Berlin Town Precinct 1,_28_1,1009,745,124,38,23
+0,_BERNARDSTON,_Bernardston Town Precinct 1,_29_1,711,382,81,27,27
+0,_BEVERLY,_Beverly City Ward 1 Precinct 1,_30_1,941,640,100,21,33
+0,_BEVERLY,_Beverly City Ward 1 Precinct 2,_30_2,1072,705,115,24,26
+0,_BEVERLY,_Beverly City Ward 2 Precinct 1,_30_1,1111,435,88,45,48
+0,_BEVERLY,_Beverly City Ward 2 Precinct 2,_30_2,1336,484,94,31,34
+0,_BEVERLY,_Beverly City Ward 3 Precinct 1,_30_1,916,396,87,40,42
+0,_BEVERLY,_Beverly City Ward 3 Precinct 2,_30_2,1005,607,93,25,38
+0,_BEVERLY,_Beverly City Ward 4 Precinct 1,_30_1,741,332,51,9,12
+0,_BEVERLY,_Beverly City Ward 4 Precinct 2,_30_2,1489,557,87,35,39
+0,_BEVERLY,_Beverly City Ward 5 Precinct 1,_30_1,1117,676,97,27,29
+0,_BEVERLY,_Beverly City Ward 5 Precinct 2,_30_2,1073,661,78,29,36
+0,_BEVERLY,_Beverly City Ward 6 Precinct 1,_30_1,1250,581,139,23,22
+0,_BEVERLY,_Beverly City Ward 6 Precinct 2,_30_2,1134,830,113,23,29
+0,_BILLERICA,_Billerica Town Precinct 1,_31_1,1087,834,108,30,35
+0,_BILLERICA,_Billerica Town Precinct 10,_31_10,859,1061,80,26,30
+0,_BILLERICA,_Billerica Town Precinct 11,_31_11,852,912,87,21,34
+0,_BILLERICA,_Billerica Town Precinct 2,_31_2,999,930,101,31,55
+0,_BILLERICA,_Billerica Town Precinct 3,_31_3,957,929,85,19,42
+0,_BILLERICA,_Billerica Town Precinct 4,_31_4,804,803,73,24,24
+0,_BILLERICA,_Billerica Town Precinct 5,_31_5,953,1093,93,17,42
+0,_BILLERICA,_Billerica Town Precinct 6,_31_6,795,820,81,32,44
+0,_BILLERICA,_Billerica Town Precinct 7,_31_7,979,876,82,30,30
+0,_BILLERICA,_Billerica Town Precinct 8,_31_8,955,1065,115,17,36
+0,_BILLERICA,_Billerica Town Precinct 9,_31_9,860,996,71,17,51
+0,_BLACKSTONE,_Blackstone Town Precinct 1,_32_1,578,734,91,20,19
+0,_BLACKSTONE,_Blackstone Town Precinct 2,_32_2,670,776,83,23,17
+0,_BLACKSTONE,_Blackstone Town Precinct 3,_32_3,602,817,80,16,19
+0,_BLANDFORD,_Blandford Town Precinct 1,_33_1,256,405,28,8,10
+0,_BOLTON,_Bolton Town Precinct 1,_34_1,1891,1036,230,54,81
+0,_BOSTON,_Boston City Ward 1 Precinct 1,_35_1,755,189,23,20,18
+0,_BOSTON,_Boston City Ward 1 Precinct 10,_35_10,364,105,10,6,8
+0,_BOSTON,_Boston City Ward 1 Precinct 11,_35_11,644,345,26,12,19
+0,_BOSTON,_Boston City Ward 1 Precinct 12,_35_12,582,364,37,12,10
+0,_BOSTON,_Boston City Ward 1 Precinct 13,_35_13,927,361,27,17,16
+0,_BOSTON,_Boston City Ward 1 Precinct 14,_35_14,425,219,16,4,7
+0,_BOSTON,_Boston City Ward 1 Precinct 15,_35_15,1,0,0,0,0
+0,_BOSTON,_Boston City Ward 1 Precinct 2,_35_2,562,142,21,12,7
+0,_BOSTON,_Boston City Ward 1 Precinct 3,_35_3,1276,251,45,34,15
+0,_BOSTON,_Boston City Ward 1 Precinct 4,_35_4,366,88,10,13,8
+0,_BOSTON,_Boston City Ward 1 Precinct 5,_35_5,652,153,28,10,13
+0,_BOSTON,_Boston City Ward 1 Precinct 6,_35_6,556,138,19,14,13
+0,_BOSTON,_Boston City Ward 1 Precinct 7,_35_7,604,143,17,13,18
+0,_BOSTON,_Boston City Ward 1 Precinct 8,_35_8,859,187,27,16,20
+0,_BOSTON,_Boston City Ward 1 Precinct 9,_35_9,551,146,25,13,14
+0,_BOSTON,_Boston City Ward 10 Precinct 1,_35_1,616,37,8,8,7
+0,_BOSTON,_Boston City Ward 10 Precinct 2,_35_2,557,55,12,14,19
+0,_BOSTON,_Boston City Ward 10 Precinct 3,_35_3,553,58,19,14,8
+0,_BOSTON,_Boston City Ward 10 Precinct 4,_35_4,977,154,21,19,9
+0,_BOSTON,_Boston City Ward 10 Precinct 5,_35_5,678,77,31,37,27
+0,_BOSTON,_Boston City Ward 10 Precinct 6,_35_6,761,44,22,23,16
+0,_BOSTON,_Boston City Ward 10 Precinct 7,_35_7,1082,34,11,14,8
+0,_BOSTON,_Boston City Ward 10 Precinct 8,_35_8,1021,67,30,28,12
+0,_BOSTON,_Boston City Ward 10 Precinct 9,_35_9,1432,78,32,42,21
+0,_BOSTON,_Boston City Ward 11 Precinct 1,_35_1,560,19,12,19,6
+0,_BOSTON,_Boston City Ward 11 Precinct 10,_35_10,956,27,15,31,10
+0,_BOSTON,_Boston City Ward 11 Precinct 2,_35_2,1000,25,14,17,10
+0,_BOSTON,_Boston City Ward 11 Precinct 3,_35_3,768,27,8,5,4
+0,_BOSTON,_Boston City Ward 11 Precinct 4,_35_4,1247,49,22,31,17
+0,_BOSTON,_Boston City Ward 11 Precinct 5,_35_5,1000,48,12,23,9
+0,_BOSTON,_Boston City Ward 11 Precinct 6,_35_6,845,43,16,38,9
+0,_BOSTON,_Boston City Ward 11 Precinct 7,_35_7,1113,49,14,33,11
+0,_BOSTON,_Boston City Ward 11 Precinct 8,_35_8,1123,58,19,30,14
+0,_BOSTON,_Boston City Ward 11 Precinct 9,_35_9,762,45,11,16,12
+0,_BOSTON,_Boston City Ward 12 Precinct 1,_35_1,1049,37,9,26,14
+0,_BOSTON,_Boston City Ward 12 Precinct 2,_35_2,1126,26,10,16,11
+0,_BOSTON,_Boston City Ward 12 Precinct 3,_35_3,599,18,7,18,7
+0,_BOSTON,_Boston City Ward 12 Precinct 4,_35_4,658,29,7,17,4
+0,_BOSTON,_Boston City Ward 12 Precinct 5,_35_5,470,10,2,4,2
+0,_BOSTON,_Boston City Ward 12 Precinct 6,_35_6,544,22,3,7,4
+0,_BOSTON,_Boston City Ward 12 Precinct 7,_35_7,1491,42,8,18,7
+0,_BOSTON,_Boston City Ward 12 Precinct 8,_35_8,457,16,3,3,6
+0,_BOSTON,_Boston City Ward 12 Precinct 9,_35_9,620,20,3,15,5
+0,_BOSTON,_Boston City Ward 13 Precinct 1,_35_1,876,33,7,11,7
+0,_BOSTON,_Boston City Ward 13 Precinct 10,_35_10,913,303,39,34,22
+0,_BOSTON,_Boston City Ward 13 Precinct 2,_35_2,329,12,2,4,3
+0,_BOSTON,_Boston City Ward 13 Precinct 3,_35_3,679,69,24,15,18
+0,_BOSTON,_Boston City Ward 13 Precinct 4,_35_4,610,26,2,13,4
+0,_BOSTON,_Boston City Ward 13 Precinct 5,_35_5,611,39,7,12,10
+0,_BOSTON,_Boston City Ward 13 Precinct 6,_35_6,801,75,18,8,16
+0,_BOSTON,_Boston City Ward 13 Precinct 7,_35_7,758,182,36,30,11
+0,_BOSTON,_Boston City Ward 13 Precinct 8,_35_8,681,143,25,12,9
+0,_BOSTON,_Boston City Ward 13 Precinct 9,_35_9,799,103,25,13,18
+0,_BOSTON,_Boston City Ward 14 Precinct 1,_35_1,1377,50,6,19,9
+0,_BOSTON,_Boston City Ward 14 Precinct 10,_35_10,805,13,5,3,6
+0,_BOSTON,_Boston City Ward 14 Precinct 11,_35_11,686,30,3,4,10
+0,_BOSTON,_Boston City Ward 14 Precinct 12,_35_12,484,11,2,3,3
+0,_BOSTON,_Boston City Ward 14 Precinct 13,_35_13,664,16,6,11,3
+0,_BOSTON,_Boston City Ward 14 Precinct 14,_35_14,757,16,2,6,7
+0,_BOSTON,_Boston City Ward 14 Precinct 2,_35_2,1517,41,12,16,11
+0,_BOSTON,_Boston City Ward 14 Precinct 3,_35_3,762,9,3,6,4
+0,_BOSTON,_Boston City Ward 14 Precinct 4,_35_4,850,30,7,14,7
+0,_BOSTON,_Boston City Ward 14 Precinct 5,_35_5,642,12,4,6,4
+0,_BOSTON,_Boston City Ward 14 Precinct 6,_35_6,674,24,6,7,8
+0,_BOSTON,_Boston City Ward 14 Precinct 7,_35_7,696,19,4,6,5
+0,_BOSTON,_Boston City Ward 14 Precinct 8,_35_8,759,20,2,13,4
+0,_BOSTON,_Boston City Ward 14 Precinct 9,_35_9,775,22,7,9,7
+0,_BOSTON,_Boston City Ward 15 Precinct 1,_35_1,887,31,6,7,3
+0,_BOSTON,_Boston City Ward 15 Precinct 2,_35_2,612,8,3,9,4
+0,_BOSTON,_Boston City Ward 15 Precinct 3,_35_3,395,16,3,3,5
+0,_BOSTON,_Boston City Ward 15 Precinct 4,_35_4,1069,90,14,21,13
+0,_BOSTON,_Boston City Ward 15 Precinct 5,_35_5,781,29,6,12,11
+0,_BOSTON,_Boston City Ward 15 Precinct 6,_35_6,373,101,11,4,7
+0,_BOSTON,_Boston City Ward 15 Precinct 7,_35_7,638,22,6,14,4
+0,_BOSTON,_Boston City Ward 15 Precinct 8,_35_8,490,77,8,11,11
+0,_BOSTON,_Boston City Ward 15 Precinct 9,_35_9,616,81,11,8,4
+0,_BOSTON,_Boston City Ward 16 Precinct 1,_35_1,569,102,10,8,7
+0,_BOSTON,_Boston City Ward 16 Precinct 10,_35_10,576,331,22,13,10
+0,_BOSTON,_Boston City Ward 16 Precinct 11,_35_11,749,291,34,20,20
+0,_BOSTON,_Boston City Ward 16 Precinct 12,_35_12,456,442,43,6,12
+0,_BOSTON,_Boston City Ward 16 Precinct 2,_35_2,457,157,19,6,7
+0,_BOSTON,_Boston City Ward 16 Precinct 3,_35_3,869,106,14,10,13
+0,_BOSTON,_Boston City Ward 16 Precinct 4,_35_4,696,111,19,19,5
+0,_BOSTON,_Boston City Ward 16 Precinct 5,_35_5,779,175,23,12,9
+0,_BOSTON,_Boston City Ward 16 Precinct 6,_35_6,995,167,24,28,9
+0,_BOSTON,_Boston City Ward 16 Precinct 7,_35_7,589,305,34,13,18
+0,_BOSTON,_Boston City Ward 16 Precinct 8,_35_8,748,241,36,25,29
+0,_BOSTON,_Boston City Ward 16 Precinct 9,_35_9,582,466,35,11,16
+0,_BOSTON,_Boston City Ward 17 Precinct 1,_35_1,726,30,3,11,5
+0,_BOSTON,_Boston City Ward 17 Precinct 10,_35_10,1006,36,11,7,5
+0,_BOSTON,_Boston City Ward 17 Precinct 11,_35_11,389,14,7,6,4
+0,_BOSTON,_Boston City Ward 17 Precinct 12,_35_12,612,39,4,9,9
+0,_BOSTON,_Boston City Ward 17 Precinct 13,_35_13,752,143,12,18,21
+0,_BOSTON,_Boston City Ward 17 Precinct 14,_35_14,835,106,16,9,10
+0,_BOSTON,_Boston City Ward 17 Precinct 2,_35_2,499,33,10,12,8
+0,_BOSTON,_Boston City Ward 17 Precinct 3,_35_3,1143,50,11,13,15
+0,_BOSTON,_Boston City Ward 17 Precinct 4,_35_4,1169,112,16,17,12
+0,_BOSTON,_Boston City Ward 17 Precinct 5,_35_5,509,15,6,15,4
+0,_BOSTON,_Boston City Ward 17 Precinct 6,_35_6,821,44,18,14,5
+0,_BOSTON,_Boston City Ward 17 Precinct 7,_35_7,448,15,3,2,5
+0,_BOSTON,_Boston City Ward 17 Precinct 8,_35_8,730,32,5,2,7
+0,_BOSTON,_Boston City Ward 17 Precinct 9,_35_9,634,39,8,12,4
+0,_BOSTON,_Boston City Ward 18 Precinct 1,_35_1,1347,49,13,11,11
+0,_BOSTON,_Boston City Ward 18 Precinct 10,_35_10,1321,201,38,24,22
+0,_BOSTON,_Boston City Ward 18 Precinct 11,_35_11,851,87,14,12,10
+0,_BOSTON,_Boston City Ward 18 Precinct 12,_35_12,926,187,19,15,7
+0,_BOSTON,_Boston City Ward 18 Precinct 13,_35_13,574,59,10,14,7
+0,_BOSTON,_Boston City Ward 18 Precinct 14,_35_14,616,67,6,12,5
+0,_BOSTON,_Boston City Ward 18 Precinct 15,_35_15,919,67,10,9,12
+0,_BOSTON,_Boston City Ward 18 Precinct 16,_35_16,836,346,30,22,23
+0,_BOSTON,_Boston City Ward 18 Precinct 17,_35_17,935,171,27,20,8
+0,_BOSTON,_Boston City Ward 18 Precinct 18,_35_18,1120,205,29,13,10
+0,_BOSTON,_Boston City Ward 18 Precinct 19,_35_19,1463,260,31,37,21
+0,_BOSTON,_Boston City Ward 18 Precinct 2,_35_2,961,18,5,9,13
+0,_BOSTON,_Boston City Ward 18 Precinct 20,_35_20,1023,430,37,11,26
+0,_BOSTON,_Boston City Ward 18 Precinct 21,_35_21,1223,38,7,12,16
+0,_BOSTON,_Boston City Ward 18 Precinct 22,_35_22,926,325,24,20,21
+0,_BOSTON,_Boston City Ward 18 Precinct 23,_35_23,900,69,13,5,2
+0,_BOSTON,_Boston City Ward 18 Precinct 3,_35_3,1096,18,7,11,6
+0,_BOSTON,_Boston City Ward 18 Precinct 4,_35_4,1075,34,6,10,8
+0,_BOSTON,_Boston City Ward 18 Precinct 5,_35_5,969,39,7,12,3
+0,_BOSTON,_Boston City Ward 18 Precinct 6,_35_6,1343,49,6,12,6
+0,_BOSTON,_Boston City Ward 18 Precinct 7,_35_7,932,107,10,10,8
+0,_BOSTON,_Boston City Ward 18 Precinct 8,_35_8,1646,147,23,21,10
+0,_BOSTON,_Boston City Ward 18 Precinct 9,_35_9,923,164,11,14,13
+0,_BOSTON,_Boston City Ward 19 Precinct 1,_35_1,1008,29,26,28,9
+0,_BOSTON,_Boston City Ward 19 Precinct 10,_35_10,1091,142,32,24,10
+0,_BOSTON,_Boston City Ward 19 Precinct 11,_35_11,1051,56,12,21,8
+0,_BOSTON,_Boston City Ward 19 Precinct 12,_35_12,807,106,7,13,12
+0,_BOSTON,_Boston City Ward 19 Precinct 13,_35_13,737,83,9,12,8
+0,_BOSTON,_Boston City Ward 19 Precinct 2,_35_2,967,236,31,21,44
+0,_BOSTON,_Boston City Ward 19 Precinct 3,_35_3,772,62,20,22,14
+0,_BOSTON,_Boston City Ward 19 Precinct 4,_35_4,1179,42,17,23,13
+0,_BOSTON,_Boston City Ward 19 Precinct 5,_35_5,912,68,16,22,15
+0,_BOSTON,_Boston City Ward 19 Precinct 6,_35_6,1354,52,20,43,22
+0,_BOSTON,_Boston City Ward 19 Precinct 7,_35_7,1174,81,22,32,24
+0,_BOSTON,_Boston City Ward 19 Precinct 8,_35_8,647,34,15,17,4
+0,_BOSTON,_Boston City Ward 19 Precinct 9,_35_9,638,45,13,14,10
+0,_BOSTON,_Boston City Ward 2 Precinct 1,_35_1,1164,384,93,11,34
+0,_BOSTON,_Boston City Ward 2 Precinct 2,_35_2,1530,378,61,25,43
+0,_BOSTON,_Boston City Ward 2 Precinct 3,_35_3,876,211,53,12,31
+0,_BOSTON,_Boston City Ward 2 Precinct 4,_35_4,821,187,43,9,23
+0,_BOSTON,_Boston City Ward 2 Precinct 5,_35_5,875,280,61,5,33
+0,_BOSTON,_Boston City Ward 2 Precinct 6,_35_6,1028,381,71,14,36
+0,_BOSTON,_Boston City Ward 2 Precinct 7,_35_7,779,290,51,11,28
+0,_BOSTON,_Boston City Ward 20 Precinct 1,_35_1,895,231,32,19,17
+0,_BOSTON,_Boston City Ward 20 Precinct 10,_35_10,955,474,35,15,35
+0,_BOSTON,_Boston City Ward 20 Precinct 11,_35_11,470,165,16,7,7
+0,_BOSTON,_Boston City Ward 20 Precinct 12,_35_12,549,263,38,15,24
+0,_BOSTON,_Boston City Ward 20 Precinct 13,_35_13,508,229,23,6,21
+0,_BOSTON,_Boston City Ward 20 Precinct 14,_35_14,459,245,33,9,15
+0,_BOSTON,_Boston City Ward 20 Precinct 15,_35_15,878,462,47,16,7
+0,_BOSTON,_Boston City Ward 20 Precinct 16,_35_16,845,510,59,15,30
+0,_BOSTON,_Boston City Ward 20 Precinct 17,_35_17,1030,488,60,18,26
+0,_BOSTON,_Boston City Ward 20 Precinct 18,_35_18,550,174,17,14,9
+0,_BOSTON,_Boston City Ward 20 Precinct 19,_35_19,527,246,26,7,17
+0,_BOSTON,_Boston City Ward 20 Precinct 2,_35_2,967,171,30,26,16
+0,_BOSTON,_Boston City Ward 20 Precinct 20,_35_20,964,363,39,15,20
+0,_BOSTON,_Boston City Ward 20 Precinct 3,_35_3,787,339,30,23,23
+0,_BOSTON,_Boston City Ward 20 Precinct 4,_35_4,862,105,25,22,18
+0,_BOSTON,_Boston City Ward 20 Precinct 5,_35_5,757,381,29,15,30
+0,_BOSTON,_Boston City Ward 20 Precinct 6,_35_6,927,358,40,16,22
+0,_BOSTON,_Boston City Ward 20 Precinct 7,_35_7,590,207,23,14,11
+0,_BOSTON,_Boston City Ward 20 Precinct 8,_35_8,704,183,26,10,14
+0,_BOSTON,_Boston City Ward 20 Precinct 9,_35_9,778,211,22,8,18
+0,_BOSTON,_Boston City Ward 21 Precinct 1,_35_1,983,89,42,18,22
+0,_BOSTON,_Boston City Ward 21 Precinct 10,_35_10,861,131,27,15,10
+0,_BOSTON,_Boston City Ward 21 Precinct 11,_35_11,988,112,48,23,22
+0,_BOSTON,_Boston City Ward 21 Precinct 12,_35_12,904,192,46,23,13
+0,_BOSTON,_Boston City Ward 21 Precinct 13,_35_13,854,303,52,17,29
+0,_BOSTON,_Boston City Ward 21 Precinct 14,_35_14,654,61,28,17,12
+0,_BOSTON,_Boston City Ward 21 Precinct 15,_35_15,791,81,22,17,13
+0,_BOSTON,_Boston City Ward 21 Precinct 16,_35_16,846,165,49,27,24
+0,_BOSTON,_Boston City Ward 21 Precinct 2,_35_2,472,41,17,9,9
+0,_BOSTON,_Boston City Ward 21 Precinct 3,_35_3,689,80,23,21,16
+0,_BOSTON,_Boston City Ward 21 Precinct 4,_35_4,577,44,26,30,11
+0,_BOSTON,_Boston City Ward 21 Precinct 5,_35_5,936,78,33,25,27
+0,_BOSTON,_Boston City Ward 21 Precinct 6,_35_6,657,93,18,23,15
+0,_BOSTON,_Boston City Ward 21 Precinct 7,_35_7,875,72,25,25,14
+0,_BOSTON,_Boston City Ward 21 Precinct 8,_35_8,1001,80,40,36,17
+0,_BOSTON,_Boston City Ward 21 Precinct 9,_35_9,987,104,40,22,15
+0,_BOSTON,_Boston City Ward 22 Precinct 1,_35_1,1130,121,50,43,46
+0,_BOSTON,_Boston City Ward 22 Precinct 10,_35_10,835,163,38,19,24
+0,_BOSTON,_Boston City Ward 22 Precinct 11,_35_11,596,130,14,29,11
+0,_BOSTON,_Boston City Ward 22 Precinct 12,_35_12,605,138,27,14,18
+0,_BOSTON,_Boston City Ward 22 Precinct 13,_35_13,571,124,16,8,20
+0,_BOSTON,_Boston City Ward 22 Precinct 2,_35_2,1249,169,37,45,32
+0,_BOSTON,_Boston City Ward 22 Precinct 3,_35_3,1063,214,41,32,40
+0,_BOSTON,_Boston City Ward 22 Precinct 4,_35_4,701,128,44,17,20
+0,_BOSTON,_Boston City Ward 22 Precinct 5,_35_5,598,123,28,18,10
+0,_BOSTON,_Boston City Ward 22 Precinct 6,_35_6,606,106,31,25,18
+0,_BOSTON,_Boston City Ward 22 Precinct 7,_35_7,949,155,57,24,19
+0,_BOSTON,_Boston City Ward 22 Precinct 8,_35_8,669,199,31,9,24
+0,_BOSTON,_Boston City Ward 22 Precinct 9,_35_9,708,173,32,20,21
+0,_BOSTON,_Boston City Ward 3 Precinct 1,_35_1,1165,434,89,15,42
+0,_BOSTON,_Boston City Ward 3 Precinct 2,_35_2,856,298,54,7,31
+0,_BOSTON,_Boston City Ward 3 Precinct 3,_35_3,916,329,67,18,29
+0,_BOSTON,_Boston City Ward 3 Precinct 4,_35_4,931,361,64,16,35
+0,_BOSTON,_Boston City Ward 3 Precinct 5,_35_5,1684,386,76,24,36
+0,_BOSTON,_Boston City Ward 3 Precinct 6,_35_6,2121,536,131,23,70
+0,_BOSTON,_Boston City Ward 3 Precinct 7,_35_7,2451,223,83,17,41
+0,_BOSTON,_Boston City Ward 3 Precinct 8,_35_8,2941,433,115,35,63
+0,_BOSTON,_Boston City Ward 4 Precinct 1,_35_1,1283,121,51,15,23
+0,_BOSTON,_Boston City Ward 4 Precinct 10,_35_10,390,45,10,7,9
+0,_BOSTON,_Boston City Ward 4 Precinct 2,_35_2,1731,324,76,24,41
+0,_BOSTON,_Boston City Ward 4 Precinct 3,_35_3,858,73,48,10,27
+0,_BOSTON,_Boston City Ward 4 Precinct 4,_35_4,1214,82,48,9,18
+0,_BOSTON,_Boston City Ward 4 Precinct 5,_35_5,901,114,35,17,20
+0,_BOSTON,_Boston City Ward 4 Precinct 6,_35_6,741,98,37,10,18
+0,_BOSTON,_Boston City Ward 4 Precinct 7,_35_7,819,76,22,20,16
+0,_BOSTON,_Boston City Ward 4 Precinct 8,_35_8,795,113,29,26,11
+0,_BOSTON,_Boston City Ward 4 Precinct 9,_35_9,689,24,22,22,8
+0,_BOSTON,_Boston City Ward 5 Precinct 1,_35_1,2512,301,89,37,60
+0,_BOSTON,_Boston City Ward 5 Precinct 10,_35_10,1025,175,30,21,35
+0,_BOSTON,_Boston City Ward 5 Precinct 11,_35_11,723,120,33,8,17
+0,_BOSTON,_Boston City Ward 5 Precinct 2,_35_2,882,77,26,20,11
+0,_BOSTON,_Boston City Ward 5 Precinct 2A,_35_2A,507,76,27,8,14
+0,_BOSTON,_Boston City Ward 5 Precinct 3,_35_3,1077,191,59,9,44
+0,_BOSTON,_Boston City Ward 5 Precinct 4,_35_4,1371,174,75,7,48
+0,_BOSTON,_Boston City Ward 5 Precinct 5,_35_5,449,87,23,4,16
+0,_BOSTON,_Boston City Ward 5 Precinct 6,_35_6,1020,227,53,14,46
+0,_BOSTON,_Boston City Ward 5 Precinct 7,_35_7,1296,268,76,27,40
+0,_BOSTON,_Boston City Ward 5 Precinct 8,_35_8,1136,209,71,17,40
+0,_BOSTON,_Boston City Ward 5 Precinct 9,_35_9,1572,243,94,21,53
+0,_BOSTON,_Boston City Ward 6 Precinct 1,_35_1,2669,668,131,21,67
+0,_BOSTON,_Boston City Ward 6 Precinct 2,_35_2,706,203,40,9,22
+0,_BOSTON,_Boston City Ward 6 Precinct 3,_35_3,950,330,63,8,35
+0,_BOSTON,_Boston City Ward 6 Precinct 4,_35_4,880,358,70,17,35
+0,_BOSTON,_Boston City Ward 6 Precinct 5,_35_5,805,360,59,16,40
+0,_BOSTON,_Boston City Ward 6 Precinct 6,_35_6,683,367,57,12,33
+0,_BOSTON,_Boston City Ward 6 Precinct 7,_35_7,742,411,66,7,26
+0,_BOSTON,_Boston City Ward 6 Precinct 8,_35_8,693,370,64,8,28
+0,_BOSTON,_Boston City Ward 6 Precinct 9,_35_9,588,439,43,5,22
+0,_BOSTON,_Boston City Ward 7 Precinct 1,_35_1,605,367,42,8,27
+0,_BOSTON,_Boston City Ward 7 Precinct 10,_35_10,835,48,12,12,7
+0,_BOSTON,_Boston City Ward 7 Precinct 2,_35_2,799,429,64,13,31
+0,_BOSTON,_Boston City Ward 7 Precinct 3,_35_3,886,475,69,8,37
+0,_BOSTON,_Boston City Ward 7 Precinct 4,_35_4,826,333,50,16,22
+0,_BOSTON,_Boston City Ward 7 Precinct 5,_35_5,749,231,56,16,18
+0,_BOSTON,_Boston City Ward 7 Precinct 6,_35_6,696,202,21,8,21
+0,_BOSTON,_Boston City Ward 7 Precinct 7,_35_7,580,98,7,12,11
+0,_BOSTON,_Boston City Ward 7 Precinct 8,_35_8,632,167,29,13,14
+0,_BOSTON,_Boston City Ward 7 Precinct 9,_35_9,618,187,25,15,18
+0,_BOSTON,_Boston City Ward 8 Precinct 1,_35_1,706,57,12,8,5
+0,_BOSTON,_Boston City Ward 8 Precinct 2,_35_2,1396,136,23,23,22
+0,_BOSTON,_Boston City Ward 8 Precinct 3,_35_3,724,26,11,8,6
+0,_BOSTON,_Boston City Ward 8 Precinct 4,_35_4,404,9,1,4,5
+0,_BOSTON,_Boston City Ward 8 Precinct 5,_35_5,760,35,6,10,8
+0,_BOSTON,_Boston City Ward 8 Precinct 6,_35_6,271,27,7,2,3
+0,_BOSTON,_Boston City Ward 8 Precinct 7,_35_7,541,27,4,4,5
+0,_BOSTON,_Boston City Ward 9 Precinct 1,_35_1,1158,97,24,14,12
+0,_BOSTON,_Boston City Ward 9 Precinct 2,_35_2,1129,94,33,15,26
+0,_BOSTON,_Boston City Ward 9 Precinct 3,_35_3,1914,69,29,17,15
+0,_BOSTON,_Boston City Ward 9 Precinct 4,_35_4,1177,57,18,15,6
+0,_BOSTON,_Boston City Ward 9 Precinct 5,_35_5,1330,34,11,17,13
+0,_BOURNE,_Bourne Town Precinct 1,_36_1,687,829,60,18,16
+0,_BOURNE,_Bourne Town Precinct 2,_36_2,780,1001,68,13,63
+0,_BOURNE,_Bourne Town Precinct 3,_36_3,435,542,46,19,21
+0,_BOURNE,_Bourne Town Precinct 4,_36_4,863,803,74,24,29
+0,_BOURNE,_Bourne Town Precinct 5,_36_5,808,773,77,18,28
+0,_BOURNE,_Bourne Town Precinct 6,_36_6,627,485,47,17,27
+0,_BOURNE,_Bourne Town Precinct 7,_36_7,710,768,70,20,0
+0,_BOXBOROUGH,_Boxborough Town Precinct 1,_37_1,1987,756,159,36,88
+0,_BOXFORD,_Boxford Town Precinct 1,_38_1,786,711,114,12,54
+0,_BOXFORD,_Boxford Town Precinct 2,_38_2,852,776,98,16,49
+0,_BOXFORD,_Boxford Town Precinct 3,_38_3,816,707,85,7,37
+0,_BOYLSTON,_Boylston Town Precinct 1,_39_1,1424,1125,176,35,56
+0,_BRAINTREE,_Braintree Town Precinct 1A,_40_1A,836,781,64,17,27
+0,_BRAINTREE,_Braintree Town Precinct 1B,_40_1B,827,663,51,22,24
+0,_BRAINTREE,_Braintree Town Precinct 2A,_40_2A,912,765,63,20,38
+0,_BRAINTREE,_Braintree Town Precinct 2B,_40_2B,871,772,70,10,37
+0,_BRAINTREE,_Braintree Town Precinct 3A,_40_3A,831,594,57,21,30
+0,_BRAINTREE,_Braintree Town Precinct 3B,_40_3B,857,655,58,19,34
+0,_BRAINTREE,_Braintree Town Precinct 4A,_40_4A,773,594,59,27,30
+0,_BRAINTREE,_Braintree Town Precinct 4B,_40_4B,882,506,51,12,31
+0,_BRAINTREE,_Braintree Town Precinct 5A,_40_5A,837,686,60,21,32
+0,_BRAINTREE,_Braintree Town Precinct 5B,_40_5B,994,762,78,22,42
+0,_BRAINTREE,_Braintree Town Precinct 6A,_40_6A,960,864,77,12,36
+0,_BRAINTREE,_Braintree Town Precinct 6B,_40_6B,889,785,78,13,26
+0,_BREWSTER,_Brewster Town Precinct 1,_41_1,1307,815,101,39,31
+0,_BREWSTER,_Brewster Town Precinct 2,_41_2,1320,750,94,33,37
+0,_BREWSTER,_Brewster Town Precinct 3,_41_3,1186,805,102,40,27
+0,_BRIDGEWATER,_Bridgewater Town Precinct 1,_42_1,1088,1341,122,33,45
+0,_BRIDGEWATER,_Bridgewater Town Precinct 2,_42_2,971,1095,111,27,38
+0,_BRIDGEWATER,_Bridgewater Town Precinct 3,_42_3,1032,1350,98,23,32
+0,_BRIDGEWATER,_Bridgewater Town Precinct 4,_42_4,487,536,73,6,21
+0,_BRIDGEWATER,_Bridgewater Town Precinct 5,_42_5,334,310,32,11,17
+0,_BRIDGEWATER,_Bridgewater Town Precinct 6,_42_6,860,706,76,21,34
+0,_BRIDGEWATER,_Bridgewater Town Precinct 7,_42_7,946,923,112,46,33
+0,_BRIMFIELD,_Brimfield Town Precinct 1,_43_1,793,1113,117,34,21
+0,_BROCKTON,_Brockton City Ward 1 Precinct A,_44_A,906,179,24,9,8
+0,_BROCKTON,_Brockton City Ward 1 Precinct B,_44_B,980,381,45,23,13
+0,_BROCKTON,_Brockton City Ward 1 Precinct C,_44_C,908,354,40,9,13
+0,_BROCKTON,_Brockton City Ward 1 Precinct D,_44_D,1049,611,75,24,19
+0,_BROCKTON,_Brockton City Ward 2 Precinct A,_44_A,809,60,11,8,4
+0,_BROCKTON,_Brockton City Ward 2 Precinct B,_44_B,746,89,11,6,10
+0,_BROCKTON,_Brockton City Ward 2 Precinct C,_44_C,754,79,10,7,6
+0,_BROCKTON,_Brockton City Ward 2 Precinct D,_44_D,857,253,26,14,17
+0,_BROCKTON,_Brockton City Ward 3 Precinct A,_44_A,918,257,23,12,7
+0,_BROCKTON,_Brockton City Ward 3 Precinct B,_44_B,882,164,24,5,12
+0,_BROCKTON,_Brockton City Ward 3 Precinct C,_44_C,984,544,42,22,16
+0,_BROCKTON,_Brockton City Ward 3 Precinct D,_44_D,932,557,58,18,12
+0,_BROCKTON,_Brockton City Ward 4 Precinct A,_44_A,752,108,7,4,4
+0,_BROCKTON,_Brockton City Ward 4 Precinct B,_44_B,992,279,35,13,15
+0,_BROCKTON,_Brockton City Ward 4 Precinct C,_44_C,943,410,37,13,17
+0,_BROCKTON,_Brockton City Ward 4 Precinct D,_44_D,927,409,36,21,11
+0,_BROCKTON,_Brockton City Ward 5 Precinct A,_44_A,972,151,27,12,9
+0,_BROCKTON,_Brockton City Ward 5 Precinct B,_44_B,961,387,48,18,26
+0,_BROCKTON,_Brockton City Ward 5 Precinct C,_44_C,979,232,23,18,14
+0,_BROCKTON,_Brockton City Ward 5 Precinct D,_44_D,934,480,39,21,20
+0,_BROCKTON,_Brockton City Ward 6 Precinct A,_44_A,805,236,29,10,4
+0,_BROCKTON,_Brockton City Ward 6 Precinct B,_44_B,956,596,50,29,20
+0,_BROCKTON,_Brockton City Ward 6 Precinct C,_44_C,910,402,42,13,11
+0,_BROCKTON,_Brockton City Ward 6 Precinct D,_44_D,835,584,50,17,21
+0,_BROCKTON,_Brockton City Ward 7 Precinct A,_44_A,896,146,13,6,4
+0,_BROCKTON,_Brockton City Ward 7 Precinct B,_44_B,1047,252,34,14,2
+0,_BROCKTON,_Brockton City Ward 7 Precinct C,_44_C,1018,215,21,11,7
+0,_BROCKTON,_Brockton City Ward 7 Precinct D,_44_D,941,386,40,11,15
+0,_BROOKFIELD,_Brookfield Town Precinct 1,_45_1,708,936,102,27,29
+0,_BROOKLINE,_Brookline Town Precinct 1,_46_1,1518,173,48,21,23
+0,_BROOKLINE,_Brookline Town Precinct 10,_46_10,1538,191,44,17,28
+0,_BROOKLINE,_Brookline Town Precinct 11,_46_11,1634,183,24,30,19
+0,_BROOKLINE,_Brookline Town Precinct 12,_46_12,1868,204,55,27,37
+0,_BROOKLINE,_Brookline Town Precinct 13,_46_13,1622,184,57,25,27
+0,_BROOKLINE,_Brookline Town Precinct 14,_46_14,1590,252,67,20,37
+0,_BROOKLINE,_Brookline Town Precinct 15,_46_15,1407,390,66,16,53
+0,_BROOKLINE,_Brookline Town Precinct 16,_46_16,1292,270,49,25,26
+0,_BROOKLINE,_Brookline Town Precinct 2,_46_2,1070,121,28,12,16
+0,_BROOKLINE,_Brookline Town Precinct 3,_46_3,1617,172,42,25,27
+0,_BROOKLINE,_Brookline Town Precinct 4,_46_4,1429,221,33,19,27
+0,_BROOKLINE,_Brookline Town Precinct 5,_46_5,1640,205,40,32,40
+0,_BROOKLINE,_Brookline Town Precinct 6,_46_6,1711,151,49,31,30
+0,_BROOKLINE,_Brookline Town Precinct 7,_46_7,1470,153,54,35,40
+0,_BROOKLINE,_Brookline Town Precinct 8,_46_8,1626,146,41,32,24
+0,_BROOKLINE,_Brookline Town Precinct 9,_46_9,1551,159,34,31,18
+0,_BUCKLAND,_Buckland Town Precinct 1,_47_1,703,230,53,39,16
+0,_BURLINGTON,_Burlington Town Precinct 1,_48_1,1188,946,93,16,46
+0,_BURLINGTON,_Burlington Town Precinct 2,_48_2,863,495,74,14,23
+0,_BURLINGTON,_Burlington Town Precinct 3,_48_3,1070,777,79,17,39
+0,_BURLINGTON,_Burlington Town Precinct 4,_48_4,1002,683,74,18,27
+0,_BURLINGTON,_Burlington Town Precinct 5,_48_5,1161,902,76,19,19
+0,_BURLINGTON,_Burlington Town Precinct 6,_48_6,1134,884,81,15,34
+0,_BURLINGTON,_Burlington Town Precinct 7,_48_7,1215,747,81,24,41
+0,_CAMBRIDGE,_Cambridge City Ward 1 Precinct 1,_49_1,1404,224,64,24,25
+0,_CAMBRIDGE,_Cambridge City Ward 1 Precinct 2,_49_2,1267,179,42,35,32
+0,_CAMBRIDGE,_Cambridge City Ward 1 Precinct 3,_49_3,1365,202,54,20,33
+0,_CAMBRIDGE,_Cambridge City Ward 10 Precinct 1,_49_1,1934,100,52,27,41
+0,_CAMBRIDGE,_Cambridge City Ward 10 Precinct 2,_49_2,1946,83,31,30,28
+0,_CAMBRIDGE,_Cambridge City Ward 10 Precinct 3,_49_3,1585,84,22,21,22
+0,_CAMBRIDGE,_Cambridge City Ward 11 Precinct 1,_49_1,1652,91,39,23,12
+0,_CAMBRIDGE,_Cambridge City Ward 11 Precinct 2,_49_2,1996,184,59,46,31
+0,_CAMBRIDGE,_Cambridge City Ward 11 Precinct 3,_49_3,1557,152,48,40,26
+0,_CAMBRIDGE,_Cambridge City Ward 2 Precinct 1,_49_1,1342,74,31,32,27
+0,_CAMBRIDGE,_Cambridge City Ward 2 Precinct 2,_49_2,433,19,27,10,20
+0,_CAMBRIDGE,_Cambridge City Ward 2 Precinct 3,_49_3,761,79,26,19,21
+0,_CAMBRIDGE,_Cambridge City Ward 3 Precinct 1,_49_1,1354,176,51,45,23
+0,_CAMBRIDGE,_Cambridge City Ward 3 Precinct 2,_49_2,914,62,15,26,14
+0,_CAMBRIDGE,_Cambridge City Ward 3 Precinct 2A,_49_2A,675,34,22,26,8
+0,_CAMBRIDGE,_Cambridge City Ward 3 Precinct 3,_49_3,1376,62,26,40,24
+0,_CAMBRIDGE,_Cambridge City Ward 4 Precinct 1,_49_1,1715,59,25,35,22
+0,_CAMBRIDGE,_Cambridge City Ward 4 Precinct 2,_49_2,1752,97,30,45,28
+0,_CAMBRIDGE,_Cambridge City Ward 4 Precinct 3,_49_3,636,31,29,19,16
+0,_CAMBRIDGE,_Cambridge City Ward 5 Precinct 1,_49_1,1505,72,42,53,23
+0,_CAMBRIDGE,_Cambridge City Ward 5 Precinct 2,_49_2,1678,115,31,38,23
+0,_CAMBRIDGE,_Cambridge City Ward 5 Precinct 3,_49_3,1262,61,34,28,23
+0,_CAMBRIDGE,_Cambridge City Ward 6 Precinct 1,_49_1,1656,80,30,47,31
+0,_CAMBRIDGE,_Cambridge City Ward 6 Precinct 2,_49_2,1648,78,45,30,22
+0,_CAMBRIDGE,_Cambridge City Ward 6 Precinct 3,_49_3,1661,127,44,42,42
+0,_CAMBRIDGE,_Cambridge City Ward 7 Precinct 1,_49_1,1720,55,23,44,31
+0,_CAMBRIDGE,_Cambridge City Ward 7 Precinct 2,_49_2,929,48,20,24,22
+0,_CAMBRIDGE,_Cambridge City Ward 7 Precinct 3,_49_3,559,33,16,13,7
+0,_CAMBRIDGE,_Cambridge City Ward 8 Precinct 1,_49_1,1200,61,26,22,19
+0,_CAMBRIDGE,_Cambridge City Ward 8 Precinct 2,_49_2,1224,63,34,18,15
+0,_CAMBRIDGE,_Cambridge City Ward 8 Precinct 3,_49_3,426,11,15,6,9
+0,_CAMBRIDGE,_Cambridge City Ward 9 Precinct 1,_49_1,1948,98,66,29,37
+0,_CAMBRIDGE,_Cambridge City Ward 9 Precinct 2,_49_2,1926,236,50,34,35
+0,_CAMBRIDGE,_Cambridge City Ward 9 Precinct 3,_49_3,1557,193,44,41,25
+0,_CANTON,_Canton Town Precinct 1,_50_1,1102,715,80,12,33
+0,_CANTON,_Canton Town Precinct 2,_50_2,1255,831,85,22,26
+0,_CANTON,_Canton Town Precinct 3,_50_3,1276,739,81,15,8
+0,_CANTON,_Canton Town Precinct 4,_50_4,1245,991,114,29,25
+0,_CANTON,_Canton Town Precinct 5,_50_5,1248,801,117,20,46
+0,_CANTON,_Canton Town Precinct 6,_50_6,1182,654,97,11,25
+0,_CARLISLE,_Carlisle Town Precinct 1,_51_1,2302,732,192,43,67
+0,_CARVER,_Carver Town Precinct 1,_52_1,818,1051,128,24,41
+0,_CARVER,_Carver Town Precinct 2,_52_2,763,1051,124,26,27
+0,_CARVER,_Carver Town Precinct 3,_52_3,948,1104,112,22,39
+0,_CHARLEMONT,_Charlemont Town Precinct 1,_53_1,407,228,40,25,0
+0,_CHARLTON,_Charlton Town Precinct 1,_54_1,712,945,113,14,21
+0,_CHARLTON,_Charlton Town Precinct 2,_54_2,652,1029,145,28,22
+0,_CHARLTON,_Charlton Town Precinct 3,_54_3,701,1001,98,28,32
+0,_CHARLTON,_Charlton Town Precinct 4,_54_4,644,881,105,29,27
+0,_CHATHAM,_Chatham Town Precinct 1,_55_1,2398,1796,216,68,86
+0,_CHELMSFORD,_Chelmsford Town Precinct 1,_56_1,1167,822,116,32,52
+0,_CHELMSFORD,_Chelmsford Town Precinct 2,_56_2,1133,689,109,36,33
+0,_CHELMSFORD,_Chelmsford Town Precinct 3,_56_3,1108,974,110,24,42
+0,_CHELMSFORD,_Chelmsford Town Precinct 4,_56_4,1048,832,79,23,42
+0,_CHELMSFORD,_Chelmsford Town Precinct 5,_56_5,1201,799,143,32,48
+0,_CHELMSFORD,_Chelmsford Town Precinct 6,_56_6,1261,884,137,18,50
+0,_CHELMSFORD,_Chelmsford Town Precinct 7,_56_7,1292,934,155,29,53
+0,_CHELMSFORD,_Chelmsford Town Precinct 8,_56_8,1239,818,108,16,48
+0,_CHELMSFORD,_Chelmsford Town Precinct 9,_56_9,1256,909,136,27,77
+0,_CHELSEA,_Chelsea City Ward 1 Precinct 1,_57_1,429,92,7,5,0
+0,_CHELSEA,_Chelsea City Ward 1 Precinct 2,_57_2,297,44,5,4,0
+0,_CHELSEA,_Chelsea City Ward 1 Precinct 3,_57_3,368,57,14,8,0
+0,_CHELSEA,_Chelsea City Ward 1 Precinct 4,_57_4,358,33,8,5,0
+0,_CHELSEA,_Chelsea City Ward 2 Precinct 1,_57_1,838,255,30,13,0
+0,_CHELSEA,_Chelsea City Ward 2 Precinct 2,_57_2,593,76,18,15,0
+0,_CHELSEA,_Chelsea City Ward 2 Precinct 3,_57_3,285,23,4,5,0
+0,_CHELSEA,_Chelsea City Ward 2 Precinct 4,_57_4,428,50,7,2,0
+0,_CHELSEA,_Chelsea City Ward 3 Precinct 1,_57_1,479,69,15,5,0
+0,_CHELSEA,_Chelsea City Ward 3 Precinct 2,_57_2,599,107,10,5,2
+0,_CHELSEA,_Chelsea City Ward 3 Precinct 3,_57_3,439,83,10,4,0
+0,_CHELSEA,_Chelsea City Ward 3 Precinct 4,_57_4,497,81,15,12,1
+0,_CHELSEA,_Chelsea City Ward 4 Precinct 1,_57_1,440,122,13,6,0
+0,_CHELSEA,_Chelsea City Ward 4 Precinct 2,_57_2,543,199,22,15,9
+0,_CHELSEA,_Chelsea City Ward 4 Precinct 3,_57_3,468,167,14,14,2
+0,_CHELSEA,_Chelsea City Ward 4 Precinct 4,_57_4,439,129,15,9,3
+0,_CHESHIRE,_Cheshire Town Precinct 1,_58_1,978,741,83,30,32
+0,_CHESTER,_Chester Town Precinct 1,_59_1,238,372,55,13,5
+0,_CHESTERFIELD,_Chesterfield Town Precinct 1,_60_1,398,267,39,39,7
+0,_CHICOPEE,_Chicopee City Ward 1 Precinct A,_61_A,660,640,60,28,23
+0,_CHICOPEE,_Chicopee City Ward 1 Precinct B,_61_B,833,750,68,32,37
+0,_CHICOPEE,_Chicopee City Ward 2 Precinct A,_61_A,677,279,44,28,35
+0,_CHICOPEE,_Chicopee City Ward 2 Precinct B,_61_B,753,658,60,29,17
+0,_CHICOPEE,_Chicopee City Ward 3 Precinct A,_61_A,658,509,47,20,23
+0,_CHICOPEE,_Chicopee City Ward 3 Precinct B,_61_B,617,395,32,26,29
+0,_CHICOPEE,_Chicopee City Ward 4 Precinct A,_61_A,659,463,68,24,24
+0,_CHICOPEE,_Chicopee City Ward 4 Precinct B,_61_B,708,460,63,27,24
+0,_CHICOPEE,_Chicopee City Ward 5 Precinct A,_61_A,697,516,65,22,24
+0,_CHICOPEE,_Chicopee City Ward 5 Precinct B,_61_B,655,524,62,25,31
+0,_CHICOPEE,_Chicopee City Ward 6 Precinct AN,_61_AN,188,147,13,7,6
+0,_CHICOPEE,_Chicopee City Ward 6 Precinct AS,_61_AS,401,374,22,14,13
+0,_CHICOPEE,_Chicopee City Ward 6 Precinct BE,_61_BE,580,798,57,16,16
+0,_CHICOPEE,_Chicopee City Ward 6 Precinct BW,_61_BW,136,145,12,9,11
+0,_CHICOPEE,_Chicopee City Ward 7 Precinct A,_61_A,602,355,30,29,12
+0,_CHICOPEE,_Chicopee City Ward 7 Precinct B,_61_B,695,400,41,20,15
+0,_CHICOPEE,_Chicopee City Ward 8 Precinct A,_61_A,704,558,94,36,34
+0,_CHICOPEE,_Chicopee City Ward 8 Precinct B,_61_B,617,543,67,30,30
+0,_CHICOPEE,_Chicopee City Ward 9 Precinct A,_61_A,697,564,63,29,19
+0,_CHICOPEE,_Chicopee City Ward 9 Precinct B,_61_B,801,763,78,21,36
+0,_CHILMARK,_Chilmark Town Precinct 1,_62_1,617,94,30,23,11
+0,_CLARKSBURG,_Clarksburg Town Precinct 1,_63_1,510,327,29,12,7
+0,_CLINTON,_Clinton Town Precinct 1,_64_1,1021,687,115,28,49
+0,_CLINTON,_Clinton Town Precinct 2,_64_2,921,659,116,30,28
+0,_CLINTON,_Clinton Town Precinct 3,_64_3,930,718,78,20,33
+0,_CLINTON,_Clinton Town Precinct 4,_64_4,895,684,87,22,30
+0,_COHASSET,_Cohasset Town Precinct 1,_65_1,1403,770,127,24,69
+0,_COHASSET,_Cohasset Town Precinct 2,_65_2,1492,859,117,22,67
+0,_COLRAIN,_Colrain Town Precinct 1,_66_1,513,257,59,62,1
+0,_CONCORD,_Concord Town Precinct 1,_67_1,1645,329,102,27,21
+0,_CONCORD,_Concord Town Precinct 2,_67_2,1993,462,101,46,43
+0,_CONCORD,_Concord Town Precinct 3,_67_3,1765,464,92,24,49
+0,_CONCORD,_Concord Town Precinct 4,_67_4,1857,439,115,35,34
+0,_CONCORD,_Concord Town Precinct 5,_67_5,1200,257,93,18,31
+0,_CONWAY,_Conway Town Precinct 1,_68_1,865,249,47,39,22
+0,_CUMMINGTON,_Cummington Town Precinct 1,_69_1,334,156,31,33,4
+0,_DALTON,_Dalton Town Precinct 1,_70_1,1091,491,89,41,30
+0,_DALTON,_Dalton Town Precinct 2,_70_2,1099,449,77,42,35
+0,_DANVERS,_Danvers Town Precinct 1,_71_1,1069,731,87,29,31
+0,_DANVERS,_Danvers Town Precinct 2,_71_2,1033,815,92,28,35
+0,_DANVERS,_Danvers Town Precinct 3,_71_3,860,741,66,20,32
+0,_DANVERS,_Danvers Town Precinct 4,_71_4,997,774,79,18,46
+0,_DANVERS,_Danvers Town Precinct 5,_71_5,984,895,93,23,32
+0,_DANVERS,_Danvers Town Precinct 6,_71_6,958,910,83,17,41
+0,_DANVERS,_Danvers Town Precinct 7,_71_7,952,810,112,24,50
+0,_DANVERS,_Danvers Town Precinct 8,_71_8,899,808,79,20,31
+0,_DARTMOUTH,_Dartmouth Town Precinct 1,_72_1,896,1085,75,23,22
+0,_DARTMOUTH,_Dartmouth Town Precinct 2,_72_2,681,589,36,15,34
+0,_DARTMOUTH,_Dartmouth Town Precinct 3,_72_3,162,26,14,4,7
+0,_DARTMOUTH,_Dartmouth Town Precinct 4,_72_4,1065,780,73,34,29
+0,_DARTMOUTH,_Dartmouth Town Precinct 5,_72_5,1059,907,78,35,34
+0,_DARTMOUTH,_Dartmouth Town Precinct 6,_72_6,920,714,59,22,19
+0,_DARTMOUTH,_Dartmouth Town Precinct 7,_72_7,1035,837,65,31,29
+0,_DARTMOUTH,_Dartmouth Town Precinct 8,_72_8,1378,847,104,27,35
+0,_DARTMOUTH,_Dartmouth Town Precinct 9,_72_9,1390,953,106,44,46
+0,_DEDHAM,_Dedham Town Precinct 1,_73_1,1501,465,103,19,59
+0,_DEDHAM,_Dedham Town Precinct 2,_73_2,1205,695,76,27,38
+0,_DEDHAM,_Dedham Town Precinct 3,_73_3,1139,614,56,22,34
+0,_DEDHAM,_Dedham Town Precinct 4,_73_4,1212,652,79,21,45
+0,_DEDHAM,_Dedham Town Precinct 5,_73_5,1151,818,89,23,42
+0,_DEDHAM,_Dedham Town Precinct 6,_73_6,1306,701,86,23,47
+0,_DEDHAM,_Dedham Town Precinct 7,_73_7,1107,833,81,14,44
+0,_DEERFIELD,_Deerfield Town Precinct 1,_74_1,1968,777,161,75,65
+0,_DENNIS,_Dennis Town Precinct 1,_75_1,981,884,76,18,26
+0,_DENNIS,_Dennis Town Precinct 2,_75_2,1091,783,77,19,41
+0,_DENNIS,_Dennis Town Precinct 3,_75_3,844,667,68,37,28
+0,_DENNIS,_Dennis Town Precinct 4,_75_4,1003,771,85,37,30
+0,_DENNIS,_Dennis Town Precinct 5,_75_5,968,646,66,27,23
+0,_DIGHTON,_Dighton Town Precinct 1,_76_1,776,1044,82,32,39
+0,_DIGHTON,_Dighton Town Precinct 2,_76_2,826,1105,90,35,40
+0,_DOUGLAS,_Douglas Town Precinct 1,_77_1,565,956,97,23,0
+0,_DOUGLAS,_Douglas Town Precinct 2,_77_2,643,908,94,21,0
+0,_DOUGLAS,_Douglas Town Precinct 3,_77_3,572,821,108,20,0
+0,_DOVER,_Dover Town Precinct 1,_78_1,2063,1137,266,29,111
+0,_DRACUT,_Dracut Town Precinct 1,_79_1,654,777,72,19,0
+0,_DRACUT,_Dracut Town Precinct 2,_79_2,611,765,75,21,0
+0,_DRACUT,_Dracut Town Precinct 3,_79_3,714,920,86,22,0
+0,_DRACUT,_Dracut Town Precinct 4,_79_4,788,1142,129,18,0
+0,_DRACUT,_Dracut Town Precinct 5,_79_5,705,947,84,24,0
+0,_DRACUT,_Dracut Town Precinct 6,_79_6,761,824,86,20,0
+0,_DRACUT,_Dracut Town Precinct 6A,_79_6A,28,32,1,0,0
+0,_DRACUT,_Dracut Town Precinct 7,_79_7,757,759,79,18,0
+0,_DRACUT,_Dracut Town Precinct 8,_79_8,892,1221,111,25,0
+0,_DRACUT,_Dracut Town Precinct 9,_79_9,735,932,98,20,0
+0,_DUDLEY,_Dudley Town Precinct 1,_80_1,843,1076,104,20,30
+0,_DUDLEY,_Dudley Town Precinct 2,_80_2,663,954,101,22,24
+0,_DUDLEY,_Dudley Town Precinct 3,_80_3,607,841,90,27,18
+0,_DUNSTABLE,_Dunstable Town Precinct 1,_81_1,954,837,140,26,38
+0,_DUXBURY,_Duxbury Town Precinct 1,_82_1,968,697,101,18,58
+0,_DUXBURY,_Duxbury Town Precinct 2,_82_2,883,668,107,13,49
+0,_DUXBURY,_Duxbury Town Precinct 3,_82_3,828,576,73,18,41
+0,_DUXBURY,_Duxbury Town Precinct 4,_82_4,853,631,82,21,39
+0,_DUXBURY,_Duxbury Town Precinct 5,_82_5,826,697,71,30,52
+0,_DUXBURY,_Duxbury Town Precinct 6,_82_6,779,619,97,12,40
+0,_EAST BRIDGEWATER,_East Bridgewater Town Precinct 1,_83_1,761,1002,135,22,36
+0,_EAST BRIDGEWATER,_East Bridgewater Town Precinct 2,_83_2,791,1042,87,20,36
+0,_EAST BRIDGEWATER,_East Bridgewater Town Precinct 3,_83_3,874,1077,107,16,28
+0,_EAST BRIDGEWATER,_East Bridgewater Town Precinct 4,_83_4,748,952,101,28,31
+0,_EAST BROOKFIELD,_East Brookfield Town Precinct 1,_84_1,417,664,65,18,32
+0,_EAST LONGMEADOW,_East Longmeadow Town Precinct 1,_85_1,1057,1091,117,23,38
+0,_EAST LONGMEADOW,_East Longmeadow Town Precinct 2,_85_2,1008,1034,99,37,38
+0,_EAST LONGMEADOW,_East Longmeadow Town Precinct 3,_85_3,1017,1105,89,28,52
+0,_EAST LONGMEADOW,_East Longmeadow Town Precinct 4,_85_4,1007,1211,97,27,37
+0,_EASTHAM,_Eastham Town Precinct 1,_86_1,2203,1199,134,61,55
+0,_EASTHAMPTON,_Easthampton Town Precinct 1,_87_1,1127,514,68,48,29
+0,_EASTHAMPTON,_Easthampton Town Precinct 2,_87_2,1370,417,53,86,40
+0,_EASTHAMPTON,_Easthampton Town Precinct 3,_87_3,1140,447,71,65,31
+0,_EASTHAMPTON,_Easthampton Town Precinct 4,_87_4,1464,453,75,71,35
+0,_EASTHAMPTON,_Easthampton Town Precinct 5,_87_5,1112,768,100,35,30
+0,_EASTON,_Easton Town Precinct 1,_88_1,640,505,59,12,16
+0,_EASTON,_Easton Town Precinct 2,_88_2,1272,944,134,25,25
+0,_EASTON,_Easton Town Precinct 3,_88_3,1042,898,96,28,14
+0,_EASTON,_Easton Town Precinct 4,_88_4,1204,940,125,21,37
+0,_EASTON,_Easton Town Precinct 5,_88_5,1334,953,112,24,25
+0,_EASTON,_Easton Town Precinct 6,_88_6,1064,991,97,24,23
+0,_EDGARTOWN,_Edgartown Town Precinct 1,_89_1,1787,779,99,53,40
+0,_EGREMONT,_Egremont Town Precinct 1,_90_1,621,147,30,30,4
+0,_ERVING,_Erving Town Precinct 1,_91_1,420,300,59,32,11
+0,_ESSEX,_Essex Town Precinct 1,_92_1,1272,758,166,34,40
+0,_EVERETT,_Everett City Ward 1 Precinct 1,_93_1,737,294,36,11,21
+0,_EVERETT,_Everett City Ward 1 Precinct 2,_93_2,666,290,14,15,14
+0,_EVERETT,_Everett City Ward 2 Precinct 1,_93_1,776,336,22,16,14
+0,_EVERETT,_Everett City Ward 2 Precinct 2,_93_2,702,249,21,17,12
+0,_EVERETT,_Everett City Ward 3 Precinct 1,_93_1,828,412,28,16,24
+0,_EVERETT,_Everett City Ward 3 Precinct 2,_93_2,779,346,21,14,12
+0,_EVERETT,_Everett City Ward 4 Precinct 1,_93_1,888,416,25,9,16
+0,_EVERETT,_Everett City Ward 4 Precinct 2,_93_2,797,286,23,16,13
+0,_EVERETT,_Everett City Ward 5 Precinct 1,_93_1,765,343,26,13,22
+0,_EVERETT,_Everett City Ward 5 Precinct 2,_93_2,818,299,25,12,8
+0,_EVERETT,_Everett City Ward 6 Precinct 1,_93_1,809,344,37,17,11
+0,_EVERETT,_Everett City Ward 6 Precinct 2,_93_2,896,325,31,9,18
+0,_FAIRHAVEN,_Fairhaven Town Precinct 1,_94_1,832,606,45,31,25
+0,_FAIRHAVEN,_Fairhaven Town Precinct 2,_94_2,744,600,51,31,23
+0,_FAIRHAVEN,_Fairhaven Town Precinct 3,_94_3,581,536,49,13,17
+0,_FAIRHAVEN,_Fairhaven Town Precinct 4,_94_4,705,675,47,25,14
+0,_FAIRHAVEN,_Fairhaven Town Precinct 5,_94_5,711,759,63,17,22
+0,_FAIRHAVEN,_Fairhaven Town Precinct 6,_94_6,691,648,62,16,17
+0,_FALL RIVER,_Fall River City Ward 1 Precinct A,_95_A,816,640,50,19,8
+0,_FALL RIVER,_Fall River City Ward 1 Precinct B,_95_B,601,434,44,12,12
+0,_FALL RIVER,_Fall River City Ward 1 Precinct C,_95_C,622,481,52,15,11
+0,_FALL RIVER,_Fall River City Ward 2 Precinct A,_95_A,510,317,24,18,15
+0,_FALL RIVER,_Fall River City Ward 2 Precinct B,_95_B,491,276,21,18,17
+0,_FALL RIVER,_Fall River City Ward 2 Precinct C,_95_C,567,372,24,18,13
+0,_FALL RIVER,_Fall River City Ward 3 Precinct A,_95_A,674,458,28,11,6
+0,_FALL RIVER,_Fall River City Ward 3 Precinct B,_95_B,663,410,31,24,16
+0,_FALL RIVER,_Fall River City Ward 3 Precinct C,_95_C,641,456,38,21,13
+0,_FALL RIVER,_Fall River City Ward 4 Precinct A,_95_A,551,267,28,14,0
+0,_FALL RIVER,_Fall River City Ward 4 Precinct B,_95_B,561,215,25,18,4
+0,_FALL RIVER,_Fall River City Ward 4 Precinct C,_95_C,679,229,19,13,3
+0,_FALL RIVER,_Fall River City Ward 5 Precinct A,_95_A,438,180,14,14,9
+0,_FALL RIVER,_Fall River City Ward 5 Precinct B,_95_B,385,138,17,8,5
+0,_FALL RIVER,_Fall River City Ward 5 Precinct B1,_95_B1,65,38,5,5,1
+0,_FALL RIVER,_Fall River City Ward 5 Precinct C,_95_C,541,244,22,14,7
+0,_FALL RIVER,_Fall River City Ward 6 Precinct A,_95_A,714,517,55,18,23
+0,_FALL RIVER,_Fall River City Ward 6 Precinct B,_95_B,579,312,28,11,10
+0,_FALL RIVER,_Fall River City Ward 6 Precinct C,_95_C,625,439,39,21,17
+0,_FALL RIVER,_Fall River City Ward 6 Precinct C1,_95_C1,15,4,0,0,0
+0,_FALL RIVER,_Fall River City Ward 7 Precinct A,_95_A,689,443,34,13,2
+0,_FALL RIVER,_Fall River City Ward 7 Precinct B,_95_B,535,316,34,25,7
+0,_FALL RIVER,_Fall River City Ward 7 Precinct C,_95_C,663,324,48,24,0
+0,_FALL RIVER,_Fall River City Ward 8 Precinct A,_95_A,600,338,37,22,2
+0,_FALL RIVER,_Fall River City Ward 8 Precinct B,_95_B,881,563,55,25,23
+0,_FALL RIVER,_Fall River City Ward 8 Precinct C,_95_C,902,661,44,24,0
+0,_FALL RIVER,_Fall River City Ward 9 Precinct A,_95_A,986,794,38,29,1
+0,_FALL RIVER,_Fall River City Ward 9 Precinct B,_95_B,676,503,37,20,1
+0,_FALL RIVER,_Fall River City Ward 9 Precinct C,_95_C,797,481,52,27,11
+0,_FALMOUTH,_Falmouth Town Precinct 1,_96_1,1793,513,80,30,33
+0,_FALMOUTH,_Falmouth Town Precinct 2,_96_2,1386,707,59,37,35
+0,_FALMOUTH,_Falmouth Town Precinct 3,_96_3,1150,810,69,22,29
+0,_FALMOUTH,_Falmouth Town Precinct 4,_96_4,1219,859,83,22,37
+0,_FALMOUTH,_Falmouth Town Precinct 5,_96_5,1349,886,108,33,58
+0,_FALMOUTH,_Falmouth Town Precinct 6,_96_6,1333,771,83,29,35
+0,_FALMOUTH,_Falmouth Town Precinct 7,_96_7,1094,913,81,28,28
+0,_FALMOUTH,_Falmouth Town Precinct 8,_96_8,1070,907,81,42,31
+0,_FALMOUTH,_Falmouth Town Precinct 9,_96_9,1073,799,84,30,27
+0,_FITCHBURG,_Fitchburg City Ward 1 Precinct A,_97_A,619,314,58,12,13
+0,_FITCHBURG,_Fitchburg City Ward 1 Precinct B,_97_B,677,452,68,26,13
+0,_FITCHBURG,_Fitchburg City Ward 2 Precinct A,_97_A,607,262,37,25,12
+0,_FITCHBURG,_Fitchburg City Ward 2 Precinct B,_97_B,742,609,74,16,19
+0,_FITCHBURG,_Fitchburg City Ward 3 Precinct A,_97_A,961,832,120,15,16
+0,_FITCHBURG,_Fitchburg City Ward 3 Precinct B,_97_B,772,543,74,35,3
+0,_FITCHBURG,_Fitchburg City Ward 4 Precinct A,_97_A,490,288,38,21,5
+0,_FITCHBURG,_Fitchburg City Ward 4 Precinct B,_97_B,699,276,50,22,9
+0,_FITCHBURG,_Fitchburg City Ward 5 Precinct A,_97_A,849,842,114,21,35
+0,_FITCHBURG,_Fitchburg City Ward 5 Precinct B,_97_B,619,232,41,28,11
+0,_FITCHBURG,_Fitchburg City Ward 6 Precinct A,_97_A,854,626,91,19,21
+0,_FITCHBURG,_Fitchburg City Ward 6 Precinct B,_97_B,701,311,47,19,6
+0,_FLORIDA,_Florida Town Precinct 1,_98_1,191,170,17,11,8
+0,_FOXBOROUGH,_Foxborough Town Precinct 1,_99_1,1002,774,100,15,30
+0,_FOXBOROUGH,_Foxborough Town Precinct 2,_99_2,1119,831,123,12,36
+0,_FOXBOROUGH,_Foxborough Town Precinct 3,_99_3,1048,877,105,25,47
+0,_FOXBOROUGH,_Foxborough Town Precinct 4,_99_4,1031,881,131,19,41
+0,_FOXBOROUGH,_Foxborough Town Precinct 5,_99_5,932,798,121,24,28
+0,_FRAMINGHAM,_Framingham Town Precinct 1,_100_1,1551,631,89,31,36
+0,_FRAMINGHAM,_Framingham Town Precinct 10,_100_10,860,253,59,13,15
+0,_FRAMINGHAM,_Framingham Town Precinct 11,_100_11,1547,607,103,21,64
+0,_FRAMINGHAM,_Framingham Town Precinct 12,_100_12,798,265,34,13,19
+0,_FRAMINGHAM,_Framingham Town Precinct 13,_100_13,1033,327,43,21,31
+0,_FRAMINGHAM,_Framingham Town Precinct 14,_100_14,810,182,33,16,27
+0,_FRAMINGHAM,_Framingham Town Precinct 15,_100_15,830,215,55,18,26
+0,_FRAMINGHAM,_Framingham Town Precinct 16,_100_16,533,113,19,1,14
+0,_FRAMINGHAM,_Framingham Town Precinct 17,_100_17,633,58,13,8,9
+0,_FRAMINGHAM,_Framingham Town Precinct 18,_100_18,735,233,35,19,18
+0,_FRAMINGHAM,_Framingham Town Precinct 2,_100_2,1702,686,113,28,46
+0,_FRAMINGHAM,_Framingham Town Precinct 3,_100_3,1354,474,70,16,26
+0,_FRAMINGHAM,_Framingham Town Precinct 4,_100_4,1527,580,96,25,51
+0,_FRAMINGHAM,_Framingham Town Precinct 5,_100_5,1426,591,110,30,42
+0,_FRAMINGHAM,_Framingham Town Precinct 6,_100_6,1418,620,108,25,57
+0,_FRAMINGHAM,_Framingham Town Precinct 7,_100_7,1324,489,79,22,44
+0,_FRAMINGHAM,_Framingham Town Precinct 8,_100_8,1406,421,75,23,32
+0,_FRAMINGHAM,_Framingham Town Precinct 9,_100_9,1033,318,62,17,22
+0,_FRANKLIN,_Franklin Town Precinct 1,_101_1,1132,843,109,21,54
+0,_FRANKLIN,_Franklin Town Precinct 2,_101_2,1130,846,112,19,52
+0,_FRANKLIN,_Franklin Town Precinct 3,_101_3,1127,844,108,20,57
+0,_FRANKLIN,_Franklin Town Precinct 4,_101_4,1236,989,129,16,76
+0,_FRANKLIN,_Franklin Town Precinct 5,_101_5,1252,885,119,19,58
+0,_FRANKLIN,_Franklin Town Precinct 6,_101_6,1139,730,138,29,47
+0,_FRANKLIN,_Franklin Town Precinct 7,_101_7,1355,888,137,22,58
+0,_FRANKLIN,_Franklin Town Precinct 8,_101_8,1156,971,136,26,64
+0,_FREETOWN,_Freetown Town Precinct 1,_102_1,665,910,58,18,36
+0,_FREETOWN,_Freetown Town Precinct 2,_102_2,707,875,57,21,29
+0,_FREETOWN,_Freetown Town Precinct 3,_102_3,663,864,63,29,24
+0,_GARDNER,_Gardner City Ward 1 Precinct A,_103_A,556,415,60,17,29
+0,_GARDNER,_Gardner City Ward 1 Precinct B,_103_B,170,217,27,5,10
+0,_GARDNER,_Gardner City Ward 2 Precinct A,_103_A,480,382,61,19,16
+0,_GARDNER,_Gardner City Ward 2 Precinct B,_103_B,441,486,97,16,6
+0,_GARDNER,_Gardner City Ward 3 Precinct A,_103_A,403,324,55,17,15
+0,_GARDNER,_Gardner City Ward 3 Precinct B,_103_B,529,392,67,13,20
+0,_GARDNER,_Gardner City Ward 4 Precinct A,_103_A,485,294,48,24,15
+0,_GARDNER,_Gardner City Ward 4 Precinct B,_103_B,297,229,48,15,8
+0,_GARDNER,_Gardner City Ward 5 Precinct A,_103_A,389,315,45,11,15
+0,_GARDNER,_Gardner City Ward 5 Precinct B,_103_B,446,488,82,20,18
+0,_GEORGETOWN,_Georgetown Town Precinct 1,_105_1,863,848,114,18,31
+0,_GEORGETOWN,_Georgetown Town Precinct 2,_105_2,727,725,117,20,31
+0,_GEORGETOWN,_Georgetown Town Precinct 3,_105_3,757,655,100,11,25
+0,_GILL,_Gill Town Precinct 1,_106_1,579,259,57,32,21
+0,_GLOUCESTER,_Gloucester City Ward 1 Precinct 1,_107_1,1197,541,81,33,28
+0,_GLOUCESTER,_Gloucester City Ward 1 Precinct 2,_107_2,919,545,74,31,27
+0,_GLOUCESTER,_Gloucester City Ward 2 Precinct 1,_107_1,762,423,53,20,26
+0,_GLOUCESTER,_Gloucester City Ward 2 Precinct 2,_107_2,788,342,53,27,24
+0,_GLOUCESTER,_Gloucester City Ward 3 Precinct 1,_107_1,815,479,54,25,27
+0,_GLOUCESTER,_Gloucester City Ward 3 Precinct 2,_107_2,853,515,70,19,20
+0,_GLOUCESTER,_Gloucester City Ward 4 Precinct 1,_107_1,976,605,68,23,31
+0,_GLOUCESTER,_Gloucester City Ward 4 Precinct 2,_107_2,1301,521,93,40,48
+0,_GLOUCESTER,_Gloucester City Ward 5 Precinct 1,_107_1,1141,669,82,29,44
+0,_GLOUCESTER,_Gloucester City Ward 5 Precinct 2,_107_2,1056,715,68,33,47
+0,_GOSHEN,_Goshen Town Precinct 1,_108_1,364,213,28,15,5
+0,_GOSNOLD,_Gosnold Town Precinct 1,_109_1,36,27,2,0,3
+0,_GRAFTON,_Grafton Town Precinct 1,_110_1,1061,806,130,32,26
+0,_GRAFTON,_Grafton Town Precinct 2,_110_2,1084,767,127,29,27
+0,_GRAFTON,_Grafton Town Precinct 3,_110_3,1103,739,100,13,41
+0,_GRAFTON,_Grafton Town Precinct 4,_110_4,901,743,110,36,23
+0,_GRAFTON,_Grafton Town Precinct 5,_110_5,1223,828,119,20,33
+0,_GRANBY,_Granby Town Precinct 1,_111_1,949,809,98,50,12
+0,_GRANBY,_Granby Town Precinct 2,_111_2,702,890,75,43,14
+0,_GRANVILLE,_Granville Town Precinct 1,_112_1,335,548,55,20,0
+0,_GREAT BARRINGTON,_Great Barrington Town Precinct A,_113_A,752,155,34,31,5
+0,_GREAT BARRINGTON,_Great Barrington Town Precinct B,_113_B,737,187,38,31,13
+0,_GREAT BARRINGTON,_Great Barrington Town Precinct C,_113_C,567,89,12,35,13
+0,_GREAT BARRINGTON,_Great Barrington Town Precinct D,_113_D,824,149,19,31,7
+0,_GREENFIELD,_Greenfield Town Precinct 1,_114_1,547,280,51,23,15
+0,_GREENFIELD,_Greenfield Town Precinct 2,_114_2,741,341,52,36,20
+0,_GREENFIELD,_Greenfield Town Precinct 3,_114_3,638,254,36,38,22
+0,_GREENFIELD,_Greenfield Town Precinct 4,_114_4,736,257,43,20,15
+0,_GREENFIELD,_Greenfield Town Precinct 5,_114_5,718,175,33,49,31
+0,_GREENFIELD,_Greenfield Town Precinct 6,_114_6,736,154,30,53,27
+0,_GREENFIELD,_Greenfield Town Precinct 7,_114_7,483,246,54,32,10
+0,_GREENFIELD,_Greenfield Town Precinct 8,_114_8,515,170,35,39,13
+0,_GREENFIELD,_Greenfield Town Precinct 9,_114_9,460,221,38,19,26
+0,_GROTON,_Groton Town Precinct 1,_115_1,1410,703,152,29,48
+0,_GROTON,_Groton Town Precinct 2,_115_2,1247,765,123,37,41
+0,_GROTON,_Groton Town Precinct 3,_115_3,1260,670,125,30,54
+0,_GROVELAND,_Groveland Town Precinct 1,_116_1,913,968,86,27,40
+0,_GROVELAND,_Groveland Town Precinct 2,_116_2,909,966,104,25,36
+0,_HADLEY,_Hadley Town Precinct 1,_117_1,2149,867,105,98,40
+0,_HALIFAX,_Halifax Town Precinct 1,_118_1,883,1252,113,21,40
+0,_HALIFAX,_Halifax Town Precinct 2,_118_2,911,1060,115,37,39
+0,_HAMILTON,_Hamilton Town Precinct 1,_119_1,958,583,88,33,51
+0,_HAMILTON,_Hamilton Town Precinct 2,_119_2,953,542,131,17,56
+0,_HAMILTON,_Hamilton Town Precinct 3,_119_3,720,351,99,19,91
+0,_HAMPDEN,_Hampden Town Precinct 1,_120_1,1188,1645,154,37,12
+0,_HANCOCK,_Hancock Town Precinct 1,_121_1,189,159,24,9,9
+0,_HANOVER,_Hanover Town Precinct 1,_122_1,885,1033,96,16,54
+0,_HANOVER,_Hanover Town Precinct 2,_122_2,958,1125,107,20,48
+0,_HANOVER,_Hanover Town Precinct 3,_122_3,964,994,106,21,37
+0,_HANOVER,_Hanover Town Precinct 4,_122_4,943,1115,91,14,39
+0,_HANSON,_Hanson Town Precinct 1,_123_1,829,1060,85,11,23
+0,_HANSON,_Hanson Town Precinct 2,_123_2,864,1045,131,23,24
+0,_HANSON,_Hanson Town Precinct 3,_123_3,739,1019,113,24,41
+0,_HARDWICK,_Hardwick Town Precinct 1,_124_1,568,709,77,28,23
+0,_HARVARD,_Harvard Town Precinct 1,_125_1,2515,889,182,50,77
+0,_HARWICH,_Harwich Town Precinct 1,_126_1,1215,854,90,25,32
+0,_HARWICH,_Harwich Town Precinct 2,_126_2,1145,843,77,35,31
+0,_HARWICH,_Harwich Town Precinct 3,_126_3,1139,899,83,37,30
+0,_HARWICH,_Harwich Town Precinct 4,_126_4,1061,698,90,35,32
+0,_HATFIELD,_Hatfield Town Precinct 1,_127_1,1284,660,77,61,39
+0,_HAVERHILL,_Haverhill City Ward 1 Precinct 1,_128_1,618,270,45,17,11
+0,_HAVERHILL,_Haverhill City Ward 1 Precinct 2,_128_2,867,411,54,23,25
+0,_HAVERHILL,_Haverhill City Ward 1 Precinct 3,_128_3,670,456,56,15,19
+0,_HAVERHILL,_Haverhill City Ward 2 Precinct 1,_128_1,648,485,74,22,21
+0,_HAVERHILL,_Haverhill City Ward 2 Precinct 2,_128_2,664,636,69,26,25
+0,_HAVERHILL,_Haverhill City Ward 2 Precinct 3,_128_3,593,276,42,16,22
+0,_HAVERHILL,_Haverhill City Ward 3 Precinct 1,_128_1,596,135,25,19,13
+0,_HAVERHILL,_Haverhill City Ward 3 Precinct 2,_128_2,644,323,40,16,19
+0,_HAVERHILL,_Haverhill City Ward 3 Precinct 3,_128_3,653,397,59,21,18
+0,_HAVERHILL,_Haverhill City Ward 4 Precinct 1,_128_1,749,731,79,27,25
+0,_HAVERHILL,_Haverhill City Ward 4 Precinct 2,_128_2,793,886,84,23,39
+0,_HAVERHILL,_Haverhill City Ward 4 Precinct 3,_128_3,756,734,78,16,24
+0,_HAVERHILL,_Haverhill City Ward 5 Precinct 1,_128_1,867,578,59,17,22
+0,_HAVERHILL,_Haverhill City Ward 5 Precinct 2,_128_2,777,819,53,26,26
+0,_HAVERHILL,_Haverhill City Ward 5 Precinct 3,_128_3,812,933,71,15,40
+0,_HAVERHILL,_Haverhill City Ward 6 Precinct 1,_128_1,736,630,63,20,23
+0,_HAVERHILL,_Haverhill City Ward 6 Precinct 2,_128_2,772,633,60,31,54
+0,_HAVERHILL,_Haverhill City Ward 6 Precinct 3,_128_3,841,706,84,16,41
+0,_HAVERHILL,_Haverhill City Ward 7 Precinct 1,_128_1,804,616,86,14,19
+0,_HAVERHILL,_Haverhill City Ward 7 Precinct 2,_128_2,744,578,64,17,20
+0,_HAVERHILL,_Haverhill City Ward 7 Precinct 3,_128_3,803,817,98,21,49
+0,_HAWLEY,_Hawley Town Precinct 1,_129_1,105,67,14,7,12
+0,_HEATH,_Heath Town Precinct 1,_130_1,244,165,24,12,3
+0,_HINGHAM,_Hingham Town Precinct 1,_131_1,1327,776,114,26,66
+0,_HINGHAM,_Hingham Town Precinct 2,_131_2,1436,801,113,28,68
+0,_HINGHAM,_Hingham Town Precinct 3,_131_3,1445,739,123,28,81
+0,_HINGHAM,_Hingham Town Precinct 4,_131_4,1363,768,128,23,69
+0,_HINGHAM,_Hingham Town Precinct 5,_131_5,922,645,80,20,46
+0,_HINGHAM,_Hingham Town Precinct 5A,_131_5A,717,267,38,3,10
+0,_HINGHAM,_Hingham Town Precinct 6,_131_6,1300,814,95,14,68
+0,_HINSDALE,_Hinsdale Town Precinct 1,_132_1,606,403,55,37,11
+0,_HOLBROOK,_Holbrook Town Precinct 1,_133_1,773,526,46,22,16
+0,_HOLBROOK,_Holbrook Town Precinct 2,_133_2,708,663,70,25,26
+0,_HOLBROOK,_Holbrook Town Precinct 3,_133_3,720,613,76,21,21
+0,_HOLBROOK,_Holbrook Town Precinct 4,_133_4,711,583,56,22,18
+0,_HOLDEN,_Holden Town Precinct 1,_134_1,1031,944,150,28,44
+0,_HOLDEN,_Holden Town Precinct 2,_134_2,1159,910,118,26,46
+0,_HOLDEN,_Holden Town Precinct 3,_134_3,1070,763,135,37,46
+0,_HOLDEN,_Holden Town Precinct 4,_134_4,1193,1025,125,31,41
+0,_HOLDEN,_Holden Town Precinct 5,_134_5,1152,970,133,27,40
+0,_HOLLAND,_Holland Town Precinct 1,_135_1,475,720,106,33,14
+0,_HOLLISTON,_Holliston Town Precinct 1,_136_1,1394,744,131,16,59
+0,_HOLLISTON,_Holliston Town Precinct 2,_136_2,1409,639,125,41,58
+0,_HOLLISTON,_Holliston Town Precinct 3,_136_3,1293,582,100,18,52
+0,_HOLLISTON,_Holliston Town Precinct 4,_136_4,1195,598,102,17,62
+0,_HOLYOKE,_Holyoke City Ward 1 Precinct A,_137_A,815,58,14,18,0
+0,_HOLYOKE,_Holyoke City Ward 1 Precinct B,_137_B,787,99,28,24,3
+0,_HOLYOKE,_Holyoke City Ward 2 Precinct A,_137_A,696,121,23,20,0
+0,_HOLYOKE,_Holyoke City Ward 2 Precinct B,_137_B,702,72,20,9,11
+0,_HOLYOKE,_Holyoke City Ward 3 Precinct A,_137_A,867,284,39,35,12
+0,_HOLYOKE,_Holyoke City Ward 3 Precinct B,_137_B,837,497,59,40,0
+0,_HOLYOKE,_Holyoke City Ward 4 Precinct A,_137_A,639,93,11,19,3
+0,_HOLYOKE,_Holyoke City Ward 4 Precinct B,_137_B,822,174,25,31,10
+0,_HOLYOKE,_Holyoke City Ward 5 Precinct A,_137_A,925,748,72,40,22
+0,_HOLYOKE,_Holyoke City Ward 5 Precinct B,_137_B,873,384,36,15,16
+0,_HOLYOKE,_Holyoke City Ward 6 Precinct A,_137_A,841,256,30,23,12
+0,_HOLYOKE,_Holyoke City Ward 6 Precinct B,_137_B,854,320,39,35,14
+0,_HOLYOKE,_Holyoke City Ward 7 Precinct A,_137_A,981,558,53,38,24
+0,_HOLYOKE,_Holyoke City Ward 7 Precinct B,_137_B,1017,358,60,45,22
+0,_HOPEDALE,_Hopedale Town Precinct 1,_138_1,1759,1375,197,49,76
+0,_HOPKINTON,_Hopkinton Town Precinct 1,_139_1,1498,706,156,29,77
+0,_HOPKINTON,_Hopkinton Town Precinct 2,_139_2,1342,777,123,23,48
+0,_HOPKINTON,_Hopkinton Town Precinct 3,_139_3,1232,728,146,24,67
+0,_HOPKINTON,_Hopkinton Town Precinct 4,_139_4,1286,700,135,24,56
+0,_HUBBARDSTON,_Hubbardston Town Precinct 1,_140_1,1040,1376,203,36,43
+0,_HUDSON,_Hudson Town Precinct 1,_141_1,896,570,75,20,32
+0,_HUDSON,_Hudson Town Precinct 2,_141_2,785,457,85,20,26
+0,_HUDSON,_Hudson Town Precinct 3,_141_3,827,658,98,12,41
+0,_HUDSON,_Hudson Town Precinct 4,_141_4,903,627,107,20,37
+0,_HUDSON,_Hudson Town Precinct 5,_141_5,1109,664,98,18,33
+0,_HUDSON,_Hudson Town Precinct 6,_141_6,728,400,57,13,26
+0,_HUDSON,_Hudson Town Precinct 7,_141_7,780,399,79,15,22
+0,_HULL,_Hull Town Precinct 1,_142_1,1335,741,81,22,28
+0,_HULL,_Hull Town Precinct 2,_142_2,1058,756,81,28,22
+0,_HULL,_Hull Town Precinct 3,_142_3,1295,859,91,16,45
+0,_HUNTINGTON,_Huntington Town Precinct 1,_143_1,460,611,71,35,7
+0,_IPSWICH,_Ipswich Town Precinct 1,_144_1,1337,605,92,36,0
+0,_IPSWICH,_Ipswich Town Precinct 2,_144_2,1354,770,142,40,5
+0,_IPSWICH,_Ipswich Town Precinct 3,_144_3,1029,867,128,28,0
+0,_IPSWICH,_Ipswich Town Precinct 4,_144_4,1219,771,97,34,0
+0,_KINGSTON,_Kingston Town Precinct 1,_145_1,849,792,92,24,27
+0,_KINGSTON,_Kingston Town Precinct 2,_145_2,921,992,84,23,14
+0,_KINGSTON,_Kingston Town Precinct 3,_145_3,897,985,112,24,31
+0,_KINGSTON,_Kingston Town Precinct 4,_145_4,804,810,93,13,30
+0,_LAKEVILLE,_Lakeville Town Precinct 1,_146_1,783,1037,96,29,39
+0,_LAKEVILLE,_Lakeville Town Precinct 2,_146_2,774,1158,103,30,50
+0,_LAKEVILLE,_Lakeville Town Precinct 3,_146_3,909,1179,116,27,48
+0,_LANCASTER,_Lancaster Town Precinct 1,_147_1,883,801,156,25,35
+0,_LANCASTER,_Lancaster Town Precinct 2,_147_2,967,850,128,34,58
+0,_LANESBOROUGH,_Lanesborough Town Precinct 1,_148_1,998,597,77,32,27
+0,_LAWRENCE,_Lawrence City Ward A Precinct 1,_149_1,869,166,25,8,8
+0,_LAWRENCE,_Lawrence City Ward A Precinct 2,_149_2,729,71,13,4,12
+0,_LAWRENCE,_Lawrence City Ward A Precinct 3,_149_3,730,208,25,13,8
+0,_LAWRENCE,_Lawrence City Ward A Precinct 4,_149_4,864,122,22,9,5
+0,_LAWRENCE,_Lawrence City Ward B Precinct 1,_149_1,962,119,23,4,3
+0,_LAWRENCE,_Lawrence City Ward B Precinct 2,_149_2,788,51,11,1,7
+0,_LAWRENCE,_Lawrence City Ward B Precinct 3,_149_3,877,100,13,9,11
+0,_LAWRENCE,_Lawrence City Ward B Precinct 4,_149_4,1131,57,13,4,4
+0,_LAWRENCE,_Lawrence City Ward C Precinct 1,_149_1,743,78,16,8,2
+0,_LAWRENCE,_Lawrence City Ward C Precinct 2,_149_2,915,205,34,15,15
+0,_LAWRENCE,_Lawrence City Ward C Precinct 3,_149_3,748,37,7,3,7
+0,_LAWRENCE,_Lawrence City Ward C Precinct 4,_149_4,858,80,7,5,1
+0,_LAWRENCE,_Lawrence City Ward D Precinct 1,_149_1,859,164,10,15,6
+0,_LAWRENCE,_Lawrence City Ward D Precinct 2,_149_2,764,51,12,6,7
+0,_LAWRENCE,_Lawrence City Ward D Precinct 3,_149_3,642,60,7,5,3
+0,_LAWRENCE,_Lawrence City Ward D Precinct 4,_149_4,690,51,12,6,5
+0,_LAWRENCE,_Lawrence City Ward E Precinct 1,_149_1,937,471,33,16,17
+0,_LAWRENCE,_Lawrence City Ward E Precinct 2,_149_2,916,436,49,16,16
+0,_LAWRENCE,_Lawrence City Ward E Precinct 3,_149_3,759,184,26,13,8
+0,_LAWRENCE,_Lawrence City Ward E Precinct 4,_149_4,841,156,29,10,8
+0,_LAWRENCE,_Lawrence City Ward F Precinct 1,_149_1,879,365,45,14,11
+0,_LAWRENCE,_Lawrence City Ward F Precinct 2,_149_2,748,65,8,12,4
+0,_LAWRENCE,_Lawrence City Ward F Precinct 3,_149_3,781,91,14,16,10
+0,_LAWRENCE,_Lawrence City Ward F Precinct 4,_149_4,822,147,22,8,10
+0,_LEE,_Lee Town Precinct 1,_150_1,1969,852,115,86,12
+0,_LEICESTER,_Leicester Town Precinct 1,_151_1,619,775,77,21,29
+0,_LEICESTER,_Leicester Town Precinct 2,_151_2,640,669,65,17,22
+0,_LEICESTER,_Leicester Town Precinct 3,_151_3,562,718,86,18,20
+0,_LEICESTER,_Leicester Town Precinct 4,_151_4,602,663,90,16,19
+0,_LENOX,_Lenox Town Precinct 1,_152_1,2234,572,116,70,65
+0,_LEOMINSTER,_Leominster City Ward 1 Precinct A,_153_A,734,714,108,17,4
+0,_LEOMINSTER,_Leominster City Ward 1 Precinct B,_153_B,709,642,90,12,0
+0,_LEOMINSTER,_Leominster City Ward 1 Precinct C,_153_C,642,446,61,22,20
+0,_LEOMINSTER,_Leominster City Ward 2 Precinct A,_153_A,603,315,59,13,9
+0,_LEOMINSTER,_Leominster City Ward 2 Precinct B,_153_B,629,535,61,15,8
+0,_LEOMINSTER,_Leominster City Ward 2 Precinct C,_153_C,423,315,46,22,12
+0,_LEOMINSTER,_Leominster City Ward 3 Precinct A,_153_A,564,402,54,9,12
+0,_LEOMINSTER,_Leominster City Ward 3 Precinct B,_153_B,743,644,74,17,30
+0,_LEOMINSTER,_Leominster City Ward 3 Precinct C,_153_C,831,760,92,23,26
+0,_LEOMINSTER,_Leominster City Ward 4 Precinct A,_153_A,726,756,92,19,23
+0,_LEOMINSTER,_Leominster City Ward 4 Precinct B,_153_B,690,714,85,16,7
+0,_LEOMINSTER,_Leominster City Ward 4 Precinct C,_153_C,551,462,69,13,31
+0,_LEOMINSTER,_Leominster City Ward 5 Precinct A,_153_A,629,501,55,27,4
+0,_LEOMINSTER,_Leominster City Ward 5 Precinct B,_153_B,786,621,78,20,33
+0,_LEOMINSTER,_Leominster City Ward 5 Precinct C,_153_C,580,372,52,17,16
+0,_LEVERETT,_Leverett Town Precinct 1,_154_1,996,185,24,56,26
+0,_LEXINGTON,_Lexington Town Precinct 1,_155_1,1334,298,76,25,0
+0,_LEXINGTON,_Lexington Town Precinct 2,_155_2,1823,317,60,39,0
+0,_LEXINGTON,_Lexington Town Precinct 3,_155_3,1393,280,43,18,0
+0,_LEXINGTON,_Lexington Town Precinct 4,_155_4,1668,343,67,25,0
+0,_LEXINGTON,_Lexington Town Precinct 5,_155_5,1571,471,74,33,0
+0,_LEXINGTON,_Lexington Town Precinct 6,_155_6,1560,383,78,20,0
+0,_LEXINGTON,_Lexington Town Precinct 7,_155_7,1546,415,70,21,0
+0,_LEXINGTON,_Lexington Town Precinct 8,_155_8,1482,371,74,29,5
+0,_LEXINGTON,_Lexington Town Precinct 9,_155_9,1523,401,68,34,0
+0,_LEYDEN,_Leyden Town Precinct 1,_156_1,306,139,23,20,4
+0,_LINCOLN,_Lincoln Town Precinct 1,_157_1,1873,334,98,24,44
+0,_LINCOLN,_Lincoln Town Precinct 2,_157_2,1123,291,80,25,29
+0,_LITTLETON,_Littleton Town Precinct 1,_158_1,1246,691,136,10,0
+0,_LITTLETON,_Littleton Town Precinct 2,_158_2,1145,651,124,27,0
+0,_LITTLETON,_Littleton Town Precinct 3,_158_3,1054,534,133,19,0
+0,_LONGMEADOW,_Longmeadow Town Precinct A,_159_A,1125,624,77,25,41
+0,_LONGMEADOW,_Longmeadow Town Precinct B,_159_B,1028,616,92,26,34
+0,_LONGMEADOW,_Longmeadow Town Precinct C,_159_C,1055,782,101,43,45
+0,_LONGMEADOW,_Longmeadow Town Precinct D,_159_D,1013,806,63,18,36
+0,_LONGMEADOW,_Longmeadow Town Precinct E,_159_E,1090,629,79,16,31
+0,_LOWELL,_Lowell City Ward 1 Precinct 1,_160_1,718,218,27,18,3
+0,_LOWELL,_Lowell City Ward 1 Precinct 2,_160_2,1063,847,97,12,66
+0,_LOWELL,_Lowell City Ward 1 Precinct 3,_160_3,987,612,89,18,42
+0,_LOWELL,_Lowell City Ward 10 Precinct 1,_160_1,716,262,44,11,20
+0,_LOWELL,_Lowell City Ward 10 Precinct 2,_160_2,495,160,21,9,9
+0,_LOWELL,_Lowell City Ward 10 Precinct 3,_160_3,416,119,23,9,9
+0,_LOWELL,_Lowell City Ward 11 Precinct 1,_160_1,707,329,39,19,16
+0,_LOWELL,_Lowell City Ward 11 Precinct 2,_160_2,656,495,61,16,20
+0,_LOWELL,_Lowell City Ward 11 Precinct 3,_160_3,743,368,65,18,13
+0,_LOWELL,_Lowell City Ward 2 Precinct 1,_160_1,541,108,30,20,16
+0,_LOWELL,_Lowell City Ward 2 Precinct 2,_160_2,884,122,17,12,24
+0,_LOWELL,_Lowell City Ward 2 Precinct 3,_160_3,1069,175,62,31,37
+0,_LOWELL,_Lowell City Ward 3 Precinct 1,_160_1,674,283,46,12,17
+0,_LOWELL,_Lowell City Ward 3 Precinct 2,_160_2,649,173,33,14,11
+0,_LOWELL,_Lowell City Ward 3 Precinct 3,_160_3,585,201,45,15,9
+0,_LOWELL,_Lowell City Ward 4 Precinct 1,_160_1,840,301,37,23,15
+0,_LOWELL,_Lowell City Ward 4 Precinct 2,_160_2,573,154,9,14,5
+0,_LOWELL,_Lowell City Ward 4 Precinct 3,_160_3,605,172,28,11,10
+0,_LOWELL,_Lowell City Ward 5 Precinct 1,_160_1,598,366,47,24,19
+0,_LOWELL,_Lowell City Ward 5 Precinct 2,_160_2,583,236,31,13,13
+0,_LOWELL,_Lowell City Ward 5 Precinct 3,_160_3,640,466,60,16,13
+0,_LOWELL,_Lowell City Ward 6 Precinct 1,_160_1,738,566,49,26,20
+0,_LOWELL,_Lowell City Ward 6 Precinct 2,_160_2,799,558,62,13,30
+0,_LOWELL,_Lowell City Ward 6 Precinct 3,_160_3,777,498,49,18,19
+0,_LOWELL,_Lowell City Ward 7 Precinct 1,_160_1,598,187,34,16,14
+0,_LOWELL,_Lowell City Ward 7 Precinct 2,_160_2,745,141,34,20,4
+0,_LOWELL,_Lowell City Ward 7 Precinct 3,_160_3,501,149,12,9,5
+0,_LOWELL,_Lowell City Ward 8 Precinct 1,_160_1,703,257,39,18,15
+0,_LOWELL,_Lowell City Ward 8 Precinct 2,_160_2,792,369,44,20,10
+0,_LOWELL,_Lowell City Ward 8 Precinct 3,_160_3,968,575,64,18,24
+0,_LOWELL,_Lowell City Ward 9 Precinct 1,_160_1,632,300,34,15,17
+0,_LOWELL,_Lowell City Ward 9 Precinct 2,_160_2,813,436,52,18,25
+0,_LOWELL,_Lowell City Ward 9 Precinct 3,_160_3,747,381,53,26,23
+0,_LUDLOW,_Ludlow Town Precinct 1,_161_1,814,838,77,33,31
+0,_LUDLOW,_Ludlow Town Precinct 2,_161_2,653,581,59,25,25
+0,_LUDLOW,_Ludlow Town Precinct 3,_161_3,713,1116,88,19,30
+0,_LUDLOW,_Ludlow Town Precinct 4,_161_4,828,800,61,18,34
+0,_LUDLOW,_Ludlow Town Precinct 5,_161_5,569,688,48,20,30
+0,_LUDLOW,_Ludlow Town Precinct 6,_161_6,906,1074,77,29,25
+0,_LUNENBURG,_Lunenburg Town Precinct A,_162_A,754,727,106,19,31
+0,_LUNENBURG,_Lunenburg Town Precinct B,_162_B,726,600,87,22,13
+0,_LUNENBURG,_Lunenburg Town Precinct C,_162_C,753,799,106,16,35
+0,_LUNENBURG,_Lunenburg Town Precinct D,_162_D,709,676,87,22,24
+0,_LYNN,_Lynn City Ward 1 Precinct 1,_163_1,930,870,54,21,45
+0,_LYNN,_Lynn City Ward 1 Precinct 2,_163_2,976,851,84,27,29
+0,_LYNN,_Lynn City Ward 1 Precinct 3,_163_3,957,648,54,22,31
+0,_LYNN,_Lynn City Ward 1 Precinct 4,_163_4,968,539,49,16,9
+0,_LYNN,_Lynn City Ward 2 Precinct 1,_163_1,1075,735,60,24,28
+0,_LYNN,_Lynn City Ward 2 Precinct 2,_163_2,687,237,21,13,22
+0,_LYNN,_Lynn City Ward 2 Precinct 3,_163_3,689,125,18,10,5
+0,_LYNN,_Lynn City Ward 2 Precinct 4,_163_4,653,172,34,11,17
+0,_LYNN,_Lynn City Ward 3 Precinct 1,_163_1,839,446,35,28,19
+0,_LYNN,_Lynn City Ward 3 Precinct 2,_163_2,891,266,23,25,29
+0,_LYNN,_Lynn City Ward 3 Precinct 3,_163_3,809,291,43,17,17
+0,_LYNN,_Lynn City Ward 3 Precinct 4,_163_4,1003,298,45,26,10
+0,_LYNN,_Lynn City Ward 4 Precinct 1,_163_1,564,86,12,6,9
+0,_LYNN,_Lynn City Ward 4 Precinct 2,_163_2,607,99,21,3,8
+0,_LYNN,_Lynn City Ward 4 Precinct 3,_163_3,782,202,22,8,11
+0,_LYNN,_Lynn City Ward 4 Precinct 4,_163_4,900,313,26,21,13
+0,_LYNN,_Lynn City Ward 5 Precinct 1,_163_1,762,336,37,10,15
+0,_LYNN,_Lynn City Ward 5 Precinct 2,_163_2,522,91,15,7,5
+0,_LYNN,_Lynn City Ward 5 Precinct 3,_163_3,638,94,13,11,9
+0,_LYNN,_Lynn City Ward 5 Precinct 4,_163_4,938,306,27,18,17
+0,_LYNN,_Lynn City Ward 6 Precinct 1,_163_1,667,206,30,12,13
+0,_LYNN,_Lynn City Ward 6 Precinct 2,_163_2,519,103,16,9,9
+0,_LYNN,_Lynn City Ward 6 Precinct 3,_163_3,659,150,13,6,7
+0,_LYNN,_Lynn City Ward 6 Precinct 4,_163_4,636,165,15,6,8
+0,_LYNN,_Lynn City Ward 7 Precinct 1,_163_1,1070,547,41,21,17
+0,_LYNN,_Lynn City Ward 7 Precinct 2,_163_2,939,421,54,23,23
+0,_LYNN,_Lynn City Ward 7 Precinct 3,_163_3,690,337,31,12,10
+0,_LYNN,_Lynn City Ward 7 Precinct 4,_163_4,794,377,32,17,30
+0,_LYNNFIELD,_Lynnfield Town Precinct 1,_164_1,829,915,82,19,3
+0,_LYNNFIELD,_Lynnfield Town Precinct 2,_164_2,888,932,64,21,0
+0,_LYNNFIELD,_Lynnfield Town Precinct 3,_164_3,721,903,61,18,0
+0,_LYNNFIELD,_Lynnfield Town Precinct 4,_164_4,800,1079,90,14,5
+0,_MALDEN,_Malden City Ward 1 Precinct 1,_165_1,884,213,36,20,15
+0,_MALDEN,_Malden City Ward 1 Precinct 2,_165_2,1025,357,43,27,25
+0,_MALDEN,_Malden City Ward 2 Precinct 1,_165_1,856,264,31,16,18
+0,_MALDEN,_Malden City Ward 2 Precinct 2,_165_2,908,458,41,15,14
+0,_MALDEN,_Malden City Ward 3 Precinct 1,_165_1,1182,358,48,26,25
+0,_MALDEN,_Malden City Ward 3 Precinct 2,_165_2,1269,462,68,35,31
+0,_MALDEN,_Malden City Ward 4 Precinct 1,_165_1,829,243,30,24,22
+0,_MALDEN,_Malden City Ward 4 Precinct 2,_165_2,694,186,22,17,19
+0,_MALDEN,_Malden City Ward 5 Precinct 1,_165_1,1018,313,28,21,33
+0,_MALDEN,_Malden City Ward 5 Precinct 2,_165_2,1244,515,61,28,28
+0,_MALDEN,_Malden City Ward 6 Precinct 1,_165_1,1067,444,40,23,17
+0,_MALDEN,_Malden City Ward 6 Precinct 2,_165_2,987,401,48,18,36
+0,_MALDEN,_Malden City Ward 7 Precinct 1,_165_1,941,216,21,12,14
+0,_MALDEN,_Malden City Ward 7 Precinct 2,_165_2,972,295,24,20,14
+0,_MALDEN,_Malden City Ward 8 Precinct 1,_165_1,1034,457,57,17,20
+0,_MALDEN,_Malden City Ward 8 Precinct 2,_165_2,935,356,43,16,16
+0,_MANCHESTER,_Manchester-by-the-Sea Town Precinct 1,_166_1,2249,954,227,34,80
+0,_MANSFIELD,_Mansfield Town Precinct 1,_167_1,1142,952,112,22,22
+0,_MANSFIELD,_Mansfield Town Precinct 2,_167_2,1142,903,124,23,69
+0,_MANSFIELD,_Mansfield Town Precinct 3,_167_3,1239,961,116,21,0
+0,_MANSFIELD,_Mansfield Town Precinct 4,_167_4,1168,848,110,19,69
+0,_MANSFIELD,_Mansfield Town Precinct 5,_167_5,1056,702,112,31,0
+0,_MANSFIELD,_Mansfield Town Precinct 6,_167_6,1132,707,123,26,21
+0,_MARBLEHEAD,_Marblehead Town Precinct 1,_168_1,1420,614,105,17,38
+0,_MARBLEHEAD,_Marblehead Town Precinct 2,_168_2,1440,629,125,24,30
+0,_MARBLEHEAD,_Marblehead Town Precinct 3,_168_3,1235,623,97,21,43
+0,_MARBLEHEAD,_Marblehead Town Precinct 4,_168_4,1376,674,120,16,54
+0,_MARBLEHEAD,_Marblehead Town Precinct 5,_168_5,1322,608,92,17,33
+0,_MARBLEHEAD,_Marblehead Town Precinct 6,_168_6,1318,611,126,22,51
+0,_MARION,_Marion Town Precinct 1,_169_1,1861,1159,151,49,60
+0,_MARLBOROUGH,_Marlborough City Ward 1 Precinct 1,_170_1,761,352,40,8,10
+0,_MARLBOROUGH,_Marlborough City Ward 1 Precinct 2,_170_2,994,563,81,10,50
+0,_MARLBOROUGH,_Marlborough City Ward 2 Precinct 1,_170_1,813,492,87,19,14
+0,_MARLBOROUGH,_Marlborough City Ward 2 Precinct 2,_170_2,772,391,54,19,14
+0,_MARLBOROUGH,_Marlborough City Ward 3 Precinct 1,_170_1,589,309,71,13,14
+0,_MARLBOROUGH,_Marlborough City Ward 3 Precinct 2,_170_2,1004,562,72,25,27
+0,_MARLBOROUGH,_Marlborough City Ward 4 Precinct 1,_170_1,473,275,42,15,13
+0,_MARLBOROUGH,_Marlborough City Ward 4 Precinct 2,_170_2,872,554,91,18,37
+0,_MARLBOROUGH,_Marlborough City Ward 5 Precinct 1,_170_1,598,266,45,9,15
+0,_MARLBOROUGH,_Marlborough City Ward 5 Precinct 2,_170_2,822,457,86,22,20
+0,_MARLBOROUGH,_Marlborough City Ward 6 Precinct 1,_170_1,646,318,43,26,24
+0,_MARLBOROUGH,_Marlborough City Ward 6 Precinct 2,_170_2,865,608,91,13,34
+0,_MARLBOROUGH,_Marlborough City Ward 7 Precinct 1,_170_1,701,406,48,11,20
+0,_MARLBOROUGH,_Marlborough City Ward 7 Precinct 2,_170_2,667,406,67,17,28
+0,_MARSHFIELD,_Marshfield Town Precinct 1,_171_1,1083,1070,89,33,43
+0,_MARSHFIELD,_Marshfield Town Precinct 2,_171_2,1034,1083,107,25,45
+0,_MARSHFIELD,_Marshfield Town Precinct 3,_171_3,1036,957,94,32,45
+0,_MARSHFIELD,_Marshfield Town Precinct 4,_171_4,1041,936,75,18,7
+0,_MARSHFIELD,_Marshfield Town Precinct 5,_171_5,921,933,96,29,31
+0,_MARSHFIELD,_Marshfield Town Precinct 6,_171_6,1118,1145,123,27,45
+0,_MARSHFIELD,_Marshfield Town Precinct 7,_171_7,1110,1091,113,17,40
+0,_MASHPEE,_Mashpee Town Precinct 1,_172_1,1128,824,73,26,1
+0,_MASHPEE,_Mashpee Town Precinct 2,_172_2,804,720,61,23,12
+0,_MASHPEE,_Mashpee Town Precinct 3,_172_3,710,640,65,27,8
+0,_MASHPEE,_Mashpee Town Precinct 4,_172_4,890,674,70,19,15
+0,_MASHPEE,_Mashpee Town Precinct 5,_172_5,916,981,78,24,39
+0,_MATTAPOISETT,_Mattapoisett Town Precinct 1,_173_1,2125,1820,163,52,70
+0,_MAYNARD,_Maynard Town Precinct 1,_174_1,982,446,74,26,30
+0,_MAYNARD,_Maynard Town Precinct 2,_174_2,981,354,65,20,34
+0,_MAYNARD,_Maynard Town Precinct 3,_174_3,981,434,94,16,24
+0,_MAYNARD,_Maynard Town Precinct 4,_174_4,916,437,70,15,30
+0,_MEDFIELD,_Medfield Town Precinct 1,_175_1,1130,603,88,22,65
+0,_MEDFIELD,_Medfield Town Precinct 2,_175_2,1109,597,113,15,54
+0,_MEDFIELD,_Medfield Town Precinct 3,_175_3,1141,581,128,11,50
+0,_MEDFIELD,_Medfield Town Precinct 4,_175_4,1029,619,98,13,67
+0,_MEDFORD,_Medford City Ward 1 Precinct 1,_176_1,1221,499,57,11,28
+0,_MEDFORD,_Medford City Ward 1 Precinct 2,_176_2,1319,513,65,21,49
+0,_MEDFORD,_Medford City Ward 2 Precinct 1,_176_1,1198,626,59,25,37
+0,_MEDFORD,_Medford City Ward 2 Precinct 2,_176_2,1187,738,67,18,40
+0,_MEDFORD,_Medford City Ward 3 Precinct 1,_176_1,1376,670,60,26,36
+0,_MEDFORD,_Medford City Ward 3 Precinct 2,_176_2,1339,725,73,24,37
+0,_MEDFORD,_Medford City Ward 4 Precinct 1,_176_1,1013,167,30,23,19
+0,_MEDFORD,_Medford City Ward 4 Precinct 2,_176_2,1483,441,84,34,33
+0,_MEDFORD,_Medford City Ward 5 Precinct 1,_176_1,1447,350,66,30,42
+0,_MEDFORD,_Medford City Ward 5 Precinct 2,_176_2,1246,294,30,25,32
+0,_MEDFORD,_Medford City Ward 6 Precinct 1,_176_1,1793,344,54,31,58
+0,_MEDFORD,_Medford City Ward 6 Precinct 2,_176_2,1378,533,50,20,34
+0,_MEDFORD,_Medford City Ward 7 Precinct 1,_176_1,891,274,28,12,12
+0,_MEDFORD,_Medford City Ward 7 Precinct 2,_176_2,1122,426,46,18,29
+0,_MEDFORD,_Medford City Ward 8 Precinct 1,_176_1,1457,574,63,35,28
+0,_MEDFORD,_Medford City Ward 8 Precinct 2,_176_2,1220,497,65,25,37
+0,_MEDWAY,_Medway Town Precinct 1,_177_1,918,755,87,17,52
+0,_MEDWAY,_Medway Town Precinct 2,_177_2,1030,707,128,21,63
+0,_MEDWAY,_Medway Town Precinct 3,_177_3,1046,727,117,11,49
+0,_MEDWAY,_Medway Town Precinct 4,_177_4,1015,759,126,18,50
+0,_MELROSE,_Melrose City Ward 1 Precinct 1,_178_1,836,304,65,7,17
+0,_MELROSE,_Melrose City Ward 1 Precinct 2,_178_2,806,282,59,7,34
+0,_MELROSE,_Melrose City Ward 2 Precinct 1,_178_1,760,422,56,18,31
+0,_MELROSE,_Melrose City Ward 2 Precinct 2,_178_2,745,339,35,14,20
+0,_MELROSE,_Melrose City Ward 3 Precinct 1,_178_1,811,310,42,11,21
+0,_MELROSE,_Melrose City Ward 3 Precinct 2,_178_2,714,327,46,12,22
+0,_MELROSE,_Melrose City Ward 4 Precinct 1,_178_1,762,304,40,16,18
+0,_MELROSE,_Melrose City Ward 4 Precinct 2,_178_2,719,516,63,10,26
+0,_MELROSE,_Melrose City Ward 5 Precinct 1,_178_1,812,297,39,17,26
+0,_MELROSE,_Melrose City Ward 5 Precinct 2,_178_2,759,299,42,9,19
+0,_MELROSE,_Melrose City Ward 6 Precinct 1,_178_1,759,275,39,6,19
+0,_MELROSE,_Melrose City Ward 6 Precinct 2,_178_2,730,416,52,13,21
+0,_MELROSE,_Melrose City Ward 7 Precinct 1,_178_1,715,369,54,18,32
+0,_MELROSE,_Melrose City Ward 7 Precinct 2,_178_2,759,372,46,14,20
+0,_MENDON,_Mendon Town Precinct 1,_179_1,1530,1694,214,30,45
+0,_MERRIMAC,_Merrimac Town Precinct 1,_180_1,923,770,113,20,38
+0,_MERRIMAC,_Merrimac Town Precinct 2,_180_2,972,852,113,37,42
+0,_METHUEN,_Methuen Town Precinct 1,_181_1,994,821,56,21,37
+0,_METHUEN,_Methuen Town Precinct 10,_181_10,1066,741,78,12,19
+0,_METHUEN,_Methuen Town Precinct 11,_181_11,991,1241,91,28,31
+0,_METHUEN,_Methuen Town Precinct 12,_181_12,871,1001,82,12,23
+0,_METHUEN,_Methuen Town Precinct 2,_181_2,935,192,29,5,14
+0,_METHUEN,_Methuen Town Precinct 3,_181_3,937,773,67,17,5
+0,_METHUEN,_Methuen Town Precinct 4,_181_4,961,778,58,26,13
+0,_METHUEN,_Methuen Town Precinct 5,_181_5,977,600,50,17,19
+0,_METHUEN,_Methuen Town Precinct 6,_181_6,1041,670,67,21,14
+0,_METHUEN,_Methuen Town Precinct 7,_181_7,1004,996,84,19,18
+0,_METHUEN,_Methuen Town Precinct 8,_181_8,1001,1336,94,29,27
+0,_METHUEN,_Methuen Town Precinct 9,_181_9,884,1086,55,29,26
+0,_MIDDLEBOROUGH,_Middleborough Town Precinct 1,_182_1,1049,1417,108,24,42
+0,_MIDDLEBOROUGH,_Middleborough Town Precinct 2,_182_2,767,857,110,28,29
+0,_MIDDLEBOROUGH,_Middleborough Town Precinct 3,_182_3,860,1236,106,34,32
+0,_MIDDLEBOROUGH,_Middleborough Town Precinct 4,_182_4,692,818,109,32,35
+0,_MIDDLEBOROUGH,_Middleborough Town Precinct 5,_182_5,783,1243,130,26,14
+0,_MIDDLEBOROUGH,_Middleborough Town Precinct 6,_182_6,686,1012,113,20,26
+0,_MIDDLEFIELD,_Middlefield Town Precinct 1,_183_1,155,115,16,10,6
+0,_MIDDLETON,_Middleton Town Precinct 1,_184_1,1069,1315,97,19,37
+0,_MIDDLETON,_Middleton Town Precinct 2,_184_2,1090,1348,95,14,51
+0,_MILFORD,_Milford Town Precinct 1,_185_1,611,432,47,20,21
+0,_MILFORD,_Milford Town Precinct 2,_185_2,908,600,76,25,24
+0,_MILFORD,_Milford Town Precinct 3,_185_3,849,671,62,20,14
+0,_MILFORD,_Milford Town Precinct 4,_185_4,778,465,61,21,22
+0,_MILFORD,_Milford Town Precinct 5,_185_5,1131,887,87,18,46
+0,_MILFORD,_Milford Town Precinct 6,_185_6,960,648,70,21,26
+0,_MILFORD,_Milford Town Precinct 7,_185_7,1074,811,102,14,36
+0,_MILFORD,_Milford Town Precinct 8,_185_8,1059,723,96,20,38
+0,_MILLBURY,_Millbury Town Precinct 1,_186_1,749,815,95,21,21
+0,_MILLBURY,_Millbury Town Precinct 2,_186_2,888,1042,89,19,20
+0,_MILLBURY,_Millbury Town Precinct 3,_186_3,782,832,114,28,17
+0,_MILLBURY,_Millbury Town Precinct 4,_186_4,743,756,96,15,24
+0,_MILLIS,_Millis Town Precinct 1,_187_1,864,636,88,20,34
+0,_MILLIS,_Millis Town Precinct 2,_187_2,882,615,115,16,35
+0,_MILLIS,_Millis Town Precinct 3,_187_3,874,639,106,22,22
+0,_MILLVILLE,_Millville Town Precinct 1,_188_1,624,874,103,28,5
+0,_MILTON,_Milton Town Precinct 1,_189_1,1303,211,47,20,17
+0,_MILTON,_Milton Town Precinct 10,_189_10,967,189,24,6,15
+0,_MILTON,_Milton Town Precinct 2,_189_2,1376,235,64,13,41
+0,_MILTON,_Milton Town Precinct 3,_189_3,1230,446,86,10,38
+0,_MILTON,_Milton Town Precinct 4,_189_4,1224,349,46,24,34
+0,_MILTON,_Milton Town Precinct 5,_189_5,897,330,59,4,30
+0,_MILTON,_Milton Town Precinct 6,_189_6,1009,636,68,25,38
+0,_MILTON,_Milton Town Precinct 7,_189_7,907,556,76,19,25
+0,_MILTON,_Milton Town Precinct 8,_189_8,966,637,60,10,43
+0,_MILTON,_Milton Town Precinct 9,_189_9,873,697,65,18,34
+0,_MONROE,_Monroe Town Precinct 1,_190_1,25,26,5,2,1
+0,_MONSON,_Monson Town Precinct A,_191_A,625,784,76,28,25
+0,_MONSON,_Monson Town Precinct B,_191_B,622,736,85,39,31
+0,_MONSON,_Monson Town Precinct C,_191_C,675,739,84,41,28
+0,_MONTAGUE,_Montague Town Precinct 1,_192_1,729,182,31,31,5
+0,_MONTAGUE,_Montague Town Precinct 2,_192_2,418,206,50,56,7
+0,_MONTAGUE,_Montague Town Precinct 3,_192_3,411,218,38,12,14
+0,_MONTAGUE,_Montague Town Precinct 4,_192_4,490,208,37,24,6
+0,_MONTAGUE,_Montague Town Precinct 5,_192_5,388,91,27,27,10
+0,_MONTAGUE,_Montague Town Precinct 6,_192_6,422,190,30,31,12
+0,_MONTEREY,_Monterey Town Precinct 1,_193_1,417,88,20,12,6
+0,_MONTGOMERY,_Montgomery Town Precinct 1,_194_1,199,281,32,12,2
+0,_MOUNT WASHINGTON,_Mount Washington Town Precinct 1,_195_1,76,19,5,4,2
+0,_NAHANT,_Nahant Town Precinct 1,_196_1,1347,864,87,23,28
+0,_NANTUCKET,_Nantucket Town Precinct 1,_197_1,4146,1892,260,108,102
+0,_NATICK,_Natick Town Precinct 1,_198_1,974,260,61,20,31
+0,_NATICK,_Natick Town Precinct 10,_198_10,1642,575,108,18,65
+0,_NATICK,_Natick Town Precinct 2,_198_2,1459,525,92,26,48
+0,_NATICK,_Natick Town Precinct 3,_198_3,1324,556,100,12,31
+0,_NATICK,_Natick Town Precinct 4,_198_4,1229,441,92,27,50
+0,_NATICK,_Natick Town Precinct 5,_198_5,1258,581,87,19,41
+0,_NATICK,_Natick Town Precinct 6,_198_6,1246,532,59,24,47
+0,_NATICK,_Natick Town Precinct 7,_198_7,1478,457,63,23,47
+0,_NATICK,_Natick Town Precinct 8,_198_8,1407,497,107,32,50
+0,_NATICK,_Natick Town Precinct 9,_198_9,1403,446,84,21,56
+0,_NEEDHAM,_Needham Town Precinct A,_199_A,1086,443,44,14,44
+0,_NEEDHAM,_Needham Town Precinct B,_199_B,1224,462,85,12,37
+0,_NEEDHAM,_Needham Town Precinct C,_199_C,1281,369,83,15,51
+0,_NEEDHAM,_Needham Town Precinct D,_199_D,1268,415,59,17,52
+0,_NEEDHAM,_Needham Town Precinct E,_199_E,1277,420,110,14,47
+0,_NEEDHAM,_Needham Town Precinct F,_199_F,1312,376,67,23,37
+0,_NEEDHAM,_Needham Town Precinct G,_199_G,1336,369,86,11,64
+0,_NEEDHAM,_Needham Town Precinct H,_199_H,1285,445,68,17,43
+0,_NEEDHAM,_Needham Town Precinct I,_199_I,1396,312,71,12,53
+0,_NEEDHAM,_Needham Town Precinct J,_199_J,1332,408,73,15,42
+0,_NEW ASHFORD,_New Ashford Town Precinct 1,_200_1,101,39,14,6,0
+0,_NEW BEDFORD,_New Bedford City Ward 1 Precinct A,_201_A,610,476,46,23,20
+0,_NEW BEDFORD,_New Bedford City Ward 1 Precinct B,_201_B,624,493,30,10,13
+0,_NEW BEDFORD,_New Bedford City Ward 1 Precinct C,_201_C,656,470,41,15,16
+0,_NEW BEDFORD,_New Bedford City Ward 1 Precinct D,_201_D,621,534,34,16,15
+0,_NEW BEDFORD,_New Bedford City Ward 1 Precinct E,_201_E,626,431,31,17,19
+0,_NEW BEDFORD,_New Bedford City Ward 1 Precinct F,_201_F,658,539,49,19,17
+0,_NEW BEDFORD,_New Bedford City Ward 2 Precinct A,_201_A,272,74,6,4,1
+0,_NEW BEDFORD,_New Bedford City Ward 2 Precinct B,_201_B,540,237,21,16,9
+0,_NEW BEDFORD,_New Bedford City Ward 2 Precinct C,_201_C,378,210,19,11,14
+0,_NEW BEDFORD,_New Bedford City Ward 2 Precinct D,_201_D,435,333,26,14,15
+0,_NEW BEDFORD,_New Bedford City Ward 2 Precinct E,_201_E,529,374,41,24,15
+0,_NEW BEDFORD,_New Bedford City Ward 2 Precinct F,_201_F,547,344,30,19,16
+0,_NEW BEDFORD,_New Bedford City Ward 3 Precinct A,_201_A,394,121,8,12,4
+0,_NEW BEDFORD,_New Bedford City Ward 3 Precinct B,_201_B,537,119,17,19,13
+0,_NEW BEDFORD,_New Bedford City Ward 3 Precinct C,_201_C,436,169,18,17,6
+0,_NEW BEDFORD,_New Bedford City Ward 3 Precinct D,_201_D,533,209,22,5,14
+0,_NEW BEDFORD,_New Bedford City Ward 3 Precinct E,_201_E,714,392,35,20,15
+0,_NEW BEDFORD,_New Bedford City Ward 3 Precinct F,_201_F,699,342,31,24,12
+0,_NEW BEDFORD,_New Bedford City Ward 4 Precinct A,_201_A,559,80,6,8,7
+0,_NEW BEDFORD,_New Bedford City Ward 4 Precinct B,_201_B,801,226,29,19,13
+0,_NEW BEDFORD,_New Bedford City Ward 4 Precinct C,_201_C,787,182,25,24,19
+0,_NEW BEDFORD,_New Bedford City Ward 4 Precinct D,_201_D,637,228,19,25,18
+0,_NEW BEDFORD,_New Bedford City Ward 4 Precinct E,_201_E,539,256,36,21,12
+0,_NEW BEDFORD,_New Bedford City Ward 4 Precinct F,_201_F,646,185,26,15,12
+0,_NEW BEDFORD,_New Bedford City Ward 5 Precinct A,_201_A,483,197,22,14,13
+0,_NEW BEDFORD,_New Bedford City Ward 5 Precinct B,_201_B,717,233,25,14,27
+0,_NEW BEDFORD,_New Bedford City Ward 5 Precinct C,_201_C,551,304,26,15,11
+0,_NEW BEDFORD,_New Bedford City Ward 5 Precinct D,_201_D,811,299,31,21,21
+0,_NEW BEDFORD,_New Bedford City Ward 5 Precinct E,_201_E,822,501,38,18,12
+0,_NEW BEDFORD,_New Bedford City Ward 5 Precinct F,_201_F,795,429,53,26,23
+0,_NEW BEDFORD,_New Bedford City Ward 6 Precinct A,_201_A,634,414,27,21,16
+0,_NEW BEDFORD,_New Bedford City Ward 6 Precinct B,_201_B,589,337,28,19,14
+0,_NEW BEDFORD,_New Bedford City Ward 6 Precinct C,_201_C,395,101,3,6,4
+0,_NEW BEDFORD,_New Bedford City Ward 6 Precinct D,_201_D,311,115,11,7,8
+0,_NEW BEDFORD,_New Bedford City Ward 6 Precinct E,_201_E,432,150,16,6,6
+0,_NEW BEDFORD,_New Bedford City Ward 6 Precinct F,_201_F,494,223,29,22,15
+0,_NEW BRAINTREE,_New Braintree Town Precinct 1,_202_1,246,326,22,18,6
+0,_NEW MARLBOROUGH,_New Marlborough Town Precinct 1,_203_1,564,218,34,35,11
+0,_NEW SALEM,_New Salem Town Precinct 1,_204_1,337,208,28,22,13
+0,_NEWBURY,_Newbury Town Precinct 1,_205_1,1290,793,94,38,43
+0,_NEWBURY,_Newbury Town Precinct 2,_205_2,1175,923,121,25,46
+0,_NEWBURYPORT,_Newburyport City Ward 1 Precinct 1,_206_1,1023,335,75,23,0
+0,_NEWBURYPORT,_Newburyport City Ward 1 Precinct 1P,_206_1P,266,204,26,4,0
+0,_NEWBURYPORT,_Newburyport City Ward 2 Precinct 1,_206_1,1412,400,70,25,0
+0,_NEWBURYPORT,_Newburyport City Ward 3 Precinct 1,_206_1,1260,463,64,18,0
+0,_NEWBURYPORT,_Newburyport City Ward 4 Precinct 1,_206_1,1386,501,88,25,0
+0,_NEWBURYPORT,_Newburyport City Ward 5 Precinct 1,_206_1,935,577,112,26,0
+0,_NEWBURYPORT,_Newburyport City Ward 6 Precinct 1,_206_1,1103,634,85,19,0
+0,_NEWTON,_Newton City Ward 1 Precinct 1,_207_1,912,394,40,20,33
+0,_NEWTON,_Newton City Ward 1 Precinct 2,_207_2,1206,201,35,19,29
+0,_NEWTON,_Newton City Ward 1 Precinct 3,_207_3,1224,162,55,17,21
+0,_NEWTON,_Newton City Ward 1 Precinct 4,_207_4,976,413,51,32,24
+0,_NEWTON,_Newton City Ward 2 Precinct 1,_207_1,1149,284,48,20,19
+0,_NEWTON,_Newton City Ward 2 Precinct 2,_207_2,840,154,40,15,11
+0,_NEWTON,_Newton City Ward 2 Precinct 3,_207_3,1428,193,43,17,24
+0,_NEWTON,_Newton City Ward 2 Precinct 4,_207_4,1389,197,43,15,28
+0,_NEWTON,_Newton City Ward 3 Precinct 1,_207_1,1252,295,53,9,30
+0,_NEWTON,_Newton City Ward 3 Precinct 2,_207_2,1300,184,65,8,25
+0,_NEWTON,_Newton City Ward 3 Precinct 3,_207_3,1138,364,46,18,23
+0,_NEWTON,_Newton City Ward 3 Precinct 4,_207_4,1136,370,36,16,22
+0,_NEWTON,_Newton City Ward 4 Precinct 1,_207_1,1083,253,49,10,23
+0,_NEWTON,_Newton City Ward 4 Precinct 2,_207_2,1141,174,35,16,18
+0,_NEWTON,_Newton City Ward 4 Precinct 3,_207_3,836,173,34,15,18
+0,_NEWTON,_Newton City Ward 4 Precinct 4,_207_4,1030,315,48,25,19
+0,_NEWTON,_Newton City Ward 5 Precinct 1,_207_1,1044,246,53,20,20
+0,_NEWTON,_Newton City Ward 5 Precinct 2,_207_2,1260,164,35,15,13
+0,_NEWTON,_Newton City Ward 5 Precinct 3,_207_3,1497,202,60,8,27
+0,_NEWTON,_Newton City Ward 5 Precinct 4,_207_4,1468,201,51,10,33
+0,_NEWTON,_Newton City Ward 6 Precinct 1,_207_1,1030,284,41,15,30
+0,_NEWTON,_Newton City Ward 6 Precinct 2,_207_2,1313,170,45,21,16
+0,_NEWTON,_Newton City Ward 6 Precinct 3,_207_3,1455,151,32,21,22
+0,_NEWTON,_Newton City Ward 6 Precinct 4,_207_4,1483,156,67,27,36
+0,_NEWTON,_Newton City Ward 7 Precinct 1,_207_1,1038,228,49,20,39
+0,_NEWTON,_Newton City Ward 7 Precinct 2,_207_2,1418,234,61,20,28
+0,_NEWTON,_Newton City Ward 7 Precinct 3,_207_3,496,71,17,4,12
+0,_NEWTON,_Newton City Ward 7 Precinct 4,_207_4,590,139,28,4,22
+0,_NEWTON,_Newton City Ward 8 Precinct 1,_207_1,1245,420,64,14,33
+0,_NEWTON,_Newton City Ward 8 Precinct 2,_207_2,1133,386,58,16,24
+0,_NEWTON,_Newton City Ward 8 Precinct 3,_207_3,1192,339,55,19,24
+0,_NEWTON,_Newton City Ward 8 Precinct 4,_207_4,761,247,29,8,15
+0,_NORFOLK,_Norfolk Town Precinct 1,_208_1,609,555,78,15,49
+0,_NORFOLK,_Norfolk Town Precinct 2,_208_2,1313,1002,187,30,63
+0,_NORFOLK,_Norfolk Town Precinct 3,_208_3,1034,901,126,15,79
+0,_NORTH ADAMS,_North Adams City Ward 1 Precinct 1,_209_1,793,367,51,31,20
+0,_NORTH ADAMS,_North Adams City Ward 2 Precinct 2,_209_2,721,270,42,40,20
+0,_NORTH ADAMS,_North Adams City Ward 3 Precinct 3,_209_3,669,218,40,37,17
+0,_NORTH ADAMS,_North Adams City Ward 4 Precinct 4,_209_4,816,414,49,29,16
+0,_NORTH ADAMS,_North Adams City Ward 5 Precinct 5,_209_5,731,301,59,35,21
+0,_NORTH ANDOVER,_North Andover Town Precinct 1,_210_1,1017,717,96,19,11
+0,_NORTH ANDOVER,_North Andover Town Precinct 2,_210_2,1098,823,126,24,9
+0,_NORTH ANDOVER,_North Andover Town Precinct 3,_210_3,1095,770,80,13,8
+0,_NORTH ANDOVER,_North Andover Town Precinct 4,_210_4,1242,859,122,14,9
+0,_NORTH ANDOVER,_North Andover Town Precinct 5,_210_5,818,540,79,10,5
+0,_NORTH ANDOVER,_North Andover Town Precinct 6,_210_6,1039,1005,103,7,6
+0,_NORTH ANDOVER,_North Andover Town Precinct 7,_210_7,1215,769,104,17,11
+0,_NORTH ANDOVER,_North Andover Town Precinct 8,_210_8,975,908,91,15,10
+0,_NORTH ATTLEBOROUGH,_North Attleborough Town Precinct 1,_211_1,668,596,64,26,30
+0,_NORTH ATTLEBOROUGH,_North Attleborough Town Precinct 2,_211_2,767,768,119,31,24
+0,_NORTH ATTLEBOROUGH,_North Attleborough Town Precinct 3,_211_3,753,846,113,30,39
+0,_NORTH ATTLEBOROUGH,_North Attleborough Town Precinct 4,_211_4,694,541,70,28,25
+0,_NORTH ATTLEBOROUGH,_North Attleborough Town Precinct 5,_211_5,705,689,105,23,22
+0,_NORTH ATTLEBOROUGH,_North Attleborough Town Precinct 6,_211_6,882,814,110,23,41
+0,_NORTH ATTLEBOROUGH,_North Attleborough Town Precinct 7,_211_7,914,872,107,20,38
+0,_NORTH ATTLEBOROUGH,_North Attleborough Town Precinct 8,_211_8,881,802,89,14,34
+0,_NORTH ATTLEBOROUGH,_North Attleborough Town Precinct 9,_211_9,795,788,86,31,25
+0,_NORTH BROOKFIELD,_North Brookfield Town Precinct 1,_212_1,907,1413,160,36,40
+0,_NORTH READING,_North Reading Town Precinct 1,_213_1,1066,1023,134,15,36
+0,_NORTH READING,_North Reading Town Precinct 2,_213_2,1018,920,124,33,34
+0,_NORTH READING,_North Reading Town Precinct 3,_213_3,1067,1031,102,14,37
+0,_NORTH READING,_North Reading Town Precinct 4,_213_4,1132,1012,110,25,54
+0,_NORTHAMPTON,_Northampton City Ward 1 Precinct A,_214_A,817,106,24,41,19
+0,_NORTHAMPTON,_Northampton City Ward 1 Precinct B,_214_B,1113,173,27,47,15
+0,_NORTHAMPTON,_Northampton City Ward 2 Precinct A,_214_A,1115,48,22,40,15
+0,_NORTHAMPTON,_Northampton City Ward 2 Precinct B,_214_B,694,41,11,30,0
+0,_NORTHAMPTON,_Northampton City Ward 3 Precinct A,_214_A,1104,100,29,85,16
+0,_NORTHAMPTON,_Northampton City Ward 3 Precinct B,_214_B,1000,97,31,72,27
+0,_NORTHAMPTON,_Northampton City Ward 4 Precinct A,_214_A,810,52,18,70,14
+0,_NORTHAMPTON,_Northampton City Ward 4 Precinct B,_214_B,974,82,11,67,22
+0,_NORTHAMPTON,_Northampton City Ward 5 Precinct A,_214_A,948,137,14,26,15
+0,_NORTHAMPTON,_Northampton City Ward 5 Precinct B,_214_B,998,114,18,25,17
+0,_NORTHAMPTON,_Northampton City Ward 6 Precinct A,_214_A,868,295,36,26,18
+0,_NORTHAMPTON,_Northampton City Ward 6 Precinct B,_214_B,1033,234,36,26,18
+0,_NORTHAMPTON,_Northampton City Ward 7 Precinct A,_214_A,1037,189,36,37,27
+0,_NORTHAMPTON,_Northampton City Ward 7 Precinct B,_214_B,1001,210,28,46,17
+0,_NORTHBOROUGH,_Northborough Town Precinct 1,_215_1,1335,751,140,32,50
+0,_NORTHBOROUGH,_Northborough Town Precinct 2,_215_2,1196,714,126,31,39
+0,_NORTHBOROUGH,_Northborough Town Precinct 3,_215_3,1319,721,120,18,47
+0,_NORTHBOROUGH,_Northborough Town Precinct 4,_215_4,1280,778,137,23,53
+0,_NORTHBRIDGE,_Northbridge Town Precinct 1,_216_1,857,994,146,27,39
+0,_NORTHBRIDGE,_Northbridge Town Precinct 2,_216_2,903,950,145,26,56
+0,_NORTHBRIDGE,_Northbridge Town Precinct 3,_216_3,763,832,120,21,26
+0,_NORTHBRIDGE,_Northbridge Town Precinct 4,_216_4,902,1201,163,30,54
+0,_NORTHFIELD,_Northfield Town Precinct 1,_217_1,1013,533,91,50,56
+0,_NORTON,_Norton Town Precinct 1,_218_1,996,1035,112,24,90
+0,_NORTON,_Norton Town Precinct 2,_218_2,971,977,96,25,24
+0,_NORTON,_Norton Town Precinct 3,_218_3,1007,876,98,29,27
+0,_NORTON,_Norton Town Precinct 4,_218_4,991,943,129,23,45
+0,_NORTON,_Norton Town Precinct 5,_218_5,590,597,61,12,38
+0,_NORWELL,_Norwell Town Precinct 1,_219_1,1003,926,95,18,50
+0,_NORWELL,_Norwell Town Precinct 2,_219_2,1130,991,104,16,56
+0,_NORWELL,_Norwell Town Precinct 3,_219_3,1144,920,123,22,64
+0,_NORWOOD,_Norwood Town Precinct 1,_220_1,1081,701,82,28,31
+0,_NORWOOD,_Norwood Town Precinct 2,_220_2,1003,625,57,17,32
+0,_NORWOOD,_Norwood Town Precinct 3,_220_3,1049,620,93,16,43
+0,_NORWOOD,_Norwood Town Precinct 4,_220_4,1115,721,87,24,44
+0,_NORWOOD,_Norwood Town Precinct 5,_220_5,893,403,65,14,24
+0,_NORWOOD,_Norwood Town Precinct 6,_220_6,821,513,51,26,49
+0,_NORWOOD,_Norwood Town Precinct 7,_220_7,905,660,66,17,29
+0,_NORWOOD,_Norwood Town Precinct 8,_220_8,1116,651,79,26,29
+0,_NORWOOD,_Norwood Town Precinct 9,_220_9,1017,798,76,16,43
+0,_OAK BLUFFS,_Oak Bluffs Town Precinct 1,_221_1,2098,738,87,44,42
+0,_OAKHAM,_Oakham Town Precinct 1,_222_1,435,633,72,19,8
+0,_ORANGE,_Orange Town Precinct 1,_223_1,714,799,117,39,20
+0,_ORANGE,_Orange Town Precinct 2,_223_2,773,751,105,39,10
+0,_ORLEANS,_Orleans Town Precinct 1,_224_1,2687,1511,192,65,76
+0,_OTIS,_Otis Town Precinct 1,_225_1,431,407,43,18,16
+0,_OXFORD,_Oxford Town Precinct 1,_226_1,703,882,107,23,39
+0,_OXFORD,_Oxford Town Precinct 2,_226_2,682,907,80,23,29
+0,_OXFORD,_Oxford Town Precinct 3,_226_3,707,920,126,19,41
+0,_OXFORD,_Oxford Town Precinct 4,_226_4,652,867,92,18,19
+0,_PALMER,_Palmer Town Precinct 1,_227_1,572,743,62,41,26
+0,_PALMER,_Palmer Town Precinct 1A,_227_1A,81,118,10,5,3
+0,_PALMER,_Palmer Town Precinct 2,_227_2,633,863,107,33,31
+0,_PALMER,_Palmer Town Precinct 3,_227_3,602,577,71,34,24
+0,_PALMER,_Palmer Town Precinct 4,_227_4,587,782,72,35,14
+0,_PAXTON,_Paxton Town Precinct 1,_228_1,1213,1197,151,38,61
+0,_PEABODY,_Peabody City Ward 1 Precinct 1,_229_1,847,644,91,12,38
+0,_PEABODY,_Peabody City Ward 1 Precinct 2,_229_2,841,860,62,18,28
+0,_PEABODY,_Peabody City Ward 1 Precinct 3,_229_3,838,846,69,23,29
+0,_PEABODY,_Peabody City Ward 2 Precinct 1,_229_1,765,333,33,16,27
+0,_PEABODY,_Peabody City Ward 2 Precinct 2,_229_2,729,368,32,12,16
+0,_PEABODY,_Peabody City Ward 2 Precinct 3,_229_3,696,630,53,22,40
+0,_PEABODY,_Peabody City Ward 3 Precinct 1,_229_1,670,288,37,10,15
+0,_PEABODY,_Peabody City Ward 3 Precinct 2,_229_2,759,458,44,17,16
+0,_PEABODY,_Peabody City Ward 3 Precinct 3,_229_3,806,580,52,18,31
+0,_PEABODY,_Peabody City Ward 4 Precinct 1,_229_1,771,632,76,12,32
+0,_PEABODY,_Peabody City Ward 4 Precinct 2,_229_2,791,599,51,13,29
+0,_PEABODY,_Peabody City Ward 4 Precinct 3,_229_3,455,372,16,8,16
+0,_PEABODY,_Peabody City Ward 4 Precinct 3A,_229_3A,924,410,26,8,18
+0,_PEABODY,_Peabody City Ward 5 Precinct 1,_229_1,834,848,53,16,29
+0,_PEABODY,_Peabody City Ward 5 Precinct 2,_229_2,673,692,36,16,21
+0,_PEABODY,_Peabody City Ward 5 Precinct 3,_229_3,784,712,53,5,35
+0,_PEABODY,_Peabody City Ward 6 Precinct 1,_229_1,756,928,58,19,32
+0,_PEABODY,_Peabody City Ward 6 Precinct 2,_229_2,734,908,61,11,25
+0,_PEABODY,_Peabody City Ward 6 Precinct 3,_229_3,722,928,59,6,27
+0,_PELHAM,_Pelham Town Precinct 1,_230_1,748,98,25,22,9
+0,_PEMBROKE,_Pembroke Town Precinct 1,_231_1,1049,1035,108,17,0
+0,_PEMBROKE,_Pembroke Town Precinct 2,_231_2,865,927,121,31,0
+0,_PEMBROKE,_Pembroke Town Precinct 3,_231_3,893,1034,116,34,0
+0,_PEMBROKE,_Pembroke Town Precinct 4,_231_4,948,954,131,14,0
+0,_PEMBROKE,_Pembroke Town Precinct 5,_231_5,875,963,112,27,0
+0,_PEPPERELL,_Pepperell Town Precinct 1,_232_1,965,1053,170,23,52
+0,_PEPPERELL,_Pepperell Town Precinct 2,_232_2,1023,1008,149,32,63
+0,_PEPPERELL,_Pepperell Town Precinct 3,_232_3,944,1037,136,29,59
+0,_PERU,_Peru Town Precinct 1,_233_1,255,207,34,8,9
+0,_PETERSHAM,_Petersham Town Precinct 1,_234_1,417,312,46,19,24
+0,_PHILLIPSTON,_Phillipston Town Precinct 1,_235_1,374,550,67,13,11
+0,_PITTSFIELD,_Pittsfield City Ward 1 Precinct A,_236_A,789,309,50,25,4
+0,_PITTSFIELD,_Pittsfield City Ward 1 Precinct B,_236_B,980,366,58,37,10
+0,_PITTSFIELD,_Pittsfield City Ward 2 Precinct A,_236_A,617,143,38,39,7
+0,_PITTSFIELD,_Pittsfield City Ward 2 Precinct B,_236_B,1048,370,46,36,20
+0,_PITTSFIELD,_Pittsfield City Ward 3 Precinct A,_236_A,1233,326,58,38,20
+0,_PITTSFIELD,_Pittsfield City Ward 3 Precinct B,_236_B,1248,414,73,40,12
+0,_PITTSFIELD,_Pittsfield City Ward 4 Precinct A,_236_A,1162,402,59,46,25
+0,_PITTSFIELD,_Pittsfield City Ward 4 Precinct B,_236_B,1342,528,71,26,18
+0,_PITTSFIELD,_Pittsfield City Ward 5 Precinct A,_236_A,959,273,44,49,30
+0,_PITTSFIELD,_Pittsfield City Ward 5 Precinct B,_236_B,1030,414,78,29,22
+0,_PITTSFIELD,_Pittsfield City Ward 6 Precinct A,_236_A,1115,328,44,39,25
+0,_PITTSFIELD,_Pittsfield City Ward 6 Precinct B,_236_B,713,253,27,36,17
+0,_PITTSFIELD,_Pittsfield City Ward 7 Precinct A,_236_A,658,226,47,40,15
+0,_PITTSFIELD,_Pittsfield City Ward 7 Precinct B,_236_B,1013,419,70,35,21
+0,_PLAINFIELD,_Plainfield Town Precinct 1,_237_1,263,107,13,18,7
+0,_PLAINVILLE,_Plainville Town Precinct 1,_238_1,797,735,102,25,32
+0,_PLAINVILLE,_Plainville Town Precinct 2,_238_2,710,708,97,14,30
+0,_PLAINVILLE,_Plainville Town Precinct 3,_238_3,709,780,106,29,32
+0,_PLYMOUTH,_Plymouth Town Precinct 1,_239_1,839,643,67,27,35
+0,_PLYMOUTH,_Plymouth Town Precinct 10,_239_10,677,661,67,18,26
+0,_PLYMOUTH,_Plymouth Town Precinct 11,_239_11,1126,1111,100,27,38
+0,_PLYMOUTH,_Plymouth Town Precinct 12,_239_12,963,1048,112,22,38
+0,_PLYMOUTH,_Plymouth Town Precinct 13,_239_13,1017,982,101,17,24
+0,_PLYMOUTH,_Plymouth Town Precinct 14,_239_14,887,1069,138,24,46
+0,_PLYMOUTH,_Plymouth Town Precinct 15,_239_15,2050,1587,169,22,108
+0,_PLYMOUTH,_Plymouth Town Precinct 2,_239_2,1040,879,98,48,37
+0,_PLYMOUTH,_Plymouth Town Precinct 3,_239_3,981,635,78,36,52
+0,_PLYMOUTH,_Plymouth Town Precinct 4,_239_4,1064,769,83,20,39
+0,_PLYMOUTH,_Plymouth Town Precinct 5,_239_5,1042,1073,119,21,36
+0,_PLYMOUTH,_Plymouth Town Precinct 6,_239_6,1102,944,113,39,38
+0,_PLYMOUTH,_Plymouth Town Precinct 7,_239_7,1005,953,114,36,41
+0,_PLYMOUTH,_Plymouth Town Precinct 8,_239_8,1045,1052,119,26,49
+0,_PLYMOUTH,_Plymouth Town Precinct 9,_239_9,764,903,119,39,45
+0,_PLYMPTON,_Plympton Town Precinct 1,_240_1,727,883,114,28,21
+0,_PRINCETON,_Princeton Town Precinct 1,_241_1,1183,898,124,35,50
+0,_PROVINCETOWN,_Provincetown Town Precinct 1,_242_1,2082,208,38,35,18
+0,_QUINCY,_Quincy City Ward 1 Precinct 1,_243_1,883,439,48,20,0
+0,_QUINCY,_Quincy City Ward 1 Precinct 2,_243_2,743,335,35,18,0
+0,_QUINCY,_Quincy City Ward 1 Precinct 3,_243_3,912,396,56,29,0
+0,_QUINCY,_Quincy City Ward 1 Precinct 4,_243_4,907,745,70,17,1
+0,_QUINCY,_Quincy City Ward 1 Precinct 5,_243_5,978,772,72,26,0
+0,_QUINCY,_Quincy City Ward 2 Precinct 1,_243_1,872,496,57,15,0
+0,_QUINCY,_Quincy City Ward 2 Precinct 2,_243_2,812,362,32,21,0
+0,_QUINCY,_Quincy City Ward 2 Precinct 3,_243_3,398,173,15,12,0
+0,_QUINCY,_Quincy City Ward 2 Precinct 3A,_243_3A,146,135,10,4,0
+0,_QUINCY,_Quincy City Ward 2 Precinct 4,_243_4,778,351,40,15,0
+0,_QUINCY,_Quincy City Ward 2 Precinct 5,_243_5,886,483,55,22,1
+0,_QUINCY,_Quincy City Ward 3 Precinct 1,_243_1,977,493,74,25,0
+0,_QUINCY,_Quincy City Ward 3 Precinct 2,_243_2,910,375,55,21,0
+0,_QUINCY,_Quincy City Ward 3 Precinct 3,_243_3,642,257,41,3,0
+0,_QUINCY,_Quincy City Ward 3 Precinct 4,_243_4,905,613,56,16,0
+0,_QUINCY,_Quincy City Ward 3 Precinct 5,_243_5,658,227,27,17,1
+0,_QUINCY,_Quincy City Ward 4 Precinct 1,_243_1,954,433,48,13,0
+0,_QUINCY,_Quincy City Ward 4 Precinct 2,_243_2,980,587,56,14,0
+0,_QUINCY,_Quincy City Ward 4 Precinct 3,_243_3,909,632,37,14,0
+0,_QUINCY,_Quincy City Ward 4 Precinct 4,_243_4,807,271,38,16,0
+0,_QUINCY,_Quincy City Ward 4 Precinct 5,_243_5,818,404,56,19,1
+0,_QUINCY,_Quincy City Ward 5 Precinct 1,_243_1,855,333,47,23,0
+0,_QUINCY,_Quincy City Ward 5 Precinct 2,_243_2,868,337,38,20,0
+0,_QUINCY,_Quincy City Ward 5 Precinct 3,_243_3,920,441,38,21,2
+0,_QUINCY,_Quincy City Ward 5 Precinct 4,_243_4,758,401,53,17,0
+0,_QUINCY,_Quincy City Ward 5 Precinct 5,_243_5,900,482,59,24,0
+0,_QUINCY,_Quincy City Ward 6 Precinct 1,_243_1,817,373,43,21,0
+0,_QUINCY,_Quincy City Ward 6 Precinct 2,_243_2,624,259,37,19,0
+0,_QUINCY,_Quincy City Ward 6 Precinct 3,_243_3,1013,561,60,14,0
+0,_QUINCY,_Quincy City Ward 6 Precinct 4,_243_4,827,330,39,24,0
+0,_QUINCY,_Quincy City Ward 6 Precinct 5,_243_5,1020,825,68,17,0
+0,_RANDOLPH,_Randolph Town Precinct 1,_244_1,974,263,30,13,6
+0,_RANDOLPH,_Randolph Town Precinct 10,_244_10,990,284,23,8,14
+0,_RANDOLPH,_Randolph Town Precinct 11,_244_11,957,348,33,19,13
+0,_RANDOLPH,_Randolph Town Precinct 12,_244_12,954,320,43,17,15
+0,_RANDOLPH,_Randolph Town Precinct 2,_244_2,930,158,22,13,12
+0,_RANDOLPH,_Randolph Town Precinct 3,_244_3,907,244,20,18,11
+0,_RANDOLPH,_Randolph Town Precinct 4,_244_4,988,289,26,13,16
+0,_RANDOLPH,_Randolph Town Precinct 5,_244_5,822,286,30,12,20
+0,_RANDOLPH,_Randolph Town Precinct 6,_244_6,908,235,21,10,11
+0,_RANDOLPH,_Randolph Town Precinct 7,_244_7,958,272,32,11,14
+0,_RANDOLPH,_Randolph Town Precinct 8,_244_8,1070,196,29,17,14
+0,_RANDOLPH,_Randolph Town Precinct 9,_244_9,1051,203,26,8,17
+0,_RAYNHAM,_Raynham Town Precinct 1,_245_1,762,821,88,14,17
+0,_RAYNHAM,_Raynham Town Precinct 1A,_245_1A,105,121,20,2,2
+0,_RAYNHAM,_Raynham Town Precinct 2,_245_2,710,862,62,15,27
+0,_RAYNHAM,_Raynham Town Precinct 2A,_245_2A,113,187,20,0,3
+0,_RAYNHAM,_Raynham Town Precinct 3,_245_3,818,969,94,22,32
+0,_RAYNHAM,_Raynham Town Precinct 4,_245_4,819,846,80,24,27
+0,_READING,_Reading Town Precinct 1,_246_1,1173,811,81,17,32
+0,_READING,_Reading Town Precinct 2,_246_2,1051,655,96,12,30
+0,_READING,_Reading Town Precinct 3,_246_3,1189,810,85,19,50
+0,_READING,_Reading Town Precinct 4,_246_4,1121,617,87,14,47
+0,_READING,_Reading Town Precinct 5,_246_5,1192,544,93,18,39
+0,_READING,_Reading Town Precinct 6,_246_6,893,555,62,13,36
+0,_READING,_Reading Town Precinct 7,_246_7,1167,666,93,23,45
+0,_READING,_Reading Town Precinct 8,_246_8,1062,715,84,26,49
+0,_REHOBOTH,_Rehoboth Town Precinct 1,_247_1,879,1173,126,39,30
+0,_REHOBOTH,_Rehoboth Town Precinct 2,_247_2,918,1180,104,38,28
+0,_REHOBOTH,_Rehoboth Town Precinct 3,_247_3,987,1221,92,33,6
+0,_REVERE,_Revere City Ward 1 Precinct 1,_248_1,763,357,42,24,20
+0,_REVERE,_Revere City Ward 1 Precinct 2,_248_2,678,323,14,11,16
+0,_REVERE,_Revere City Ward 1 Precinct 3,_248_3,693,314,22,16,17
+0,_REVERE,_Revere City Ward 2 Precinct 1,_248_1,622,188,19,17,10
+0,_REVERE,_Revere City Ward 2 Precinct 2,_248_2,575,201,16,19,5
+0,_REVERE,_Revere City Ward 2 Precinct 3,_248_3,340,58,6,11,1
+0,_REVERE,_Revere City Ward 2 Precinct 3A,_248_3A,120,43,3,1,7
+0,_REVERE,_Revere City Ward 3 Precinct 1,_248_1,662,423,24,7,15
+0,_REVERE,_Revere City Ward 3 Precinct 2,_248_2,694,350,22,14,18
+0,_REVERE,_Revere City Ward 3 Precinct 3,_248_3,676,406,18,13,7
+0,_REVERE,_Revere City Ward 4 Precinct 1,_248_1,698,436,31,16,9
+0,_REVERE,_Revere City Ward 4 Precinct 2,_248_2,659,351,27,11,10
+0,_REVERE,_Revere City Ward 4 Precinct 3,_248_3,699,471,32,8,10
+0,_REVERE,_Revere City Ward 5 Precinct 1,_248_1,512,413,26,14,10
+0,_REVERE,_Revere City Ward 5 Precinct 1A,_248_1A,338,227,12,8,6
+0,_REVERE,_Revere City Ward 5 Precinct 2,_248_2,319,203,13,7,11
+0,_REVERE,_Revere City Ward 5 Precinct 2A,_248_2A,350,122,13,5,1
+0,_REVERE,_Revere City Ward 5 Precinct 3,_248_3,688,403,28,7,8
+0,_REVERE,_Revere City Ward 6 Precinct 1,_248_1,632,664,31,10,17
+0,_REVERE,_Revere City Ward 6 Precinct 2,_248_2,656,684,21,11,16
+0,_REVERE,_Revere City Ward 6 Precinct 3,_248_3,590,258,26,9,32
+0,_RICHMOND,_Richmond Town Precinct 1,_249_1,706,218,28,26,15
+0,_ROCHESTER,_Rochester Town Precinct 1,_250_1,1368,1743,161,50,45
+0,_ROCKLAND,_Rockland Town Precinct 1,_251_1,811,753,84,19,37
+0,_ROCKLAND,_Rockland Town Precinct 2,_251_2,852,829,76,16,22
+0,_ROCKLAND,_Rockland Town Precinct 3,_251_3,583,515,67,21,25
+0,_ROCKLAND,_Rockland Town Precinct 4,_251_4,672,633,73,21,28
+0,_ROCKLAND,_Rockland Town Precinct 5,_251_5,705,774,76,18,40
+0,_ROCKLAND,_Rockland Town Precinct 6,_251_6,780,809,88,20,27
+0,_ROCKPORT,_Rockport Town Precinct 1,_252_1,773,338,46,25,24
+0,_ROCKPORT,_Rockport Town Precinct 2,_252_2,1103,464,74,27,28
+0,_ROCKPORT,_Rockport Town Precinct 3,_252_3,1246,569,105,27,43
+0,_ROWE,_Rowe Town Precinct 1,_253_1,122,99,7,7,3
+0,_ROWLEY,_Rowley Town Precinct 1,_254_1,1679,1809,221,53,96
+0,_ROYALSTON,_Royalston Town Precinct 1,_255_1,193,179,20,11,5
+0,_ROYALSTON,_Royalston Town Precinct 2,_255_2,121,142,12,5,5
+0,_RUSSELL,_Russell Town Precinct 1,_256_1,278,480,50,13,11
+0,_RUTLAND,_Rutland Town Precinct 1,_257_1,624,778,107,17,28
+0,_RUTLAND,_Rutland Town Precinct 2,_257_2,693,844,112,29,32
+0,_RUTLAND,_Rutland Town Precinct 3,_257_3,705,722,109,27,46
+0,_SALEM,_Salem City Ward 1 Precinct 1,_258_1,1270,468,69,42,31
+0,_SALEM,_Salem City Ward 1 Precinct 2,_258_2,836,83,19,14,9
+0,_SALEM,_Salem City Ward 2 Precinct 1,_258_1,1332,350,64,45,49
+0,_SALEM,_Salem City Ward 2 Precinct 2,_258_2,1428,298,73,39,45
+0,_SALEM,_Salem City Ward 3 Precinct 1,_258_1,939,329,46,34,23
+0,_SALEM,_Salem City Ward 3 Precinct 2,_258_2,902,476,41,12,21
+0,_SALEM,_Salem City Ward 4 Precinct 1,_258_1,941,503,51,21,25
+0,_SALEM,_Salem City Ward 4 Precinct 2,_258_2,890,590,52,20,17
+0,_SALEM,_Salem City Ward 5 Precinct 1,_258_1,1145,392,47,38,28
+0,_SALEM,_Salem City Ward 5 Precinct 2,_258_2,1066,277,50,34,16
+0,_SALEM,_Salem City Ward 6 Precinct 1,_258_1,1102,459,69,41,26
+0,_SALEM,_Salem City Ward 6 Precinct 2,_258_2,972,402,61,29,27
+0,_SALEM,_Salem City Ward 7 Precinct 1,_258_1,1067,366,59,21,23
+0,_SALEM,_Salem City Ward 7 Precinct 2,_258_2,1060,465,49,11,9
+0,_SALISBURY,_Salisbury Town Precinct 1,_259_1,825,740,78,25,36
+0,_SALISBURY,_Salisbury Town Precinct 2,_259_2,726,726,65,27,39
+0,_SALISBURY,_Salisbury Town Precinct 3,_259_3,547,783,73,19,28
+0,_SANDISFIELD,_Sandisfield Town Precinct 1,_260_1,254,190,22,12,4
+0,_SANDWICH,_Sandwich Town Precinct 1,_261_1,1247,988,76,31,34
+0,_SANDWICH,_Sandwich Town Precinct 2,_261_2,1160,990,76,23,29
+0,_SANDWICH,_Sandwich Town Precinct 3,_261_3,967,937,89,26,27
+0,_SANDWICH,_Sandwich Town Precinct 4,_261_4,946,1011,87,19,29
+0,_SANDWICH,_Sandwich Town Precinct 5,_261_5,899,936,103,22,22
+0,_SANDWICH,_Sandwich Town Precinct 6,_261_6,798,984,79,22,34
+0,_SAUGUS,_Saugus Town Precinct 1,_262_1,631,642,42,17,18
+0,_SAUGUS,_Saugus Town Precinct 10,_262_10,629,635,31,7,0
+0,_SAUGUS,_Saugus Town Precinct 2,_262_2,658,662,45,17,24
+0,_SAUGUS,_Saugus Town Precinct 3,_262_3,643,671,52,25,9
+0,_SAUGUS,_Saugus Town Precinct 4,_262_4,565,650,31,6,10
+0,_SAUGUS,_Saugus Town Precinct 5,_262_5,615,897,47,18,0
+0,_SAUGUS,_Saugus Town Precinct 6,_262_6,677,700,55,16,15
+0,_SAUGUS,_Saugus Town Precinct 7,_262_7,613,898,37,13,21
+0,_SAUGUS,_Saugus Town Precinct 8,_262_8,673,712,44,14,0
+0,_SAUGUS,_Saugus Town Precinct 9,_262_9,681,838,30,13,9
+0,_SAVOY,_Savoy Town Precinct 1,_263_1,184,163,24,11,2
+0,_SCITUATE,_Scituate Town Precinct 1,_264_1,1064,827,83,40,44
+0,_SCITUATE,_Scituate Town Precinct 2,_264_2,1054,764,97,16,38
+0,_SCITUATE,_Scituate Town Precinct 3,_264_3,1132,689,83,25,43
+0,_SCITUATE,_Scituate Town Precinct 4,_264_4,1065,812,90,20,28
+0,_SCITUATE,_Scituate Town Precinct 5,_264_5,1119,653,102,30,31
+0,_SCITUATE,_Scituate Town Precinct 6,_264_6,1078,712,87,15,38
+0,_SEEKONK,_Seekonk Town Precinct 1,_265_1,823,932,78,30,24
+0,_SEEKONK,_Seekonk Town Precinct 2,_265_2,1018,963,98,31,35
+0,_SEEKONK,_Seekonk Town Precinct 3,_265_3,907,846,65,22,28
+0,_SEEKONK,_Seekonk Town Precinct 4,_265_4,915,831,81,23,40
+0,_SHARON,_Sharon Town Precinct 1,_266_1,1557,438,84,33,46
+0,_SHARON,_Sharon Town Precinct 2,_266_2,1374,504,60,14,34
+0,_SHARON,_Sharon Town Precinct 3,_266_3,1535,512,104,18,62
+0,_SHARON,_Sharon Town Precinct 4,_266_4,1480,449,77,33,33
+0,_SHARON,_Sharon Town Precinct 5,_266_5,1273,544,79,26,12
+0,_SHEFFIELD,_Sheffield Town Precinct 1,_267_1,1242,530,80,46,17
+0,_SHELBURNE,_Shelburne Town Precinct 1,_268_1,821,230,49,51,26
+0,_SHERBORN,_Sherborn Town Precinct 1,_269_1,1766,617,197,23,41
+0,_SHIRLEY,_Shirley Town Precinct 1,_270_1,1637,1432,214,49,69
+0,_SHREWSBURY,_Shrewsbury Town Precinct 1,_271_1,1214,885,111,26,62
+0,_SHREWSBURY,_Shrewsbury Town Precinct 10,_271_10,1093,650,92,18,39
+0,_SHREWSBURY,_Shrewsbury Town Precinct 2,_271_2,967,639,78,13,21
+0,_SHREWSBURY,_Shrewsbury Town Precinct 3,_271_3,838,586,77,15,34
+0,_SHREWSBURY,_Shrewsbury Town Precinct 4,_271_4,1007,702,83,27,31
+0,_SHREWSBURY,_Shrewsbury Town Precinct 5,_271_5,999,532,74,25,38
+0,_SHREWSBURY,_Shrewsbury Town Precinct 6,_271_6,1131,692,96,20,28
+0,_SHREWSBURY,_Shrewsbury Town Precinct 7,_271_7,1234,860,130,18,80
+0,_SHREWSBURY,_Shrewsbury Town Precinct 8,_271_8,1262,808,106,20,50
+0,_SHREWSBURY,_Shrewsbury Town Precinct 9,_271_9,875,454,47,15,21
+0,_SHUTESBURY,_Shutesbury Town Precinct 1,_272_1,980,142,38,83,22
+0,_SOMERSET,_Somerset Town Precinct 1,_273_1,993,958,80,21,18
+0,_SOMERSET,_Somerset Town Precinct 2,_273_2,1070,972,62,26,26
+0,_SOMERSET,_Somerset Town Precinct 3,_273_3,1076,912,33,74,20
+0,_SOMERSET,_Somerset Town Precinct 4,_273_4,903,855,70,18,24
+0,_SOMERSET,_Somerset Town Precinct 5,_273_5,859,869,85,30,15
+0,_SOMERVILLE,_Somerville City Ward 1 Precinct 1,_274_1,1032,199,34,28,24
+0,_SOMERVILLE,_Somerville City Ward 1 Precinct 2,_274_2,1318,293,58,25,29
+0,_SOMERVILLE,_Somerville City Ward 1 Precinct 3,_274_3,1041,193,31,25,16
+0,_SOMERVILLE,_Somerville City Ward 2 Precinct 1,_274_1,1617,133,44,49,28
+0,_SOMERVILLE,_Somerville City Ward 2 Precinct 2,_274_2,1915,147,44,66,35
+0,_SOMERVILLE,_Somerville City Ward 2 Precinct 3,_274_3,1797,176,71,57,30
+0,_SOMERVILLE,_Somerville City Ward 3 Precinct 1,_274_1,1598,163,33,40,28
+0,_SOMERVILLE,_Somerville City Ward 3 Precinct 2,_274_2,1652,202,54,40,27
+0,_SOMERVILLE,_Somerville City Ward 3 Precinct 3,_274_3,1903,175,53,58,40
+0,_SOMERVILLE,_Somerville City Ward 4 Precinct 1,_274_1,1054,231,30,15,15
+0,_SOMERVILLE,_Somerville City Ward 4 Precinct 2,_274_2,1243,190,44,40,19
+0,_SOMERVILLE,_Somerville City Ward 4 Precinct 3,_274_3,1432,233,48,33,35
+0,_SOMERVILLE,_Somerville City Ward 5 Precinct 1,_274_1,1643,260,63,45,31
+0,_SOMERVILLE,_Somerville City Ward 5 Precinct 2,_274_2,1956,227,77,42,29
+0,_SOMERVILLE,_Somerville City Ward 5 Precinct 3,_274_3,2000,182,66,44,44
+0,_SOMERVILLE,_Somerville City Ward 6 Precinct 1,_274_1,2183,159,79,50,36
+0,_SOMERVILLE,_Somerville City Ward 6 Precinct 2,_274_2,2012,179,75,58,35
+0,_SOMERVILLE,_Somerville City Ward 6 Precinct 3,_274_3,1270,120,40,32,19
+0,_SOMERVILLE,_Somerville City Ward 7 Precinct 1,_274_1,1974,203,69,33,30
+0,_SOMERVILLE,_Somerville City Ward 7 Precinct 2,_274_2,1535,171,40,32,23
+0,_SOMERVILLE,_Somerville City Ward 7 Precinct 3,_274_3,1565,292,56,29,29
+0,_SOUTH HADLEY,_South Hadley Town Precinct A,_275_A,1053,645,85,49,48
+0,_SOUTH HADLEY,_South Hadley Town Precinct B,_275_B,1161,715,69,37,35
+0,_SOUTH HADLEY,_South Hadley Town Precinct C,_275_C,1016,815,117,27,37
+0,_SOUTH HADLEY,_South Hadley Town Precinct D,_275_D,812,344,34,24,35
+0,_SOUTH HADLEY,_South Hadley Town Precinct E,_275_E,1166,735,78,43,32
+0,_SOUTHAMPTON,_Southampton Town Precinct 1,_276_1,1744,1692,193,64,92
+0,_SOUTHBOROUGH,_Southborough Town Precinct 1,_277_1,1236,653,121,20,45
+0,_SOUTHBOROUGH,_Southborough Town Precinct 2,_277_2,1128,615,102,23,63
+0,_SOUTHBOROUGH,_Southborough Town Precinct 3,_277_3,1166,630,105,13,62
+0,_SOUTHBRIDGE,_Southbridge Town Precinct 1,_278_1,769,510,85,25,20
+0,_SOUTHBRIDGE,_Southbridge Town Precinct 2,_278_2,722,411,66,15,21
+0,_SOUTHBRIDGE,_Southbridge Town Precinct 3,_278_3,685,600,64,21,18
+0,_SOUTHBRIDGE,_Southbridge Town Precinct 4,_278_4,811,764,111,22,35
+0,_SOUTHBRIDGE,_Southbridge Town Precinct 5,_278_5,727,301,48,27,19
+0,_SOUTHWICK,_Southwick Town Precinct 1,_279_1,644,1150,93,28,31
+0,_SOUTHWICK,_Southwick Town Precinct 2,_279_2,548,866,91,27,28
+0,_SOUTHWICK,_Southwick Town Precinct 3,_279_3,667,945,83,18,33
+0,_SPENCER,_Spencer Town Precinct 1,_280_1,593,748,74,11,17
+0,_SPENCER,_Spencer Town Precinct 2,_280_2,517,670,72,16,25
+0,_SPENCER,_Spencer Town Precinct 3,_280_3,542,859,71,29,35
+0,_SPENCER,_Spencer Town Precinct 4,_280_4,613,768,79,27,27
+0,_SPRINGFIELD,_Springfield City Ward 1 Precinct A,_281_A,664,25,8,9,2
+0,_SPRINGFIELD,_Springfield City Ward 1 Precinct B,_281_B,686,62,13,8,8
+0,_SPRINGFIELD,_Springfield City Ward 1 Precinct C,_281_C,550,47,9,11,7
+0,_SPRINGFIELD,_Springfield City Ward 1 Precinct D,_281_D,626,49,7,3,4
+0,_SPRINGFIELD,_Springfield City Ward 1 Precinct E,_281_E,694,62,13,7,5
+0,_SPRINGFIELD,_Springfield City Ward 1 Precinct F,_281_F,613,44,10,3,5
+0,_SPRINGFIELD,_Springfield City Ward 1 Precinct G,_281_G,674,69,16,16,8
+0,_SPRINGFIELD,_Springfield City Ward 1 Precinct H,_281_H,676,62,12,8,11
+0,_SPRINGFIELD,_Springfield City Ward 2 Precinct A,_281_A,577,105,9,9,8
+0,_SPRINGFIELD,_Springfield City Ward 2 Precinct B,_281_B,816,222,23,17,12
+0,_SPRINGFIELD,_Springfield City Ward 2 Precinct C,_281_C,532,127,17,17,13
+0,_SPRINGFIELD,_Springfield City Ward 2 Precinct D,_281_D,718,224,35,8,6
+0,_SPRINGFIELD,_Springfield City Ward 2 Precinct E,_281_E,648,238,32,17,15
+0,_SPRINGFIELD,_Springfield City Ward 2 Precinct F,_281_F,804,179,34,13,10
+0,_SPRINGFIELD,_Springfield City Ward 2 Precinct G,_281_G,717,313,33,19,16
+0,_SPRINGFIELD,_Springfield City Ward 2 Precinct H,_281_H,709,262,29,13,12
+0,_SPRINGFIELD,_Springfield City Ward 3 Precinct A,_281_A,545,68,5,12,8
+0,_SPRINGFIELD,_Springfield City Ward 3 Precinct B,_281_B,570,49,9,9,6
+0,_SPRINGFIELD,_Springfield City Ward 3 Precinct C,_281_C,429,44,3,12,8
+0,_SPRINGFIELD,_Springfield City Ward 3 Precinct D,_281_D,569,41,11,11,6
+0,_SPRINGFIELD,_Springfield City Ward 3 Precinct E,_281_E,481,46,11,9,7
+0,_SPRINGFIELD,_Springfield City Ward 3 Precinct F,_281_F,441,67,13,9,9
+0,_SPRINGFIELD,_Springfield City Ward 3 Precinct G,_281_G,401,49,11,8,7
+0,_SPRINGFIELD,_Springfield City Ward 3 Precinct H,_281_H,550,90,8,10,8
+0,_SPRINGFIELD,_Springfield City Ward 4 Precinct A,_281_A,678,77,20,10,8
+0,_SPRINGFIELD,_Springfield City Ward 4 Precinct B,_281_B,773,46,13,10,11
+0,_SPRINGFIELD,_Springfield City Ward 4 Precinct C,_281_C,618,19,8,10,5
+0,_SPRINGFIELD,_Springfield City Ward 4 Precinct D,_281_D,659,30,11,7,6
+0,_SPRINGFIELD,_Springfield City Ward 4 Precinct E,_281_E,584,28,8,10,5
+0,_SPRINGFIELD,_Springfield City Ward 4 Precinct F,_281_F,227,17,2,0,0
+0,_SPRINGFIELD,_Springfield City Ward 4 Precinct G,_281_G,769,54,12,8,12
+0,_SPRINGFIELD,_Springfield City Ward 4 Precinct H,_281_H,658,30,7,8,7
+0,_SPRINGFIELD,_Springfield City Ward 5 Precinct A,_281_A,712,64,12,8,9
+0,_SPRINGFIELD,_Springfield City Ward 5 Precinct B,_281_B,775,172,26,11,12
+0,_SPRINGFIELD,_Springfield City Ward 5 Precinct C,_281_C,612,209,21,19,21
+0,_SPRINGFIELD,_Springfield City Ward 5 Precinct D,_281_D,687,386,40,18,23
+0,_SPRINGFIELD,_Springfield City Ward 5 Precinct E,_281_E,897,174,22,17,9
+0,_SPRINGFIELD,_Springfield City Ward 5 Precinct F,_281_F,774,255,30,23,18
+0,_SPRINGFIELD,_Springfield City Ward 5 Precinct G,_281_G,680,488,47,12,27
+0,_SPRINGFIELD,_Springfield City Ward 5 Precinct H,_281_H,525,360,38,23,14
+0,_SPRINGFIELD,_Springfield City Ward 6 Precinct A,_281_A,581,113,16,6,7
+0,_SPRINGFIELD,_Springfield City Ward 6 Precinct B,_281_B,672,234,20,18,14
+0,_SPRINGFIELD,_Springfield City Ward 6 Precinct C,_281_C,597,212,29,16,14
+0,_SPRINGFIELD,_Springfield City Ward 6 Precinct D,_281_D,680,428,44,15,19
+0,_SPRINGFIELD,_Springfield City Ward 6 Precinct E,_281_E,539,91,19,13,9
+0,_SPRINGFIELD,_Springfield City Ward 6 Precinct F,_281_F,587,113,31,17,13
+0,_SPRINGFIELD,_Springfield City Ward 6 Precinct G,_281_G,560,184,19,23,11
+0,_SPRINGFIELD,_Springfield City Ward 6 Precinct H,_281_H,678,341,32,19,25
+0,_SPRINGFIELD,_Springfield City Ward 7 Precinct A,_281_A,638,335,37,11,9
+0,_SPRINGFIELD,_Springfield City Ward 7 Precinct B,_281_B,770,438,39,20,23
+0,_SPRINGFIELD,_Springfield City Ward 7 Precinct C,_281_C,717,427,51,16,29
+0,_SPRINGFIELD,_Springfield City Ward 7 Precinct D,_281_D,630,409,36,20,15
+0,_SPRINGFIELD,_Springfield City Ward 7 Precinct E,_281_E,650,184,20,15,8
+0,_SPRINGFIELD,_Springfield City Ward 7 Precinct F,_281_F,736,471,48,17,19
+0,_SPRINGFIELD,_Springfield City Ward 7 Precinct G,_281_G,683,532,56,25,25
+0,_SPRINGFIELD,_Springfield City Ward 7 Precinct H,_281_H,356,187,16,13,9
+0,_SPRINGFIELD,_Springfield City Ward 8 Precinct A,_281_A,623,264,45,14,7
+0,_SPRINGFIELD,_Springfield City Ward 8 Precinct B,_281_B,651,215,21,12,12
+0,_SPRINGFIELD,_Springfield City Ward 8 Precinct C,_281_C,776,121,27,8,10
+0,_SPRINGFIELD,_Springfield City Ward 8 Precinct D,_281_D,480,113,18,10,7
+0,_SPRINGFIELD,_Springfield City Ward 8 Precinct E,_281_E,501,152,20,16,16
+0,_SPRINGFIELD,_Springfield City Ward 8 Precinct F,_281_F,575,280,32,17,9
+0,_SPRINGFIELD,_Springfield City Ward 8 Precinct G,_281_G,681,265,19,15,17
+0,_SPRINGFIELD,_Springfield City Ward 8 Precinct H,_281_H,662,169,26,12,10
+0,_STERLING,_Sterling Town Precinct 1,_282_1,1081,1083,176,29,42
+0,_STERLING,_Sterling Town Precinct 2,_282_2,1081,1244,168,35,52
+0,_STOCKBRIDGE,_Stockbridge Town Precinct 1,_283_1,965,252,29,30,16
+0,_STONEHAM,_Stoneham Town Precinct 1,_284_1,970,697,74,17,0
+0,_STONEHAM,_Stoneham Town Precinct 2,_284_2,1093,685,77,17,0
+0,_STONEHAM,_Stoneham Town Precinct 3,_284_3,1069,874,81,17,0
+0,_STONEHAM,_Stoneham Town Precinct 4,_284_4,877,699,71,10,0
+0,_STONEHAM,_Stoneham Town Precinct 5,_284_5,946,840,68,11,0
+0,_STONEHAM,_Stoneham Town Precinct 6,_284_6,986,756,72,20,0
+0,_STONEHAM,_Stoneham Town Precinct 7,_284_7,1021,692,82,18,0
+0,_STOUGHTON,_Stoughton Town Precinct 1,_285_1,1220,642,69,21,35
+0,_STOUGHTON,_Stoughton Town Precinct 2,_285_2,1032,597,56,25,11
+0,_STOUGHTON,_Stoughton Town Precinct 3,_285_3,1058,628,70,16,0
+0,_STOUGHTON,_Stoughton Town Precinct 4,_285_4,1084,839,80,17,29
+0,_STOUGHTON,_Stoughton Town Precinct 5,_285_5,908,598,55,24,0
+0,_STOUGHTON,_Stoughton Town Precinct 6,_285_6,1311,714,83,23,12
+0,_STOUGHTON,_Stoughton Town Precinct 7,_285_7,982,483,67,20,11
+0,_STOUGHTON,_Stoughton Town Precinct 8,_285_8,856,419,62,16,21
+0,_STOW,_Stow Town Precinct 1,_286_1,1391,686,135,34,56
+0,_STOW,_Stow Town Precinct 2,_286_2,1317,575,151,36,50
+0,_STURBRIDGE,_Sturbridge Town Precinct 1,_287_1,904,765,94,29,35
+0,_STURBRIDGE,_Sturbridge Town Precinct 2,_287_2,872,861,117,30,34
+0,_STURBRIDGE,_Sturbridge Town Precinct 3,_287_3,758,789,109,30,34
+0,_SUDBURY,_Sudbury Town Precinct 1,_288_1,1111,396,85,10,42
+0,_SUDBURY,_Sudbury Town Precinct 1A,_288_1A,381,144,32,5,22
+0,_SUDBURY,_Sudbury Town Precinct 2,_288_2,1364,461,80,23,56
+0,_SUDBURY,_Sudbury Town Precinct 3,_288_3,1527,578,99,20,45
+0,_SUDBURY,_Sudbury Town Precinct 4,_288_4,1574,444,98,16,67
+0,_SUDBURY,_Sudbury Town Precinct 5,_288_5,1445,487,79,12,57
+0,_SUNDERLAND,_Sunderland Town Precinct 1,_289_1,1353,387,82,62,31
+0,_SUTTON,_Sutton Town Precinct 1,_290_1,789,1017,108,19,37
+0,_SUTTON,_Sutton Town Precinct 2,_290_2,706,982,105,22,40
+0,_SUTTON,_Sutton Town Precinct 3,_290_3,817,882,100,20,33
+0,_SWAMPSCOTT,_Swampscott Town Precinct 1,_291_1,784,506,33,15,11
+0,_SWAMPSCOTT,_Swampscott Town Precinct 2,_291_2,1008,413,63,22,35
+0,_SWAMPSCOTT,_Swampscott Town Precinct 3,_291_3,842,375,50,25,10
+0,_SWAMPSCOTT,_Swampscott Town Precinct 4,_291_4,1038,399,53,14,16
+0,_SWAMPSCOTT,_Swampscott Town Precinct 5,_291_5,890,436,67,20,29
+0,_SWAMPSCOTT,_Swampscott Town Precinct 6,_291_6,992,457,70,4,15
+0,_SWANSEA,_Swansea Town Precinct 1,_292_1,793,945,54,16,21
+0,_SWANSEA,_Swansea Town Precinct 2,_292_2,841,791,64,24,22
+0,_SWANSEA,_Swansea Town Precinct 3,_292_3,797,800,53,20,23
+0,_SWANSEA,_Swansea Town Precinct 4,_292_4,763,905,49,25,20
+0,_SWANSEA,_Swansea Town Precinct 5,_292_5,734,910,65,18,25
+0,_TAUNTON,_Taunton City Ward 1 Precinct A,_293_A,720,495,71,25,17
+0,_TAUNTON,_Taunton City Ward 1 Precinct B,_293_B,798,793,71,18,26
+0,_TAUNTON,_Taunton City Ward 2 Precinct A,_293_A,624,289,44,13,20
+0,_TAUNTON,_Taunton City Ward 2 Precinct B,_293_B,699,431,48,19,19
+0,_TAUNTON,_Taunton City Ward 3 Precinct A,_293_A,785,521,47,22,19
+0,_TAUNTON,_Taunton City Ward 3 Precinct B,_293_B,929,737,80,29,28
+0,_TAUNTON,_Taunton City Ward 4 Precinct A,_293_A,736,833,84,33,36
+0,_TAUNTON,_Taunton City Ward 4 Precinct B,_293_B,777,652,72,22,35
+0,_TAUNTON,_Taunton City Ward 5 Precinct A,_293_A,705,458,60,30,11
+0,_TAUNTON,_Taunton City Ward 5 Precinct B,_293_B,694,393,46,25,23
+0,_TAUNTON,_Taunton City Ward 6 Precinct A,_293_A,582,414,42,13,17
+0,_TAUNTON,_Taunton City Ward 6 Precinct B,_293_B,860,584,62,18,22
+0,_TAUNTON,_Taunton City Ward 7 Precinct A,_293_A,876,733,68,26,27
+0,_TAUNTON,_Taunton City Ward 7 Precinct B,_293_B,817,922,93,25,38
+0,_TAUNTON,_Taunton City Ward 8 Precinct A,_293_A,856,836,72,18,26
+0,_TAUNTON,_Taunton City Ward 8 Precinct B,_293_B,907,882,82,26,24
+0,_TEMPLETON,_Templeton Town Precinct A,_294_A,550,768,105,16,27
+0,_TEMPLETON,_Templeton Town Precinct B,_294_B,502,708,96,25,24
+0,_TEMPLETON,_Templeton Town Precinct C,_294_C,469,592,71,18,29
+0,_TEWKSBURY,_Tewksbury Town Precinct 1,_295_1,911,971,89,26,41
+0,_TEWKSBURY,_Tewksbury Town Precinct 1A,_295_1A,930,1117,101,22,51
+0,_TEWKSBURY,_Tewksbury Town Precinct 2,_295_2,894,1023,97,24,47
+0,_TEWKSBURY,_Tewksbury Town Precinct 2A,_295_2A,784,983,84,32,32
+0,_TEWKSBURY,_Tewksbury Town Precinct 3,_295_3,1060,1171,109,20,39
+0,_TEWKSBURY,_Tewksbury Town Precinct 3A,_295_3A,1072,1142,116,12,35
+0,_TEWKSBURY,_Tewksbury Town Precinct 4,_295_4,956,1029,121,19,44
+0,_TEWKSBURY,_Tewksbury Town Precinct 4A,_295_4A,995,996,126,28,36
+0,_TISBURY,_Tisbury Town Precinct 1,_296_1,1942,476,72,83,36
+0,_TOLLAND,_Tolland Town Precinct 1,_297_1,101,190,8,8,7
+0,_TOPSFIELD,_Topsfield Town Precinct 1,_298_1,2100,1566,214,34,100
+0,_TOWNSEND,_Townsend Town Precinct 1,_299_1,645,884,137,29,31
+0,_TOWNSEND,_Townsend Town Precinct 2,_299_2,699,803,124,22,30
+0,_TOWNSEND,_Townsend Town Precinct 3,_299_3,738,863,100,25,23
+0,_TRURO,_Truro Town Precinct 1,_300_1,1095,361,62,33,18
+0,_TYNGSBOROUGH,_Tyngsborough Town Precinct 1,_301_1,700,791,87,14,22
+0,_TYNGSBOROUGH,_Tyngsborough Town Precinct 2,_301_2,739,822,89,29,1
+0,_TYNGSBOROUGH,_Tyngsborough Town Precinct 3,_301_3,777,765,95,28,27
+0,_TYNGSBOROUGH,_Tyngsborough Town Precinct 4,_301_4,845,789,93,8,23
+0,_TYRINGHAM,_Tyringham Town Precinct 1,_302_1,201,70,13,0,9
+0,_UPTON,_Upton Town Precinct 1,_303_1,1214,914,155,25,55
+0,_UPTON,_Upton Town Precinct 2,_303_2,1082,904,172,31,63
+0,_UXBRIDGE,_Uxbridge Town Precinct 1,_304_1,801,997,129,22,34
+0,_UXBRIDGE,_Uxbridge Town Precinct 2,_304_2,872,814,108,27,35
+0,_UXBRIDGE,_Uxbridge Town Precinct 3,_304_3,741,940,108,22,31
+0,_UXBRIDGE,_Uxbridge Town Precinct 4,_304_4,852,947,147,22,51
+0,_WAKEFIELD,_Wakefield Town Precinct 1,_305_1,1185,1082,104,27,52
+0,_WAKEFIELD,_Wakefield Town Precinct 2,_305_2,1032,764,90,24,50
+0,_WAKEFIELD,_Wakefield Town Precinct 3,_305_3,1123,869,92,19,52
+0,_WAKEFIELD,_Wakefield Town Precinct 4,_305_4,1297,870,89,20,54
+0,_WAKEFIELD,_Wakefield Town Precinct 5,_305_5,1262,860,80,28,62
+0,_WAKEFIELD,_Wakefield Town Precinct 6,_305_6,1279,788,112,24,47
+0,_WAKEFIELD,_Wakefield Town Precinct 7,_305_7,1116,827,110,18,48
+0,_WALES,_Wales Town Precinct 1,_306_1,365,550,52,21,25
+0,_WALPOLE,_Walpole Town Precinct 1,_307_1,938,694,68,21,38
+0,_WALPOLE,_Walpole Town Precinct 2,_307_2,936,831,94,14,52
+0,_WALPOLE,_Walpole Town Precinct 3,_307_3,957,808,91,26,44
+0,_WALPOLE,_Walpole Town Precinct 4,_307_4,936,610,85,21,50
+0,_WALPOLE,_Walpole Town Precinct 5,_307_5,778,683,79,7,30
+0,_WALPOLE,_Walpole Town Precinct 6,_307_6,972,788,103,18,36
+0,_WALPOLE,_Walpole Town Precinct 7,_307_7,907,809,114,13,37
+0,_WALPOLE,_Walpole Town Precinct 8,_307_8,846,823,121,15,42
+0,_WALTHAM,_Waltham City Ward 1 Precinct 1,_308_1,1113,599,75,22,33
+0,_WALTHAM,_Waltham City Ward 1 Precinct 2,_308_2,1243,728,67,17,6
+0,_WALTHAM,_Waltham City Ward 2 Precinct 1,_308_1,1206,567,74,14,43
+0,_WALTHAM,_Waltham City Ward 2 Precinct 2,_308_2,963,329,58,24,13
+0,_WALTHAM,_Waltham City Ward 3 Precinct 1,_308_1,1055,835,52,24,42
+0,_WALTHAM,_Waltham City Ward 3 Precinct 2,_308_2,1120,624,62,27,24
+0,_WALTHAM,_Waltham City Ward 4 Precinct 1,_308_1,1143,698,73,24,45
+0,_WALTHAM,_Waltham City Ward 4 Precinct 2,_308_2,285,151,13,5,0
+0,_WALTHAM,_Waltham City Ward 5 Precinct 1,_308_1,1182,476,69,23,9
+0,_WALTHAM,_Waltham City Ward 5 Precinct 2,_308_2,1013,317,32,25,11
+0,_WALTHAM,_Waltham City Ward 6 Precinct 1,_308_1,1055,377,58,24,0
+0,_WALTHAM,_Waltham City Ward 6 Precinct 2,_308_2,664,230,33,12,0
+0,_WALTHAM,_Waltham City Ward 7 Precinct 1,_308_1,1055,506,68,26,30
+0,_WALTHAM,_Waltham City Ward 7 Precinct 2,_308_2,496,105,20,9,1
+0,_WALTHAM,_Waltham City Ward 8 Precinct 1,_308_1,1034,267,53,26,17
+0,_WALTHAM,_Waltham City Ward 8 Precinct 2,_308_2,1042,341,66,24,9
+0,_WALTHAM,_Waltham City Ward 9 Precinct 1,_308_1,853,199,43,17,6
+0,_WALTHAM,_Waltham City Ward 9 Precinct 2,_308_2,833,243,46,27,15
+0,_WARE,_Ware Town Precinct A,_309_A,616,520,82,29,33
+0,_WARE,_Ware Town Precinct B,_309_B,541,733,67,24,20
+0,_WARE,_Ware Town Precinct C,_309_C,696,936,94,24,29
+0,_WAREHAM,_Wareham Town Precinct 1,_310_1,912,784,85,16,27
+0,_WAREHAM,_Wareham Town Precinct 2,_310_2,981,788,81,35,35
+0,_WAREHAM,_Wareham Town Precinct 3,_310_3,962,865,83,25,33
+0,_WAREHAM,_Wareham Town Precinct 4,_310_4,854,868,75,35,27
+0,_WAREHAM,_Wareham Town Precinct 5,_310_5,942,959,97,35,36
+0,_WAREHAM,_Wareham Town Precinct 6,_310_6,784,840,79,30,20
+0,_WARREN,_Warren Town Precinct A,_311_A,653,948,101,28,20
+0,_WARREN,_Warren Town Precinct B,_311_B,251,318,41,11,8
+0,_WARWICK,_Warwick Town Precinct 1,_312_1,271,142,25,19,0
+0,_WASHINGTON,_Washington Town Precinct 1,_313_1,217,89,9,5,6
+0,_WATERTOWN,_Watertown Town Precinct 1,_314_1,883,297,27,25,18
+0,_WATERTOWN,_Watertown Town Precinct 10,_314_10,1377,498,73,36,38
+0,_WATERTOWN,_Watertown Town Precinct 11,_314_11,929,402,50,18,22
+0,_WATERTOWN,_Watertown Town Precinct 12,_314_12,941,304,60,25,32
+0,_WATERTOWN,_Watertown Town Precinct 2,_314_2,1058,306,47,29,39
+0,_WATERTOWN,_Watertown Town Precinct 3,_314_3,1208,291,50,33,42
+0,_WATERTOWN,_Watertown Town Precinct 4,_314_4,1345,264,54,21,40
+0,_WATERTOWN,_Watertown Town Precinct 5,_314_5,1063,263,42,31,27
+0,_WATERTOWN,_Watertown Town Precinct 6,_314_6,1035,293,50,28,27
+0,_WATERTOWN,_Watertown Town Precinct 7,_314_7,1160,374,56,24,47
+0,_WATERTOWN,_Watertown Town Precinct 8,_314_8,1168,379,63,25,34
+0,_WATERTOWN,_Watertown Town Precinct 9,_314_9,999,270,57,28,42
+0,_WAYLAND,_Wayland Town Precinct 1,_315_1,1626,418,92,19,49
+0,_WAYLAND,_Wayland Town Precinct 2,_315_2,1436,432,92,34,36
+0,_WAYLAND,_Wayland Town Precinct 3,_315_3,1471,382,77,22,44
+0,_WAYLAND,_Wayland Town Precinct 4,_315_4,1581,452,113,23,73
+0,_WEBSTER,_Webster Town Precinct 1,_316_1,586,593,66,31,29
+0,_WEBSTER,_Webster Town Precinct 2,_316_2,482,447,56,16,12
+0,_WEBSTER,_Webster Town Precinct 3,_316_3,553,638,85,13,22
+0,_WEBSTER,_Webster Town Precinct 4,_316_4,783,1141,107,16,23
+0,_WEBSTER,_Webster Town Precinct 5,_316_5,715,756,92,27,21
+0,_WELLESLEY,_Wellesley Town Precinct A,_317_A,1465,428,82,15,48
+0,_WELLESLEY,_Wellesley Town Precinct B,_317_B,1600,482,87,18,38
+0,_WELLESLEY,_Wellesley Town Precinct C,_317_C,1290,594,104,11,23
+0,_WELLESLEY,_Wellesley Town Precinct D,_317_D,1679,433,90,11,43
+0,_WELLESLEY,_Wellesley Town Precinct E,_317_E,1340,427,90,19,40
+0,_WELLESLEY,_Wellesley Town Precinct F,_317_F,903,256,90,13,40
+0,_WELLESLEY,_Wellesley Town Precinct G,_317_G,935,136,26,8,14
+0,_WELLESLEY,_Wellesley Town Precinct H,_317_H,1356,479,97,26,37
+0,_WELLFLEET,_Wellfleet Town Precinct 1,_318_1,1554,515,73,73,19
+0,_WENDELL,_Wendell Town Precinct 1,_319_1,402,104,21,48,9
+0,_WENHAM,_Wenham Town Precinct 1,_320_1,1368,774,192,24,68
+0,_WEST BOYLSTON,_West Boylston Town Precinct 1,_321_1,932,771,98,17,35
+0,_WEST BOYLSTON,_West Boylston Town Precinct 2,_321_2,1204,1067,135,39,64
+0,_WEST BRIDGEWATER,_West Bridgewater Town Precinct 1,_322_1,799,1122,125,24,33
+0,_WEST BRIDGEWATER,_West Bridgewater Town Precinct 2,_322_2,824,1028,102,27,40
+0,_WEST BROOKFIELD,_West Brookfield Town Precinct 1,_323_1,869,1008,111,40,44
+0,_WEST NEWBURY,_West Newbury Town Precinct 1,_324_1,1620,1020,188,26,78
+0,_WEST SPRINGFIELD,_West Springfield Town Precinct 1,_325_1,458,246,36,29,9
+0,_WEST SPRINGFIELD,_West Springfield Town Precinct 2,_325_2,576,373,49,24,17
+0,_WEST SPRINGFIELD,_West Springfield Town Precinct 3,_325_3,675,584,66,14,18
+0,_WEST SPRINGFIELD,_West Springfield Town Precinct 4,_325_4,776,674,91,39,20
+0,_WEST SPRINGFIELD,_West Springfield Town Precinct 5,_325_5,929,1044,95,41,36
+0,_WEST SPRINGFIELD,_West Springfield Town Precinct 6,_325_6,858,993,96,19,25
+0,_WEST SPRINGFIELD,_West Springfield Town Precinct 7,_325_7,807,1082,94,22,38
+0,_WEST SPRINGFIELD,_West Springfield Town Precinct 8,_325_8,632,541,62,20,12
+0,_WEST STOCKBRIDGE,_West Stockbridge Town Precinct 1,_326_1,659,178,28,16,10
+0,_WEST TISBURY,_West Tisbury Town Precinct 1,_327_1,1688,329,70,49,35
+0,_WESTBOROUGH,_Westborough Town Precinct 1,_328_1,852,399,69,16,27
+0,_WESTBOROUGH,_Westborough Town Precinct 2,_328_2,974,437,64,25,24
+0,_WESTBOROUGH,_Westborough Town Precinct 3,_328_3,1257,523,113,40,20
+0,_WESTBOROUGH,_Westborough Town Precinct 4,_328_4,1517,676,109,30,29
+0,_WESTBOROUGH,_Westborough Town Precinct 5,_328_5,1423,717,131,27,49
+0,_WESTFIELD,_Westfield City Ward 1 Precinct A,_329_A,786,961,89,20,33
+0,_WESTFIELD,_Westfield City Ward 1 Precinct B,_329_B,667,868,78,19,19
+0,_WESTFIELD,_Westfield City Ward 2 Precinct A,_329_A,531,343,59,32,15
+0,_WESTFIELD,_Westfield City Ward 2 Precinct B,_329_B,655,616,84,38,17
+0,_WESTFIELD,_Westfield City Ward 3 Precinct A,_329_A,512,351,73,29,29
+0,_WESTFIELD,_Westfield City Ward 3 Precinct B,_329_B,700,681,107,35,30
+0,_WESTFIELD,_Westfield City Ward 4 Precinct A,_329_A,595,442,60,19,16
+0,_WESTFIELD,_Westfield City Ward 4 Precinct B,_329_B,893,1022,105,29,32
+0,_WESTFIELD,_Westfield City Ward 5 Precinct A,_329_A,830,1035,106,41,38
+0,_WESTFIELD,_Westfield City Ward 5 Precinct B,_329_B,753,1076,109,22,35
+0,_WESTFIELD,_Westfield City Ward 6 Precinct A,_329_A,670,942,105,37,37
+0,_WESTFIELD,_Westfield City Ward 6 Precinct B,_329_B,633,684,59,16,26
+0,_WESTFORD,_Westford Town Precinct 1,_330_1,1497,792,146,21,65
+0,_WESTFORD,_Westford Town Precinct 2,_330_2,1334,815,155,33,57
+0,_WESTFORD,_Westford Town Precinct 3,_330_3,1266,854,147,27,63
+0,_WESTFORD,_Westford Town Precinct 4,_330_4,1352,677,127,32,54
+0,_WESTFORD,_Westford Town Precinct 5,_330_5,1242,813,143,23,42
+0,_WESTFORD,_Westford Town Precinct 6,_330_6,1163,755,106,24,48
+0,_WESTHAMPTON,_Westhampton Town Precinct 1,_331_1,629,408,46,27,12
+0,_WESTMINSTER,_Westminster Town Precinct 1,_332_1,964,1077,142,35,40
+0,_WESTMINSTER,_Westminster Town Precinct 2,_332_2,994,1088,134,33,49
+0,_WESTON,_Weston Town Precinct 1,_333_1,1210,377,99,11,46
+0,_WESTON,_Weston Town Precinct 2,_333_2,1110,418,83,20,37
+0,_WESTON,_Weston Town Precinct 3,_333_3,997,391,80,16,40
+0,_WESTON,_Weston Town Precinct 4,_333_4,1051,462,70,10,54
+0,_WESTPORT,_Westport Town Precinct A,_334_A,795,829,42,15,22
+0,_WESTPORT,_Westport Town Precinct B,_334_B,1006,935,72,14,17
+0,_WESTPORT,_Westport Town Precinct C,_334_C,735,799,59,23,1
+0,_WESTPORT,_Westport Town Precinct D,_334_D,800,752,60,15,5
+0,_WESTPORT,_Westport Town Precinct E,_334_E,1047,970,73,31,0
+0,_WESTWOOD,_Westwood Town Precinct 1,_335_1,1410,789,125,25,47
+0,_WESTWOOD,_Westwood Town Precinct 2,_335_2,1400,809,122,18,50
+0,_WESTWOOD,_Westwood Town Precinct 3,_335_3,1381,731,120,22,55
+0,_WESTWOOD,_Westwood Town Precinct 4,_335_4,1128,889,93,28,45
+0,_WEYMOUTH,_Weymouth Town Precinct 1,_336_1,848,640,60,19,38
+0,_WEYMOUTH,_Weymouth Town Precinct 10,_336_10,684,493,39,13,20
+0,_WEYMOUTH,_Weymouth Town Precinct 11,_336_11,797,691,62,30,42
+0,_WEYMOUTH,_Weymouth Town Precinct 12,_336_12,869,733,61,21,41
+0,_WEYMOUTH,_Weymouth Town Precinct 13,_336_13,782,429,33,15,17
+0,_WEYMOUTH,_Weymouth Town Precinct 14,_336_14,776,533,30,13,25
+0,_WEYMOUTH,_Weymouth Town Precinct 15,_336_15,904,716,77,25,40
+0,_WEYMOUTH,_Weymouth Town Precinct 16,_336_16,917,858,77,22,39
+0,_WEYMOUTH,_Weymouth Town Precinct 17,_336_17,733,499,70,23,24
+0,_WEYMOUTH,_Weymouth Town Precinct 18,_336_18,1042,938,92,30,33
+0,_WEYMOUTH,_Weymouth Town Precinct 2,_336_2,931,747,68,19,52
+0,_WEYMOUTH,_Weymouth Town Precinct 3,_336_3,850,829,78,31,45
+0,_WEYMOUTH,_Weymouth Town Precinct 4,_336_4,837,695,75,18,25
+0,_WEYMOUTH,_Weymouth Town Precinct 5,_336_5,843,495,60,27,13
+0,_WEYMOUTH,_Weymouth Town Precinct 6,_336_6,960,692,68,20,37
+0,_WEYMOUTH,_Weymouth Town Precinct 7,_336_7,834,619,65,17,23
+0,_WEYMOUTH,_Weymouth Town Precinct 8,_336_8,870,618,67,25,31
+0,_WEYMOUTH,_Weymouth Town Precinct 9,_336_9,921,758,77,12,29
+0,_WHATELY,_Whately Town Precinct 1,_337_1,582,328,55,30,17
+0,_WHITMAN,_Whitman Town Precinct 1,_338_1,940,939,131,26,52
+0,_WHITMAN,_Whitman Town Precinct 2,_338_2,766,938,97,21,40
+0,_WHITMAN,_Whitman Town Precinct 3,_338_3,838,1052,113,26,50
+0,_WHITMAN,_Whitman Town Precinct 4,_338_4,849,886,116,25,42
+0,_WILBRAHAM,_Wilbraham Town Precinct A,_339_A,982,999,84,29,26
+0,_WILBRAHAM,_Wilbraham Town Precinct B,_339_B,955,929,94,31,31
+0,_WILBRAHAM,_Wilbraham Town Precinct C,_339_C,863,1029,86,15,25
+0,_WILBRAHAM,_Wilbraham Town Precinct D,_339_D,944,1053,105,29,26
+0,_WILLIAMSBURG,_Williamsburg Town Precinct 1,_340_1,1207,347,69,58,19
+0,_WILLIAMSTOWN,_Williamstown Town Precinct 1,_341_1,1162,224,31,19,20
+0,_WILLIAMSTOWN,_Williamstown Town Precinct 2,_341_2,580,51,14,19,4
+0,_WILLIAMSTOWN,_Williamstown Town Precinct 3,_341_3,1174,203,38,21,30
+0,_WILMINGTON,_Wilmington Town Precinct 1,_342_1,1000,980,103,17,48
+0,_WILMINGTON,_Wilmington Town Precinct 2,_342_2,995,1010,86,16,56
+0,_WILMINGTON,_Wilmington Town Precinct 3,_342_3,993,987,95,21,45
+0,_WILMINGTON,_Wilmington Town Precinct 4,_342_4,1073,1093,117,26,46
+0,_WILMINGTON,_Wilmington Town Precinct 5,_342_5,1078,1048,101,20,42
+0,_WILMINGTON,_Wilmington Town Precinct 6,_342_6,1066,1049,110,25,36
+0,_WINCHENDON,_Winchendon Town Precinct 1,_343_1,398,602,71,21,33
+0,_WINCHENDON,_Winchendon Town Precinct 1A,_343_1A,166,156,18,8,7
+0,_WINCHENDON,_Winchendon Town Precinct 2,_343_2,618,786,109,31,14
+0,_WINCHENDON,_Winchendon Town Precinct 3,_343_3,607,768,94,31,25
+0,_WINCHESTER,_Winchester Town Precinct 1,_344_1,1066,459,57,16,31
+0,_WINCHESTER,_Winchester Town Precinct 2,_344_2,938,399,55,30,24
+0,_WINCHESTER,_Winchester Town Precinct 3,_344_3,1245,341,87,15,38
+0,_WINCHESTER,_Winchester Town Precinct 4,_344_4,1131,477,87,10,47
+0,_WINCHESTER,_Winchester Town Precinct 5,_344_5,924,584,70,15,36
+0,_WINCHESTER,_Winchester Town Precinct 6,_344_6,935,553,79,14,38
+0,_WINCHESTER,_Winchester Town Precinct 7,_344_7,1069,484,104,12,54
+0,_WINCHESTER,_Winchester Town Precinct 8,_344_8,754,404,45,16,31
+0,_WINDSOR,_Windsor Town Precinct 1,_345_1,313,159,36,11,0
+0,_WINTHROP,_Winthrop Town Precinct 1,_346_1,860,754,57,12,24
+0,_WINTHROP,_Winthrop Town Precinct 2,_346_2,803,665,64,23,31
+0,_WINTHROP,_Winthrop Town Precinct 3,_346_3,924,610,55,28,19
+0,_WINTHROP,_Winthrop Town Precinct 4,_346_4,806,524,28,13,17
+0,_WINTHROP,_Winthrop Town Precinct 5,_346_5,884,706,57,22,29
+0,_WINTHROP,_Winthrop Town Precinct 6,_346_6,917,593,57,32,12
+0,_WOBURN,_Woburn City Ward 1 Precinct 1,_347_1,762,429,52,11,3
+0,_WOBURN,_Woburn City Ward 1 Precinct 2,_347_2,819,591,55,17,23
+0,_WOBURN,_Woburn City Ward 2 Precinct 1,_347_1,790,546,49,16,11
+0,_WOBURN,_Woburn City Ward 2 Precinct 2,_347_2,703,353,52,20,14
+0,_WOBURN,_Woburn City Ward 3 Precinct 1,_347_1,682,585,71,12,21
+0,_WOBURN,_Woburn City Ward 3 Precinct 2,_347_2,864,765,69,9,7
+0,_WOBURN,_Woburn City Ward 4 Precinct 1,_347_1,837,768,57,20,8
+0,_WOBURN,_Woburn City Ward 4 Precinct 2,_347_2,791,512,44,16,10
+0,_WOBURN,_Woburn City Ward 5 Precinct 1,_347_1,979,535,67,22,17
+0,_WOBURN,_Woburn City Ward 5 Precinct 2,_347_2,814,707,56,14,18
+0,_WOBURN,_Woburn City Ward 6 Precinct 1,_347_1,565,313,43,13,13
+0,_WOBURN,_Woburn City Ward 6 Precinct 2,_347_2,728,674,51,13,16
+0,_WOBURN,_Woburn City Ward 7 Precinct 1,_347_1,844,846,71,14,25
+0,_WOBURN,_Woburn City Ward 7 Precinct 2,_347_2,737,718,54,14,16
+0,_WORCESTER,_Worcester City Ward 1 Precinct 1,_348_1,1300,688,84,38,30
+0,_WORCESTER,_Worcester City Ward 1 Precinct 2,_348_2,1260,735,93,28,30
+0,_WORCESTER,_Worcester City Ward 1 Precinct 3,_348_3,724,416,57,12,23
+0,_WORCESTER,_Worcester City Ward 1 Precinct 4,_348_4,1352,558,74,44,43
+0,_WORCESTER,_Worcester City Ward 1 Precinct 5,_348_5,1054,643,89,24,27
+0,_WORCESTER,_Worcester City Ward 10 Precinct 1,_348_1,651,180,21,22,9
+0,_WORCESTER,_Worcester City Ward 10 Precinct 2,_348_2,676,124,27,21,15
+0,_WORCESTER,_Worcester City Ward 10 Precinct 3,_348_3,777,89,20,17,6
+0,_WORCESTER,_Worcester City Ward 10 Precinct 4,_348_4,612,101,11,19,6
+0,_WORCESTER,_Worcester City Ward 10 Precinct 5,_348_5,693,113,14,8,14
+0,_WORCESTER,_Worcester City Ward 2 Precinct 1,_348_1,1124,549,83,31,33
+0,_WORCESTER,_Worcester City Ward 2 Precinct 2,_348_2,1138,589,107,28,32
+0,_WORCESTER,_Worcester City Ward 2 Precinct 3,_348_3,1043,542,87,23,27
+0,_WORCESTER,_Worcester City Ward 2 Precinct 4,_348_4,1126,269,53,13,15
+0,_WORCESTER,_Worcester City Ward 2 Precinct 5,_348_5,734,95,12,11,10
+0,_WORCESTER,_Worcester City Ward 3 Precinct 1,_348_1,902,345,48,30,32
+0,_WORCESTER,_Worcester City Ward 3 Precinct 2,_348_2,397,103,30,17,9
+0,_WORCESTER,_Worcester City Ward 3 Precinct 3,_348_3,826,337,45,28,19
+0,_WORCESTER,_Worcester City Ward 3 Precinct 4,_348_4,730,182,26,20,9
+0,_WORCESTER,_Worcester City Ward 3 Precinct 5,_348_5,894,363,38,14,22
+0,_WORCESTER,_Worcester City Ward 4 Precinct 1,_348_1,687,161,12,24,16
+0,_WORCESTER,_Worcester City Ward 4 Precinct 2,_348_2,726,377,58,11,22
+0,_WORCESTER,_Worcester City Ward 4 Precinct 3,_348_3,716,123,25,11,10
+0,_WORCESTER,_Worcester City Ward 4 Precinct 4,_348_4,721,429,40,38,25
+0,_WORCESTER,_Worcester City Ward 4 Precinct 5,_348_5,930,446,71,25,10
+0,_WORCESTER,_Worcester City Ward 5 Precinct 1,_348_1,750,239,29,11,12
+0,_WORCESTER,_Worcester City Ward 5 Precinct 2,_348_2,951,517,53,17,19
+0,_WORCESTER,_Worcester City Ward 5 Precinct 3,_348_3,1066,717,80,32,31
+0,_WORCESTER,_Worcester City Ward 5 Precinct 4,_348_4,963,541,65,20,26
+0,_WORCESTER,_Worcester City Ward 5 Precinct 5,_348_5,913,609,62,19,25
+0,_WORCESTER,_Worcester City Ward 6 Precinct 1,_348_1,628,120,20,19,14
+0,_WORCESTER,_Worcester City Ward 6 Precinct 2,_348_2,825,229,28,20,16
+0,_WORCESTER,_Worcester City Ward 6 Precinct 3,_348_3,773,285,48,33,19
+0,_WORCESTER,_Worcester City Ward 6 Precinct 4,_348_4,366,165,24,14,10
+0,_WORCESTER,_Worcester City Ward 6 Precinct 5,_348_5,874,450,44,22,13
+0,_WORCESTER,_Worcester City Ward 7 Precinct 1,_348_1,1055,387,67,25,17
+0,_WORCESTER,_Worcester City Ward 7 Precinct 2,_348_2,752,272,43,27,19
+0,_WORCESTER,_Worcester City Ward 7 Precinct 3,_348_3,1011,457,47,22,21
+0,_WORCESTER,_Worcester City Ward 7 Precinct 4,_348_4,893,460,56,26,24
+0,_WORCESTER,_Worcester City Ward 7 Precinct 5,_348_5,890,557,78,28,22
+0,_WORCESTER,_Worcester City Ward 8 Precinct 1,_348_1,571,156,16,18,9
+0,_WORCESTER,_Worcester City Ward 8 Precinct 2,_348_2,627,115,10,14,7
+0,_WORCESTER,_Worcester City Ward 8 Precinct 3,_348_3,575,63,22,41,9
+0,_WORCESTER,_Worcester City Ward 8 Precinct 4,_348_4,796,169,22,28,12
+0,_WORCESTER,_Worcester City Ward 8 Precinct 5,_348_5,603,226,36,14,16
+0,_WORCESTER,_Worcester City Ward 9 Precinct 1,_348_1,1038,365,66,42,37
+0,_WORCESTER,_Worcester City Ward 9 Precinct 2,_348_2,1259,466,66,33,40
+0,_WORCESTER,_Worcester City Ward 9 Precinct 3,_348_3,808,407,55,37,23
+0,_WORCESTER,_Worcester City Ward 9 Precinct 4,_348_4,1155,603,76,27,19
+0,_WORCESTER,_Worcester City Ward 9 Precinct 5,_348_5,1149,600,72,26,41
+0,_WORTHINGTON,_Worthington Town Precinct 1,_349_1,430,229,41,46,12
+0,_WRENTHAM,_Wrentham Town Precinct 1,_350_1,950,1011,139,23,67
+0,_WRENTHAM,_Wrentham Town Precinct 2,_350_2,1016,1062,131,24,88
+0,_WRENTHAM,_Wrentham Town Precinct 3,_350_3,1086,920,120,32,50
+0,_YARMOUTH,_Yarmouth Town Precinct 1,_351_1,1204,854,80,33,18
+0,_YARMOUTH,_Yarmouth Town Precinct 2,_351_2,1155,912,97,24,25
+0,_YARMOUTH,_Yarmouth Town Precinct 3,_351_3,904,663,63,18,17
+0,_YARMOUTH,_Yarmouth Town Precinct 4,_351_4,1002,860,79,31,39
+0,_YARMOUTH,_Yarmouth Town Precinct 5,_351_5,881,797,61,26,32
+0,_YARMOUTH,_Yarmouth Town Precinct 6,_351_6,907,753,65,30,24
+0,_YARMOUTH,_Yarmouth Town Precinct 7,_351_7,1251,1009,92,28,22
