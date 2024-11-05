@@ -1,0 +1,2457 @@
+IS_AUDITED,COUNTY_NAME,PRECINCT_NAME,PRECINCT_CODE,USA_VA_20161108_GEN_PRE_DEM_CLINTON,USA_VA_20161108_GEN_PRE_REP_TRUMP,USA_VA_20161108_GEN_PRE_LIB_JOHNSON,USA_VA_20161108_GEN_PRE_IND_MCMULLIN,USA_VA_20161108_GEN_PRE_GRE_STEIN,USA_VA_20161108_GEN_PRE_OTH_WRITEIN
+0,_Accomack County,_Chincoteague,_000101,502,1285,31,12,8,6
+0,_Accomack County,_Atlantic,_000201,198,598,15,8,1,1
+0,_Accomack County,_Greenbackville,_000202,342,753,19,5,8,3
+0,_Accomack County,_New Church,_000301,808,640,24,5,3,6
+0,_Accomack County,_Bloxom,_000401,160,370,10,4,1,0
+0,_Accomack County,_Parksley,_000402,247,529,18,8,6,1
+0,_Accomack County,_Saxis,_000403,47,165,1,3,1,0
+0,_Accomack County,_Mappsville,_000501,449,263,12,1,8,5
+0,_Accomack County,_Rue,_000502,436,129,10,5,2,2
+0,_Accomack County,_Accomac,_000601,550,689,18,15,9,4
+0,_Accomack County,_Tangier,_000602,31,239,1,1,1,2
+0,_Accomack County,_Nandua,_000701,912,1055,41,22,8,15
+0,_Accomack County,_Bobtown,_000801,229,399,14,3,5,4
+0,_Accomack County,_Melfa,_000802,493,424,16,6,0,3
+0,_Accomack County,_Wachapreague,_000803,156,377,7,2,0,1
+0,_Accomack County,_Painter,_000901,1180,668,27,12,5,0
+0,_Albemarle County,_Woodbrook,_000101,1390,752,93,26,15,24
+0,_Albemarle County,_Branchlands,_000103,637,230,26,6,11,6
+0,_Albemarle County,_Agnor-Hurt,_000104,1290,450,53,37,26,14
+0,_Albemarle County,_Dunlora,_000105,1589,655,69,69,19,22
+0,_Albemarle County,_Northside,_000106,1354,997,114,68,10,18
+0,_Albemarle County,_Jack Jouett,_000201,1046,588,43,36,14,19
+0,_Albemarle County,_University Hall,_000202,2159,451,169,54,24,22
+0,_Albemarle County,_Georgetown,_000203,1560,441,74,45,23,26
+0,_Albemarle County,_Belfield,_000204,503,320,42,18,2,9
+0,_Albemarle County,_Ivy,_000301,1973,905,88,50,21,14
+0,_Albemarle County,_Red Hill,_000302,1287,816,63,19,20,22
+0,_Albemarle County,_East Ivy,_000304,463,271,28,20,3,4
+0,_Albemarle County,_Country Green,_000305,1115,614,64,42,20,22
+0,_Albemarle County,_Porters,_000306,686,430,36,7,23,7
+0,_Albemarle County,_Yellow Mountain,_000307,304,223,19,15,6,9
+0,_Albemarle County,_Scottsville,_000401,519,653,46,14,13,7
+0,_Albemarle County,_Monticello,_000402,519,605,28,9,12,11
+0,_Albemarle County,_Cale,_000405,2564,891,161,88,37,38
+0,_Albemarle County,_Stone Robinson,_000406,1060,1104,82,45,15,22
+0,_Albemarle County,_Keswick,_000501,628,440,24,10,8,14
+0,_Albemarle County,_Stony Point,_000502,623,587,43,21,7,11
+0,_Albemarle County,_Hollymead,_000503,1132,724,78,55,14,24
+0,_Albemarle County,_Free Bridge,_000504,1898,910,130,55,22,31
+0,_Albemarle County,_Baker-Butler,_000506,1303,1038,100,70,23,19
+0,_Albemarle County,_Crozet,_000601,1838,1196,139,41,24,28
+0,_Albemarle County,_Free Union,_000602,565,492,28,12,7,10
+0,_Albemarle County,_Earlysville,_000603,1238,1157,93,48,16,26
+0,_Albemarle County,_Brownsville,_000604,2102,1319,172,79,15,29
+0,_Alexandria City,_Ladrey Senior Building,_000101,1340,456,51,35,16,31
+0,_Alexandria City,_City Hall,_000102,1213,540,68,27,9,76
+0,_Alexandria City,_Lyles Crouch School,_000103,2076,649,76,44,22,47
+0,_Alexandria City,_Durant Center,_000104,1785,354,78,57,12,51
+0,_Alexandria City,_Lee Center,_000105,2341,627,105,66,20,58
+0,_Alexandria City,_Cora Kelly Center,_000106,3176,497,126,93,25,43
+0,_Alexandria City,_Mt Vernon Recreation Center,_000107,3290,635,117,97,30,70
+0,_Alexandria City,_George Washington Middle Sch,_000108,2988,519,121,105,33,66
+0,_Alexandria City,_Fire Department Headquarters,_000109,1397,459,86,56,17,38
+0,_Alexandria City,_Charles Houston Center,_000110,2054,321,87,51,30,30
+0,_Alexandria City,_Maury School,_000201,1786,390,65,44,18,50
+0,_Alexandria City,_George Mason School,_000202,1695,528,59,68,9,79
+0,_Alexandria City,_Agudas Achim Synagogue,_000203,2045,386,59,65,18,38
+0,_Alexandria City,_Blessed Sacrament Church,_000204,1637,511,65,49,18,67
+0,_Alexandria City,_Douglas MacArthur School,_000205,2162,653,101,67,12,78
+0,_Alexandria City,_Chinquapin Park Recreation Ctr,_000206,1710,465,58,38,17,35
+0,_Alexandria City,_Temple Beth El Synagogue,_000207,2150,678,90,56,22,54
+0,_Alexandria City,_NOVA Arts Center,_000208,2377,508,79,45,39,31
+0,_Alexandria City,_James K Polk School,_000209,2533,541,64,49,22,31
+0,_Alexandria City,_The Hermitage,_000210,1111,358,38,39,10,19
+0,_Alexandria City,_Patrick Henry Rec Center,_000302,1942,322,63,38,29,26
+0,_Alexandria City,_Charles E Beatley Library,_000303,2208,389,50,21,25,35
+0,_Alexandria City,_Samuel Tucker School,_000304,3100,540,93,57,41,40
+0,_Alexandria City,_John Adams School,_000305,2544,417,50,34,26,32
+0,_Alexandria City,_William Ramsay School,_000306,2740,372,49,24,27,26
+0,_Alexandria City,_South Port,_000307,1899,458,34,22,24,19
+0,_Alexandria City,_Cameron Station Community Ctr,_000308,1943,712,88,51,21,55
+0,_Alleghany County,_Arritt,_005101,152,559,13,7,2,1
+0,_Alleghany County,_Dameron,_005103,56,210,2,4,1,0
+0,_Alleghany County,_Humpback Bridge,_005201,114,311,3,8,0,4
+0,_Alleghany County,_Dolly Ann,_005202,142,386,19,3,0,2
+0,_Alleghany County,_Callaghan,_005301,82,349,7,0,1,0
+0,_Alleghany County,_Griffith,_005302,194,483,21,2,1,1
+0,_Alleghany County,_Low Moor,_005401,151,360,12,6,2,1
+0,_Alleghany County,_Jackson Heights,_005402,156,495,15,13,4,1
+0,_Alleghany County,_Iron Gate,_005501,115,166,10,3,1,1
+0,_Alleghany County,_Peters Switch,_005502,207,592,17,7,7,0
+0,_Alleghany County,_District 1,_005601,439,565,29,6,7,1
+0,_Alleghany County,_District 2,_005701,358,398,16,10,9,5
+0,_Amelia County,_Number One,_000101,387,830,30,10,3,2
+0,_Amelia County,_Number Two,_000201,464,937,23,12,2,8
+0,_Amelia County,_Number Three,_000301,350,1002,25,1,1,5
+0,_Amelia County,_Number Four,_000401,350,942,26,11,1,7
+0,_Amelia County,_Number Five,_000501,577,997,25,7,4,1
+0,_Amherst County,_Wright Shop,_000101,612,466,14,6,1,2
+0,_Amherst County,_New Glasgow,_000102,475,857,23,19,6,7
+0,_Amherst County,_Coolwell,_000103,135,528,15,11,2,2
+0,_Amherst County,_Court House,_000201,803,1192,60,29,16,12
+0,_Amherst County,_Temperance,_000202,223,610,14,8,4,7
+0,_Amherst County,_Monroe,_000301,242,637,22,11,2,3
+0,_Amherst County,_Elon,_000302,528,1555,38,13,9,14
+0,_Amherst County,_Pleasant View,_000303,123,345,12,2,2,3
+0,_Amherst County,_Amelon,_000401,792,1594,57,28,16,14
+0,_Amherst County,_Lonco,_000402,216,414,9,10,0,5
+0,_Amherst County,_Madison,_000501,908,1521,53,22,7,10
+0,_Appomattox County,_Vera,_000101,112,480,11,4,4,2
+0,_Appomattox County,_Pamplin,_000102,302,751,14,8,6,4
+0,_Appomattox County,_Chap,_000201,158,224,6,4,6,1
+0,_Appomattox County,_Spout Spring,_000202,223,1030,20,2,1,4
+0,_Appomattox County,_US 460,_000301,176,582,9,7,3,4
+0,_Appomattox County,_Stonewall,_000302,229,667,16,9,1,7
+0,_Appomattox County,_Courthouse,_000401,353,976,39,10,8,9
+0,_Appomattox County,_Oakville,_000501,321,734,17,3,0,8
+0,_Appomattox County,_Agee,_000502,149,271,4,3,2,3
+0,_Arlington County,_Arlington,_000001,1965,315,33,25,21,22
+0,_Arlington County,_Ashton Heights,_000002,1904,354,62,50,16,34
+0,_Arlington County,_Aurora Hills,_000003,1106,320,61,52,9,33
+0,_Arlington County,_Ballston,_000004,1788,415,129,51,18,43
+0,_Arlington County,_Barcroft,_000005,1631,360,72,30,9,30
+0,_Arlington County,_Crystal City,_000006,1422,429,46,39,10,29
+0,_Arlington County,_Cherrydale,_000007,1773,384,72,63,9,41
+0,_Arlington County,_Hume,_000008,2290,531,109,48,13,50
+0,_Arlington County,_Columbia,_000009,2196,444,81,51,26,30
+0,_Arlington County,_Wilson,_000010,2408,485,106,62,31,48
+0,_Arlington County,_East Falls Church,_000011,1191,334,42,27,6,42
+0,_Arlington County,_Fairlington,_000012,1794,429,82,81,10,62
+0,_Arlington County,_Glen Carlyn,_000013,1373,329,38,17,12,13
+0,_Arlington County,_Clarendon,_000014,1491,288,104,34,10,29
+0,_Arlington County,_Lyon Park,_000015,2059,440,88,80,13,54
+0,_Arlington County,_Lyon Village,_000016,1873,401,92,60,12,41
+0,_Arlington County,_Overlee Knolls,_000017,1895,435,79,62,20,30
+0,_Arlington County,_Park Lane,_000018,2577,517,160,84,20,58
+0,_Arlington County,_Rosslyn,_000019,2221,411,82,44,23,54
+0,_Arlington County,_Thrifton,_000020,1353,445,66,46,20,50
+0,_Arlington County,_Virginia Highlands,_000021,2603,626,125,128,35,58
+0,_Arlington County,_Abingdon,_000022,2016,352,85,84,13,56
+0,_Arlington County,_Westover,_000023,1877,400,61,45,16,46
+0,_Arlington County,_Woodlawn,_000024,2260,456,103,72,13,33
+0,_Arlington County,_Arlington Forest,_000025,1507,378,52,26,12,21
+0,_Arlington County,_Fillmore,_000026,2683,480,117,53,31,42
+0,_Arlington County,_Jefferson,_000027,1741,455,72,57,17,43
+0,_Arlington County,_Claremont,_000028,2467,417,82,39,26,33
+0,_Arlington County,_Dominion Hills,_000029,1720,363,62,66,12,28
+0,_Arlington County,_Glebe,_000030,2080,277,65,51,16,25
+0,_Arlington County,_Lexington,_000031,1803,413,55,41,17,45
+0,_Arlington County,_Oakridge,_000032,792,260,34,40,6,28
+0,_Arlington County,_Rock Spring,_000033,1537,494,60,45,10,52
+0,_Arlington County,_Yorktown,_000034,1533,405,60,53,16,43
+0,_Arlington County,_Madison,_000035,1344,629,52,35,18,45
+0,_Arlington County,_Marshall,_000036,1861,531,78,34,14,64
+0,_Arlington County,_Nottingham,_000037,1519,467,57,41,17,42
+0,_Arlington County,_Arlington View,_000038,1853,262,53,44,26,14
+0,_Arlington County,_Ashlawn,_000039,1044,289,26,22,13,29
+0,_Arlington County,_Virginia Square,_000040,2213,514,140,94,14,51
+0,_Arlington County,_Woodbury,_000041,1767,333,108,51,17,38
+0,_Arlington County,_Shirlington,_000042,1672,347,55,48,22,38
+0,_Arlington County,_Arlington Mill,_000043,1914,220,21,20,14,7
+0,_Arlington County,_Dawson Terrace,_000044,1546,228,61,44,16,27
+0,_Arlington County,_Buckingham,_000045,1845,323,73,40,23,10
+0,_Arlington County,_Central,_000046,2328,498,131,72,16,48
+0,_Arlington County,_Four Mile Run,_000047,1669,248,43,46,13,17
+0,_Arlington County,_Courtlands,_000048,1397,382,69,51,13,29
+0,_Arlington County,_Monroe,_000049,1280,224,78,24,6,30
+0,_Arlington County,_Crystal Plaza,_000050,1631,417,75,53,8,31
+0,_Arlington County,_Taylor,_000051,586,122,21,6,3,5
+0,_Arlington County,_Gunston,_000052,1618,310,49,63,18,26
+0,_Augusta County,_Jolivue,_000101,296,633,23,15,3,5
+0,_Augusta County,_Stuarts Draft Elementary,_000102,345,820,38,19,4,11
+0,_Augusta County,_Verona,_000103,452,1395,55,33,12,9
+0,_Augusta County,_Crimora,_000201,389,1613,61,31,14,8
+0,_Augusta County,_New Hope,_000202,243,901,44,11,7,8
+0,_Augusta County,_Weyers Cave,_000203,464,1365,71,30,14,13
+0,_Augusta County,_Fort Defiance,_000301,694,1991,102,42,15,21
+0,_Augusta County,_North River,_000302,126,572,26,13,3,2
+0,_Augusta County,_Mount Solon,_000303,133,829,31,8,2,2
+0,_Augusta County,_Churchville Fire Station,_000304,168,690,21,9,5,0
+0,_Augusta County,_Buffalo Gap,_000401,216,814,20,9,5,3
+0,_Augusta County,_Churchville Elementary,_000402,170,771,32,9,10,5
+0,_Augusta County,_Craigsville,_000403,126,560,12,6,7,9
+0,_Augusta County,_Deerfield,_000404,36,286,6,1,4,0
+0,_Augusta County,_Cedar Green,_000405,368,918,48,15,7,10
+0,_Augusta County,_Greenville,_000501,294,1292,42,11,3,10
+0,_Augusta County,_Middlebrook,_000502,185,608,25,13,6,4
+0,_Augusta County,_Spottswood,_000503,180,682,18,3,1,2
+0,_Augusta County,_White Hill,_000504,380,1412,54,18,7,10
+0,_Augusta County,_Sherando,_000601,258,913,34,18,6,10
+0,_Augusta County,_Ridgeview,_000602,587,1991,72,36,11,12
+0,_Augusta County,_Lyndhurst,_000603,474,1243,60,41,13,12
+0,_Augusta County,_Dooms,_000801,285,1056,47,20,10,2
+0,_Augusta County,_Fishersville,_000802,701,1611,84,50,12,14
+0,_Augusta County,_Wilson,_000803,607,1197,73,41,19,20
+0,_Bath County,_Warm Springs,_017101,122,263,8,2,0,3
+0,_Bath County,_Mountain Grove,_017102,13,65,0,2,3,0
+0,_Bath County,_Hot Springs,_017201,145,194,12,4,2,3
+0,_Bath County,_Fairview,_017301,44,290,11,6,2,0
+0,_Bath County,_Burnsville,_017302,22,87,1,0,0,0
+0,_Bath County,_Millboro,_017401,134,338,8,4,2,2
+0,_Bath County,_Healing Springs,_017501,123,311,16,4,6,1
+0,_Bedford County,_Goodview Elem School,_000101,353,1477,46,19,3,13
+0,_Bedford County,_Hardy Vol Fire Co,_000102,185,597,15,10,1,7
+0,_Bedford County,_Chamblissburg Baptist Church,_000103,299,1019,49,9,6,6
+0,_Bedford County,_Stewartsville Rescue Squad,_000104,252,933,28,8,5,3
+0,_Bedford County,_Bedford Christian Church,_000201,176,490,21,10,4,6
+0,_Bedford County,_Staunton River High School,_000202,203,693,20,8,2,3
+0,_Bedford County,_Moneta Elem School,_000203,462,1409,41,14,14,11
+0,_Bedford County,_Quaker Baptist Church,_000204,153,444,10,10,1,2
+0,_Bedford County,_Saunders Vol Fire Co,_000205,347,987,30,11,8,7
+0,_Bedford County,_New London Academy,_000301,504,2225,77,52,2,7
+0,_Bedford County,_Bedford Regional Water Auth,_000302,293,966,25,13,5,5
+0,_Bedford County,_Bethesda United Methodist Church,_000303,183,620,19,8,1,3
+0,_Bedford County,_Forest Youth Athletic Assoc,_000304,212,626,20,18,1,9
+0,_Bedford County,_Huddleston Elem School,_000305,147,528,15,10,2,3
+0,_Bedford County,_Forest Elementary School,_000401,475,1392,53,43,3,17
+0,_Bedford County,_Thomas Jefferson Elem School,_000402,325,895,40,36,6,5
+0,_Bedford County,_Knights Of Columbus Bldg,_000403,604,1768,71,63,12,10
+0,_Bedford County,_St. Paul Baptist Church,_000404,367,1311,33,41,10,1
+0,_Bedford County,_Big Island Elem School,_000502,115,364,14,6,1,6
+0,_Bedford County,_Sedalia Center,_000503,142,492,22,3,4,7
+0,_Bedford County,_Suck Springs Baptist Church,_000504,217,713,22,11,2,5
+0,_Bedford County,_Boonsboro Elementary School,_000505,531,1237,76,16,6,23
+0,_Bedford County,_Boonsboro Ruritan Club,_000506,580,1914,80,69,14,13
+0,_Bedford County,_Montvale Elem School,_000601,272,963,23,19,10,7
+0,_Bedford County,_Shady Grove Fire Department,_000602,274,1073,33,12,10,6
+0,_Bedford County,_Thaxton Baptist Church #1,_000603,74,281,5,5,3,1
+0,_Bedford County,_Bedford Welcome Center,_000604,568,1288,55,23,11,9
+0,_Bedford County,_Goode Vol Rescue Squad,_000701,306,1458,30,35,11,8
+0,_Bedford County,_Liberty High School,_000702,256,709,14,11,3,5
+0,_Bedford County,_Thaxton Baptist Church #2,_000703,165,588,26,5,5,3
+0,_Bedford County,_Bedford Central Library,_000704,728,1199,61,29,10,10
+0,_Bland County,_Bastian,_000101,53,335,9,1,5,2
+0,_Bland County,_Ceres,_000102,57,334,9,0,2,1
+0,_Bland County,_Davis,_000201,23,107,1,0,2,0
+0,_Bland County,_Seddon,_000202,112,587,18,5,1,8
+0,_Bland County,_Hollybrook,_000301,52,340,7,3,1,1
+0,_Bland County,_Mechanicsburg,_000302,27,175,4,2,0,0
+0,_Bland County,_Rocky Gap,_000401,129,695,13,10,6,2
+0,_Botetourt County,_Daleville,_000101,560,1281,56,20,10,14
+0,_Botetourt County,_Greenfield,_000102,446,1542,62,15,13,13
+0,_Botetourt County,_Blue Ridge,_000201,475,1464,60,19,8,8
+0,_Botetourt County,_Rainbow Forest,_000202,451,1476,51,24,7,4
+0,_Botetourt County,_Buchanan,_000301,413,1262,45,18,10,3
+0,_Botetourt County,_Mill Creek,_000302,376,1206,41,13,11,8
+0,_Botetourt County,_Eagle Rock,_000403,235,849,30,9,9,2
+0,_Botetourt County,_Fincastle,_000406,565,1625,65,26,13,19
+0,_Botetourt County,_Troutville,_000501,287,890,21,13,7,0
+0,_Botetourt County,_Cloverdale,_000502,686,1780,66,28,13,16
+0,_Bristol City,_First Ward,_000001,325,908,18,11,9,4
+0,_Bristol City,_Second Ward,_000002,532,1076,43,23,18,26
+0,_Bristol City,_Third Ward,_000003,403,723,28,10,8,5
+0,_Bristol City,_Fourth Ward,_000004,575,2185,47,20,15,15
+0,_Brunswick County,_Brodnax,_000101,208,180,4,3,4,1
+0,_Brunswick County,_Rock Store,_000102,266,351,9,4,3,0
+0,_Brunswick County,_Tillman,_000103,251,469,14,1,4,0
+0,_Brunswick County,_Dromgoole,_000201,130,106,2,0,0,0
+0,_Brunswick County,_Edgerton,_000202,535,200,7,1,3,0
+0,_Brunswick County,_Fitzhugh,_000203,386,194,5,4,0,0
+0,_Brunswick County,_Alberta,_000301,82,84,1,1,2,0
+0,_Brunswick County,_Danieltown,_000302,364,353,6,3,0,3
+0,_Brunswick County,_Elmore,_000303,183,164,2,1,1,0
+0,_Brunswick County,_Seymour,_000304,194,148,4,2,1,0
+0,_Brunswick County,_Sturgeon,_000401,719,422,7,1,0,3
+0,_Brunswick County,_King's Store,_000402,299,106,0,0,0,0
+0,_Brunswick County,_Totaro,_000501,864,269,11,9,7,8
+0,_Buchanan County,_Blackey,_027102,61,377,2,1,0,0
+0,_Buchanan County,_Hurley,_027103,122,823,6,5,3,4
+0,_Buchanan County,_Grassy,_027201,31,80,2,0,0,0
+0,_Buchanan County,_Bull,_027202,97,478,9,4,1,4
+0,_Buchanan County,_Rocklick,_027203,104,547,8,4,0,2
+0,_Buchanan County,_Slate,_027301,156,592,6,3,2,2
+0,_Buchanan County,_North Grundy,_027302,127,515,10,6,9,1
+0,_Buchanan County,_South Grundy,_027403,163,730,22,16,2,2
+0,_Buchanan County,_Oakwood,_027404,15,63,2,0,0,0
+0,_Buchanan County,_Prater,_027501,136,454,10,1,1,1
+0,_Buchanan County,_Fox,_027502,64,112,1,1,0,0
+0,_Buchanan County,_Vansant,_027503,112,457,11,5,4,4
+0,_Buchanan County,_Council,_027601,87,305,4,0,0,0
+0,_Buchanan County,_Garden,_027602,102,445,7,3,0,1
+0,_Buchanan County,_Hurricane,_027603,102,269,2,1,1,2
+0,_Buchanan County,_Whitewood,_027701,162,570,6,7,1,2
+0,_Buchanan County,_Contrary,_027702,80,479,14,2,0,0
+0,_Buckingham County,_New Canton,_029101,471,525,15,6,1,2
+0,_Buckingham County,_Georgia Creek,_029102,88,171,2,2,1,2
+0,_Buckingham County,_White Hall,_029201,310,316,3,5,0,0
+0,_Buckingham County,_Curdsville,_029301,262,442,10,10,1,9
+0,_Buckingham County,_New Store,_029302,134,396,9,3,1,1
+0,_Buckingham County,_Maysville,_029401,438,688,20,12,6,1
+0,_Buckingham County,_Wrights,_029501,156,342,6,4,3,2
+0,_Buckingham County,_Glenmore,_029502,324,329,9,8,11,2
+0,_Buckingham County,_Slate River,_029601,592,382,23,1,2,5
+0,_Buckingham County,_Gold Hill,_029701,353,359,5,7,1,0
+0,_Buena Vista City,_First Ward,_000001,365,825,33,58,8,4
+0,_Buena Vista City,_Second Ward,_000002,328,605,50,116,5,10
+0,_Campbell County,_BROOKVILLE,_000101,487,1637,53,54,13,8
+0,_Campbell County,_NEW LONDON,_000102,465,1746,77,44,13,9
+0,_Campbell County,_WALKER,_000201,466,1266,57,50,9,21
+0,_Campbell County,_BEDFORD SPRINGS,_000202,471,1769,65,37,5,15
+0,_Campbell County,_EVINGTON,_000301,194,615,18,6,0,2
+0,_Campbell County,_OTTER RIVER,_000302,181,585,12,12,2,3
+0,_Campbell County,_ALTAVISTA,_000303,724,1216,63,16,8,14
+0,_Campbell County,_THREE FORKS,_000401,239,1072,21,14,5,3
+0,_Campbell County,_COURT HOUSE,_000402,495,1845,67,28,4,15
+0,_Campbell County,_SPRING HILL,_000501,470,1846,79,60,12,15
+0,_Campbell County,_YELLOW BRANCH,_000502,411,987,31,19,4,3
+0,_Campbell County,_KINGS,_000601,444,1099,46,28,3,0
+0,_Campbell County,_CONCORD,_000602,526,1522,42,24,12,10
+0,_Campbell County,_BROOKNEAL,_000701,386,746,11,3,6,5
+0,_Campbell County,_GLADYS,_000702,513,1114,11,13,4,4
+0,_Campbell County,_MORRIS CHURCH,_000703,192,486,12,11,2,7
+0,_Caroline County,_Bowling Green,_000101,431,785,39,19,7,7
+0,_Caroline County,_Sparta,_000102,365,612,10,6,7,1
+0,_Caroline County,_North Madison,_000201,531,543,34,13,9,5
+0,_Caroline County,_South Madison,_000202,523,794,49,21,17,0
+0,_Caroline County,_Port Royal,_000301,242,396,12,14,7,2
+0,_Caroline County,_Woodford,_000302,688,844,31,16,13,8
+0,_Caroline County,_Dawn,_000401,1103,715,57,9,7,0
+0,_Caroline County,_Carmel Church,_000402,395,235,14,4,2,7
+0,_Caroline County,_West Mattaponi,_000501,742,495,21,14,10,4
+0,_Caroline County,_Milford,_000502,450,546,17,13,5,3
+0,_Caroline County,_Chilesburg,_000601,586,661,55,16,10,4
+0,_Caroline County,_Lake,_000602,376,521,29,9,5,7
+0,_Carroll County,_MT BETHEL,_000101,104,464,7,0,6,1
+0,_Carroll County,_ST PAUL,_000102,117,675,11,7,2,2
+0,_Carroll County,_LAMBSBURG,_000103,79,361,5,6,1,1
+0,_Carroll County,_FANCY GAP,_000105,134,487,13,5,3,10
+0,_Carroll County,_HILLSVILLE B,_000201,349,1106,26,12,13,4
+0,_Carroll County,_LAUREL FORK,_000202,113,422,9,4,3,6
+0,_Carroll County,_GLADESBORO,_000203,181,599,11,6,4,3
+0,_Carroll County,_HILLSVILLE C,_000301,377,1327,25,11,8,5
+0,_Carroll County,_SYLVATUS,_000302,111,521,14,4,2,2
+0,_Carroll County,_DUGSPUR,_000303,47,276,2,2,2,3
+0,_Carroll County,_WOODLAWN D,_000402,254,974,32,13,8,5
+0,_Carroll County,_OAKLAND D,_000403,110,551,12,6,3,2
+0,_Carroll County,_OAKLAND A,_000405,119,467,12,2,4,0
+0,_Carroll County,_WOODLAWN F,_000406,43,173,3,1,0,1
+0,_Carroll County,_VAUGHAN,_000501,63,359,9,2,1,0
+0,_Carroll County,_GLADEVILLE,_000502,167,879,15,5,3,9
+0,_Carroll County,_WOODLAWN E,_000503,89,486,6,1,1,0
+0,_Carroll County,_LAUREL,_000504,102,536,8,1,5,2
+0,_Charles City County,_Precinct 1-1,_000101,772,607,33,10,6,6
+0,_Charles City County,_Precinct 2-1,_000201,911,378,17,8,4,3
+0,_Charles City County,_Precinct 3-1,_000301,813,491,17,21,5,5
+0,_Charlotte County,_County Seat,_000101,359,541,21,8,1,1
+0,_Charlotte County,_Red Oak Wylliesburg,_000201,338,521,9,4,4,0
+0,_Charlotte County,_Drakes Branch,_000302,259,428,14,5,1,1
+0,_Charlotte County,_Keysville,_000401,304,535,23,8,3,5
+0,_Charlotte County,_Cullen/Red House,_000501,298,478,8,4,0,1
+0,_Charlotte County,_Phenix,_000602,274,581,17,3,1,2
+0,_Charlotte County,_Bacon/Saxe,_000702,323,395,19,6,1,3
+0,_Charlottesville City,_Recreation,_000101,2310,418,88,37,37,28
+0,_Charlottesville City,_Clark,_000102,2328,379,86,49,41,19
+0,_Charlottesville City,_Carver,_000201,2104,196,75,29,25,18
+0,_Charlottesville City,_Walker,_000202,2339,551,96,58,43,27
+0,_Charlottesville City,_Benjamin Tonsler,_000301,2014,209,68,40,21,14
+0,_Charlottesville City,_Johnson,_000302,2219,482,109,71,19,29
+0,_Charlottesville City,_Buford,_000303,1497,175,83,28,14,17
+0,_Charlottesville City,_Venable,_000401,1552,249,101,33,10,18
+0,_Charlottesville City,_Alumni Hall,_000402,1538,301,79,38,20,38
+0,_Chesapeake City,_Great Bridge,_000001,657,1297,96,16,8,15
+0,_Chesapeake City,_Bethel,_000002,387,1488,70,19,8,8
+0,_Chesapeake City,_Camelot,_000003,2103,152,24,12,20,7
+0,_Chesapeake City,_Churchland,_000004,474,950,67,16,9,8
+0,_Chesapeake City,_Crestwood,_000005,1563,203,31,13,13,3
+0,_Chesapeake City,_Deep Creek,_000006,1666,1623,135,34,11,21
+0,_Chesapeake City,_Greenbrier,_000007,849,1318,75,39,9,18
+0,_Chesapeake City,_South Norfolk Recreation,_000008,1047,962,45,21,13,13
+0,_Chesapeake City,_Bells Mill,_000009,1103,2097,116,32,18,19
+0,_Chesapeake City,_Oscar Smith,_000010,455,469,52,11,4,8
+0,_Chesapeake City,_Geneva Park,_000011,706,924,61,10,9,6
+0,_Chesapeake City,_Georgetown,_000012,1365,233,19,7,11,7
+0,_Chesapeake City,_Gilmerton,_000013,726,905,59,25,15,7
+0,_Chesapeake City,_Grassfield,_000014,194,362,9,7,2,4
+0,_Chesapeake City,_B M Williams,_000015,1061,672,47,20,20,1
+0,_Chesapeake City,_Hickory Grove,_000016,546,1552,56,19,12,7
+0,_Chesapeake City,_Indian Creek,_000017,313,1101,47,9,10,7
+0,_Chesapeake City,_Indian River,_000018,957,472,69,20,14,4
+0,_Chesapeake City,_Jolliff,_000019,434,904,54,19,6,8
+0,_Chesapeake City,_E W Chittum (CD 4),_000020,892,1176,61,16,10,10
+0,_Chesapeake City,_E W Chittum (CD 3),_000020,4,10,1,0,0,0
+0,_Chesapeake City,_Fellowship,_000021,786,1095,59,19,5,11
+0,_Chesapeake City,_Norfolk Highlands,_000022,506,766,44,12,9,10
+0,_Chesapeake City,_Oak Grove,_000023,1045,857,66,28,15,17
+0,_Chesapeake City,_Oaklette,_000024,1035,707,54,21,25,10
+0,_Chesapeake City,_St Julians,_000025,501,462,34,8,5,7
+0,_Chesapeake City,_Johnson Park,_000026,592,276,24,9,11,10
+0,_Chesapeake City,_Silverwood,_000027,896,1278,73,28,21,22
+0,_Chesapeake City,_Sunray I,_000028,66,208,10,0,0,3
+0,_Chesapeake City,_Tanglewood,_000029,449,1052,57,24,12,7
+0,_Chesapeake City,_South Norfolk,_000030,939,39,11,2,9,1
+0,_Chesapeake City,_Carver School,_000031,1699,312,30,7,12,4
+0,_Chesapeake City,_Providence,_000032,2247,114,20,7,10,10
+0,_Chesapeake City,_Westover,_000033,402,619,32,12,10,11
+0,_Chesapeake City,_Hickory Middle School,_000034,657,1921,117,26,15,29
+0,_Chesapeake City,_Taylor Road,_000035,846,371,46,17,10,2
+0,_Chesapeake City,_Great Bridge Baptist Church,_000036,934,1802,87,27,17,16
+0,_Chesapeake City,_Bridgetown,_000037,584,950,72,14,6,7
+0,_Chesapeake City,_Bailey Creek,_000038,465,1162,68,22,8,15
+0,_Chesapeake City,_Lake Drummond,_000039,238,560,31,7,6,6
+0,_Chesapeake City,_River Birch,_000040,1199,1002,82,28,9,14
+0,_Chesapeake City,_John T West,_000041,1478,1246,89,42,24,25
+0,_Chesapeake City,_Parkways,_000042,957,680,48,22,11,8
+0,_Chesapeake City,_Pleasant Crossing,_000043,409,1152,56,19,8,11
+0,_Chesapeake City,_Nansemond,_000044,716,571,21,10,6,4
+0,_Chesapeake City,_Sunray II,_000045,436,240,17,6,6,3
+0,_Chesapeake City,_Bells Mill II,_000046,703,973,55,23,7,20
+0,_Chesapeake City,_Green Sea,_000047,291,722,60,9,4,7
+0,_Chesapeake City,_Jolliff Middle School,_000048,1883,206,26,9,12,9
+0,_Chesapeake City,_Waterway,_000049,1453,1674,99,36,31,25
+0,_Chesapeake City,_River Walk,_000050,1043,786,78,31,18,21
+0,_Chesapeake City,_Coopers Way,_000051,560,1735,66,22,11,8
+0,_Chesapeake City,_Shipyard Road,_000052,1098,785,71,24,11,12
+0,_Chesapeake City,_Fairways,_000053,642,538,40,17,21,9
+0,_Chesapeake City,_Pughsville,_000054,1262,516,48,11,11,13
+0,_Chesapeake City,_Georgetown East,_000055,859,273,14,9,10,2
+0,_Chesapeake City,_Green Tree,_000056,909,612,36,20,8,19
+0,_Chesapeake City,_Cypress,_000057,997,712,75,32,11,15
+0,_Chesapeake City,_Expressway,_000058,531,226,26,9,5,4
+0,_Chesapeake City,_Clearfield,_000059,593,703,41,24,7,9
+0,_Chesapeake City,_Parker Road,_000060,779,1698,86,33,12,26
+0,_Chesapeake City,_Centerville,_000061,464,1181,53,23,10,13
+0,_Chesapeake City,_Fentress,_000062,669,1393,88,25,12,21
+0,_Chesapeake City,_Poplar Branch,_000063,307,1002,54,7,5,9
+0,_Chesterfield County,_Bellwood,_000101,727,802,39,13,5,10
+0,_Chesterfield County,_South Chester,_000102,1101,1296,78,25,19,19
+0,_Chesterfield County,_Enon,_000103,1183,1859,74,18,18,18
+0,_Chesterfield County,_North Chester,_000104,954,1698,93,35,15,7
+0,_Chesterfield County,_Drewrys Bluff,_000105,1136,735,47,17,17,9
+0,_Chesterfield County,_Harrowgate,_000106,1798,1669,83,37,16,22
+0,_Chesterfield County,_Wells,_000107,1190,1145,64,19,11,10
+0,_Chesterfield County,_Ecoff,_000108,1191,1919,88,47,17,19
+0,_Chesterfield County,_Elizabeth Scott,_000109,1674,1860,101,28,14,26
+0,_Chesterfield County,_Dutch Gap,_000110,714,867,51,20,7,7
+0,_Chesterfield County,_Iron Bridge,_000111,1642,1868,102,39,19,27
+0,_Chesterfield County,_Carver,_000112,1019,985,61,26,6,13
+0,_Chesterfield County,_Gates,_000201,784,1076,64,15,9,8
+0,_Chesterfield County,_Beulah,_000202,1622,888,63,23,13,13
+0,_Chesterfield County,_Bird,_000203,331,469,22,8,5,10
+0,_Chesterfield County,_Jacobs,_000204,805,725,52,21,17,13
+0,_Chesterfield County,_Falling Creek,_000205,1817,811,47,12,22,9
+0,_Chesterfield County,_Belmont,_000206,1238,235,36,12,18,6
+0,_Chesterfield County,_Chippenham,_000207,634,210,18,4,6,2
+0,_Chesterfield County,_Meadowbrook,_000208,1617,648,49,7,13,6
+0,_Chesterfield County,_Salem Church,_000209,1313,1565,119,27,16,12
+0,_Chesterfield County,_Five Forks,_000210,1894,1134,109,34,21,17
+0,_Chesterfield County,_Nash,_000211,1098,2023,114,16,8,10
+0,_Chesterfield County,_St. Luke's,_000212,638,721,33,16,5,5
+0,_Chesterfield County,_Southside,_000213,2769,717,71,13,21,20
+0,_Chesterfield County,_Hopkins,_000214,321,48,11,0,2,3
+0,_Chesterfield County,_North Bird,_000215,656,294,27,6,9,2
+0,_Chesterfield County,_Ettrick,_000301,2779,513,37,12,21,13
+0,_Chesterfield County,_Deer Run,_000302,391,659,47,14,5,5
+0,_Chesterfield County,_Matoaca,_000303,1453,1580,38,14,15,9
+0,_Chesterfield County,_Winfrees Store,_000304,815,2251,63,14,5,8
+0,_Chesterfield County,_Beach,_000305,234,802,31,11,2,5
+0,_Chesterfield County,_Winterpock,_000306,734,2230,93,32,12,10
+0,_Chesterfield County,_Cosby,_000307,1337,1781,128,54,23,20
+0,_Chesterfield County,_South Manchester,_000308,492,408,32,18,10,8
+0,_Chesterfield County,_Skinquarter,_000309,1276,2532,175,45,12,23
+0,_Chesterfield County,_Tomahawk,_000310,1042,1442,124,41,16,18
+0,_Chesterfield County,_Woolridge,_000313,1337,1838,140,48,14,30
+0,_Chesterfield County,_Bailey Bridge,_000315,755,1832,94,27,13,9
+0,_Chesterfield County,_Spring Run,_000316,991,1471,112,43,14,18
+0,_Chesterfield County,_Birkdale,_000317,1155,1792,87,40,9,9
+0,_Chesterfield County,_West Beach,_000318,347,522,20,7,5,2
+0,_Chesterfield County,_Harbour Pointe,_000401,646,838,74,18,5,17
+0,_Chesterfield County,_Genito,_000402,1891,2046,148,44,28,25
+0,_Chesterfield County,_Brandermill,_000403,1194,1350,127,35,23,30
+0,_Chesterfield County,_Providence,_000404,1203,989,109,34,8,11
+0,_Chesterfield County,_La Prade,_000405,1103,1231,116,22,10,7
+0,_Chesterfield County,_Smoketree,_000406,832,1138,123,30,14,15
+0,_Chesterfield County,_Monacan,_000407,599,779,59,24,8,18
+0,_Chesterfield County,_Reams,_000408,1873,1202,113,44,25,17
+0,_Chesterfield County,_Manchester,_000409,703,581,41,22,2,6
+0,_Chesterfield County,_Wagstaff,_000410,695,710,57,24,12,8
+0,_Chesterfield County,_Swift Creek,_000411,1079,1257,125,31,15,15
+0,_Chesterfield County,_Shenandoah,_000413,1059,974,105,35,28,9
+0,_Chesterfield County,_Crenshaw,_000414,1584,1991,131,35,32,11
+0,_Chesterfield County,_Evergreen,_000415,1137,1344,121,52,26,16
+0,_Chesterfield County,_Evergreen West,_000416,637,581,46,24,4,6
+0,_Chesterfield County,_Edgewater,_000417,529,598,64,10,10,7
+0,_Chesterfield County,_Huguenot,_000501,899,719,86,52,18,15
+0,_Chesterfield County,_Crestwood,_000502,625,637,73,11,18,6
+0,_Chesterfield County,_Midlothian,_000503,950,1373,106,29,5,15
+0,_Chesterfield County,_Robious,_000504,1444,1891,171,63,16,26
+0,_Chesterfield County,_Bon Air,_000505,1267,1139,123,41,20,25
+0,_Chesterfield County,_Greenfield,_000506,1252,1055,141,41,15,16
+0,_Chesterfield County,_Salisbury,_000507,1213,1855,172,39,6,24
+0,_Chesterfield County,_Belgrade,_000508,1124,1195,119,25,13,15
+0,_Chesterfield County,_Cranbeck,_000509,923,678,70,28,15,7
+0,_Chesterfield County,_Sycamore,_000510,1038,1400,152,57,16,26
+0,_Chesterfield County,_Black Heath,_000511,667,923,101,16,6,26
+0,_Chesterfield County,_Beaufont,_000513,866,332,42,13,13,10
+0,_Chesterfield County,_Watkins,_000514,1155,1578,159,66,24,19
+0,_Chesterfield County,_Davis,_000515,1581,393,38,12,17,5
+0,_Chesterfield County,_Pocoshock,_000516,1020,304,30,17,6,6
+0,_Chesterfield County,_Roseland,_000517,307,478,43,11,2,8
+0,_Chesterfield County,_Midlothian North,_000518,975,1566,125,41,5,25
+0,_Clarke County,_Russell,_000101,504,1129,43,23,10,15
+0,_Clarke County,_Berryville,_000201,681,708,61,30,15,9
+0,_Clarke County,_Millwood,_000301,449,659,43,14,6,13
+0,_Clarke County,_Pine Grove,_000302,191,312,19,10,3,6
+0,_Clarke County,_White Post,_000401,602,914,48,9,8,19
+0,_Clarke County,_Buckmarsh,_000501,453,680,35,12,11,4
+0,_Clarke County,_Blue Ridge,_000502,171,259,12,13,2,8
+0,_Colonial Heights City,_First,_000001,458,781,44,15,14,4
+0,_Colonial Heights City,_Second,_000002,354,1019,45,14,9,3
+0,_Colonial Heights City,_Third,_000003,524,1127,41,21,11,11
+0,_Colonial Heights City,_Fourth,_000004,623,1291,53,17,6,8
+0,_Colonial Heights City,_Fifth,_000005,408,1463,64,21,4,4
+0,_Covington City,_Precinct 1-1,_000101,139,212,10,4,2,0
+0,_Covington City,_Precinct 2-1,_000201,185,227,13,3,1,7
+0,_Covington City,_Precinct 3-1,_000301,235,160,14,1,4,0
+0,_Covington City,_Precinct 4-1,_000401,194,364,16,10,0,5
+0,_Covington City,_Precinct 5-1,_000501,161,386,20,7,1,1
+0,_Craig County,_Court House,_000101,86,415,9,4,4,0
+0,_Craig County,_Ammendale,_000201,95,486,12,8,2,2
+0,_Craig County,_Givens & Reynolds Store,_000301,91,226,7,4,2,0
+0,_Craig County,_Marshalls Store,_000303,70,180,6,4,2,1
+0,_Craig County,_Barbours Creek,_000401,45,169,6,6,4,2
+0,_Craig County,_Paint Bank,_000402,16,31,1,0,0,0
+0,_Craig County,_Craig Springs,_000403,55,185,5,0,1,0
+0,_Craig County,_Craig City,_000501,83,448,8,4,5,1
+0,_Culpeper County,_West Fairfax,_000101,1271,1382,85,38,29,14
+0,_Culpeper County,_East Fairfax,_000201,1290,1083,61,17,21,14
+0,_Culpeper County,_Eggbornsville,_000302,388,1001,32,18,13,5
+0,_Culpeper County,_Cardova,_000303,334,737,30,8,11,1
+0,_Culpeper County,_Willow Shade,_000304,241,302,11,8,4,4
+0,_Culpeper County,_Eldorado,_000401,428,966,26,11,17,7
+0,_Culpeper County,_Browns Store,_000402,668,1427,51,29,13,10
+0,_Culpeper County,_Jeffersonton,_000501,579,1252,61,31,10,11
+0,_Culpeper County,_Rixeyville,_000502,489,1217,56,25,15,10
+0,_Culpeper County,_Mitchells,_000601,107,190,6,2,5,0
+0,_Culpeper County,_Pearl Sample,_000602,729,1198,51,24,7,8
+0,_Culpeper County,_South Ridge,_000603,303,332,27,14,5,7
+0,_Culpeper County,_Brandy Station,_000702,508,1241,52,8,14,14
+0,_Culpeper County,_Lignum,_000703,300,649,31,3,8,3
+0,_Culpeper County,_Richardsville,_000704,124,372,4,6,4,0
+0,_Cumberland County,_Precinct 1,_000101,425,611,26,3,7,6
+0,_Cumberland County,_Precinct 2,_000201,318,687,22,9,7,7
+0,_Cumberland County,_Precinct 3,_000301,547,371,13,8,4,3
+0,_Cumberland County,_Precinct 4,_000401,347,575,15,7,1,3
+0,_Cumberland County,_Precinct 5,_000501,399,453,19,5,5,3
+0,_Danville City,_Ward One,_000001,429,55,5,2,2,2
+0,_Danville City,_Ward Two,_000002,360,210,12,14,4,6
+0,_Danville City,_Ward Three,_000003,815,320,30,12,6,6
+0,_Danville City,_Ward Four,_000004,1067,969,43,19,3,8
+0,_Danville City,_Ward Six,_000006,523,64,5,0,1,2
+0,_Danville City,_Ward Seven,_000007,896,150,8,8,5,2
+0,_Danville City,_Ward Eight,_000008,655,320,14,5,2,2
+0,_Danville City,_Ward Nine,_000009,481,392,10,5,2,0
+0,_Danville City,_Ward Ten,_000010,674,507,23,6,6,1
+0,_Danville City,_Ward Eleven,_000011,1092,546,28,12,10,8
+0,_Danville City,_Ward Twelve,_000012,1087,695,30,6,9,7
+0,_Danville City,_Ward Thirteen,_000013,1001,497,27,11,10,11
+0,_Danville City,_Ward Fourteen,_000014,262,7,0,0,2,0
+0,_Danville City,_Ward Fifteen,_000015,696,682,29,1,4,7
+0,_Danville City,_Ward Sixteen,_000016,646,924,31,13,2,6
+0,_Danville City,_Ward Seventeen,_000017,375,965,20,3,5,5
+0,_Dickenson County,_South Clintwood,_000101,294,1011,21,8,4,11
+0,_Dickenson County,_Nora,_000201,77,342,4,6,2,3
+0,_Dickenson County,_Frying Pan,_000202,26,155,1,0,0,2
+0,_Dickenson County,_Clinchco,_000203,145,469,4,7,3,3
+0,_Dickenson County,_West Dante,_000301,20,181,4,1,1,0
+0,_Dickenson County,_Herald,_000302,44,345,0,2,0,4
+0,_Dickenson County,_Ridge,_000303,112,593,7,2,1,2
+0,_Dickenson County,_Haysi-Colley,_000401,323,839,18,7,1,4
+0,_Dickenson County,_Tarpon,_000501,95,224,10,4,1,1
+0,_Dickenson County,_North Clintwood,_000502,199,773,12,6,1,5
+0,_Dinwiddie County,_White Oak,_000101,131,414,5,7,2,3
+0,_Dinwiddie County,_Rocky Run,_000102,242,644,12,8,1,3
+0,_Dinwiddie County,_Church Road,_000103,244,1045,20,12,0,4
+0,_Dinwiddie County,_Rohoic,_000201,417,342,10,2,1,0
+0,_Dinwiddie County,_Sutherland,_000202,699,1149,28,10,5,6
+0,_Dinwiddie County,_Reams,_000301,207,368,19,3,4,0
+0,_Dinwiddie County,_New Hope,_000302,395,606,11,5,6,0
+0,_Dinwiddie County,_Little Zion,_000303,695,589,17,9,5,6
+0,_Dinwiddie County,_Dinwiddie,_000401,538,812,14,13,6,4
+0,_Dinwiddie County,_McKenney,_000402,347,474,13,4,6,6
+0,_Dinwiddie County,_Cherry Hill,_000403,313,262,4,0,1,4
+0,_Dinwiddie County,_Edgehill,_000501,192,77,8,0,1,0
+0,_Dinwiddie County,_Chesdin,_000502,1345,665,35,6,8,6
+0,_Emporia City,_Precinct 1-1,_000101,293,91,1,0,1,1
+0,_Emporia City,_Precinct 2-1,_000201,240,13,0,1,0,1
+0,_Emporia City,_Precinct 3-1,_000301,156,179,8,5,2,0
+0,_Emporia City,_Precinct 4-1,_000401,246,212,1,1,3,0
+0,_Emporia City,_Precinct 5-1,_000501,229,6,2,0,2,0
+0,_Emporia City,_District 6,_000601,153,209,11,0,1,0
+0,_Emporia City,_District 7,_000701,213,79,3,1,1,1
+0,_Essex County,_Greater Tappahannock,_000101,610,571,26,9,6,8
+0,_Essex County,_North,_000201,821,448,17,1,4,2
+0,_Essex County,_South,_000301,519,936,38,7,6,4
+0,_Essex County,_Central,_000401,592,702,32,8,2,3
+0,_Fairfax City,_One,_000001,1206,586,86,47,18,25
+0,_Fairfax City,_Two,_000002,1045,641,65,37,8,27
+0,_Fairfax City,_Three,_000003,1548,797,92,50,27,34
+0,_Fairfax City,_Four,_000004,1262,600,79,52,16,36
+0,_Fairfax City,_Five,_000005,1109,532,46,41,26,20
+0,_Fairfax City,_Six,_000006,1197,546,59,36,12,20
+0,_Fairfax County,_Chapel,_000104,1115,663,71,43,7,26
+0,_Fairfax County,_Fairview,_000105,2358,1205,115,69,40,62
+0,_Fairfax County,_Heritage,_000106,2286,664,69,24,44,16
+0,_Fairfax County,_Kings Park,_000108,1222,655,69,46,12,25
+0,_Fairfax County,_Little Run,_000109,735,371,36,23,5,19
+0,_Fairfax County,_North Springfield,_000110,2254,1006,80,49,39,33
+0,_Fairfax County,_Canterbury,_000113,2075,964,102,63,18,48
+0,_Fairfax County,_Olde Creek,_000114,954,494,48,29,8,29
+0,_Fairfax County,_Ravensworth,_000115,928,512,63,36,9,20
+0,_Fairfax County,_Wakefield,_000116,1236,525,49,47,11,30
+0,_Fairfax County,_Woodson,_000117,1330,750,68,45,12,35
+0,_Fairfax County,_Lake Braddock,_000118,2238,800,123,62,25,39
+0,_Fairfax County,_Laurel,_000119,2079,1023,115,96,22,33
+0,_Fairfax County,_Sideburn,_000120,1376,1000,75,54,21,55
+0,_Fairfax County,_Villa,_000121,1055,556,40,46,19,16
+0,_Fairfax County,_Robinson,_000123,2073,1078,126,65,27,60
+0,_Fairfax County,_Signal Hill,_000125,1492,780,69,36,13,44
+0,_Fairfax County,_Bonnie Brae,_000126,1292,547,82,36,21,21
+0,_Fairfax County,_Burke Centre,_000127,2336,1081,115,89,35,45
+0,_Fairfax County,_Cardinal,_000128,1221,572,42,36,24,43
+0,_Fairfax County,_Keene Mill,_000129,931,437,40,25,11,12
+0,_Fairfax County,_Terra Centre,_000130,1231,655,68,49,13,30
+0,_Fairfax County,_Eagle View,_000131,1636,834,90,54,26,28
+0,_Fairfax County,_Monument,_000132,2049,808,80,48,33,23
+0,_Fairfax County,_Danbury,_000133,409,160,20,8,9,6
+0,_Fairfax County,_University,_000134,2590,490,179,47,50,26
+0,_Fairfax County,_Armstrong,_000201,1890,811,85,61,20,48
+0,_Fairfax County,_Flint Hill,_000202,1372,823,72,59,12,50
+0,_Fairfax County,_Floris,_000203,1880,1016,65,36,26,29
+0,_Fairfax County,_Madison,_000204,522,155,18,17,7,9
+0,_Fairfax County,_Reston #1,_000208,1868,527,85,39,29,35
+0,_Fairfax County,_Reston #2,_000209,1930,459,75,47,35,26
+0,_Fairfax County,_Vienna #1,_000213,1913,944,107,83,31,55
+0,_Fairfax County,_Vienna #2,_000214,1535,740,72,65,21,44
+0,_Fairfax County,_Vienna #4,_000216,897,376,40,30,9,16
+0,_Fairfax County,_Vienna #6,_000218,1240,432,43,45,8,33
+0,_Fairfax County,_Westbriar,_000219,1780,791,98,57,11,41
+0,_Fairfax County,_Dogwood,_000220,2437,700,93,63,34,35
+0,_Fairfax County,_Hunters Woods,_000221,1430,607,54,28,8,34
+0,_Fairfax County,_Reston #3,_000222,1413,279,49,24,25,18
+0,_Fairfax County,_Glade,_000223,2214,682,115,80,28,36
+0,_Fairfax County,_South Lakes,_000224,2572,774,109,51,35,48
+0,_Fairfax County,_Hughes,_000225,2304,557,102,51,36,38
+0,_Fairfax County,_Wolftrap,_000226,1681,902,97,87,15,75
+0,_Fairfax County,_Sunrise Valley,_000227,907,422,32,28,12,36
+0,_Fairfax County,_Fox Mill,_000229,2406,1323,119,72,24,54
+0,_Fairfax County,_North Point,_000233,1587,886,68,35,20,55
+0,_Fairfax County,_Aldrin,_000234,1454,624,53,48,13,41
+0,_Fairfax County,_Frying Pan,_000235,1744,569,63,37,23,18
+0,_Fairfax County,_Stuart,_000236,725,323,37,23,9,20
+0,_Fairfax County,_McNair,_000237,2066,602,88,41,32,25
+0,_Fairfax County,_Cameron Glen,_000238,1487,803,95,31,26,41
+0,_Fairfax County,_Colvin,_000240,1174,766,54,37,5,37
+0,_Fairfax County,_Chain Bridge,_000301,1310,823,53,39,17,52
+0,_Fairfax County,_Chesterbrook,_000302,1181,584,50,48,5,37
+0,_Fairfax County,_Churchill,_000303,740,346,28,20,5,37
+0,_Fairfax County,_Cooper,_000304,888,552,30,27,7,40
+0,_Fairfax County,_El Nido,_000305,1054,454,36,44,11,33
+0,_Fairfax County,_Great Falls,_000306,871,691,44,11,7,42
+0,_Fairfax County,_Haycock,_000307,1214,487,50,48,11,56
+0,_Fairfax County,_Kenmore,_000309,1555,870,79,47,19,48
+0,_Fairfax County,_Kirby,_000310,971,397,35,54,13,32
+0,_Fairfax County,_Langley,_000311,854,537,25,29,6,41
+0,_Fairfax County,_Longfellow,_000312,1191,541,44,82,12,40
+0,_Fairfax County,_McLean,_000314,1011,580,44,42,19,29
+0,_Fairfax County,_Pimmit,_000315,1739,797,66,82,31,29
+0,_Fairfax County,_Salona #1,_000316,415,249,21,6,4,12
+0,_Fairfax County,_Westhampton,_000317,1108,511,59,27,16,31
+0,_Fairfax County,_Westmoreland,_000318,669,328,35,27,11,14
+0,_Fairfax County,_Herndon #1,_000319,2102,953,104,83,23,53
+0,_Fairfax County,_Herndon #2,_000320,2424,825,111,60,23,33
+0,_Fairfax County,_Clearview,_000321,2084,1150,121,117,25,52
+0,_Fairfax County,_Forestville,_000322,1210,1141,65,43,20,70
+0,_Fairfax County,_Shouse,_000323,1123,591,53,22,9,34
+0,_Fairfax County,_Herndon #3,_000324,1995,721,101,52,47,29
+0,_Fairfax County,_Hutchison,_000325,1450,351,44,16,20,18
+0,_Fairfax County,_Sugarland,_000327,1842,1032,99,57,19,48
+0,_Fairfax County,_Hickory,_000328,1375,993,68,46,15,53
+0,_Fairfax County,_Seneca,_000329,1498,1141,66,32,15,48
+0,_Fairfax County,_Spring Hill,_000331,941,534,57,47,5,33
+0,_Fairfax County,_Coates,_000332,2083,590,68,40,34,34
+0,_Fairfax County,_Salona #2,_000333,728,377,34,34,7,24
+0,_Fairfax County,_Bush Hill,_000401,1716,815,68,66,19,38
+0,_Fairfax County,_Cameron,_000402,656,246,26,17,6,28
+0,_Fairfax County,_Forestdale,_000403,789,273,19,13,7,13
+0,_Fairfax County,_Franconia,_000404,1968,637,80,44,28,28
+0,_Fairfax County,_Groveton,_000405,1302,316,43,12,14,14
+0,_Fairfax County,_Hayfield,_000406,1086,755,46,43,11,27
+0,_Fairfax County,_Mount Eagle,_000408,1551,319,65,32,17,28
+0,_Fairfax County,_Pioneer,_000409,2259,737,53,37,28,28
+0,_Fairfax County,_Rose Hill,_000410,2239,1143,102,66,33,41
+0,_Fairfax County,_Virginia Hills,_000411,1314,497,51,44,16,17
+0,_Fairfax County,_Fairfield,_000413,1632,219,19,10,16,13
+0,_Fairfax County,_Crestwood,_000415,1442,639,65,40,30,17
+0,_Fairfax County,_Garfield,_000417,2130,744,53,30,23,27
+0,_Fairfax County,_Lynbrook,_000418,1306,408,48,29,14,6
+0,_Fairfax County,_Lane,_000419,1987,576,73,56,31,35
+0,_Fairfax County,_Villages,_000420,2169,803,106,61,23,42
+0,_Fairfax County,_Kingstowne,_000421,1957,687,89,50,22,36
+0,_Fairfax County,_Van Dorn,_000422,2081,667,87,58,12,28
+0,_Fairfax County,_Clermont,_000423,1416,636,70,44,13,42
+0,_Fairfax County,_Huntley,_000424,1438,599,74,45,11,28
+0,_Fairfax County,_Greenspring,_000426,1094,550,10,21,1,25
+0,_Fairfax County,_Island Creek,_000427,1463,561,60,40,13,33
+0,_Fairfax County,_Pinewood,_000428,1858,300,44,29,17,19
+0,_Fairfax County,_Hybla Valley,_000429,2261,330,30,15,14,12
+0,_Fairfax County,_Baileys,_000501,2027,487,54,52,19,32
+0,_Fairfax County,_Barcroft,_000502,724,289,21,12,6,20
+0,_Fairfax County,_Belvedere,_000503,883,311,28,24,12,15
+0,_Fairfax County,_Bristow,_000504,1676,462,34,24,25,16
+0,_Fairfax County,_Glen Forest,_000505,1697,485,39,37,24,18
+0,_Fairfax County,_Holmes #1,_000506,449,103,9,0,4,4
+0,_Fairfax County,_Lincolnia,_000507,1817,551,63,38,19,26
+0,_Fairfax County,_Masonville,_000508,1504,619,71,47,20,21
+0,_Fairfax County,_Plaza,_000509,727,125,16,9,13,8
+0,_Fairfax County,_Parklawn,_000510,1229,488,30,21,22,26
+0,_Fairfax County,_Ravenwood,_000511,1363,465,63,37,16,49
+0,_Fairfax County,_Sleepy Hollow,_000512,777,313,25,35,8,28
+0,_Fairfax County,_Saint Albans (CD 8),_000513,441,206,15,12,7,15
+0,_Fairfax County,_Saint Albans (CD 11),_000513,880,356,31,25,4,21
+0,_Fairfax County,_Crossroads,_000514,772,124,12,10,6,9
+0,_Fairfax County,_Westlawn,_000515,1072,354,33,19,14,10
+0,_Fairfax County,_Weyanoke,_000516,1870,497,51,33,27,27
+0,_Fairfax County,_Willston,_000517,1212,289,35,18,17,10
+0,_Fairfax County,_Columbia,_000518,1580,608,50,39,27,19
+0,_Fairfax County,_Hummer,_000519,986,455,39,24,9,15
+0,_Fairfax County,_Skyline,_000520,1534,289,28,27,25,17
+0,_Fairfax County,_Brook Hill,_000521,1211,563,28,28,14,23
+0,_Fairfax County,_Camelot,_000522,698,430,36,25,7,16
+0,_Fairfax County,_Poe,_000523,1381,567,43,28,16,33
+0,_Fairfax County,_Walnut Hill,_000525,1936,736,56,61,23,41
+0,_Fairfax County,_Bren Mar,_000526,2141,513,73,34,14,35
+0,_Fairfax County,_Edsall,_000527,1208,469,48,27,11,14
+0,_Fairfax County,_Ridgelea,_000528,611,341,33,21,6,24
+0,_Fairfax County,_Holmes #2,_000530,1181,248,36,13,16,12
+0,_Fairfax County,_Belle Haven,_000601,1058,579,41,46,19,38
+0,_Fairfax County,_Belleview,_000602,1218,498,63,40,14,42
+0,_Fairfax County,_Bucknell,_000604,2063,481,79,33,30,28
+0,_Fairfax County,_Fort Hunt,_000605,1088,654,40,35,12,73
+0,_Fairfax County,_Hollin Hall,_000606,1255,655,60,40,10,58
+0,_Fairfax County,_Huntington,_000607,2226,600,113,55,36,33
+0,_Fairfax County,_Kirkside,_000608,1130,322,30,30,11,26
+0,_Fairfax County,_Marlan,_000609,1069,571,58,34,18,54
+0,_Fairfax County,_Sherwood,_000610,1125,367,38,21,6,32
+0,_Fairfax County,_Stratford,_000611,1260,755,70,61,21,54
+0,_Fairfax County,_Waynewood,_000612,688,372,26,23,4,24
+0,_Fairfax County,_Westgate,_000613,1420,1277,105,57,22,79
+0,_Fairfax County,_Riverside,_000614,933,635,51,54,12,41
+0,_Fairfax County,_Woodley,_000615,1384,721,60,43,16,56
+0,_Fairfax County,_Gunston,_000616,1045,903,55,39,11,22
+0,_Fairfax County,_Lorton,_000617,1433,330,19,22,14,18
+0,_Fairfax County,_Newington,_000618,2703,1195,116,101,36,59
+0,_Fairfax County,_Belvoir,_000619,1159,570,49,32,17,24
+0,_Fairfax County,_Grosvenor,_000621,1368,360,58,49,27,18
+0,_Fairfax County,_Lorton Station,_000622,2094,555,59,37,22,23
+0,_Fairfax County,_Alban,_000623,1695,628,81,45,25,24
+0,_Fairfax County,_Lorton Center,_000625,1093,450,41,27,23,14
+0,_Fairfax County,_Saratoga,_000626,1893,908,79,50,28,47
+0,_Fairfax County,_Woodlawn,_000627,2373,690,74,43,22,23
+0,_Fairfax County,_Laurel Hill,_000628,2257,766,61,33,22,31
+0,_Fairfax County,_South County,_000629,1378,894,55,30,16,33
+0,_Fairfax County,_Fairfax Court,_000700,0,0,0,0,0,0
+0,_Fairfax County,_Blake,_000701,2396,847,106,97,32,29
+0,_Fairfax County,_Fort Buffalo,_000703,1260,319,49,41,13,24
+0,_Fairfax County,_Freedom Hill,_000704,1172,514,36,17,15,36
+0,_Fairfax County,_Graham-Greenway,_000705,2221,671,84,61,25,42
+0,_Fairfax County,_Mantua,_000707,1146,524,42,28,13,21
+0,_Fairfax County,_Marshall,_000708,2814,768,128,83,43,46
+0,_Fairfax County,_Mosby,_000709,1798,572,74,51,26,40
+0,_Fairfax County,_Pine Spring,_000710,1370,432,76,57,17,33
+0,_Fairfax County,_Price,_000711,1054,500,53,27,12,23
+0,_Fairfax County,_Shreve,_000712,837,308,45,38,13,15
+0,_Fairfax County,_Timber Lane,_000713,1848,547,66,54,24,33
+0,_Fairfax County,_Walker,_000714,1770,724,68,52,18,24
+0,_Fairfax County,_Woodburn,_000717,1119,361,47,48,18,17
+0,_Fairfax County,_Pine Ridge,_000718,1327,508,47,27,18,21
+0,_Fairfax County,_Thoreau,_000720,1542,646,72,51,16,43
+0,_Fairfax County,_Merrifield,_000721,3353,865,186,97,53,55
+0,_Fairfax County,_Magarity,_000726,1904,655,81,77,36,35
+0,_Fairfax County,_Oakton,_000727,1116,721,49,55,18,44
+0,_Fairfax County,_Nottoway,_000729,1701,636,77,66,32,43
+0,_Fairfax County,_Penderbrook,_000730,1903,863,95,57,34,33
+0,_Fairfax County,_Tysons,_000731,1372,484,66,39,18,26
+0,_Fairfax County,_Oak Marr,_000732,1569,995,83,65,23,53
+0,_Fairfax County,_Kilmer,_000733,2180,737,79,42,29,44
+0,_Fairfax County,_Hunters Branch,_000734,1173,316,63,36,13,15
+0,_Fairfax County,_Rotonda,_000735,707,274,10,17,25,9
+0,_Fairfax County,_Burke,_000801,2484,1012,114,86,25,43
+0,_Fairfax County,_Cedar Lake,_000802,683,289,25,24,6,14
+0,_Fairfax County,_Clifton,_000803,1505,1787,104,63,15,59
+0,_Fairfax County,_Colchester,_000804,842,675,38,24,9,25
+0,_Fairfax County,_Fairfax Station,_000805,704,555,32,29,9,21
+0,_Fairfax County,_Sydenstricker,_000806,1539,900,86,70,16,39
+0,_Fairfax County,_Hunt Valley,_000807,1040,590,58,48,11,23
+0,_Fairfax County,_Pohick,_000811,1120,415,40,30,14,19
+0,_Fairfax County,_Valley,_000812,1403,739,65,48,12,26
+0,_Fairfax County,_Woodyard,_000815,1130,1071,62,38,7,63
+0,_Fairfax County,_Orange,_000824,1842,1147,111,86,26,49
+0,_Fairfax County,_Cherry Run,_000825,1333,851,61,49,8,44
+0,_Fairfax County,_Irving,_000827,1235,714,45,52,21,45
+0,_Fairfax County,_White Oaks,_000833,1652,698,75,46,16,23
+0,_Fairfax County,_Sangster,_000838,1024,677,49,36,9,34
+0,_Fairfax County,_Silverbrook,_000839,1567,1140,91,52,15,50
+0,_Fairfax County,_West Springfield,_000840,1470,763,49,66,20,55
+0,_Fairfax County,_Popes Head,_000841,646,607,38,36,7,28
+0,_Fairfax County,_Parkway,_000842,1033,740,40,43,13,44
+0,_Fairfax County,_Fair Lakes,_000843,1697,751,98,45,25,20
+0,_Fairfax County,_Centerpointe,_000844,1605,530,93,40,38,24
+0,_Fairfax County,_Fountainhead,_000845,1581,1458,95,39,10,55
+0,_Fairfax County,_Greenbriar East,_000846,1808,803,99,57,22,31
+0,_Fairfax County,_Greenbriar West,_000847,1216,684,67,34,17,29
+0,_Fairfax County,_Fair Oaks,_000848,1750,748,72,33,26,24
+0,_Fairfax County,_Newgate North,_000849,846,563,53,25,5,25
+0,_Fairfax County,_South Run,_000850,1285,986,57,48,7,42
+0,_Fairfax County,_Willow Springs,_000851,1173,822,54,30,15,33
+0,_Fairfax County,_Newgate South,_000854,1228,1149,69,58,27,52
+0,_Fairfax County,_Centre Ridge,_000901,1788,703,87,37,34,19
+0,_Fairfax County,_Brookfield,_000902,2416,918,91,53,32,25
+0,_Fairfax County,_Cub Run,_000903,1842,1116,123,84,26,42
+0,_Fairfax County,_Stonecroft,_000904,736,561,67,39,6,13
+0,_Fairfax County,_Franklin,_000905,544,248,36,22,4,15
+0,_Fairfax County,_Hidden Meadow,_000908,1141,728,64,44,14,28
+0,_Fairfax County,_Oak Hill,_000909,1250,602,58,29,12,20
+0,_Fairfax County,_London Towne,_000910,2131,766,92,65,28,33
+0,_Fairfax County,_Navy,_000911,1741,908,66,46,20,38
+0,_Fairfax County,_Rocky Run,_000913,2003,1313,112,54,33,62
+0,_Fairfax County,_Vale,_000914,1064,688,66,38,12,48
+0,_Fairfax County,_Virginia Run,_000915,1087,1073,69,29,11,33
+0,_Fairfax County,_Waples Mill,_000916,1970,1334,112,63,22,55
+0,_Fairfax County,_Stone North,_000917,1055,490,74,24,6,28
+0,_Fairfax County,_Centreville,_000918,2361,973,130,74,35,43
+0,_Fairfax County,_Green Trails,_000919,2120,989,95,71,34,39
+0,_Fairfax County,_Chantilly,_000920,1575,786,61,32,11,40
+0,_Fairfax County,_Deer Park,_000921,1464,1105,112,62,29,32
+0,_Fairfax County,_Bull Run,_000923,839,840,52,34,7,30
+0,_Fairfax County,_Spindle,_000924,1148,401,59,35,18,19
+0,_Fairfax County,_Old Mill,_000925,1005,559,69,25,15,13
+0,_Fairfax County,_Powell,_000926,2481,996,125,43,27,31
+0,_Fairfax County,_Armfield,_000927,1094,535,52,23,9,22
+0,_Fairfax County,_Poplar Tree,_000928,1438,830,74,30,14,41
+0,_Fairfax County,_Difficult Run,_000929,293,254,20,8,4,20
+0,_Fairfax County,_Lees Corner,_000930,1139,602,74,54,25,26
+0,_Fairfax County,_Carson,_000931,1243,560,66,43,22,24
+0,_Fairfax County,_Stone South,_000932,1017,376,46,30,16,16
+0,_Fairfax County,_Compton,_000933,391,200,16,16,8,6
+0,_Falls Church City,_First Ward,_000001,2023,469,78,88,26,28
+0,_Falls Church City,_Second Ward,_000002,1678,353,56,64,20,33
+0,_Falls Church City,_Third Ward,_000003,2118,502,103,76,24,18
+0,_Fauquier County,_KETTLE RUN,_000101,239,711,26,23,6,4
+0,_Fauquier County,_CATLETT,_000102,528,1582,64,27,9,15
+0,_Fauquier County,_CASANOVA,_000103,387,629,21,5,6,5
+0,_Fauquier County,_LOIS,_000104,269,679,22,15,7,10
+0,_Fauquier County,_OPAL,_000105,284,708,30,20,1,9
+0,_Fauquier County,_BALDWIN RIDGE,_000106,462,720,51,37,9,9
+0,_Fauquier County,_COURTHOUSE,_000201,1098,1266,90,43,31,24
+0,_Fauquier County,_AIRLIE,_000202,737,1218,81,30,10,18
+0,_Fauquier County,_WARRENTON,_000203,1022,1119,81,53,18,27
+0,_Fauquier County,_MORRISVILLE,_000301,380,1133,38,13,12,14
+0,_Fauquier County,_REMINGTON,_000302,724,1401,77,41,15,16
+0,_Fauquier County,_BEALETON,_000303,921,1501,121,31,25,10
+0,_Fauquier County,_MARSHALL,_000401,832,1267,84,24,30,17
+0,_Fauquier County,_LEEDS,_000402,827,1005,47,21,10,21
+0,_Fauquier County,_WATERLOO,_000403,762,1407,71,28,19,17
+0,_Fauquier County,_SPRINGS VALLEY,_000404,385,663,26,21,3,9
+0,_Fauquier County,_THE PLAINS,_000501,860,904,42,31,12,9
+0,_Fauquier County,_NEW BALTIMORE,_000502,621,1273,67,49,12,17
+0,_Fauquier County,_BROAD RUN,_000503,591,1039,47,26,11,23
+0,_Fauquier County,_VINT HILL,_000504,1042,1902,105,59,21,33
+0,_Floyd County,_Locust Grove,_000101,470,1110,38,19,15,14
+0,_Floyd County,_Little River,_000201,562,1077,48,30,31,21
+0,_Floyd County,_Courthouse,_000301,553,865,44,16,28,18
+0,_Floyd County,_Burks Fork,_000401,381,1062,37,8,22,11
+0,_Floyd County,_Indian Valley,_000501,334,1179,18,18,11,10
+0,_Fluvanna County,_PALMYRA,_000101,1476,1552,114,40,19,17
+0,_Fluvanna County,_COLUMBIA,_000201,879,1127,56,28,11,14
+0,_Fluvanna County,_FORK UNION,_000301,1092,1084,51,27,9,10
+0,_Fluvanna County,_CUNNINGHAM,_000401,941,1759,85,45,16,24
+0,_Fluvanna County,_RIVANNA,_000501,1372,1503,119,78,25,19
+0,_Franklin City,_Precinct 1-1,_000101,268,583,25,3,3,5
+0,_Franklin City,_Precinct 2-1,_000201,313,413,20,7,2,3
+0,_Franklin City,_Precinct 3-1,_000301,573,51,4,0,4,0
+0,_Franklin City,_Precinct 4-1,_000401,452,50,6,0,0,0
+0,_Franklin City,_Precinct 5-1,_000501,507,10,1,0,1,1
+0,_Franklin City,_Precinct 6-1,_000601,406,314,16,5,6,9
+0,_Franklin County,_Burnt Chimney,_000102,488,1344,59,15,7,12
+0,_Franklin County,_Scruggs,_000103,728,2163,69,22,8,10
+0,_Franklin County,_Glade Hill,_000201,352,1164,28,10,4,10
+0,_Franklin County,_Penhook,_000202,343,800,20,8,1,13
+0,_Franklin County,_Hodgesville,_000203,81,198,4,1,1,2
+0,_Franklin County,_Dudley,_000204,274,695,22,11,3,1
+0,_Franklin County,_Snow Creek,_000301,159,606,13,7,3,5
+0,_Franklin County,_Fork Mountain,_000302,131,509,14,8,1,6
+0,_Franklin County,_Sontag,_000303,522,778,36,14,8,3
+0,_Franklin County,_Dickinson,_000304,246,295,9,4,4,0
+0,_Franklin County,_Henry,_000401,230,1054,22,10,7,7
+0,_Franklin County,_Ferrum,_000402,223,515,17,9,8,3
+0,_Franklin County,_Endicott,_000403,151,548,17,10,6,9
+0,_Franklin County,_Waidsboro,_000501,225,651,24,8,2,3
+0,_Franklin County,_Callaway,_000502,287,921,23,12,4,6
+0,_Franklin County,_Bowmans,_000503,172,454,26,4,7,9
+0,_Franklin County,_Gogginsville,_000504,244,749,16,12,3,9
+0,_Franklin County,_Boones Mill,_000601,390,1122,41,25,9,9
+0,_Franklin County,_Bonbrook,_000602,336,1077,39,17,13,5
+0,_Franklin County,_Coopers Cove,_000603,216,850,23,15,3,6
+0,_Franklin County,_Rocky Mount East,_000701,564,922,31,20,7,11
+0,_Franklin County,_Rocky Mount West,_000702,486,601,29,21,5,4
+0,_Franklin County,_Rocky Mount South,_000703,409,553,20,11,1,11
+0,_Frederick County,_RUSSELLS,_000101,350,1203,50,11,7,6
+0,_Frederick County,_GORE,_000102,382,1463,49,12,22,16
+0,_Frederick County,_KERNSTOWN,_000103,625,1324,65,27,21,14
+0,_Frederick County,_CEDAR CREEK,_000104,361,862,41,13,21,8
+0,_Frederick County,_GAINESBOROUGH,_000201,195,926,23,16,4,7
+0,_Frederick County,_ALBIN,_000202,448,1195,33,30,6,13
+0,_Frederick County,_REDLAND,_000203,589,1614,62,30,14,19
+0,_Frederick County,_NAIN,_000204,475,1247,39,32,10,11
+0,_Frederick County,_CLEAR BROOK,_000301,267,867,41,12,3,7
+0,_Frederick County,_NEFF'S TOWN,_000302,888,1415,91,31,28,21
+0,_Frederick County,_WHITE HALL,_000303,711,1735,62,23,13,28
+0,_Frederick County,_CARPERS VALLEY,_000401,667,1238,52,34,18,11
+0,_Frederick County,_SHENANDOAH,_000402,311,692,45,13,11,3
+0,_Frederick County,_PARKIN'S MILL,_000403,591,1159,71,45,19,14
+0,_Frederick County,_ARMEL,_000404,610,1135,72,33,14,16
+0,_Frederick County,_STEPHENS CITY,_000501,680,1297,93,32,17,10
+0,_Frederick County,_NEWTOWN,_000502,808,1548,109,35,19,11
+0,_Frederick County,_CANTERBURG,_000503,698,1436,61,19,18,10
+0,_Frederick County,_MILLBROOK,_000601,505,873,52,12,6,15
+0,_Frederick County,_ASH HOLLOW,_000602,736,1080,73,39,24,14
+0,_Frederick County,_GREENWOOD,_000603,1035,1774,96,44,30,23
+0,_Fredericksburg City,_District 1,_000101,1648,1174,92,45,45,19
+0,_Fredericksburg City,_District 2,_000201,1641,962,110,51,38,31
+0,_Fredericksburg City,_District 3,_000301,1426,987,113,52,27,25
+0,_Fredericksburg City,_District 4 - Precinct 1,_000401,1231,324,43,19,20,9
+0,_Fredericksburg City,_District 4 - Precinct 2,_000402,761,297,31,22,7,7
+0,_Galax City,_East,_000001,320,667,28,11,4,9
+0,_Galax City,_North,_000002,210,497,5,10,2,1
+0,_Galax City,_South,_000003,151,439,12,7,1,2
+0,_Giles County,_GLEN LYN,_000101,23,100,1,0,1,1
+0,_Giles County,_RICH CREEK,_000102,98,400,14,4,4,3
+0,_Giles County,_NARROWS,_000103,356,1246,48,19,4,11
+0,_Giles County,_PEARISBURG,_000201,471,1541,56,19,8,11
+0,_Giles County,_STAFFORDSVILLE,_000202,79,268,12,2,2,2
+0,_Giles County,_WHITE GATE,_000203,30,179,3,2,0,1
+0,_Giles County,_EGGLESTON,_000301,193,455,12,6,8,1
+0,_Giles County,_PEMBROKE,_000302,384,1165,32,18,10,2
+0,_Giles County,_NEWPORT,_000303,316,556,23,8,2,2
+0,_Gloucester County,_Harcum,_000101,400,1021,53,26,11,6
+0,_Gloucester County,_Salem,_000102,333,892,53,9,3,8
+0,_Gloucester County,_Peasley,_000103,220,680,31,10,9,6
+0,_Gloucester County,_Courthouse,_000201,527,963,51,15,11,8
+0,_Gloucester County,_Botetourt,_000202,684,1469,82,31,21,9
+0,_Gloucester County,_White Marsh,_000301,370,1211,69,16,10,7
+0,_Gloucester County,_Roanes,_000302,589,1521,59,33,16,9
+0,_Gloucester County,_Hayes,_000401,656,1320,65,12,17,6
+0,_Gloucester County,_Sarahs Creek,_000402,577,1084,67,30,14,3
+0,_Gloucester County,_Achilles,_000501,579,1769,82,15,14,13
+0,_Gloucester County,_Walker,_000502,469,1166,81,16,8,4
+0,_Goochland County,_Fife,_000101,419,590,27,10,5,1
+0,_Goochland County,_Hadensville,_000102,550,1009,51,17,7,9
+0,_Goochland County,_Three Square,_000201,237,238,14,4,2,9
+0,_Goochland County,_Sandy Hook,_000202,873,1115,61,26,13,9
+0,_Goochland County,_Goochland Court House 1,_000301,467,816,38,9,2,5
+0,_Goochland County,_Goochland Court House 2,_000302,184,379,16,8,7,3
+0,_Goochland County,_Shallow Well,_000401,525,745,47,22,3,7
+0,_Goochland County,_Centerville,_000402,608,1370,64,27,5,13
+0,_Goochland County,_Manakin,_000501,648,1333,92,11,8,23
+0,_Goochland County,_Blair Road,_000502,378,789,64,11,2,12
+0,_Grayson County,_Bridle Creek,_000101,80,207,5,6,5,1
+0,_Grayson County,_Flatridge,_000102,43,140,2,0,1,0
+0,_Grayson County,_Grant,_000103,86,220,6,2,3,2
+0,_Grayson County,_Mouth Of Wilson,_000104,66,121,7,6,2,2
+0,_Grayson County,_Mount Rogers,_000105,40,198,4,5,0,0
+0,_Grayson County,_Rugby,_000106,52,188,8,5,0,1
+0,_Grayson County,_Troutdale,_000107,19,122,1,1,0,5
+0,_Grayson County,_Comers Rock,_000108,46,154,4,2,2,1
+0,_Grayson County,_Elk Creek,_000202,90,392,7,7,8,0
+0,_Grayson County,_Independence,_000203,276,990,23,19,9,5
+0,_Grayson County,_Baywood,_000301,140,648,12,7,3,1
+0,_Grayson County,_Fairview,_000302,162,826,9,14,8,4
+0,_Grayson County,_Fries,_000401,111,320,6,4,1,2
+0,_Grayson County,_Providence,_000402,113,743,8,9,11,2
+0,_Grayson County,_Oldtown,_000403,83,323,8,6,2,2
+0,_Greene County,_Dyke,_000101,259,679,23,8,7,11
+0,_Greene County,_Swift Run,_000102,401,836,74,24,9,19
+0,_Greene County,_Ruckersville,_000201,757,1407,108,56,15,25
+0,_Greene County,_Stanardsville,_000301,615,1448,74,18,18,14
+0,_Greene County,_Midway,_000401,892,1575,127,61,17,30
+0,_Greensville County,_Precinct 1-A,_000101,317,158,5,3,0,0
+0,_Greensville County,_Precinct 1-B,_000102,86,114,5,0,1,0
+0,_Greensville County,_Precinct 1-C,_000103,305,44,2,0,3,0
+0,_Greensville County,_Precinct 2-A,_000201,421,167,3,3,1,0
+0,_Greensville County,_Precinct 2-B,_000202,284,401,5,0,1,0
+0,_Greensville County,_Precinct 3-A,_000302,753,398,12,3,0,0
+0,_Greensville County,_Precinct 4-A,_000401,110,204,7,2,0,0
+0,_Greensville County,_Precinct 4-B,_000402,195,111,5,1,0,0
+0,_Greensville County,_Precinct 4-C,_000403,87,140,6,0,0,0
+0,_Halifax County,_Childrey,_000101,326,471,10,4,0,0
+0,_Halifax County,_Liberty,_000102,166,240,3,4,1,0
+0,_Halifax County,_Republican Grove,_000103,409,435,7,3,7,6
+0,_Halifax County,_Clays Mill,_000201,192,402,6,2,0,1
+0,_Halifax County,_Crossroads,_000202,236,323,7,2,0,0
+0,_Halifax County,_Clover,_000203,451,458,8,1,5,1
+0,_Halifax County,_Meadville,_000302,253,122,6,8,2,1
+0,_Halifax County,_Vernon Hill,_000304,223,404,1,3,2,3
+0,_Halifax County,_Sinai,_000305,724,439,12,1,3,5
+0,_Halifax County,_Courthouse,_000401,505,489,16,7,6,3
+0,_Halifax County,_Center,_000403,302,639,25,10,3,2
+0,_Halifax County,_Dan River,_000502,468,926,41,10,4,5
+0,_Halifax County,_Scottsburg,_000503,144,547,12,4,0,1
+0,_Halifax County,_Black Walnut,_000601,247,567,8,3,1,0
+0,_Halifax County,_Mt Carmel,_000603,542,657,17,5,2,0
+0,_Halifax County,_Union,_000605,119,226,5,2,2,0
+0,_Halifax County,_Hyco,_000701,295,837,10,2,0,1
+0,_Halifax County,_Midway,_000702,116,637,14,1,0,3
+0,_Halifax County,_Virgilina,_000703,109,413,9,1,0,0
+0,_Halifax County,_South Boston East,_000801,666,276,13,3,4,1
+0,_Halifax County,_South Boston West,_000802,404,196,7,1,2,2
+0,_Hampton City,_ABERDEEN,_000101,1415,235,36,13,25,9
+0,_Hampton City,_BASSETTE,_000102,1895,127,14,22,6,6
+0,_Hampton City,_CITY HALL,_000103,1026,199,38,3,11,7
+0,_Hampton City,_COOPER,_000104,2411,380,64,28,26,16
+0,_Hampton City,_EAST HAMPTON,_000105,2090,267,28,9,19,8
+0,_Hampton City,_ARMSTRONG,_000106,1335,692,85,27,25,21
+0,_Hampton City,_LINDSAY,_000107,1484,301,20,12,10,6
+0,_Hampton City,_THOMAS,_000108,2134,292,32,21,17,6
+0,_Hampton City,_PHENIX,_000109,2122,140,27,14,9,11
+0,_Hampton City,_PHOEBUS,_000110,346,218,20,3,2,1
+0,_Hampton City,_HAMPTON LIBRARY,_000111,462,323,43,5,13,3
+0,_Hampton City,_SMITH,_000112,1885,664,64,20,25,22
+0,_Hampton City,_WYTHE,_000115,646,550,47,12,4,9
+0,_Hampton City,_JONES,_000116,754,258,26,12,8,9
+0,_Hampton City,_KECOUGHTAN,_000117,1247,414,42,18,12,11
+0,_Hampton City,_MALLORY,_000118,2112,263,21,13,13,17
+0,_Hampton City,_BOOKER,_000201,1060,1158,114,22,11,17
+0,_Hampton City,_BRYAN,_000202,1152,999,92,19,29,14
+0,_Hampton City,_BURBANK,_000203,969,635,51,15,15,17
+0,_Hampton City,_FORREST,_000204,1236,589,46,16,15,7
+0,_Hampton City,_ASBURY,_000205,1127,1928,111,38,30,15
+0,_Hampton City,_KRAFT,_000208,1849,1280,120,27,35,20
+0,_Hampton City,_LANGLEY,_000209,1079,896,62,16,17,20
+0,_Hampton City,_MACHEN,_000210,2297,738,87,44,20,15
+0,_Hampton City,_BETHEL,_000212,2163,807,84,30,25,13
+0,_Hampton City,_PHILLIPS,_000213,1368,1501,131,48,20,31
+0,_Hampton City,_TUCKER CAPPS,_000214,1586,914,66,21,21,19
+0,_Hampton City,_TYLER (CD 3),_000215,542,93,11,3,2,1
+0,_Hampton City,_TYLER (CD 2),_000215,23,13,1,0,0,1
+0,_Hampton City,_SANDY BOTTOM,_000216,986,478,40,16,8,20
+0,_Hampton City,_SYMS,_000217,511,550,35,4,1,8
+0,_Hanover County,_Ashland,_000101,809,677,57,12,12,11
+0,_Hanover County,_Sliding Hill,_000104,687,953,68,27,8,15
+0,_Hanover County,_Berkley,_000105,892,541,55,21,13,7
+0,_Hanover County,_Kersey Creek,_000106,364,656,37,17,1,8
+0,_Hanover County,_Chickahominy,_000107,534,783,82,23,5,11
+0,_Hanover County,_Beaverdam,_000201,558,1626,78,18,8,12
+0,_Hanover County,_Blunts,_000202,406,700,35,5,2,5
+0,_Hanover County,_Wilmington Parish,_000203,501,1102,53,17,9,6
+0,_Hanover County,_Courthouse,_000206,535,698,42,21,7,7
+0,_Hanover County,_Oak Knoll,_000208,458,1025,64,20,9,8
+0,_Hanover County,_West Hanover,_000209,162,303,20,4,4,1
+0,_Hanover County,_Oak Hill,_000210,163,399,25,4,2,3
+0,_Hanover County,_Clay,_000301,570,1386,62,21,9,8
+0,_Hanover County,_Shady Grove,_000303,539,1164,56,27,11,9
+0,_Hanover County,_Atlee,_000304,1368,2320,196,60,24,20
+0,_Hanover County,_Cool Spring,_000305,693,1212,87,33,2,19
+0,_Hanover County,_Battlefield,_000401,438,1697,65,20,5,8
+0,_Hanover County,_Cold Harbor,_000403,738,1831,104,24,18,16
+0,_Hanover County,_Black Creek,_000404,452,1839,44,33,8,11
+0,_Hanover County,_Pebble Creek,_000405,404,824,35,22,1,10
+0,_Hanover County,_Beaverdam Creek,_000406,148,346,25,8,7,1
+0,_Hanover County,_Rural Point,_000502,608,1379,50,23,13,17
+0,_Hanover County,_Newman,_000503,586,1085,88,21,5,12
+0,_Hanover County,_Studley,_000504,264,1036,45,22,13,9
+0,_Hanover County,_Totopotomoy,_000505,236,803,39,6,4,7
+0,_Hanover County,_Georgetown,_000506,413,1002,70,20,4,10
+0,_Hanover County,_Laurel Meadow,_000507,516,1286,86,22,4,14
+0,_Hanover County,_Village,_000601,814,2022,118,24,23,11
+0,_Hanover County,_Lee Davis,_000602,625,1530,82,16,18,6
+0,_Hanover County,_Mechanicsville,_000603,634,910,63,27,14,9
+0,_Hanover County,_Hanover Grove,_000604,383,957,56,14,1,8
+0,_Hanover County,_Farrington,_000701,536,1291,62,22,11,9
+0,_Hanover County,_Montpelier,_000702,653,1068,74,13,8,8
+0,_Hanover County,_Rockville,_000703,583,1205,64,17,10,15
+0,_Hanover County,_Elmont,_000704,767,1264,85,37,13,12
+0,_Hanover County,_South Anna,_000705,345,710,38,20,8,3
+0,_Harrisonburg City,_Northeast,_000101,1553,823,126,43,27,16
+0,_Harrisonburg City,_East Central,_000102,751,287,52,22,19,12
+0,_Harrisonburg City,_Southeast,_000103,1412,922,120,36,33,29
+0,_Harrisonburg City,_East,_000104,1363,963,124,26,33,15
+0,_Harrisonburg City,_South East Central,_000105,1338,805,123,32,24,14
+0,_Harrisonburg City,_Northwest,_000201,1169,877,81,49,30,23
+0,_Harrisonburg City,_Southwest,_000202,1373,907,95,51,53,16
+0,_Harrisonburg City,_West,_000203,1253,678,89,51,36,13
+0,_Henrico County,_Coalpit,_000101,1451,1319,108,54,17,16
+0,_Henrico County,_Dumbarton,_000102,1676,559,76,30,24,16
+0,_Henrico County,_Glen Allen,_000103,1412,1537,118,45,11,24
+0,_Henrico County,_Glenside,_000104,1260,361,34,3,17,5
+0,_Henrico County,_Greendale,_000105,757,514,55,20,18,9
+0,_Henrico County,_Hermitage,_000106,1346,931,112,34,19,15
+0,_Henrico County,_Hilliard,_000107,560,401,49,21,9,6
+0,_Henrico County,_Hungary Creek,_000108,1524,1425,117,46,18,17
+0,_Henrico County,_Hunton,_000109,324,488,34,10,9,5
+0,_Henrico County,_Johnson,_000110,461,343,30,10,14,2
+0,_Henrico County,_Lakeside,_000111,1014,866,100,19,29,10
+0,_Henrico County,_Longan,_000112,1143,1016,76,33,25,17
+0,_Henrico County,_Maude Trevvett,_000113,448,433,44,8,5,6
+0,_Henrico County,_Monument Hills,_000114,439,365,66,27,5,7
+0,_Henrico County,_Staples Mill,_000115,1380,1497,118,53,16,25
+0,_Henrico County,_Summit Court,_000116,599,449,68,16,16,12
+0,_Henrico County,_Westwood,_000117,871,613,71,21,14,9
+0,_Henrico County,_Adams,_000201,1432,77,6,1,12,2
+0,_Henrico County,_Azalea,_000202,2342,138,30,16,16,14
+0,_Henrico County,_Belmont,_000203,1229,530,70,32,16,9
+0,_Henrico County,_Brookland,_000204,268,260,17,4,3,2
+0,_Henrico County,_Canterbury,_000205,295,316,47,3,2,5
+0,_Henrico County,_Central Gardens,_000206,1939,38,10,9,10,6
+0,_Henrico County,_Chamberlayne,_000207,1513,477,56,25,16,5
+0,_Henrico County,_Fairfield,_000208,1763,65,9,3,8,5
+0,_Henrico County,_Glen Lea,_000209,1104,194,16,4,10,5
+0,_Henrico County,_Greenwood,_000210,998,224,38,11,8,8
+0,_Henrico County,_Highland Gardens,_000211,775,35,9,1,4,7
+0,_Henrico County,_Hollybrook,_000212,443,188,20,8,7,4
+0,_Henrico County,_Hungary,_000213,941,215,36,20,9,6
+0,_Henrico County,_Longdale,_000214,810,424,61,20,13,6
+0,_Henrico County,_Maplewood,_000215,2016,85,12,8,18,5
+0,_Henrico County,_Moody,_000216,436,352,33,12,9,1
+0,_Henrico County,_Mountain,_000217,334,252,28,13,1,2
+0,_Henrico County,_Oakview,_000218,70,62,4,1,3,2
+0,_Henrico County,_Randolph,_000219,231,51,4,1,2,0
+0,_Henrico County,_Ratcliffe,_000220,2398,137,31,19,18,16
+0,_Henrico County,_Stratford Hall,_000221,178,111,12,10,5,1
+0,_Henrico County,_Wilder,_000222,1199,258,33,12,10,5
+0,_Henrico County,_Yellow Tavern,_000223,1510,961,64,27,14,8
+0,_Henrico County,_Essex Village,_000224,697,10,4,3,1,4
+0,_Henrico County,_Causeway,_000301,701,690,70,28,3,17
+0,_Henrico County,_Cedarfield,_000302,877,1042,116,41,9,23
+0,_Henrico County,_Innsbrook,_000303,1193,953,84,40,12,21
+0,_Henrico County,_Jackson Davis,_000304,554,691,53,24,7,15
+0,_Henrico County,_Nuckols Farm,_000305,1049,1236,127,49,13,24
+0,_Henrico County,_Pocahontas,_000306,1069,898,75,26,10,8
+0,_Henrico County,_Ridge,_000307,576,604,45,24,8,7
+0,_Henrico County,_Rivers Edge,_000308,1037,1131,108,34,4,25
+0,_Henrico County,_Sadler,_000309,1227,1014,89,30,8,9
+0,_Henrico County,_Shady Grove,_000310,1079,1371,88,30,8,23
+0,_Henrico County,_Short Pump,_000311,1532,1393,94,34,16,37
+0,_Henrico County,_Springfield,_000312,890,622,70,35,7,12
+0,_Henrico County,_Stoney Run,_000313,1458,1473,142,59,17,25
+0,_Henrico County,_Three Chopt,_000314,1035,1066,103,44,23,15
+0,_Henrico County,_Tucker,_000315,1654,672,102,61,25,16
+0,_Henrico County,_Quioccasin,_000401,1168,988,117,45,16,17
+0,_Henrico County,_Crestview,_000402,1034,711,92,29,16,13
+0,_Henrico County,_Derbyshire,_000403,645,870,77,15,6,20
+0,_Henrico County,_Freeman,_000404,691,635,81,36,11,17
+0,_Henrico County,_Gayton,_000405,1091,1329,134,44,15,27
+0,_Henrico County,_Godwin,_000406,924,866,110,33,10,16
+0,_Henrico County,_Lakewood,_000407,760,888,89,15,10,8
+0,_Henrico County,_Lauderdale,_000408,1018,874,71,30,13,15
+0,_Henrico County,_Maybeury,_000409,986,1016,109,23,24,18
+0,_Henrico County,_Mooreland,_000410,469,761,67,20,5,14
+0,_Henrico County,_Pemberton,_000411,1002,689,78,25,25,8
+0,_Henrico County,_Pinchbeck,_000412,1250,1010,111,24,22,20
+0,_Henrico County,_Ridgefield,_000413,1140,1221,106,62,17,22
+0,_Henrico County,_Rollingwood,_000414,800,648,115,28,1,8
+0,_Henrico County,_Skipwith,_000415,665,499,46,13,5,8
+0,_Henrico County,_Spottswood,_000416,439,400,55,11,3,8
+0,_Henrico County,_Tuckahoe,_000417,1073,1538,187,36,9,17
+0,_Henrico County,_Welborne,_000418,833,537,83,12,15,15
+0,_Henrico County,_West End,_000419,1048,1017,99,30,8,15
+0,_Henrico County,_Antioch,_000501,409,1140,29,8,2,10
+0,_Henrico County,_Cedar Fork,_000502,787,134,20,4,4,6
+0,_Henrico County,_Chickahominy,_000503,833,972,42,21,15,11
+0,_Henrico County,_Donahoe,_000504,824,466,23,16,14,8
+0,_Henrico County,_Dorey,_000505,991,942,53,16,5,3
+0,_Henrico County,_Eanes,_000506,1328,410,34,6,12,9
+0,_Henrico County,_Elko,_000507,115,487,19,2,3,0
+0,_Henrico County,_Highland Springs,_000508,1386,277,28,5,16,3
+0,_Henrico County,_Laburnum,_000509,1229,418,21,11,11,6
+0,_Henrico County,_Mehfoud,_000510,519,436,12,10,15,3
+0,_Henrico County,_Montrose,_000511,2537,309,40,11,16,17
+0,_Henrico County,_Nine Mile,_000512,566,353,33,10,7,3
+0,_Henrico County,_Pleasants,_000513,2059,245,17,7,13,8
+0,_Henrico County,_Rolfe,_000514,3315,331,40,26,23,12
+0,_Henrico County,_Sandston,_000515,519,1079,46,11,8,7
+0,_Henrico County,_Sullivans,_000516,1016,505,29,7,12,1
+0,_Henrico County,_Town Hall,_000517,322,432,21,7,8,6
+0,_Henrico County,_Whitlocks,_000518,627,991,31,16,15,4
+0,_Henry County,_Bassett #2,_000101,273,287,7,5,2,1
+0,_Henry County,_Gunville,_000102,181,842,12,11,4,0
+0,_Henry County,_Scott's Tanyard,_000103,411,1307,23,12,7,2
+0,_Henry County,_Fieldale,_000201,242,439,14,4,4,0
+0,_Henry County,_Horsepasture #1,_000202,386,733,14,11,4,1
+0,_Henry County,_Horsepasture #2,_000203,747,307,9,1,9,3
+0,_Henry County,_Spencer,_000204,359,931,16,4,2,5
+0,_Henry County,_Axton,_000302,403,365,15,6,0,1
+0,_Henry County,_Irisburg,_000303,612,779,27,9,7,1
+0,_Henry County,_Mount Olivet (CD 5),_000304,780,679,24,6,22,6
+0,_Henry County,_Mount Olivet (CD 9),_000304,3,0,0,0,0,0
+0,_Henry County,_Mountain Valley,_000305,324,376,11,4,3,3
+0,_Henry County,_Collinsville #1,_000401,199,574,13,8,1,4
+0,_Henry County,_Daniels Creek,_000402,282,568,21,8,3,2
+0,_Henry County,_Collinsville #2,_000404,474,830,35,10,3,7
+0,_Henry County,_Mountain View,_000405,344,469,15,1,2,5
+0,_Henry County,_Bassett #1,_000501,292,359,11,3,3,1
+0,_Henry County,_Figsboro,_000502,240,682,15,9,0,1
+0,_Henry County,_Stanleytown,_000503,245,1143,22,11,7,6
+0,_Henry County,_Oak Level,_000504,139,355,16,3,1,1
+0,_Henry County,_Dyers Store (CD 9),_000505,166,290,9,0,0,0
+0,_Henry County,_Dyers Store (CD 5),_000505,10,51,0,0,0,0
+0,_Henry County,_Fontaine,_000601,329,786,15,6,5,6
+0,_Henry County,_Hillcrest,_000602,203,283,6,6,3,0
+0,_Henry County,_Ridgeway #1,_000603,324,1018,17,4,3,4
+0,_Henry County,_Ridgeway #2,_000604,230,755,11,5,3,2
+0,_Highland County,_Monterey,_000001,145,300,16,9,3,0
+0,_Highland County,_Wilsons Mill,_000003,26,74,4,1,1,0
+0,_Highland County,_Blue Grass,_000005,76,163,6,5,0,0
+0,_Highland County,_Mill Gap,_000007,40,90,3,1,1,0
+0,_Highland County,_McDowell,_000008,71,249,4,4,2,0
+0,_Highland County,_Headwaters,_000010,13,82,0,1,1,0
+0,_Hopewell City,_Ward One,_000101,497,531,35,8,8,2
+0,_Hopewell City,_Ward Two,_000201,872,149,9,3,5,4
+0,_Hopewell City,_Ward Three,_000301,421,1002,42,19,7,14
+0,_Hopewell City,_Ward Four,_000401,892,837,35,24,7,0
+0,_Hopewell City,_Ward Five,_000501,471,796,42,18,11,12
+0,_Hopewell City,_Ward Six,_000601,926,168,24,5,7,3
+0,_Hopewell City,_Ward Seven,_000701,645,402,25,14,13,3
+0,_Isle of Wight County,_Smithfield,_000101,829,1585,80,34,14,20
+0,_Isle of Wight County,_Cypress Creek,_000102,722,1180,60,23,8,20
+0,_Isle of Wight County,_Bartlett,_000201,765,1536,93,21,11,20
+0,_Isle of Wight County,_Carrollton,_000202,909,1432,116,33,12,9
+0,_Isle of Wight County,_Rushmere,_000301,992,803,37,9,8,10
+0,_Isle of Wight County,_Pons,_000302,1258,675,27,13,3,2
+0,_Isle of Wight County,_Courthouse,_000401,217,587,14,4,0,4
+0,_Isle of Wight County,_Windsor,_000402,510,1053,41,21,6,5
+0,_Isle of Wight County,_Longview,_000403,506,800,41,11,6,8
+0,_Isle of Wight County,_Walters,_000501,206,669,20,6,5,3
+0,_Isle of Wight County,_Camps Mill,_000502,266,203,6,4,1,2
+0,_Isle of Wight County,_Carrsville,_000503,221,365,19,4,3,1
+0,_Isle of Wight County,_Zuni,_000504,325,827,22,14,4,9
+0,_Isle of Wight County,_Raynor,_000505,155,489,13,10,0,0
+0,_James City County,_Berkeley A,_000101,1112,1419,116,63,21,38
+0,_James City County,_Berkeley B,_000102,859,967,112,55,12,26
+0,_James City County,_Berkeley C,_000103,1372,2012,75,58,7,39
+0,_James City County,_Berkeley D,_000104,404,357,28,16,11,4
+0,_James City County,_Jamestown A,_000201,485,344,28,18,13,9
+0,_James City County,_Jamestown B,_000202,1523,1005,115,48,25,26
+0,_James City County,_Jamestown C,_000203,969,1107,68,49,16,24
+0,_James City County,_Jamestown D,_000204,1167,1579,75,52,20,26
+0,_James City County,_Powhatan A,_000301,1283,1599,87,35,9,39
+0,_James City County,_Powhatan B,_000302,598,390,43,25,8,6
+0,_James City County,_Powhatan C,_000303,419,795,30,9,2,4
+0,_James City County,_Powhatan D,_000304,1449,1165,91,22,17,13
+0,_James City County,_Stonehouse A,_000401,1197,1758,126,50,25,17
+0,_James City County,_Stonehouse B,_000402,1635,2021,105,47,29,33
+0,_James City County,_Stonehouse C,_000403,1044,1571,80,45,20,23
+0,_James City County,_Roberts A,_000501,990,393,38,16,10,4
+0,_James City County,_Roberts B,_000502,976,1508,58,27,11,36
+0,_James City County,_Roberts C,_000503,348,161,20,10,2,1
+0,_James City County,_Roberts D,_000504,1275,1155,100,41,23,28
+0,_King and Queen County,_Owenton,_000101,405,288,7,3,3,2
+0,_King and Queen County,_Clarks,_000201,256,498,22,4,6,7
+0,_King and Queen County,_Shacklefords,_000301,307,406,12,2,3,5
+0,_King and Queen County,_Courthouse,_000401,337,407,20,0,5,2
+0,_King and Queen County,_Oldmill,_000501,163,500,14,4,1,1
+0,_King George County,_Courthouse,_000101,676,1359,90,45,18,11
+0,_King George County,_Passapatanzy,_000102,388,743,27,12,5,8
+0,_King George County,_Monroe,_000201,902,2006,107,54,27,20
+0,_King George County,_Dahlgren,_000301,1069,1502,79,36,20,22
+0,_King George County,_Shiloh,_000401,972,1731,64,30,13,14
+0,_King William County,_West Point,_000101,514,1060,90,20,11,5
+0,_King William County,_Sweet Hall,_000201,204,403,23,7,3,1
+0,_King William County,_Courthouse,_000202,466,686,19,8,5,3
+0,_King William County,_Aylett,_000301,400,1307,45,16,8,4
+0,_King William County,_Manquin,_000401,508,1255,53,10,9,8
+0,_King William County,_Mangohick,_000501,668,1264,31,10,8,14
+0,_Lancaster County,_Precinct 1-1,_000101,487,767,28,13,5,8
+0,_Lancaster County,_Precinct 2-1,_000201,735,455,24,7,0,6
+0,_Lancaster County,_Precinct 3-1,_000301,297,682,32,6,14,10
+0,_Lancaster County,_Precinct 3-2,_000302,155,313,9,3,7,1
+0,_Lancaster County,_Precinct 4-1,_000401,710,418,16,2,7,3
+0,_Lancaster County,_Precinct 5-1,_000501,485,888,32,10,2,8
+0,_Lee County,_Elydale,_000101,100,398,2,3,1,0
+0,_Lee County,_Ewing,_000102,78,391,12,6,2,0
+0,_Lee County,_Rose Hill,_000103,163,744,8,6,2,5
+0,_Lee County,_Blackwater,_000201,37,141,1,0,1,2
+0,_Lee County,_Flatwoods,_000202,83,640,13,2,1,6
+0,_Lee County,_Jonesville,_000203,204,864,18,6,0,8
+0,_Lee County,_Ben Hur,_000301,203,935,12,6,5,10
+0,_Lee County,_Woodway,_000302,99,624,0,4,10,4
+0,_Lee County,_Stickleyville,_000401,87,332,5,2,2,0
+0,_Lee County,_Jasper,_000402,60,283,5,1,3,1
+0,_Lee County,_Seminary,_000403,59,338,4,1,1,3
+0,_Lee County,_Dryden,_000404,137,623,12,2,0,4
+0,_Lee County,_Saint Charles,_000501,115,257,0,0,0,0
+0,_Lee County,_Pennington,_000502,154,712,12,4,3,2
+0,_Lee County,_Robbins Chapel,_000503,10,108,1,1,2,0
+0,_Lee County,_Keokee,_000504,38,153,1,1,0,0
+0,_Lexington City,_Lexington,_000001,1514,766,92,56,20,17
+0,_Loudoun County,_LITTLE RIVER,_000107,1147,848,80,36,19,33
+0,_Loudoun County,_MERCER,_000108,1204,835,52,36,9,17
+0,_Loudoun County,_FREEDOM,_000112,946,496,25,25,3,11
+0,_Loudoun County,_DULLES SOUTH,_000114,1150,620,32,28,26,16
+0,_Loudoun County,_CARTER,_000117,788,279,30,23,13,11
+0,_Loudoun County,_MOOREFIELD,_000118,1289,631,53,43,6,16
+0,_Loudoun County,_ARCOLA,_000119,2208,1292,127,66,26,24
+0,_Loudoun County,_LUNSFORD,_000120,1284,779,58,24,12,19
+0,_Loudoun County,_TOWN HALL,_000121,783,537,50,38,10,12
+0,_Loudoun County,_HUTCHISON FARM,_000122,1410,837,63,51,12,28
+0,_Loudoun County,_CARDINAL RIDGE,_000123,735,512,47,30,9,15
+0,_Loudoun County,_LIBERTY,_000124,872,515,38,24,10,10
+0,_Loudoun County,_ROCK RIDGE,_000125,1370,519,36,30,13,20
+0,_Loudoun County,_RIVER BEND,_000207,738,551,49,30,13,12
+0,_Loudoun County,_ALGONKIAN,_000208,842,594,52,46,18,20
+0,_Loudoun County,_POTOMAC FALLS,_000209,1262,723,68,42,19,26
+0,_Loudoun County,_CASCADES,_000210,1516,868,106,46,26,28
+0,_Loudoun County,_COUNTRYSIDE,_000213,529,318,40,19,8,9
+0,_Loudoun County,_SUGARLAND NORTH,_000214,1424,923,92,66,14,33
+0,_Loudoun County,_SUGARLAND SOUTH,_000215,1490,779,92,42,18,23
+0,_Loudoun County,_LOWES ISLAND,_000216,1046,795,47,26,15,34
+0,_Loudoun County,_SOUTH BANK,_000217,1370,838,58,44,15,25
+0,_Loudoun County,_UNIVERSITY CENTER,_000218,1027,470,67,26,22,5
+0,_Loudoun County,_GALILEE CHURCH,_000219,1078,646,92,43,18,20
+0,_Loudoun County,_PURCELLVILLE,_000301,1147,1225,102,72,12,40
+0,_Loudoun County,_ROUND HILL,_000302,885,1179,86,44,12,23
+0,_Loudoun County,_HILLSBORO,_000303,783,1105,47,31,12,30
+0,_Loudoun County,_PHILOMONT,_000305,424,516,33,13,8,16
+0,_Loudoun County,_MIDDLEBURG,_000307,610,399,21,11,8,9
+0,_Loudoun County,_ST LOUIS,_000308,584,453,35,12,5,14
+0,_Loudoun County,_ALDIE,_000309,373,408,23,10,8,9
+0,_Loudoun County,_MOUNTAIN VIEW,_000310,991,1290,109,88,21,28
+0,_Loudoun County,_ROUND HILL ELEMENTARY,_000311,810,1164,69,50,16,42
+0,_Loudoun County,_BRIAR WOODS,_000312,1371,750,70,22,15,19
+0,_Loudoun County,_PINEBROOK,_000313,2629,1599,125,68,36,30
+0,_Loudoun County,_LEGACY,_000314,2481,1142,78,42,25,29
+0,_Loudoun County,_FIREHOUSE,_000315,280,422,18,8,1,9
+0,_Loudoun County,_CREIGHTON'S CORNER,_000316,2046,1129,108,82,28,23
+0,_Loudoun County,_MADISON'S TRUST,_000318,756,1004,68,42,10,23
+0,_Loudoun County,_WEST LOVETTSVILLE,_000401,1048,1450,108,50,13,19
+0,_Loudoun County,_WATERFORD,_000402,900,1115,82,26,16,26
+0,_Loudoun County,_LUCKETTS,_000403,1144,1292,76,34,20,15
+0,_Loudoun County,_HARPER PARK,_000407,764,573,39,25,3,15
+0,_Loudoun County,_EVERGREEN,_000408,1007,727,58,26,13,23
+0,_Loudoun County,_CLARKES GAP,_000409,899,1232,57,36,13,22
+0,_Loudoun County,_EAST LOVETTSVILLE,_000411,722,963,64,32,15,20
+0,_Loudoun County,_TUSCARORA,_000413,47,58,4,0,3,0
+0,_Loudoun County,_RED ROCK,_000414,784,478,33,19,5,10
+0,_Loudoun County,_HAMILTON,_000416,1184,1416,78,50,18,33
+0,_Loudoun County,_J. L. Simpson,_000419,868,1177,52,45,10,24
+0,_Loudoun County,_RIVER CREEK,_000420,845,947,34,17,7,25
+0,_Loudoun County,_BETWEEN THE HILLS,_000421,108,180,7,7,5,1
+0,_Loudoun County,_WEST LEESBURG,_000501,1148,824,64,53,18,40
+0,_Loudoun County,_EAST LEESBURG,_000502,1568,660,87,48,22,15
+0,_Loudoun County,_DRY MILL,_000503,581,462,59,32,12,11
+0,_Loudoun County,_SMARTS MILL,_000504,1182,782,113,54,16,30
+0,_Loudoun County,_COOL SPRING,_000505,1219,1010,98,50,15,31
+0,_Loudoun County,_BRANDON PARK,_000506,879,461,64,38,25,14
+0,_Loudoun County,_GREENWAY,_000507,645,487,55,34,8,14
+0,_Loudoun County,_BALLS BLUFF,_000508,1270,944,90,54,21,33
+0,_Loudoun County,_TOLBERT,_000509,1656,772,67,26,21,16
+0,_Loudoun County,_HERITAGE,_000510,712,638,36,26,5,17
+0,_Loudoun County,_HILLSIDE,_000615,1214,828,73,53,20,24
+0,_Loudoun County,_EAGLE RIDGE,_000616,1338,823,86,40,21,21
+0,_Loudoun County,_OAK GROVE,_000617,782,197,19,13,9,5
+0,_Loudoun County,_RIDGETOP,_000619,771,287,39,16,9,9
+0,_Loudoun County,_RUSSELL BRANCH,_000620,1468,1002,81,66,18,29
+0,_Loudoun County,_DOMINION TRAIL,_000621,1633,973,87,66,9,34
+0,_Loudoun County,_FARMWELL STATION,_000622,1559,739,63,40,13,14
+0,_Loudoun County,_WELLER,_000623,990,717,34,23,7,12
+0,_Loudoun County,_MILL RUN,_000625,494,408,32,18,1,14
+0,_Loudoun County,_ASHBY PONDS,_000626,506,423,8,11,2,12
+0,_Loudoun County,_ASHBROOK,_000627,1112,505,55,19,19,10
+0,_Loudoun County,_MOOREFIELD STATION,_000628,1408,704,80,41,16,16
+0,_Loudoun County,_DISCOVERY,_000629,370,263,10,6,5,6
+0,_Loudoun County,_SULLY,_000701,1337,721,64,41,17,21
+0,_Loudoun County,_PARK VIEW,_000702,1123,595,51,32,20,15
+0,_Loudoun County,_ROLLING RIDGE,_000703,1552,601,69,37,37,14
+0,_Loudoun County,_FOREST GROVE,_000705,1617,915,91,48,14,17
+0,_Loudoun County,_CLAUDE MOORE PARK,_000707,1145,496,47,31,10,12
+0,_Loudoun County,_SENECA,_000708,1089,700,46,32,21,28
+0,_Loudoun County,_MIRROR RIDGE,_000709,1444,557,67,50,25,25
+0,_Loudoun County,_STERLING,_000710,1156,582,61,30,20,15
+0,_Loudoun County,_STONE BRIDGE,_000808,1500,1043,126,84,19,35
+0,_Loudoun County,_CEDAR LANE,_000810,1364,813,80,59,15,36
+0,_Loudoun County,_SELDENS LANDING,_000813,1085,618,58,25,7,15
+0,_Loudoun County,_NEWTON-LEE,_000814,1221,1060,45,36,6,36
+0,_Loudoun County,_BELMONT RIDGE,_000815,1098,817,40,32,1,35
+0,_Loudoun County,_SANDERS CORNER,_000817,1539,1147,91,66,34,54
+0,_Loudoun County,_BROAD RUN,_000818,1069,712,58,34,12,24
+0,_Loudoun County,_HERITAGE CHURCH,_000819,965,740,51,36,19,14
+0,_Loudoun County,_BELMONT STATION,_000820,1131,745,49,48,8,11
+0,_Loudoun County,_RIVERSIDE,_000822,857,580,42,19,7,25
+0,_Louisa County,_Zion,_000101,802,1078,67,11,11,16
+0,_Louisa County,_Mechanicsville,_000102,401,583,35,18,7,4
+0,_Louisa County,_Louisa #1,_000201,424,688,29,16,16,10
+0,_Louisa County,_Louisa #2,_000202,384,677,40,13,11,8
+0,_Louisa County,_Patrick Henry #1,_000301,1065,891,50,13,8,6
+0,_Louisa County,_Patrick Henry #2,_000302,210,310,14,4,7,4
+0,_Louisa County,_Mineral,_000401,553,1220,42,16,7,5
+0,_Louisa County,_Yanceyville,_000402,232,320,12,7,15,4
+0,_Louisa County,_Fredericks Hall,_000501,263,314,17,2,5,2
+0,_Louisa County,_Cuckoo,_000502,308,614,33,6,5,6
+0,_Louisa County,_Elk Creek,_000503,176,481,18,9,4,1
+0,_Louisa County,_Bumpass,_000601,222,761,24,4,7,2
+0,_Louisa County,_Locust Creek,_000602,375,909,54,15,9,4
+0,_Louisa County,_Sheltons Mill,_000701,429,1005,46,17,7,4
+0,_Louisa County,_South Anna,_000702,368,677,24,12,5,4
+0,_Lunenburg County,_Plymouth,_000101,183,481,16,4,2,1
+0,_Lunenburg County,_Browns Store,_000201,213,389,16,6,0,3
+0,_Lunenburg County,_Rosebud,_000301,88,335,5,2,3,0
+0,_Lunenburg County,_Flat Rock,_000302,189,292,8,1,0,3
+0,_Lunenburg County,_Arrowhead Gun Club,_000401,61,234,4,2,6,0
+0,_Lunenburg County,_Pleasant Grove,_000402,156,384,8,5,5,0
+0,_Lunenburg County,_Reedy Creek,_000501,221,177,10,1,0,3
+0,_Lunenburg County,_Peoples Community Center,_000502,308,132,4,7,3,0
+0,_Lunenburg County,_Hounds Creek,_000601,477,296,7,1,2,0
+0,_Lunenburg County,_Meherrin Fire Department,_000701,164,204,3,2,4,0
+0,_Lunenburg County,_Victoria Public Library,_000702,167,280,7,1,0,0
+0,_Lynchburg City,_First Ward First Precinct,_000101,1312,1545,116,101,15,29
+0,_Lynchburg City,_First Ward Second Precinct,_000102,1041,1471,123,77,21,22
+0,_Lynchburg City,_First Ward Third Precinct,_000103,819,993,73,38,4,13
+0,_Lynchburg City,_First Ward Fourth Precinct,_000104,550,371,53,15,12,8
+0,_Lynchburg City,_First Ward Fifth Precinct,_000105,660,474,72,32,7,11
+0,_Lynchburg City,_Second Ward First Precinct,_000201,1976,520,73,49,21,30
+0,_Lynchburg City,_Second Ward Second Precinct,_000202,1597,360,58,28,14,15
+0,_Lynchburg City,_Second Ward Third Precinct,_000203,616,150,8,7,1,3
+0,_Lynchburg City,_Second Ward Fourth Precinct,_000204,381,299,18,6,4,4
+0,_Lynchburg City,_Third Ward First Precinct,_000301,569,487,60,39,12,8
+0,_Lynchburg City,_Third Ward Second Precinct,_000302,153,2913,146,166,4,31
+0,_Lynchburg City,_Third Ward Third Precinct,_000303,488,768,66,44,11,14
+0,_Lynchburg City,_Third Ward Fourth Precinct,_000304,436,735,55,41,11,15
+0,_Lynchburg City,_Third Ward Fifth Precinct,_000305,733,1779,82,86,8,14
+0,_Lynchburg City,_Fourth Ward First Precinct,_000401,937,1973,108,99,13,26
+0,_Lynchburg City,_Fourth Ward Second Precinct,_000402,473,645,40,21,6,10
+0,_Lynchburg City,_Fourth Ward Third Precinct,_000403,986,1330,141,98,24,22
+0,_Lynchburg City,_Fourth Ward Fourth Precinct,_000404,1065,1169,87,51,20,23
+0,_Madison County,_Oak Park,_000001,320,453,22,9,5,4
+0,_Madison County,_Radiant,_000002,401,717,31,13,8,10
+0,_Madison County,_Rochelle,_000003,157,387,12,6,4,2
+0,_Madison County,_Graves Mill,_000004,15,48,4,1,1,0
+0,_Madison County,_Madison,_000005,452,802,42,14,8,6
+0,_Madison County,_Wolftown,_000006,237,453,30,13,4,1
+0,_Madison County,_Brightwood,_000007,329,920,23,22,6,7
+0,_Madison County,_Criglersville,_000008,205,387,10,8,2,9
+0,_Madison County,_Etlan,_000009,87,252,10,1,5,4
+0,_Manassas City,_Dean,_000001,1853,1588,108,64,26,34
+0,_Manassas City,_Weems,_000002,1433,1005,102,44,28,40
+0,_Manassas City,_Metz,_000003,1587,1149,79,47,26,35
+0,_Manassas City,_Haydon,_000004,1681,1233,97,41,35,15
+0,_Manassas City,_Baldwin,_000005,1869,978,102,50,32,30
+0,_Manassas Park City,_Precinct One,_000001,1137,554,47,26,20,9
+0,_Manassas Park City,_Precinct Two,_000002,1012,618,62,15,8,7
+0,_Manassas Park City,_Precinct Three,_000003,1055,561,53,16,17,15
+0,_Martinsville City,_Precinct #1,_000001,586,24,2,3,2,1
+0,_Martinsville City,_Precinct #2,_000002,711,464,29,17,15,6
+0,_Martinsville City,_Precinct #3,_000003,537,246,10,6,0,5
+0,_Martinsville City,_Precinct #4,_000004,808,399,15,6,3,5
+0,_Martinsville City,_Precinct #5,_000005,557,1014,58,16,7,14
+0,_Martinsville City,_Precinct #6,_000006,334,2,0,3,2,0
+0,_Mathews County,_Chesapeake,_000001,340,835,45,13,6,1
+0,_Mathews County,_Westville,_000002,564,1295,50,6,11,10
+0,_Mathews County,_Piankatank,_000003,659,1387,52,17,14,6
+0,_Mecklenburg County,_Wrights Store,_000101,285,249,8,0,0,1
+0,_Mecklenburg County,_Pearsons Store,_000102,59,133,2,2,0,0
+0,_Mecklenburg County,_South Clarksville,_000103,536,425,10,6,1,1
+0,_Mecklenburg County,_Boydton,_000201,266,244,12,1,0,1
+0,_Mecklenburg County,_Bluestone Senior High School,_000202,132,84,4,0,1,0
+0,_Mecklenburg County,_Chase City VFW Post,_000203,373,83,5,0,0,5
+0,_Mecklenburg County,_Bracey,_000301,293,832,19,4,1,2
+0,_Mecklenburg County,_Lacrosse,_000302,339,425,6,1,1,2
+0,_Mecklenburg County,_American Legion Hall,_000401,910,457,11,1,4,4
+0,_Mecklenburg County,_Park View Middle School,_000402,147,77,0,0,3,2
+0,_Mecklenburg County,_South Hill,_000501,702,897,31,9,4,6
+0,_Mecklenburg County,_Baskerville,_000601,232,442,11,3,2,4
+0,_Mecklenburg County,_Union Level,_000602,72,298,8,3,1,0
+0,_Mecklenburg County,_Smith Crossroads,_000603,98,186,8,0,0,0
+0,_Mecklenburg County,_Lake Gaston,_000604,130,252,5,0,0,1
+0,_Mecklenburg County,_Chase City,_000701,303,437,11,6,4,7
+0,_Mecklenburg County,_Sunshine,_000702,240,366,8,2,1,2
+0,_Mecklenburg County,_Finchley,_000801,103,125,1,1,0,1
+0,_Mecklenburg County,_Bluestone,_000802,277,568,7,1,0,2
+0,_Mecklenburg County,_Chase City Elementary School,_000803,272,341,14,3,2,0
+0,_Mecklenburg County,_Averett,_000901,24,191,0,0,0,0
+0,_Mecklenburg County,_Buffalo Springs,_000902,88,282,16,3,0,2
+0,_Mecklenburg County,_Clarksville,_000903,404,894,42,8,5,6
+0,_Middlesex County,_Saluda,_000101,168,257,16,6,2,0
+0,_Middlesex County,_Urbanna,_000102,244,458,25,3,5,2
+0,_Middlesex County,_New Market,_000201,318,990,26,13,5,7
+0,_Middlesex County,_Church View,_000302,484,590,20,8,2,2
+0,_Middlesex County,_Harmony Village,_000401,468,562,27,6,7,1
+0,_Middlesex County,_Wilton,_000501,426,813,26,14,12,4
+0,_Montgomery County,_Precinct A-1,_000101,1037,813,97,35,16,13
+0,_Montgomery County,_Precinct A-2,_000102,1295,431,131,48,35,21
+0,_Montgomery County,_Precinct A-3,_000103,1732,783,138,61,33,23
+0,_Montgomery County,_Precinct B-1,_000201,113,144,5,2,0,4
+0,_Montgomery County,_Precinct B-2,_000202,1013,1228,126,36,28,19
+0,_Montgomery County,_Precinct B-3,_000203,567,799,66,31,3,8
+0,_Montgomery County,_Precinct B-4,_000204,1181,1355,103,64,24,26
+0,_Montgomery County,_Precinct C-1,_000301,430,1337,28,20,11,9
+0,_Montgomery County,_Precinct C-2,_000302,554,1184,59,28,12,7
+0,_Montgomery County,_Precinct C-3,_000303,146,459,26,9,3,1
+0,_Montgomery County,_Precinct C-4,_000304,624,1148,74,32,5,4
+0,_Montgomery County,_Precinct D-1,_000401,408,650,51,27,10,10
+0,_Montgomery County,_Precinct D-2,_000402,397,1229,55,19,7,8
+0,_Montgomery County,_Precinct D-3,_000403,354,1046,33,20,14,1
+0,_Montgomery County,_Precinct D-4,_000404,193,581,26,14,4,4
+0,_Montgomery County,_Precinct D-5,_000405,724,1202,66,30,16,13
+0,_Montgomery County,_Precinct E-1,_000501,1055,971,79,33,18,17
+0,_Montgomery County,_Precinct E-2,_000502,490,765,43,33,18,12
+0,_Montgomery County,_Precinct E-3,_000503,1191,544,138,19,15,17
+0,_Montgomery County,_Precinct F-1,_000601,1584,620,167,47,42,25
+0,_Montgomery County,_Precinct F-2,_000602,1466,609,136,64,19,18
+0,_Montgomery County,_Precinct F-3,_000603,378,281,69,12,8,9
+0,_Montgomery County,_Precinct G-1,_000701,1799,791,153,84,30,34
+0,_Montgomery County,_Precinct G-2,_000702,1290,489,157,30,30,23
+0,_Nelson County,_Rockfish,_000101,776,813,61,27,30,3
+0,_Nelson County,_Lovingston,_000201,399,473,29,11,8,5
+0,_Nelson County,_Schuyler,_000202,264,288,12,4,4,5
+0,_Nelson County,_Shipman,_000301,577,660,37,6,7,5
+0,_Nelson County,_Gladstone,_000302,94,117,8,4,1,5
+0,_Nelson County,_Roseland,_000401,524,826,35,15,8,3
+0,_Nelson County,_Montebello,_000402,40,81,3,2,0,2
+0,_Nelson County,_Faber,_000501,295,310,18,7,10,5
+0,_Nelson County,_Nellysford,_000502,720,586,41,19,13,15
+0,_New Kent County,_Tunstall,_000102,149,494,15,4,1,0
+0,_New Kent County,_Southern Branch,_000103,398,1327,49,10,6,12
+0,_New Kent County,_Quinton,_000201,566,1039,59,24,4,19
+0,_New Kent County,_Kentwood,_000202,215,737,32,9,6,7
+0,_New Kent County,_Watkins,_000301,434,571,22,8,3,10
+0,_New Kent County,_Cumberland,_000302,417,835,41,15,11,4
+0,_New Kent County,_Providence Forge,_000401,568,1077,43,14,6,10
+0,_New Kent County,_Mountcastle,_000403,210,487,30,3,3,2
+0,_New Kent County,_Eltham,_000501,303,609,28,6,8,1
+0,_New Kent County,_Chickahominy River,_000502,286,942,29,9,4,2
+0,_Newport News City,_Denbigh,_000101,2007,578,56,26,28,23
+0,_Newport News City,_Epes,_000102,2130,489,64,20,27,9
+0,_Newport News City,_Jenkins,_000103,1567,861,107,29,23,26
+0,_Newport News City,_McIntosh,_000104,1379,401,62,28,13,9
+0,_Newport News City,_Oyster Point,_000105,355,238,34,11,9,4
+0,_Newport News City,_Reservoir,_000106,2050,909,74,38,30,18
+0,_Newport News City,_Richneck,_000107,1652,996,92,41,22,22
+0,_Newport News City,_Lee Hall,_000108,1419,503,62,20,16,7
+0,_Newport News City,_Windsor,_000109,821,516,42,13,17,9
+0,_Newport News City,_Greenwood,_000110,1764,569,84,15,28,12
+0,_Newport News City,_Bland,_000201,363,150,17,7,4,4
+0,_Newport News City,_Boulevard,_000202,823,911,89,33,19,22
+0,_Newport News City,_Charles,_000203,1259,1541,119,44,17,21
+0,_Newport News City,_Wellesley,_000204,1099,752,110,37,21,17
+0,_Newport News City,_Deep Creek,_000205,839,1318,99,38,20,22
+0,_Newport News City,_Hidenwood,_000208,494,740,51,13,3,12
+0,_Newport News City,_Hilton,_000209,808,851,92,34,15,13
+0,_Newport News City,_Nelson,_000210,1411,1477,115,46,18,21
+0,_Newport News City,_Palmer,_000211,1238,762,99,36,24,11
+0,_Newport News City,_Riverside,_000212,459,635,61,29,9,16
+0,_Newport News City,_Sanford,_000213,315,508,31,27,5,3
+0,_Newport News City,_Warwick,_000215,580,431,37,25,13,6
+0,_Newport News City,_Yates,_000216,585,666,56,17,5,6
+0,_Newport News City,_Riverview,_000217,784,1002,69,22,5,21
+0,_Newport News City,_Kiln Creek,_000218,1722,1266,114,55,13,22
+0,_Newport News City,_Deer Park,_000219,1753,708,139,32,23,28
+0,_Newport News City,_Briarfield,_000302,1241,300,27,16,10,8
+0,_Newport News City,_Carver,_000303,775,265,25,12,8,4
+0,_Newport News City,_Chestnut,_000304,711,14,7,2,4,4
+0,_Newport News City,_Downtown,_000305,419,91,13,6,5,3
+0,_Newport News City,_Dunbar,_000306,311,5,6,2,3,1
+0,_Newport News City,_Huntington,_000307,646,13,0,2,0,7
+0,_Newport News City,_Jefferson,_000308,624,12,5,3,5,4
+0,_Newport News City,_Magruder,_000309,714,11,6,5,8,4
+0,_Newport News City,_Marshall,_000310,968,22,6,8,5,8
+0,_Newport News City,_Newmarket,_000311,1377,478,34,16,9,8
+0,_Newport News City,_Newsome Park,_000312,261,3,0,0,1,0
+0,_Newport News City,_Reed,_000313,1386,31,7,3,4,7
+0,_Newport News City,_River,_000314,601,391,46,8,8,4
+0,_Newport News City,_Sedgefield,_000315,689,694,71,17,8,6
+0,_Newport News City,_South Morrison,_000316,1154,595,66,23,26,10
+0,_Newport News City,_Washington,_000317,409,9,1,0,2,2
+0,_Newport News City,_Wilson,_000318,767,69,15,5,5,1
+0,_Newport News City,_Saunders,_000319,1351,1047,76,33,27,12
+0,_Newport News City,_Watkins,_000320,1538,1640,145,34,26,21
+0,_Norfolk City,_Granby (CD 3),_000101,1450,664,99,26,24,16
+0,_Norfolk City,_Granby (CD 2),_000101,13,8,0,0,0,0
+0,_Norfolk City,_Ocean View School,_000102,582,473,70,9,10,7
+0,_Norfolk City,_Northside,_000103,721,710,72,26,13,6
+0,_Norfolk City,_Titustown (CD 3),_000104,449,17,12,8,8,4
+0,_Norfolk City,_Titustown (CD 2),_000104,323,116,9,5,6,3
+0,_Norfolk City,_Zion Grace,_000106,1304,692,86,19,20,22
+0,_Norfolk City,_Old Dominion,_000201,2200,954,152,47,38,21
+0,_Norfolk City,_Ghent Square,_000203,633,247,46,22,3,12
+0,_Norfolk City,_Lambert's Point,_000207,1926,231,80,10,35,13
+0,_Norfolk City,_Larchmont Library,_000208,386,290,35,15,2,6
+0,_Norfolk City,_Maury,_000210,1212,415,74,32,18,17
+0,_Norfolk City,_Chrysler Museum,_000211,1486,658,114,25,34,22
+0,_Norfolk City,_Park Place,_000212,1190,44,18,11,12,6
+0,_Norfolk City,_Taylor Elementary,_000213,1512,468,121,35,45,29
+0,_Norfolk City,_Stuart,_000214,1471,425,86,18,24,7
+0,_Norfolk City,_Suburban Park,_000215,882,588,46,30,15,15
+0,_Norfolk City,_Wesley,_000217,938,446,52,8,20,8
+0,_Norfolk City,_Willard,_000218,1339,1026,126,33,16,24
+0,_Norfolk City,_Ballentine,_000301,1385,219,28,4,22,8
+0,_Norfolk City,_Tanners Creek,_000302,835,175,32,11,11,4
+0,_Norfolk City,_Bowling Park,_000303,1970,70,20,2,12,7
+0,_Norfolk City,_Coleman Place School,_000304,787,169,10,4,6,10
+0,_Norfolk City,_Lafayette-Winona,_000305,1071,225,28,9,15,7
+0,_Norfolk City,_Lindenwood,_000306,986,91,14,9,10,6
+0,_Norfolk City,_Norview,_000309,2167,533,71,22,29,20
+0,_Norfolk City,_Rosemont,_000310,2207,109,32,10,13,8
+0,_Norfolk City,_Sherwood,_000311,1813,871,97,21,26,20
+0,_Norfolk City,_Union Chapel,_000313,844,14,4,5,6,1
+0,_Norfolk City,_Berkley,_000402,1337,14,10,3,11,0
+0,_Norfolk City,_Brambleton,_000403,920,13,4,7,3,1
+0,_Norfolk City,_Campostella,_000404,1322,55,10,5,6,3
+0,_Norfolk City,_Chesterfield,_000405,1493,47,8,1,15,9
+0,_Norfolk City,_Barron Black,_000406,700,460,41,4,17,5
+0,_Norfolk City,_Easton,_000408,1014,695,52,12,12,9
+0,_Norfolk City,_Fairlawn,_000409,778,524,58,16,12,6
+0,_Norfolk City,_Ruffner Academy,_000411,546,18,4,0,0,4
+0,_Norfolk City,_Ingleside,_000412,1294,167,31,6,6,9
+0,_Norfolk City,_Poplar Halls,_000413,1745,341,30,14,5,11
+0,_Norfolk City,_Young Park,_000414,1664,29,13,9,12,5
+0,_Norfolk City,_Lake Taylor High School,_000415,990,499,43,15,9,24
+0,_Norfolk City,_Bayview,_000501,1016,873,117,14,18,13
+0,_Norfolk City,_East Ocean View,_000503,1131,854,78,22,24,21
+0,_Norfolk City,_Larrymore,_000504,934,592,53,16,21,6
+0,_Norfolk City,_Little Creek,_000505,586,611,56,5,7,5
+0,_Norfolk City,_Ocean View Center,_000506,1374,682,86,25,27,14
+0,_Norfolk City,_Pretlow,_000507,987,710,84,26,32,12
+0,_Norfolk City,_Tarrallton,_000509,765,1030,78,22,14,16
+0,_Norfolk City,_Third Presbyterian,_000510,860,1052,115,25,18,16
+0,_Norfolk City,_Crossroads,_000511,926,831,84,27,26,8
+0,_Norfolk City,_Azalea Gardens,_000512,559,507,28,11,9,9
+0,_Northampton County,_Precinct 1-1,_000101,662,724,32,14,13,9
+0,_Northampton County,_Precinct 2-1,_000201,809,367,22,6,10,3
+0,_Northampton County,_Precinct 3-1,_000301,726,334,15,3,2,6
+0,_Northampton County,_Precinct 4-1,_000401,518,628,19,2,8,6
+0,_Northampton County,_Precinct 5-1,_000501,540,633,28,12,7,10
+0,_Northumberland County,_1A,_000101,466,730,22,8,9,3
+0,_Northumberland County,_2A,_000201,467,956,22,17,5,8
+0,_Northumberland County,_3A,_000301,559,258,9,4,2,0
+0,_Northumberland County,_3B,_000302,323,89,2,0,0,1
+0,_Northumberland County,_4A,_000401,543,1147,54,14,1,12
+0,_Northumberland County,_5A,_000501,494,1122,27,8,4,11
+0,_Norton City,_East Ward,_000001,383,1021,24,22,6,4
+0,_Nottoway County,_Precinct 1-1,_135101,290,496,14,7,3,0
+0,_Nottoway County,_Precinct 1-2,_135102,199,395,6,2,2,3
+0,_Nottoway County,_Precinct 2-1,_135201,365,636,14,7,9,9
+0,_Nottoway County,_Precinct 2-2,_135202,95,343,11,3,0,5
+0,_Nottoway County,_Precinct 3-1,_135301,411,236,8,2,1,0
+0,_Nottoway County,_Precinct 3-2,_135302,175,264,6,3,1,0
+0,_Nottoway County,_Precinct 4-1,_135401,533,159,9,0,2,1
+0,_Nottoway County,_Precinct 4-2,_135402,218,455,14,2,5,1
+0,_Nottoway County,_Precinct 5-1,_135501,543,728,34,9,2,8
+0,_Orange County,_One West,_000101,638,1068,44,18,10,14
+0,_Orange County,_One East,_000102,676,880,51,22,22,9
+0,_Orange County,_Two West,_000201,513,1196,25,14,8,11
+0,_Orange County,_Two East,_000202,389,1110,31,6,10,6
+0,_Orange County,_Three West,_000301,959,1082,56,15,15,16
+0,_Orange County,_Three East,_000302,230,412,12,8,5,1
+0,_Orange County,_Four West,_000401,394,1293,31,19,4,8
+0,_Orange County,_Four East,_000402,637,959,68,20,18,9
+0,_Orange County,_Five South,_000501,741,1149,38,26,16,9
+0,_Orange County,_Five North,_000502,780,1372,43,30,8,13
+0,_Page County,_West Luray,_000101,621,1377,50,28,5,14
+0,_Page County,_East Luray,_000201,636,1573,53,22,10,31
+0,_Page County,_Marksville,_000301,474,1788,35,15,11,12
+0,_Page County,_Newport,_000401,400,1387,32,10,2,4
+0,_Page County,_Shenandoah,_000501,383,1706,28,14,10,9
+0,_Patrick County,_Ararat,_000101,129,406,11,4,2,1
+0,_Patrick County,_Claudville,_000102,82,413,8,2,1,0
+0,_Patrick County,_Willis Gap,_000103,103,417,6,3,1,0
+0,_Patrick County,_Dry Pond,_000201,50,264,9,0,1,1
+0,_Patrick County,_Patrick Springs,_000202,188,693,14,8,5,3
+0,_Patrick County,_Russell Creek,_000203,136,544,5,13,2,1
+0,_Patrick County,_Critz/Stella,_000301,270,770,9,14,3,5
+0,_Patrick County,_Liberty,_000302,75,554,15,5,7,1
+0,_Patrick County,_Meadows of Dan,_000401,190,467,19,6,3,2
+0,_Patrick County,_Stuart Administration,_000402,190,638,18,6,10,5
+0,_Patrick County,_Stuart Community,_000501,78,284,11,3,0,0
+0,_Patrick County,_Elamsville,_000502,125,460,10,5,7,14
+0,_Patrick County,_Woolwine,_000503,152,544,12,2,7,3
+0,_Petersburg City,_First Ward First Precinct,_000101,1459,151,8,9,6,5
+0,_Petersburg City,_Second Ward First Precinct,_000201,2078,212,28,16,13,7
+0,_Petersburg City,_Third Ward First Precinct,_000301,1947,484,46,12,15,12
+0,_Petersburg City,_Fourth Ward First Precinct,_000401,1506,265,25,4,10,5
+0,_Petersburg City,_Fifth Ward First Precinct,_000501,1640,120,16,5,11,11
+0,_Petersburg City,_Sixth Ward First Precinct,_000601,1568,43,3,5,5,2
+0,_Petersburg City,_Seventh Ward First Precinct,_000701,1823,176,13,7,7,8
+0,_Pittsylvania County,_Twin Springs,_000103,405,1987,53,19,3,9
+0,_Pittsylvania County,_Chatham,_000105,218,608,23,9,9,6
+0,_Pittsylvania County,_Tunstall,_000106,209,830,13,8,5,5
+0,_Pittsylvania County,_West Blairs,_000108,174,435,10,4,2,0
+0,_Pittsylvania County,_Callands,_000201,209,694,7,7,0,2
+0,_Pittsylvania County,_Bearskin,_000202,89,180,0,2,1,0
+0,_Pittsylvania County,_Sandy Level,_000204,142,452,13,7,2,4
+0,_Pittsylvania County,_Climax,_000206,136,529,7,3,4,2
+0,_Pittsylvania County,_Gretna,_000207,400,1266,21,6,4,4
+0,_Pittsylvania County,_Central,_000301,507,318,13,6,0,2
+0,_Pittsylvania County,_Riceville,_000305,436,315,7,3,2,2
+0,_Pittsylvania County,_East Blairs,_000307,803,252,8,2,7,0
+0,_Pittsylvania County,_Mt Airy,_000308,263,196,8,9,2,0
+0,_Pittsylvania County,_East Gretna,_000309,281,272,8,2,3,2
+0,_Pittsylvania County,_Keeling,_000402,175,782,12,6,2,1
+0,_Pittsylvania County,_Kentuck,_000404,426,1373,31,10,9,3
+0,_Pittsylvania County,_Ringgold,_000405,562,1365,21,8,6,3
+0,_Pittsylvania County,_Hurt,_000501,449,1065,19,14,8,5
+0,_Pittsylvania County,_Motley Sycamore,_000502,499,1126,26,15,7,10
+0,_Pittsylvania County,_Renan,_000503,255,621,16,7,3,6
+0,_Pittsylvania County,_Stony Mill,_000603,303,936,15,3,3,5
+0,_Pittsylvania County,_Swansonville,_000604,348,649,11,8,3,2
+0,_Pittsylvania County,_Whitmell,_000605,265,684,13,2,2,2
+0,_Pittsylvania County,_Brosville,_000606,490,496,11,6,1,5
+0,_Pittsylvania County,_Dry Fork,_000607,95,352,6,1,1,0
+0,_Pittsylvania County,_Bachelors Hall,_000702,207,1166,22,4,6,3
+0,_Pittsylvania County,_Ferry Road,_000703,106,207,1,3,1,2
+0,_Pittsylvania County,_Mt Hermon,_000704,570,1617,30,24,6,8
+0,_Pittsylvania County,_Mt Cross,_000705,177,781,17,4,4,2
+0,_Poquoson City,_Central,_000001,504,1603,96,29,10,22
+0,_Poquoson City,_Eastern,_000002,537,1826,106,26,15,12
+0,_Poquoson City,_Western,_000003,560,1663,105,21,18,24
+0,_Portsmouth City,_Emanuel A. M. E. Church,_000001,907,415,73,10,17,7
+0,_Portsmouth City,_Hampton Roads Community Health Center,_000005,977,16,5,3,2,0
+0,_Portsmouth City,_Park View Elementary School,_000007,707,205,33,12,4,8
+0,_Portsmouth City,_Third Baptist Church,_000009,1164,203,28,6,13,5
+0,_Portsmouth City,_Port Norfolk Recreation Center,_000010,475,285,46,9,4,1
+0,_Portsmouth City,_Mt. Hermon Village,_000011,1083,20,6,4,5,7
+0,_Portsmouth City,_St. Mark Missionary Baptist Church,_000013,860,15,3,1,4,6
+0,_Portsmouth City,_Emily N. Spong Preschool,_000014,1140,32,11,7,7,5
+0,_Portsmouth City,_Cradock Middle School,_000016,918,346,38,11,17,11
+0,_Portsmouth City,_Victory Life Fellowship,_000017,1017,460,33,6,19,8
+0,_Portsmouth City,_Fairview Heights Baptist Church,_000019,407,374,19,9,8,3
+0,_Portsmouth City,_Noble Street Baptist Church,_000020,745,270,30,6,12,5
+0,_Portsmouth City,_John F. Kennedy Community Center,_000021,822,20,2,1,7,2
+0,_Portsmouth City,_Forward Church,_000022,706,535,41,17,12,7
+0,_Portsmouth City,_Westhaven Baptist Church,_000023,464,742,59,15,15,7
+0,_Portsmouth City,_Willett Hall,_000024,680,342,35,8,7,1
+0,_Portsmouth City,_John Tyler Elementary School,_000025,705,554,50,16,10,7
+0,_Portsmouth City,_William E. Waters Middle School,_000026,1315,30,10,6,6,1
+0,_Portsmouth City,_Cavalier Manor Recreation Center,_000027,1303,34,15,5,7,3
+0,_Portsmouth City,_Lakeview Elementary School,_000028,1638,43,8,11,11,9
+0,_Portsmouth City,_Saint Andrew's United Methodist Church,_000029,278,627,40,6,11,3
+0,_Portsmouth City,_The Rescue Church,_000030,344,812,37,14,11,7
+0,_Portsmouth City,_West Park Church Of Christ,_000031,1196,712,44,18,14,10
+0,_Portsmouth City,_Hodges Manor Elementary School,_000032,400,631,27,6,3,12
+0,_Portsmouth City,_Pinecrest Baptist Church,_000033,241,673,45,6,5,4
+0,_Portsmouth City,_Churchland Branch Library,_000034,527,714,66,10,13,8
+0,_Portsmouth City,_Churchland Elementary School,_000035,640,880,65,22,8,12
+0,_Portsmouth City,_Scottish Rite Temple,_000036,1471,1264,87,30,26,21
+0,_Portsmouth City,_Churchland Middle School,_000037,1469,664,61,22,16,10
+0,_Portsmouth City,_Grove Baptist Church,_000038,2173,254,35,18,16,18
+0,_Portsmouth City,_River Shore Baptist Church,_000039,1725,623,44,16,13,11
+0,_Powhatan County,_Subletts,_000101,435,1377,79,19,10,17
+0,_Powhatan County,_Manakin,_000102,336,880,48,7,1,6
+0,_Powhatan County,_Flat Rock,_000103,225,811,32,16,10,6
+0,_Powhatan County,_Powhatan Station,_000201,256,1158,59,11,10,10
+0,_Powhatan County,_Graceland,_000202,430,1408,70,16,11,6
+0,_Powhatan County,_Bethesda,_000301,385,1137,62,9,5,6
+0,_Powhatan County,_Lee's Landing,_000302,295,863,54,5,6,1
+0,_Powhatan County,_Powhatan Courthouse,_000401,501,1817,117,24,7,5
+0,_Powhatan County,_Mt Zion,_000402,219,666,31,14,6,9
+0,_Powhatan County,_Smith Cross Roads,_000501,554,808,40,15,6,5
+0,_Powhatan County,_Pineville,_000502,290,428,28,14,1,5
+0,_Powhatan County,_Tobaccoville,_000503,134,532,19,1,0,4
+0,_Prince Edward County,_Farmville,_000101,584,510,48,14,11,3
+0,_Prince Edward County,_Lockett,_000201,623,745,24,24,6,3
+0,_Prince Edward County,_Leigh,_000301,427,389,26,3,4,3
+0,_Prince Edward County,_Mt Pleasant,_000302,256,188,5,4,1,1
+0,_Prince Edward County,_Hampden,_000401,461,462,24,7,1,6
+0,_Prince Edward County,_Darlington Hts,_000501,247,400,15,2,2,3
+0,_Prince Edward County,_Buffalo Hts,_000502,167,236,13,8,2,0
+0,_Prince Edward County,_Prospect,_000601,755,525,28,7,10,2
+0,_Prince Edward County,_West End,_000701,544,481,64,10,9,4
+0,_Prince Edward County,_Center,_000801,527,165,39,6,7,2
+0,_Prince George County,_Richard Bland,_000101,324,615,34,10,4,5
+0,_Prince George County,_Templeton,_000102,683,1987,66,22,3,6
+0,_Prince George County,_Union Branch,_000103,734,966,35,15,7,6
+0,_Prince George County,_Rives,_000104,687,515,36,2,7,0
+0,_Prince George County,_Harrison,_000105,160,471,9,4,3,2
+0,_Prince George County,_Bland,_000201,867,1511,64,9,5,1
+0,_Prince George County,_Black Water,_000202,526,1141,37,16,9,5
+0,_Prince George County,_Brandon,_000203,216,464,12,4,1,0
+0,_Prince George County,_Courts Bldg,_000204,1113,962,47,28,18,10
+0,_Prince George County,_Jefferson Park,_000205,1109,525,34,10,13,9
+0,_Prince William County,_Brentsville,_000101,526,1429,70,36,11,19
+0,_Prince William County,_Cedar Point,_000102,1567,1562,126,60,31,40
+0,_Prince William County,_Glenkirk,_000103,1069,1115,50,52,16,16
+0,_Prince William County,_Nokesville,_000104,849,1383,71,26,16,31
+0,_Prince William County,_Limestone,_000105,1500,1376,97,59,19,27
+0,_Prince William County,_Westgate,_000106,1345,414,50,25,26,13
+0,_Prince William County,_Marsteller,_000107,1742,1474,92,36,17,39
+0,_Prince William County,_Victory,_000108,1710,1294,93,70,13,45
+0,_Prince William County,_Piney Branch,_000109,1425,990,85,42,20,16
+0,_Prince William County,_Buckland Mills (CD 1),_000110,244,264,12,12,0,3
+0,_Prince William County,_Buckland Mills (CD 10),_000110,844,595,28,26,8,8
+0,_Prince William County,_Bristow Run,_000111,1754,1658,126,78,25,33
+0,_Prince William County,_Burke-Nickens (CD 1),_000112,28,45,0,0,1,0
+0,_Prince William County,_Burke-Nickens (CD 10),_000112,1228,1159,72,25,27,20
+0,_Prince William County,_Saunders,_000201,1295,528,54,27,14,12
+0,_Prince William County,_Marshall,_000202,1049,1353,93,36,18,23
+0,_Prince William County,_Bennett,_000203,1243,1220,92,46,18,29
+0,_Prince William County,_Ellis,_000204,1187,843,65,27,24,20
+0,_Prince William County,_Buckhall,_000205,1136,1173,90,48,11,15
+0,_Prince William County,_Coles,_000206,736,1011,58,27,21,12
+0,_Prince William County,_Spriggs,_000207,1785,1095,81,43,23,29
+0,_Prince William County,_Hylton,_000208,657,1023,47,23,12,8
+0,_Prince William County,_Independent Hill,_000209,536,1104,43,23,13,20
+0,_Prince William County,_Penn (CD 1),_000210,797,1041,65,33,10,17
+0,_Prince William County,_Penn (CD 11),_000210,99,58,6,1,0,0
+0,_Prince William County,_Signal Hill,_000211,922,998,56,37,9,15
+0,_Prince William County,_Yorkshire,_000212,2247,1236,117,52,23,28
+0,_Prince William County,_Saratoga,_000213,963,412,32,13,11,9
+0,_Prince William County,_Lucasville,_000214,500,900,70,17,16,9
+0,_Prince William County,_Rosa Parks,_000215,1151,574,42,27,11,11
+0,_Prince William County,_Dumfries,_000301,1381,415,52,18,23,24
+0,_Prince William County,_Potomac,_000302,2382,512,54,32,16,25
+0,_Prince William County,_Graham Park,_000303,995,320,23,22,13,15
+0,_Prince William County,_Quantico,_000304,239,249,19,5,2,3
+0,_Prince William County,_Pattie,_000305,1186,906,65,50,20,25
+0,_Prince William County,_Washington-Reid,_000306,1256,938,44,30,18,31
+0,_Prince William County,_Henderson,_000307,983,868,70,33,18,25
+0,_Prince William County,_Montclair,_000308,669,603,38,49,5,17
+0,_Prince William County,_Ashland,_000309,876,718,53,40,10,24
+0,_Prince William County,_Forest Park,_000310,1300,548,37,30,17,11
+0,_Prince William County,_Swans Creek,_000311,2026,641,57,37,18,21
+0,_Prince William County,_Triangle (CD 11),_000312,1228,526,39,27,11,9
+0,_Prince William County,_Triangle (CD 1),_000312,352,126,16,3,4,1
+0,_Prince William County,_Cardinal,_000313,954,461,41,26,14,4
+0,_Prince William County,_Cabin Branch,_000314,959,595,44,36,12,11
+0,_Prince William County,_Evergreen,_000401,918,1470,108,40,12,25
+0,_Prince William County,_Battlefield,_000402,841,1357,52,60,13,38
+0,_Prince William County,_Bull Run,_000403,1023,907,59,28,5,21
+0,_Prince William County,_Ben Lomond,_000404,1473,685,114,31,34,25
+0,_Prince William County,_Stonewall,_000405,1744,786,98,51,25,20
+0,_Prince William County,_Alvey,_000406,338,375,7,17,4,5
+0,_Prince William County,_Heritage Hunt,_000407,1147,1408,43,25,4,34
+0,_Prince William County,_Sudley,_000408,872,676,61,38,14,12
+0,_Prince William County,_Tyler,_000409,1541,1219,100,42,25,21
+0,_Prince William County,_Mountain View,_000410,1151,1331,65,39,19,26
+0,_Prince William County,_Mullen,_000411,1648,534,69,30,20,11
+0,_Prince William County,_Catharpin,_000412,607,1016,40,33,8,7
+0,_Prince William County,_Reagan,_000413,1106,1390,85,61,15,38
+0,_Prince William County,_Lake Ridge,_000501,1112,734,56,40,14,12
+0,_Prince William County,_Occoquan,_000502,893,530,52,33,13,17
+0,_Prince William County,_Old Bridge,_000503,1252,437,57,31,11,15
+0,_Prince William County,_Rockledge,_000504,856,506,46,27,11,17
+0,_Prince William County,_Mohican,_000505,1206,730,67,43,23,19
+0,_Prince William County,_Bethel,_000506,1746,844,59,42,29,25
+0,_Prince William County,_Chinn,_000507,1198,609,48,35,17,32
+0,_Prince William County,_Springwoods,_000508,1011,407,49,40,12,19
+0,_Prince William County,_McCoart,_000509,935,1077,72,40,11,16
+0,_Prince William County,_Yates Ford,_000510,662,929,52,34,11,30
+0,_Prince William County,_Westridge,_000511,1214,794,71,43,15,29
+0,_Prince William County,_York,_000512,1676,421,54,33,20,9
+0,_Prince William County,_Lynnwood,_000513,1135,875,59,60,28,38
+0,_Prince William County,_Antietam,_000514,1428,743,102,48,24,29
+0,_Prince William County,_Dale,_000601,1454,384,46,24,18,13
+0,_Prince William County,_Beville,_000602,2055,683,56,21,14,19
+0,_Prince William County,_Hampton,_000603,1272,290,35,16,11,11
+0,_Prince William County,_Gideon,_000604,1362,402,35,19,17,8
+0,_Prince William County,_Minnieville,_000605,1314,578,58,30,25,12
+0,_Prince William County,_Bel Air,_000606,1317,608,53,15,14,12
+0,_Prince William County,_Kerrydale,_000607,1641,600,53,32,32,12
+0,_Prince William County,_Enterprise,_000608,1436,521,44,17,7,15
+0,_Prince William County,_King (CD 11),_000609,1617,701,71,32,10,15
+0,_Prince William County,_King (CD 1),_000609,0,0,0,0,0,0
+0,_Prince William County,_Fitzgerald,_000610,1553,504,42,18,16,9
+0,_Prince William County,_Neabsco,_000611,1164,371,25,10,13,15
+0,_Prince William County,_Belmont,_000701,1358,779,48,23,18,9
+0,_Prince William County,_Library,_000702,1539,436,54,32,29,19
+0,_Prince William County,_Lynn,_000703,1104,232,33,19,14,12
+0,_Prince William County,_Porter,_000704,1645,349,52,9,19,21
+0,_Prince William County,_Potomac View,_000705,898,496,22,8,11,11
+0,_Prince William County,_Rippon,_000706,1512,665,53,21,14,11
+0,_Prince William County,_Kilby,_000707,1309,468,20,32,14,16
+0,_Prince William County,_River Oaks,_000708,1687,356,40,22,16,13
+0,_Prince William County,_Freedom,_000709,1751,314,39,18,13,4
+0,_Prince William County,_Powells Creek,_000710,1489,297,29,23,37,12
+0,_Prince William County,_Grayson,_000711,1835,469,46,14,23,19
+0,_Prince William County,_Leesylvania,_000712,1179,675,40,31,10,20
+0,_Pulaski County,_BELSPRING,_000101,172,449,4,9,7,2
+0,_Pulaski County,_NEW RIVER,_000102,714,1073,53,28,23,5
+0,_Pulaski County,_WEST CLOYD,_000103,262,754,21,10,6,4
+0,_Pulaski County,_DRAPER,_000201,263,806,15,13,6,5
+0,_Pulaski County,_SOUTH PULASKI,_000202,76,180,4,2,0,0
+0,_Pulaski County,_NEWBERN,_000203,515,1192,41,21,14,8
+0,_Pulaski County,_DUBLIN,_000301,414,1214,34,20,3,6
+0,_Pulaski County,_HIWASSEE,_000302,64,299,6,3,4,0
+0,_Pulaski County,_SNOWVILLE,_000304,222,692,23,8,5,2
+0,_Pulaski County,_MASSIE,_000401,595,1504,55,29,11,7
+0,_Pulaski County,_WALKER,_000402,135,590,14,8,0,0
+0,_Pulaski County,_ROBINSON,_000501,740,1569,81,20,28,3
+0,_Radford City,_East Precinct,_000001,1477,934,164,31,28,18
+0,_Radford City,_Central Precinct,_000002,774,725,59,33,16,20
+0,_Radford City,_West Precinct,_000003,674,979,78,49,14,9
+0,_Rappahannock County,_Washington,_000101,433,510,12,7,4,10
+0,_Rappahannock County,_Amissville,_000201,282,607,32,5,3,0
+0,_Rappahannock County,_Sperryville,_000301,406,423,15,8,8,8
+0,_Rappahannock County,_Scrabble,_000401,316,444,14,5,9,1
+0,_Rappahannock County,_Chester Gap,_000501,92,299,11,7,3,1
+0,_Rappahannock County,_Flint Hill,_000502,218,256,9,10,9,6
+0,_Richmond City,_One Hundred One,_000101,1361,726,145,28,12,32
+0,_Richmond City,_One Hundred Two,_000102,541,419,74,20,6,4
+0,_Richmond City,_One Hundred Four,_000104,810,641,122,30,5,18
+0,_Richmond City,_One Hundred Five,_000105,897,485,106,34,8,16
+0,_Richmond City,_One Hundred Six,_000106,614,836,117,35,5,26
+0,_Richmond City,_One Hundred Eleven,_000111,818,480,72,22,7,9
+0,_Richmond City,_One Hundred Twelve,_000112,755,347,63,17,4,8
+0,_Richmond City,_One Hundred Thirteen,_000113,1357,282,98,26,29,15
+0,_Richmond City,_One Hundred Fourteen,_000114,1563,387,153,23,32,31
+0,_Richmond City,_Two Hundred Three,_000203,1670,428,105,37,20,13
+0,_Richmond City,_Two Hundred Four,_000204,1426,365,115,34,34,17
+0,_Richmond City,_Two Hundred Six,_000206,2493,246,101,12,51,17
+0,_Richmond City,_Two Hundred Seven,_000207,1480,389,114,21,24,23
+0,_Richmond City,_Two Hundred Eight,_000208,1594,356,113,37,20,17
+0,_Richmond City,_Two Hundred Thirteen,_000213,2356,197,92,18,69,20
+0,_Richmond City,_Three Hundred One,_000301,930,27,12,3,8,4
+0,_Richmond City,_Three Hundred Two,_000302,932,99,28,15,9,3
+0,_Richmond City,_Three Hundred Three,_000303,823,41,19,7,9,2
+0,_Richmond City,_Three Hundred Four,_000304,1200,32,14,3,17,4
+0,_Richmond City,_Three Hundred Five,_000305,1162,88,41,25,18,10
+0,_Richmond City,_Three Hundred Six,_000306,1041,57,30,10,18,4
+0,_Richmond City,_Three Hundred Seven,_000307,1032,210,53,17,11,10
+0,_Richmond City,_Three Hundred Eight,_000308,1086,247,60,18,9,12
+0,_Richmond City,_Three Hundred Nine,_000309,680,342,39,13,6,4
+0,_Richmond City,_Three Hundred Ten,_000310,657,4,3,0,3,4
+0,_Richmond City,_Four Hundred Two,_000402,1664,535,144,33,24,23
+0,_Richmond City,_Four Hundred Four,_000404,1504,410,73,24,31,10
+0,_Richmond City,_Four Hundred Nine,_000409,1558,1029,114,28,19,25
+0,_Richmond City,_Four Hundred Ten,_000410,1128,441,47,23,17,11
+0,_Richmond City,_Four Hundred Twelve,_000412,1100,329,48,21,13,11
+0,_Richmond City,_Four Hundred Thirteen,_000413,977,461,68,20,17,8
+0,_Richmond City,_Four Hundred Fourteen,_000414,972,602,78,30,15,11
+0,_Richmond City,_Five Hundred One,_000501,1651,231,85,14,30,12
+0,_Richmond City,_Five Hundred Three,_000503,1678,151,71,16,11,7
+0,_Richmond City,_Five Hundred Four,_000504,2086,281,121,32,46,25
+0,_Richmond City,_Five Hundred Five,_000505,969,148,59,9,34,10
+0,_Richmond City,_Five Hundred Eight,_000508,771,142,49,17,17,15
+0,_Richmond City,_Five Hundred Nine,_000509,1330,79,30,12,12,7
+0,_Richmond City,_Five Hundred Ten,_000510,1381,106,52,20,20,14
+0,_Richmond City,_Six Hundred Two,_000602,1048,14,2,5,5,4
+0,_Richmond City,_Six Hundred Three,_000603,1169,32,11,9,21,4
+0,_Richmond City,_Six Hundred Four,_000604,902,34,11,3,11,3
+0,_Richmond City,_Six Hundred Six,_000606,1384,51,13,9,9,7
+0,_Richmond City,_Six Hundred Seven,_000607,1449,259,60,19,31,13
+0,_Richmond City,_Six Hundred Nine,_000609,1602,194,72,11,33,10
+0,_Richmond City,_Six Hundred Ten,_000610,1061,24,2,8,5,3
+0,_Richmond City,_Seven Hundred One,_000701,1234,17,6,3,7,2
+0,_Richmond City,_Seven Hundred Two,_000702,1074,38,24,20,16,8
+0,_Richmond City,_Seven Hundred Three,_000703,1093,39,34,28,11,9
+0,_Richmond City,_Seven Hundred Five,_000705,957,95,45,19,22,15
+0,_Richmond City,_Seven Hundred Six,_000706,1760,103,32,12,25,9
+0,_Richmond City,_Seven Hundred Seven,_000707,2022,264,93,31,33,18
+0,_Richmond City,_Seven Hundred Eight,_000708,1679,357,131,33,32,20
+0,_Richmond City,_Eight Hundred Two,_000802,1079,20,13,6,9,1
+0,_Richmond City,_Eight Hundred Six,_000806,1402,139,4,5,14,4
+0,_Richmond City,_Eight Hundred Ten,_000810,1021,123,9,6,10,8
+0,_Richmond City,_Eight Hundred Eleven,_000811,1332,101,9,13,13,9
+0,_Richmond City,_Eight Hundred Twelve,_000812,1640,251,18,9,13,9
+0,_Richmond City,_Eight Hundred Fourteen,_000814,976,53,5,8,9,2
+0,_Richmond City,_Nine Hundred Two,_000902,571,42,8,6,5,0
+0,_Richmond City,_Nine Hundred Three,_000903,1425,170,12,8,8,4
+0,_Richmond City,_Nine Hundred Eight,_000908,1349,127,29,13,9,4
+0,_Richmond City,_Nine Hundred Nine,_000909,1491,148,22,17,19,5
+0,_Richmond City,_Nine Hundred Ten,_000910,1231,141,16,6,15,3
+0,_Richmond City,_Nine Hundred Eleven,_000911,1261,69,8,13,9,5
+0,_Richmond County,_Precinct 1-1,_000101,499,288,5,4,3,4
+0,_Richmond County,_Precinct 2-1,_000201,218,490,17,3,6,0
+0,_Richmond County,_Precinct 3-1,_000301,216,388,14,5,2,4
+0,_Richmond County,_Precinct 4-1,_000401,216,535,11,3,1,1
+0,_Richmond County,_Precinct 5-1,_000501,198,512,10,6,1,1
+0,_Roanoke City,_Peters Creek,_000001,1404,336,20,10,23,12
+0,_Roanoke City,_Grandview,_000002,1194,597,43,18,21,17
+0,_Roanoke City,_Preston Park,_000003,807,1112,69,18,13,9
+0,_Roanoke City,_Williamson Road,_000004,877,806,63,14,21,10
+0,_Roanoke City,_East Gate,_000005,664,1126,71,8,11,12
+0,_Roanoke City,_Hollins Road,_000006,965,917,82,23,16,13
+0,_Roanoke City,_Southeast,_000007,618,780,67,19,24,23
+0,_Roanoke City,_Lincoln Terrace,_000008,1303,93,22,4,12,6
+0,_Roanoke City,_Highland,_000009,1190,416,95,18,31,17
+0,_Roanoke City,_Old Southwest-Wasena,_000010,1168,626,108,27,48,20
+0,_Roanoke City,_Raleigh Court,_000011,1289,810,82,33,21,16
+0,_Roanoke City,_South Roanoke,_000012,793,891,58,45,11,12
+0,_Roanoke City,_Garden City,_000013,634,1171,87,18,19,3
+0,_Roanoke City,_Crystal Spring,_000014,1091,947,78,37,20,13
+0,_Roanoke City,_Grandin Court,_000015,1010,866,78,32,29,20
+0,_Roanoke City,_Deyerle,_000016,870,1053,48,15,9,13
+0,_Roanoke City,_Lee-Hi,_000017,1055,769,99,22,26,11
+0,_Roanoke City,_Virginia Heights-Norwich,_000018,1381,520,52,18,24,15
+0,_Roanoke City,_Summit Hills,_000019,1012,705,55,24,12,5
+0,_Roanoke City,_Forest Park,_000020,954,97,15,8,8,2
+0,_Roanoke City,_Eureka Park,_000021,2007,151,24,2,12,2
+0,_Roanoke County,_CATAWBA,_000101,146,455,23,5,2,4
+0,_Roanoke County,_MASON VALLEY,_000102,132,422,27,5,1,7
+0,_Roanoke County,_GLENVAR,_000103,441,1021,39,15,10,8
+0,_Roanoke County,_NORTHSIDE,_000104,486,662,31,10,8,8
+0,_Roanoke County,_PETERS CREEK,_000105,781,1470,79,30,11,24
+0,_Roanoke County,_GREEN HILL,_000106,678,1492,60,36,9,7
+0,_Roanoke County,_BENNETT SPRINGS,_000107,174,593,25,7,6,1
+0,_Roanoke County,_WILDWOOD,_000108,330,789,42,12,7,6
+0,_Roanoke County,_PLANTATION,_000201,528,986,56,29,9,6
+0,_Roanoke County,_BURLINGTON,_000202,440,592,33,22,14,7
+0,_Roanoke County,_MOUNTAIN VIEW,_000203,742,1563,68,36,4,4
+0,_Roanoke County,_BOTETOURT SPRINGS,_000204,740,1041,53,27,8,9
+0,_Roanoke County,_ORCHARDS,_000205,750,1735,60,43,8,5
+0,_Roanoke County,_HOLLINS,_000206,403,500,22,12,6,5
+0,_Roanoke County,_BENT MOUNTAIN,_000301,166,354,16,9,5,5
+0,_Roanoke County,_POAGES MILL,_000302,748,1617,88,31,14,14
+0,_Roanoke County,_WINDSOR HILLS,_000303,564,795,50,26,3,2
+0,_Roanoke County,_OAK GROVE,_000304,937,1390,76,31,11,21
+0,_Roanoke County,_CASTLE ROCK,_000305,1060,1505,114,38,15,22
+0,_Roanoke County,_GARST MILL,_000306,555,599,51,19,11,12
+0,_Roanoke County,_BONSACK,_000402,152,360,11,8,3,4
+0,_Roanoke County,_NORTH VINTON,_000403,488,1033,58,20,11,9
+0,_Roanoke County,_SOUTH VINTON,_000404,642,1195,48,8,15,10
+0,_Roanoke County,_LINDENWOOD,_000405,845,1988,79,22,4,13
+0,_Roanoke County,_MOUNT PLEASANT,_000406,535,1434,62,27,17,9
+0,_Roanoke County,_COTTON HILL,_000501,492,790,39,25,10,15
+0,_Roanoke County,_PENN FOREST,_000502,443,703,39,19,8,6
+0,_Roanoke County,_CAVE SPRING,_000503,553,914,45,30,6,13
+0,_Roanoke County,_OGDEN,_000504,647,674,76,24,16,14
+0,_Roanoke County,_CLEARBROOK,_000505,311,788,29,7,5,3
+0,_Roanoke County,_MOUNT VERNON,_000506,474,690,52,15,11,7
+0,_Roanoke County,_HUNTING HILLS,_000507,817,1258,69,30,18,17
+0,_Rockbridge County,_Airport,_000101,389,493,36,16,1,11
+0,_Rockbridge County,_Ben Salem,_000102,232,435,12,17,6,8
+0,_Rockbridge County,_Plank Road,_000103,102,251,12,5,2,0
+0,_Rockbridge County,_Effinger,_000104,113,278,9,7,8,5
+0,_Rockbridge County,_Collierstown,_000201,253,383,16,12,3,12
+0,_Rockbridge County,_Highland Belle,_000202,457,707,29,28,3,10
+0,_Rockbridge County,_Vo-Tech,_000203,188,149,14,6,1,1
+0,_Rockbridge County,_Maury River,_000301,225,401,9,8,2,2
+0,_Rockbridge County,_Natural Bridge,_000302,190,477,28,6,5,5
+0,_Rockbridge County,_Falling Spring,_000303,82,232,10,6,0,4
+0,_Rockbridge County,_Fairfield,_000401,204,478,13,4,9,4
+0,_Rockbridge County,_Mountain View,_000402,246,723,23,12,6,10
+0,_Rockbridge County,_Vesuvius,_000403,86,262,3,8,3,4
+0,_Rockbridge County,_Goshen,_000501,68,292,3,7,3,2
+0,_Rockbridge County,_Meadowview,_000502,275,340,23,14,4,11
+0,_Rockbridge County,_Rockbridge Baths,_000503,158,279,8,1,3,5
+0,_Rockbridge County,_Rockbridge,_000504,240,500,23,14,7,5
+0,_Rockingham County,_Broadway,_000101,472,1289,73,25,10,11
+0,_Rockingham County,_Timberville,_000102,256,700,39,13,10,4
+0,_Rockingham County,_Fulks Run,_000103,132,867,20,12,4,3
+0,_Rockingham County,_Bergton,_000104,47,299,9,1,1,3
+0,_Rockingham County,_Lacey Spring,_000105,125,676,24,15,2,2
+0,_Rockingham County,_Tenth Legion,_000106,149,558,24,15,3,5
+0,_Rockingham County,_Plains,_000107,165,654,27,15,1,6
+0,_Rockingham County,_Little North Mountain,_000108,115,454,11,19,0,5
+0,_Rockingham County,_Singers Glen,_000201,240,878,36,16,7,10
+0,_Rockingham County,_Edom,_000202,547,1194,63,25,16,12
+0,_Rockingham County,_Dayton,_000203,258,517,35,18,7,2
+0,_Rockingham County,_Mt Clinton,_000204,288,956,32,20,5,12
+0,_Rockingham County,_Silver Lake,_000205,535,1024,52,50,11,7
+0,_Rockingham County,_Keezletown,_000301,221,622,38,11,4,11
+0,_Rockingham County,_Port Republic,_000302,317,1050,35,16,3,7
+0,_Rockingham County,_Melrose,_000303,149,559,19,14,5,1
+0,_Rockingham County,_Grottoes,_000304,289,972,30,17,3,5
+0,_Rockingham County,_Massanetta Springs,_000305,654,900,61,33,12,10
+0,_Rockingham County,_Cross Keys,_000306,106,330,11,8,5,11
+0,_Rockingham County,_Crossroads,_000307,763,1125,68,36,11,17
+0,_Rockingham County,_Bridgewater,_000401,901,1494,73,60,24,17
+0,_Rockingham County,_Montezuma,_000402,300,949,30,26,4,10
+0,_Rockingham County,_Mt Crawford,_000403,62,137,9,7,3,0
+0,_Rockingham County,_North River,_000404,357,939,34,30,9,5
+0,_Rockingham County,_Ottobine,_000405,212,1305,30,13,8,11
+0,_Rockingham County,_Elkton,_000501,335,1011,39,16,4,10
+0,_Rockingham County,_Swift Run,_000502,280,1632,29,15,12,6
+0,_Rockingham County,_McGaheysville,_000503,409,1232,69,28,8,7
+0,_Rockingham County,_South Fork,_000504,149,723,21,8,0,7
+0,_Rockingham County,_Stony Run,_000505,533,944,47,28,16,8
+0,_Russell County,_Moccasin,_000101,129,713,9,9,2,7
+0,_Russell County,_Copper Creek,_000102,123,571,11,4,4,1
+0,_Russell County,_South Castlewood,_000103,100,401,12,2,4,0
+0,_Russell County,_North Castlewood,_000201,307,1131,25,12,4,8
+0,_Russell County,_Dante,_000202,68,237,1,5,1,2
+0,_Russell County,_Cooks Mill,_000301,59,207,1,0,3,0
+0,_Russell County,_Daugherty,_000302,70,305,7,5,3,0
+0,_Russell County,_New Garden,_000303,164,676,14,5,8,2
+0,_Russell County,_Cleveland,_000304,132,367,9,10,5,5
+0,_Russell County,_Drill,_000401,29,99,5,0,1,1
+0,_Russell County,_Swords Creek,_000402,156,1159,14,6,4,2
+0,_Russell County,_Honaker,_000403,130,424,8,4,1,3
+0,_Russell County,_West Lebanon,_000501,446,1397,37,23,11,10
+0,_Russell County,_East Lebanon,_000601,195,800,23,8,4,1
+0,_Russell County,_Elk Garden,_000602,222,1034,14,11,3,1
+0,_Salem City,_North Salem No 2,_000001,689,790,69,21,15,11
+0,_Salem City,_Conehurst,_000002,297,470,32,6,6,9
+0,_Salem City,_Beverly Heights,_000003,213,550,22,19,5,9
+0,_Salem City,_West Salem,_000004,354,755,54,17,8,14
+0,_Salem City,_North Salem No 1,_000005,651,900,65,12,12,12
+0,_Salem City,_South Salem No 1,_000006,322,502,27,10,6,3
+0,_Salem City,_South Salem No 2,_000007,383,768,52,13,13,17
+0,_Salem City,_East Salem,_000008,183,324,17,10,8,2
+0,_Salem City,_South Side Hills,_000009,478,1090,55,19,11,11
+0,_Salem City,_Hidden Valley,_000010,632,1077,49,31,8,17
+0,_Scott County,_Weber City,_000101,129,590,16,6,5,6
+0,_Scott County,_Yuma,_000102,160,747,9,9,1,5
+0,_Scott County,_Weber City East,_000202,87,471,7,6,4,4
+0,_Scott County,_Hiltons,_000203,132,772,15,8,1,6
+0,_Scott County,_Clark's,_000204,26,201,1,1,0,2
+0,_Scott County,_Nickelsville,_000301,86,550,7,0,1,0
+0,_Scott County,_Snowflake,_000302,71,444,2,0,4,1
+0,_Scott County,_Twin Springs,_000303,91,388,6,2,1,1
+0,_Scott County,_Copper Creek,_000304,33,116,2,0,1,0
+0,_Scott County,_Gate City,_000401,292,1379,39,6,10,9
+0,_Scott County,_Dungannon,_000501,87,277,2,3,0,2
+0,_Scott County,_Fort Blackmore,_000502,67,358,1,1,0,0
+0,_Scott County,_Manville,_000503,30,219,6,2,1,0
+0,_Scott County,_Rye Cove,_000504,64,501,2,1,0,1
+0,_Scott County,_Clinchport,_000601,42,357,6,4,2,0
+0,_Scott County,_Duffield-Pattonsville,_000602,138,721,18,3,7,1
+0,_Scott County,_Fairview,_000603,46,156,3,1,1,0
+0,_Shenandoah County,_Orkney Springs,_000101,271,634,19,9,5,9
+0,_Shenandoah County,_New Market,_000103,567,1683,76,36,26,22
+0,_Shenandoah County,_Conicville,_000201,349,1298,34,20,9,8
+0,_Shenandoah County,_Mt Jackson,_000202,380,1027,42,10,14,11
+0,_Shenandoah County,_Edinburg,_000302,352,1098,51,28,11,16
+0,_Shenandoah County,_St Luke,_000303,301,1179,25,10,6,8
+0,_Shenandoah County,_Fort Valley,_000304,174,597,30,13,8,6
+0,_Shenandoah County,_Woodstock,_000401,1007,1880,106,63,23,28
+0,_Shenandoah County,_Cedar Creek,_000501,49,79,2,0,0,0
+0,_Shenandoah County,_Toms Brook,_000503,522,1519,54,34,8,19
+0,_Shenandoah County,_Lebanon Church,_000504,328,1076,35,17,6,8
+0,_Shenandoah County,_Strasburg,_000601,973,2024,82,46,33,15
+0,_Smyth County,_Saltville,_000101,340,1292,20,8,3,6
+0,_Smyth County,_Seven Mile Ford,_000201,214,992,28,6,6,2
+0,_Smyth County,_Rich Valley,_000202,128,359,7,4,2,1
+0,_Smyth County,_Chilhowie,_000301,275,1232,30,13,5,8
+0,_Smyth County,_St Clair,_000302,49,365,3,3,4,2
+0,_Smyth County,_East Park,_000401,291,803,34,12,4,7
+0,_Smyth County,_West Park,_000402,186,376,23,7,1,2
+0,_Smyth County,_Atkins,_000501,192,923,22,19,6,2
+0,_Smyth County,_Wassona,_000502,284,494,21,13,2,4
+0,_Smyth County,_Royal Oak East,_000601,250,836,17,12,9,7
+0,_Smyth County,_Royal Oak West,_000602,124,449,9,4,3,1
+0,_Smyth County,_Adwolfe,_000701,154,1023,21,6,6,7
+0,_Smyth County,_Sugar Grove,_000702,160,521,19,6,2,2
+0,_Smyth County,_Konnarock,_000703,18,85,4,0,0,0
+0,_Southampton County,_Berlin,_000101,103,536,21,8,0,0
+0,_Southampton County,_Ivor,_000102,358,522,16,8,4,0
+0,_Southampton County,_Boykins,_000201,520,358,9,2,3,0
+0,_Southampton County,_Branchville,_000202,124,164,5,4,0,0
+0,_Southampton County,_Capron,_000301,335,351,15,5,1,0
+0,_Southampton County,_Sebrell,_000302,267,385,12,2,4,0
+0,_Southampton County,_Drewryville,_000401,276,243,6,5,0,0
+0,_Southampton County,_Hunterdale,_000501,327,742,25,10,6,0
+0,_Southampton County,_Forks-Of-The-River,_000502,219,253,6,1,1,0
+0,_Southampton County,_Courtland,_000601,406,547,15,10,2,0
+0,_Southampton County,_Sedley,_000602,76,309,8,1,1,0
+0,_Southampton County,_Blackwater River,_000701,333,174,6,2,0,0
+0,_Southampton County,_Newsoms,_000702,251,451,12,4,2,0
+0,_Spotsylvania County,_Partlow,_000101,431,1302,45,11,9,15
+0,_Spotsylvania County,_Blaydes Corner,_000102,553,1347,38,16,8,12
+0,_Spotsylvania County,_Travelers Rest (CD 7),_000103,857,1437,73,27,17,19
+0,_Spotsylvania County,_Travelers Rest (CD 1),_000103,19,27,0,1,0,0
+0,_Spotsylvania County,_Massaponax,_000104,868,1364,81,40,30,21
+0,_Spotsylvania County,_Wilderness School,_000201,871,1228,75,29,14,17
+0,_Spotsylvania County,_Wilderness Fire,_000202,665,1318,91,32,14,15
+0,_Spotsylvania County,_Ni River / Elys Ford,_000203,540,1326,49,18,9,21
+0,_Spotsylvania County,_Chancellor,_000204,1255,1434,103,51,24,24
+0,_Spotsylvania County,_Plank Road,_000301,1059,1409,94,32,28,17
+0,_Spotsylvania County,_Hazel Run,_000302,1273,1449,80,38,31,24
+0,_Spotsylvania County,_Riverbend,_000303,1107,1813,64,55,18,22
+0,_Spotsylvania County,_Summit,_000401,1239,1376,89,37,15,27
+0,_Spotsylvania County,_Parkside (CD 7),_000402,244,242,8,8,1,6
+0,_Spotsylvania County,_Parkside (CD 1),_000402,1057,972,64,51,13,15
+0,_Spotsylvania County,_Lee Hill,_000403,1533,1610,109,60,24,28
+0,_Spotsylvania County,_Belmont,_000501,422,1139,49,20,11,4
+0,_Spotsylvania County,_Brokenburg,_000502,370,1053,34,15,3,6
+0,_Spotsylvania County,_Post Oak,_000503,393,1223,28,17,7,9
+0,_Spotsylvania County,_Courthouse,_000504,817,1388,66,28,18,18
+0,_Spotsylvania County,_Brock,_000505,674,1544,67,30,15,24
+0,_Spotsylvania County,_Salem,_000601,1216,1387,117,45,32,27
+0,_Spotsylvania County,_Smith Station,_000602,1697,1727,117,49,25,19
+0,_Spotsylvania County,_Piedmont,_000603,752,985,74,25,14,9
+0,_Spotsylvania County,_Battlefield,_000701,1039,1050,66,33,19,14
+0,_Spotsylvania County,_Brents Mill (CD 1),_000702,644,663,60,31,21,6
+0,_Spotsylvania County,_Brents Mill (CD 7),_000702,469,609,51,26,14,6
+0,_Spotsylvania County,_Fairview (CD 7),_000703,543,455,39,18,7,9
+0,_Spotsylvania County,_Fairview (CD 1),_000703,168,185,18,8,3,3
+0,_Spotsylvania County,_Gayle (CD 1),_000704,433,518,10,7,3,5
+0,_Spotsylvania County,_Gayle (CD 7),_000704,999,1043,51,42,3,17
+0,_Stafford County,_HARTWOOD,_000101,1158,2496,117,74,28,31
+0,_Stafford County,_ROCKY RUN,_000102,827,944,50,28,9,2
+0,_Stafford County,_SIMPSON,_000103,888,1366,76,27,16,19
+0,_Stafford County,_COLLEGE,_000104,1210,1682,94,55,20,18
+0,_Stafford County,_ROCK HILL,_000201,900,1195,76,30,17,17
+0,_Stafford County,_ROSEVILLE,_000202,1244,1416,124,47,25,24
+0,_Stafford County,_RUBY,_000203,544,1442,97,20,19,9
+0,_Stafford County,_STEFANIGA,_000204,1074,1605,65,36,11,21
+0,_Stafford County,_GRIFFIS,_000301,1215,635,51,16,15,9
+0,_Stafford County,_WIDEWATER,_000302,1562,1248,103,33,18,20
+0,_Stafford County,_HARBOUR,_000303,623,898,70,26,13,15
+0,_Stafford County,_BARRETT,_000304,603,532,36,19,9,5
+0,_Stafford County,_AQUIA,_000401,555,303,24,14,6,6
+0,_Stafford County,_COURTHOUSE,_000402,1840,1188,101,42,26,22
+0,_Stafford County,_BROOKE,_000403,996,1699,94,32,22,20
+0,_Stafford County,_GOVERNMENT ISLAND,_000404,750,1105,74,42,20,34
+0,_Stafford County,_GRAFTON,_000501,1172,1941,94,43,19,33
+0,_Stafford County,_FALMOUTH,_000502,920,1121,59,53,10,32
+0,_Stafford County,_DREW,_000503,900,1214,91,27,28,18
+0,_Stafford County,_GAYLE,_000504,1125,820,43,35,18,11
+0,_Stafford County,_FERRY FARM,_000601,808,1321,70,29,16,26
+0,_Stafford County,_CHATHAM,_000602,1118,1324,115,37,27,31
+0,_Stafford County,_WHITE OAK,_000603,838,1794,78,29,17,17
+0,_Stafford County,_ENGLAND RUN,_000604,882,482,49,26,26,6
+0,_Stafford County,_WOODLANDS,_000701,1277,1494,87,57,17,30
+0,_Stafford County,_WHITSON,_000702,1403,948,92,48,23,16
+0,_Stafford County,_HAMPTON,_000703,1476,1655,110,81,13,32
+0,_Staunton City,_Ward No 1,_000101,1001,1079,78,37,16,11
+0,_Staunton City,_Ward No 2,_000201,1094,1408,90,24,44,15
+0,_Staunton City,_Ward No 3,_000301,974,1099,102,29,20,22
+0,_Staunton City,_Ward No 4,_000401,896,844,70,37,11,28
+0,_Staunton City,_Ward No 5,_000501,1368,703,79,32,18,26
+0,_Suffolk City,_BELLEHARBOUR,_000101,902,384,49,15,12,7
+0,_Suffolk City,_DRIVER,_000102,1042,1937,94,54,15,21
+0,_Suffolk City,_BENNETTS CREEK,_000104,960,939,73,35,25,17
+0,_Suffolk City,_EBENEZER,_000201,470,1024,37,23,8,5
+0,_Suffolk City,_CHUCKATUCK,_000202,596,916,44,11,9,7
+0,_Suffolk City,_KINGS FORK,_000203,1327,776,60,17,12,8
+0,_Suffolk City,_HILLPOINT,_000204,1050,627,44,23,7,5
+0,_Suffolk City,_WHITE MARSH,_000301,401,190,5,5,1,0
+0,_Suffolk City,_JOHN F KENNEDY (CD 4),_000302,1068,24,7,3,4,2
+0,_Suffolk City,_JOHN F KENNEDY (CD 3),_000302,720,221,19,2,3,4
+0,_Suffolk City,_NANSEMOND RIVER,_000304,1193,692,56,33,19,6
+0,_Suffolk City,_SHOULDERS HILL,_000305,527,331,22,8,5,1
+0,_Suffolk City,_AIRPORT,_000401,425,668,28,10,3,3
+0,_Suffolk City,_WHALEYVILLE,_000402,319,897,49,8,3,7
+0,_Suffolk City,_SOUTHSIDE,_000403,870,47,2,4,2,2
+0,_Suffolk City,_BOOKER T WASHINGTON (CD 4),_000404,1161,66,9,10,2,1
+0,_Suffolk City,_BOOKER T WASHINGTON (CD 3),_000404,322,8,0,0,3,2
+0,_Suffolk City,_PITTMANTOWN,_000405,239,273,10,3,2,4
+0,_Suffolk City,_KILBYS MILL,_000501,882,1435,61,18,8,10
+0,_Suffolk City,_HOLLAND,_000502,754,1286,57,15,9,4
+0,_Suffolk City,_LAKE COHOON (CD 4),_000504,447,936,35,21,7,9
+0,_Suffolk City,_LAKE COHOON (CD 3),_000504,185,505,19,2,1,4
+0,_Suffolk City,_LAKESIDE,_000601,1178,688,63,24,6,4
+0,_Suffolk City,_OLDE TOWNE (CD 4),_000602,10,0,0,0,0,0
+0,_Suffolk City,_OLDE TOWNE (CD 3),_000602,353,192,14,5,4,2
+0,_Suffolk City,_ELEPHANTS FORK/WESTHAVEN,_000603,270,300,17,5,2,2
+0,_Suffolk City,_WILROY,_000604,574,664,55,16,8,11
+0,_Suffolk City,_HOLLYWOOD,_000605,851,27,10,2,2,6
+0,_Suffolk City,_HARBOURVIEW,_000702,1066,990,63,27,8,17
+0,_Suffolk City,_BURBAGE GRANT,_000704,1369,661,67,23,11,8
+0,_Suffolk City,_HUNTERSVILLE,_000706,1749,302,29,14,22,18
+0,_Surry County,_Surry,_000101,359,522,27,10,3,1
+0,_Surry County,_Bacons Castle,_000201,568,312,8,4,5,4
+0,_Surry County,_Dendron,_000301,251,198,9,4,1,2
+0,_Surry County,_Walls Bridge,_000302,255,164,8,4,2,0
+0,_Surry County,_Carsley,_000401,502,360,15,3,4,3
+0,_Surry County,_Claremont,_000501,284,258,14,3,2,0
+0,_Surry County,_Spring Grove,_000502,53,5,0,1,0,0
+0,_Sussex County,_Waverly,_000101,663,161,3,3,4,1
+0,_Sussex County,_Stony Creek,_000201,447,180,9,3,2,0
+0,_Sussex County,_Little Mill,_000202,102,67,1,0,0,0
+0,_Sussex County,_Courthouse,_000301,224,404,6,7,2,1
+0,_Sussex County,_Wakefield,_000302,25,163,7,0,1,0
+0,_Sussex County,_Mars Hill,_000401,456,265,13,5,3,0
+0,_Sussex County,_West Wakefield,_000402,85,16,1,0,1,0
+0,_Sussex County,_Henry,_000501,370,200,9,2,1,0
+0,_Sussex County,_Yale,_000502,178,89,3,0,1,0
+0,_Sussex County,_Blackwater,_000601,205,338,6,1,6,0
+0,_Sussex County,_Newville,_000602,124,172,5,1,1,1
+0,_Tazewell County,_Abbs Valley,_000101,60,305,11,3,0,1
+0,_Tazewell County,_Tip Top,_000102,79,390,7,1,0,1
+0,_Tazewell County,_Boissevain,_000103,55,224,5,3,0,0
+0,_Tazewell County,_Falls Mills,_000104,54,442,9,2,1,4
+0,_Tazewell County,_Pocahontas,_000106,71,166,7,4,0,1
+0,_Tazewell County,_Amonate,_000107,14,85,1,1,0,0
+0,_Tazewell County,_Bishop,_000109,24,164,3,0,0,0
+0,_Tazewell County,_Adria,_000110,52,416,7,1,1,0
+0,_Tazewell County,_Gap Store,_000111,61,380,9,1,1,0
+0,_Tazewell County,_Bandy,_000112,25,183,4,0,0,0
+0,_Tazewell County,_Burkes Garden,_000203,19,110,0,0,0,0
+0,_Tazewell County,_Clear Fork,_000204,60,445,10,3,0,3
+0,_Tazewell County,_Freestone,_000207,30,141,3,2,0,1
+0,_Tazewell County,_Jeffersonville,_000209,517,1966,39,20,9,5
+0,_Tazewell County,_Thompson Valley,_000214,76,460,8,6,1,1
+0,_Tazewell County,_Cedar Bluff,_000301,256,1788,27,8,7,7
+0,_Tazewell County,_Baptist Valley,_000302,63,341,1,2,0,0
+0,_Tazewell County,_Wardell,_000303,125,753,9,8,5,1
+0,_Tazewell County,_Pounding Mill,_000305,96,558,2,9,1,0
+0,_Tazewell County,_Richlands,_000401,409,1899,40,18,8,13
+0,_Tazewell County,_Jewell Ridge,_000402,32,222,0,2,2,0
+0,_Tazewell County,_Raven,_000404,110,681,4,8,4,3
+0,_Tazewell County,_Springville,_000501,148,1158,17,10,3,9
+0,_Tazewell County,_Graham,_000502,459,1891,37,15,10,13
+0,_Virginia Beach City,_North Beach,_000001,941,1625,80,18,10,19
+0,_Virginia Beach City,_South Beach,_000002,1019,1156,131,29,30,22
+0,_Virginia Beach City,_Ocean Lakes,_000003,667,971,75,15,12,11
+0,_Virginia Beach City,_Linkhorn,_000004,821,1170,80,17,14,14
+0,_Virginia Beach City,_Seatack,_000005,1230,916,102,26,35,16
+0,_Virginia Beach City,_Alanton,_000006,841,1334,86,31,12,21
+0,_Virginia Beach City,_Kingston,_000007,517,901,80,20,7,13
+0,_Virginia Beach City,_London Bridge,_000008,1061,1258,129,28,35,15
+0,_Virginia Beach City,_Trantwood,_000009,738,1275,78,27,10,12
+0,_Virginia Beach City,_Great Neck,_000010,690,1533,85,16,10,15
+0,_Virginia Beach City,_Cape Henry,_000011,1054,1274,91,19,13,23
+0,_Virginia Beach City,_Plaza,_000012,1138,1008,113,33,35,19
+0,_Virginia Beach City,_Mt Trashmore,_000013,1134,1362,142,25,23,16
+0,_Virginia Beach City,_Malibu,_000014,973,1264,106,25,18,22
+0,_Virginia Beach City,_Old Donation,_000015,712,835,107,18,16,9
+0,_Virginia Beach City,_Aragona,_000016,1270,1406,150,20,29,16
+0,_Virginia Beach City,_Ocean Park,_000017,699,913,88,26,17,11
+0,_Virginia Beach City,_Thoroughgood,_000018,1030,1294,91,28,18,43
+0,_Virginia Beach City,_Lake Smith,_000019,462,764,52,8,9,9
+0,_Virginia Beach City,_Bayside,_000020,787,1028,52,20,16,5
+0,_Virginia Beach City,_Davis Corner,_000021,1560,471,57,15,22,23
+0,_Virginia Beach City,_Point O View,_000022,721,1027,60,27,21,15
+0,_Virginia Beach City,_Arrowhead,_000023,842,1258,89,27,36,13
+0,_Virginia Beach City,_Larkspur,_000024,744,760,72,17,13,7
+0,_Virginia Beach City,_Avalon,_000025,1385,1499,125,37,31,23
+0,_Virginia Beach City,_Fairfield,_000026,823,1006,86,32,17,21
+0,_Virginia Beach City,_Edwin,_000027,850,1230,92,27,9,22
+0,_Virginia Beach City,_Thalia,_000028,644,917,77,26,16,21
+0,_Virginia Beach City,_Holland,_000029,1231,792,100,37,35,16
+0,_Virginia Beach City,_Red Wing,_000030,651,1140,77,12,17,14
+0,_Virginia Beach City,_Sigma,_000031,978,2106,107,42,9,22
+0,_Virginia Beach City,_Creeds,_000032,225,916,36,9,8,9
+0,_Virginia Beach City,_Capps Shop,_000033,255,976,26,7,3,2
+0,_Virginia Beach City,_Blackwater,_000034,173,587,25,3,1,1
+0,_Virginia Beach City,_Courthouse,_000035,654,1341,66,20,13,19
+0,_Virginia Beach City,_Windsor Oaks,_000036,1455,1038,121,27,14,17
+0,_Virginia Beach City,_Chesapeake Beach,_000037,780,845,107,22,18,9
+0,_Virginia Beach City,_Witchduck,_000038,970,1616,81,28,12,20
+0,_Virginia Beach City,_Pembroke,_000039,1261,1297,128,27,21,19
+0,_Virginia Beach City,_Bonney,_000040,829,832,72,27,17,16
+0,_Virginia Beach City,_College Park,_000041,1897,635,80,17,23,17
+0,_Virginia Beach City,_Brandon,_000042,1124,1050,85,31,21,19
+0,_Virginia Beach City,_Bellamy,_000043,1111,711,98,42,23,13
+0,_Virginia Beach City,_Centerville,_000044,1044,1351,113,31,31,26
+0,_Virginia Beach City,_Timberlake,_000045,1407,627,86,24,11,14
+0,_Virginia Beach City,_Green Run,_000046,1234,650,49,19,13,11
+0,_Virginia Beach City,_Kings Grant,_000047,938,1613,96,42,27,32
+0,_Virginia Beach City,_Wolfsnare,_000048,997,1383,100,24,11,24
+0,_Virginia Beach City,_Lynnhaven,_000049,706,1259,72,23,11,16
+0,_Virginia Beach City,_Oceana,_000050,945,480,77,20,17,12
+0,_Virginia Beach City,_Stratford Chase,_000051,791,1073,81,18,25,36
+0,_Virginia Beach City,_Homestead,_000052,1188,1328,112,25,23,16
+0,_Virginia Beach City,_Shannon,_000053,797,969,55,20,13,7
+0,_Virginia Beach City,_Cromwell,_000054,798,753,85,16,12,8
+0,_Virginia Beach City,_Magic Hollow,_000055,1358,753,116,23,33,21
+0,_Virginia Beach City,_Edinburgh,_000056,424,687,57,7,14,7
+0,_Virginia Beach City,_Sherry Park,_000057,578,821,55,15,18,8
+0,_Virginia Beach City,_Glenwood,_000058,1088,1026,87,22,18,14
+0,_Virginia Beach City,_Shelton Park,_000059,759,741,55,22,11,15
+0,_Virginia Beach City,_Foxfire,_000060,805,1590,91,20,14,21
+0,_Virginia Beach City,_Baker,_000061,1807,259,49,22,23,14
+0,_Virginia Beach City,_Landstown,_000062,1035,1245,80,32,20,15
+0,_Virginia Beach City,_Culver,_000063,1038,1485,128,31,24,16
+0,_Virginia Beach City,_Rosemont Forest,_000064,1458,1380,106,31,16,11
+0,_Virginia Beach City,_Colonial,_000065,944,985,89,43,17,19
+0,_Virginia Beach City,_Hunt,_000066,687,1208,91,18,22,22
+0,_Virginia Beach City,_Eastern Shore,_000067,543,469,74,8,13,13
+0,_Virginia Beach City,_Manor,_000068,832,1090,92,18,13,14
+0,_Virginia Beach City,_Shell,_000069,1193,478,55,18,11,12
+0,_Virginia Beach City,_Corporate Landing,_000070,1080,1250,142,20,28,26
+0,_Virginia Beach City,_Round Hill,_000071,586,487,49,11,1,5
+0,_Virginia Beach City,_Rudee,_000072,765,1297,89,20,24,15
+0,_Virginia Beach City,_Dahlia,_000073,1111,615,84,19,21,11
+0,_Virginia Beach City,_Buckner,_000074,1150,656,62,17,19,10
+0,_Virginia Beach City,_Colony,_000075,870,1398,103,24,12,15
+0,_Virginia Beach City,_Village,_000076,1173,604,109,17,18,8
+0,_Virginia Beach City,_Brookwood,_000077,946,961,102,28,28,27
+0,_Virginia Beach City,_Indian Lakes,_000078,909,811,79,26,17,0
+0,_Virginia Beach City,_Pleasant Hall,_000079,1158,584,84,23,23,14
+0,_Virginia Beach City,_Chimney Hill,_000080,1070,600,72,29,36,16
+0,_Virginia Beach City,_Rock Lake,_000081,1291,919,94,25,17,10
+0,_Virginia Beach City,_Shelburne,_000082,675,961,70,23,17,23
+0,_Virginia Beach City,_Strawbridge,_000083,792,1399,127,43,20,20
+0,_Virginia Beach City,_Tallwood,_000084,1164,862,93,39,23,20
+0,_Virginia Beach City,_Upton,_000085,979,1610,111,31,24,19
+0,_Virginia Beach City,_Haygood,_000086,975,1149,54,22,8,30
+0,_Virginia Beach City,_Hillcrest,_000087,818,1039,68,20,13,22
+0,_Virginia Beach City,_North Landing,_000088,725,998,61,21,15,10
+0,_Virginia Beach City,_Lake Christopher,_000089,863,1050,87,31,10,14
+0,_Virginia Beach City,_Lake Joyce,_000090,523,850,66,15,10,13
+0,_Virginia Beach City,_Lexington,_000091,1164,762,76,25,22,13
+0,_Virginia Beach City,_Little Neck,_000092,600,935,61,21,17,14
+0,_Virginia Beach City,_Newtown,_000093,1679,289,49,20,13,16
+0,_Virginia Beach City,_Pinewood,_000094,466,647,51,15,15,7
+0,_Virginia Beach City,_Dam Neck,_000095,546,767,58,7,8,9
+0,_Virginia Beach City,_Hilltop,_000096,807,620,72,12,23,17
+0,_Virginia Beach City,_Indian River,_000097,1151,662,88,18,13,9
+0,_Virginia Beach City,_Independence,_000098,655,402,58,15,12,8
+0,_Warren County,_Fork Town,_000101,414,693,32,14,14,6
+0,_Warren County,_Otterburn,_000102,551,1654,54,29,12,8
+0,_Warren County,_Happy Creek,_000201,621,1269,54,30,10,22
+0,_Warren County,_Linden,_000202,536,1123,87,23,24,24
+0,_Warren County,_North River,_000301,557,966,53,16,13,10
+0,_Warren County,_Riverton,_000302,436,1171,24,12,4,12
+0,_Warren County,_East Shenandoah,_000401,587,1883,64,44,29,30
+0,_Warren County,_Town-West Shenandoah,_000402,368,791,27,16,16,14
+0,_Warren County,_South River,_000501,735,1269,65,27,17,11
+0,_Warren County,_Bentonville,_000502,192,538,25,4,8,3
+0,_Warren County,_Browntown,_000504,172,416,10,7,2,3
+0,_Washington County,_EAST ABINGDON,_000101,686,1562,63,19,12,19
+0,_Washington County,_WEST ABINGDON,_000102,405,823,25,15,5,2
+0,_Washington County,_CLINCHBURG,_000201,119,646,15,6,2,2
+0,_Washington County,_GREENDALE,_000202,213,1035,13,14,5,2
+0,_Washington County,_HAYTERS GAP,_000203,74,393,4,8,1,1
+0,_Washington County,_WOODLAND HILLS,_000204,286,853,16,12,6,2
+0,_Washington County,_WATAUGA,_000301,468,1497,51,22,2,9
+0,_Washington County,_SOUTH ABINGDON,_000302,600,1219,46,21,16,15
+0,_Washington County,_GLADE SPRING,_000401,339,1158,32,9,2,4
+0,_Washington County,_MEADOWVIEW,_000402,441,1340,40,13,6,12
+0,_Washington County,_RHEA VALLEY,_000501,381,1808,34,12,9,8
+0,_Washington County,_DAMASCUS,_000502,306,755,30,10,6,2
+0,_Washington County,_GREEN COVE,_000504,35,146,4,0,2,1
+0,_Washington County,_BURSON PLACE,_000601,233,1548,45,14,7,2
+0,_Washington County,_MENDOTA,_000602,54,300,10,6,2,12
+0,_Washington County,_VALLEY INSTITUTE,_000603,236,1106,22,10,2,8
+0,_Washington County,_HIGH POINT,_000701,224,1212,27,11,0,4
+0,_Washington County,_WALLACE,_000702,130,598,15,9,1,1
+0,_Washington County,_JOHN BATTLE,_000703,323,1321,45,18,7,8
+0,_Waynesboro City,_Ward A,_000001,695,755,48,13,16,14
+0,_Waynesboro City,_Ward B,_000002,1064,1320,113,36,24,26
+0,_Waynesboro City,_Ward C,_000003,811,1036,70,37,20,13
+0,_Waynesboro City,_Ward D,_000004,1194,1690,105,59,14,31
+0,_Westmoreland County,_Precinct 1-1,_000101,750,305,19,3,2,2
+0,_Westmoreland County,_Precinct 1-2,_000102,375,262,8,4,1,0
+0,_Westmoreland County,_Precinct 2-1,_000201,612,524,19,4,5,7
+0,_Westmoreland County,_Precinct 2-2,_000202,234,396,9,4,4,1
+0,_Westmoreland County,_Precinct 3-1,_000301,425,483,16,7,1,0
+0,_Westmoreland County,_Precinct 3-2,_000302,320,358,8,6,2,6
+0,_Westmoreland County,_Precinct 4-1,_000401,483,1172,39,11,13,10
+0,_Westmoreland County,_Precinct 5-1,_000501,637,948,39,11,12,17
+0,_Williamsburg City,_Stryker,_000001,2479,1057,112,47,45,39
+0,_Williamsburg City,_Matoaka,_000002,2727,868,119,53,39,41
+0,_Winchester City,_Merrimans,_000101,1039,986,82,17,12,22
+0,_Winchester City,_Old Town,_000102,744,792,70,25,23,16
+0,_Winchester City,_Virginia Avenue,_000201,1143,710,78,26,30,9
+0,_Winchester City,_War Memorial,_000301,972,862,96,16,20,15
+0,_Winchester City,_Frederick Douglass,_000401,439,479,29,12,6,8
+0,_Winchester City,_Rolling Hills,_000402,827,961,45,32,8,14
+0,_Wise County,_Appalachia,_000101,213,740,13,6,8,3
+0,_Wise County,_Dorchester,_000102,116,529,6,2,1,4
+0,_Wise County,_Guest River,_000103,104,516,2,2,1,1
+0,_Wise County,_West Pound,_000104,284,1393,18,7,11,4
+0,_Wise County,_North Coeburn,_000201,135,690,7,4,4,2
+0,_Wise County,_Wise,_000202,483,1782,43,6,15,4
+0,_Wise County,_East Pound,_000203,57,380,3,1,6,5
+0,_Wise County,_Big Stone Gap,_000301,411,1395,28,6,9,9
+0,_Wise County,_East Stone Gap,_000302,297,1555,22,16,9,10
+0,_Wise County,_Clinch Valley,_000401,213,1228,22,7,7,7
+0,_Wise County,_South Coeburn,_000402,232,1454,13,5,3,1
+0,_Wise County,_St Paul,_000403,156,424,5,3,3,2
+0,_Wythe County,_ROYAL OAK,_000101,61,474,6,8,1,2
+0,_Wythe County,_RURAL RETREAT,_000102,312,1392,37,18,4,6
+0,_Wythe County,_WEST WYTHEVILLE,_000203,649,1377,59,22,9,14
+0,_Wythe County,_EAST WYTHEVILLE,_000303,686,1431,58,13,9,13
+0,_Wythe County,_FORT CHISWELL,_000401,201,970,21,11,2,6
+0,_Wythe County,_MAX MEADOWS,_000402,189,939,25,5,4,7
+0,_Wythe County,_JACKSON MEMORIAL,_000501,153,663,14,9,2,3
+0,_Wythe County,_SHEFFEY,_000502,166,1025,22,8,5,10
+0,_Wythe County,_HUDDLE,_000601,73,496,2,4,3,0
+0,_Wythe County,_ZION,_000602,164,733,23,5,2,3
+0,_Wythe County,_EVERGREEN,_000603,116,546,18,4,8,7
+0,_York County,_QUEENS LAKE,_000101,826,894,57,29,17,14
+0,_York County,_WALLER MILL,_000102,972,1241,87,47,25,14
+0,_York County,_MAGRUDER,_000103,1739,1019,125,39,21,23
+0,_York County,_COVENTRY,_000201,1386,1807,116,62,35,30
+0,_York County,_KILN CREEK,_000202,727,900,51,22,10,16
+0,_York County,_SEAFORD,_000301,708,2223,97,52,24,32
+0,_York County,_YORKTOWN,_000302,800,1311,85,36,13,20
+0,_York County,_EDGEHILL,_000303,1153,1174,96,33,19,17
+0,_York County,_HARWOODS MILL,_000401,819,1842,101,49,19,24
+0,_York County,_DARE,_000402,881,1972,105,47,22,19
+0,_York County,_GRAFTON,_000403,534,930,40,19,8,15
+0,_York County,_TABB,_000501,1096,1877,104,55,17,28
+0,_York County,_BETHEL,_000502,1358,1647,122,59,22,38
