@@ -218,16 +218,7 @@
         [
             "USA_VT_20201103_GEN_PRE_DEM_BIDEN",
             "USA_VT_20201103_GEN_PRE_REP_TRUMP",
-            "USA_VT_20201103_GEN_PRE_ALL_OTHERS",
-
-            "USA_VT_20201103_GEN_HAL_DEM_WELCH",
-            "USA_VT_20201103_GEN_HAL_REP_BERRY",
-            "USA_VT_20201103_GEN_HAL_COM_HELALI",
-            "USA_VT_20201103_GEN_HAL_IND_BECKER",
-            "USA_VT_20201103_GEN_HAL_IND_HORNE",
-            "USA_VT_20201103_GEN_HAL_IND_ORR",
-            "USA_VT_20201103_GEN_HAL_IND_TRUDELL",
-            "USA_VT_20201103_GEN_HAL_OTH_WRITEIN"
+            "USA_VT_20201103_GEN_PRE_ALL_OTHERS"
         ],
         "lst_str_predicting_from_power_one_and_a_half_of_actual_vote_count_column_names" : [],
         "lst_str_predicting_from_squared_actual_vote_count_column_names" : [],

@@ -131,17 +131,7 @@
         [
             "USA_WY_20201103_GEN_PRE_REP_TRUMP",
             "USA_WY_20201103_GEN_PRE_DEM_BIDEN",
-            "USA_WY_20201103_GEN_PRE_ALL_OTHERS",
-
-            "USA_WY_20201103_GEN_USS_REP_LUMMIS",
-            "USA_WY_20201103_GEN_USS_DEM_DAVID",
-            "USA_WY_20201103_GEN_USS_OTH_WRITEIN",
-
-            "USA_WY_20201103_GEN_HAL_REP_CHENEY",
-            "USA_WY_20201103_GEN_HAL_DEM_BULL",
-            "USA_WY_20201103_GEN_HAL_LIB_BRUBAKER",
-            "USA_WY_20201103_GEN_HAL_CON_HAGGIT",
-            "USA_WY_20201103_GEN_HAL_OTH_WRITEIN"
+            "USA_WY_20201103_GEN_PRE_ALL_OTHERS"
         ],
 
         "lst_str_predicting_from_ln_of_incremented_actual_vote_count_column_names" : [],
