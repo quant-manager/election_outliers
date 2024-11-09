@@ -18,8 +18,19 @@
 
 """
 1. merging PNGs, JPGs, PDFs, SVGs across jobs. PNGs, JPGs, and SVGs are merged in HTML.
+   a. https://stackoverflow.com/questions/3444645/merge-pdf-files
+   b. https://stackoverflow.blog/2022/12/27/picture-perfect-images-with-the-modern-element/
+   c. https://stackoverflow.com/questions/25002310/best-practice-for-using-svg-images
+      https://stackoverflow.com/questions/4476526/do-i-use-img-object-or-embed-for-svg-files?rq=3
 2. zip compression of results
 """
+
+import sys
+from glob import glob
+try:
+    from PyPDF2 import PdfReader, PdfWriter, PdfMerger
+except ImportError:
+    from pyPdf import PdfFileReader, PdfFileWriter, PdfMerger
 
 ###############################################################################
 
