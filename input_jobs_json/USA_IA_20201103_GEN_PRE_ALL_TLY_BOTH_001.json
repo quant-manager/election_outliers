@@ -152,13 +152,7 @@
         [
             "USA_IA_20201103_GEN_PRE_REP_TRUMP",
             "USA_IA_20201103_GEN_PRE_DEM_BIDEN",
-            "USA_IA_20201103_GEN_PRE_ALL_OTHERS",
-
-            "USA_IA_20201103_GEN_USS_REP_ERNST",
-            "USA_IA_20201103_GEN_USS_DEM_GREENFIELD",
-            "USA_IA_20201103_GEN_USS_LIB_STEWART",
-            "USA_IA_20201103_GEN_USS_IND_HERZOG",
-            "USA_IA_20201103_GEN_USS_OTH_WRITEIN"
+            "USA_IA_20201103_GEN_PRE_ALL_OTHERS"
         ],
         "lst_str_predicting_from_power_one_and_a_half_of_actual_vote_count_column_names" : [],
         "lst_str_predicting_from_squared_actual_vote_count_column_names" : [],
@@ -359,9 +353,9 @@
         "lst_flt_min_x" : [0.0, 95.0],
         "lst_flt_max_x" : [100.0, 100.0],
         "lst_flt_xticks_incr" : [5.0, 1.0],
-        "lst_flt_min_y" : [0.0, 43.0],
-        "lst_flt_max_y" : [100.0, 54.0],
-        "lst_flt_yticks_incr" : [5.0, 0.25],
+        "lst_flt_min_y" : [0.0, 42.0],
+        "lst_flt_max_y" : [100.0, 55.0],
+        "lst_flt_yticks_incr" : [5.0, 0.5],
         "lst_flt_plot_width_in_inches" : [6.4, 6.4],
         "lst_flt_plot_height_in_inches" : [4.8, 4.8],
         "lst_int_dots_per_inch_for_png_and_jpg_plots" : [1200, 1200],
