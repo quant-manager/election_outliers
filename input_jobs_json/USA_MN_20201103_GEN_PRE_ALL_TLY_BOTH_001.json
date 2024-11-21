@@ -1,0 +1,351 @@
+{
+    "_comment_001" : "https://dataverse.harvard.edu/dataverse/electionscience",
+    "_comment_002" : "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NH5S2I",
+    "_comment_003" : "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/K7760H",
+    "core" :
+    {
+        "bool_apply_non_parametric_model" : false,
+        "bool_apply_parametric_model" : true,
+
+        "str_actual_vote_counts_csv_file_name" : "USA_MN_20201103_GEN_ALL_ALL_001_data",
+        "lst_str_actual_all_vote_count_column_names" :
+        [
+            "USA_MN_20201103_GEN_PRE_DEM_BIDEN",
+            "USA_MN_20201103_GEN_PRE_REP_TRUMP",
+            "USA_MN_20201103_GEN_PRE_ALL_OTHERS",
+
+            "USA_MN_20201103_GEN_USS_DEM_SMITH",
+            "USA_MN_20201103_GEN_USS_REP_LEWIS",
+            "USA_MN_20201103_GEN_USS_MAR_OCONNOR",
+            "USA_MN_20201103_GEN_USS_GRA_STEINBERG",
+            "USA_MN_20201103_GEN_USS_OTH_WRITEIN"
+        ],
+        "str_actual_residual_vote_count_column_name" : "USA_MN_20201103_GEN_PRE_ALL_OTHERS",
+        "lst_str_actual_residual_vote_count_column_names" :
+        [
+            "USA_MN_20201103_GEN_PRE_LIB_JORGENSEN",
+            "USA_MN_20201103_GEN_PRE_GRE_HAWKINS",
+            "USA_MN_20201103_GEN_PRE_ALL_FUENTE",
+            "USA_MN_20201103_GEN_PRE_SOL_LARIVA",
+            "USA_MN_20201103_GEN_PRE_SOW_KENNEDY",
+            "USA_MN_20201103_GEN_PRE_IND_WEST",
+            "USA_MN_20201103_GEN_PRE_IND_PIERCE",
+            "USA_MN_20201103_GEN_PRE_OTH_WRITEIN"
+        ],
+
+        "str_benchmark_vote_counts_csv_file_name" : "USA_MN_20161108_GEN_ALL_ALL_001_data",
+        "lst_str_benchmark_all_vote_count_column_names" :
+        [
+            "USA_MN_20161108_GEN_PRE_REP_TRUMP",
+            "USA_MN_20161108_GEN_PRE_DEM_CLINTON",
+            "USA_MN_20161108_GEN_PRE_CON_CASTLE",
+            "USA_MN_20161108_GEN_PRE_MAR_VACEK",
+            "USA_MN_20161108_GEN_PRE_SOC_KENNEDY",
+            "USA_MN_20161108_GEN_PRE_GRE_STEIN",
+            "USA_MN_20161108_GEN_PRE_DEL_FUENTE",
+            "USA_MN_20161108_GEN_PRE_IND_MCMULLIN",
+            "USA_MN_20161108_GEN_PRE_LIB_JOHNSON",
+            "USA_MN_20161108_GEN_PRE_OTH_WRITEIN"
+        ],
+        "str_benchmark_residual_vote_count_column_name" : null,
+        "lst_str_benchmark_residual_vote_count_column_names" : [],
+
+        "bool_aggregate_vote_counts_by_county" : false,
+        "bool_approximate_missing_benchmark_precincts_by_scaled_benchmark_county" : false,
+        "bool_aggregate_missing_benchmark_precincts_into_new_residual_county" : false,
+
+        "int_random_number_generator_seed_for_sorting" : 0,
+        "bool_retain_sorting_criteria_columns" : true,
+        "bool_compute_cumulative_actual_vote_count_fractions" : true,
+        "bool_save_sorted_precincts_to_csv_file" : true,
+
+        "bool_distribute_job_output_files_in_directories_by_type" : false,
+        "bool_gather_all_job_files_in_one_directory" : true
+    },
+
+    "non_parametric" :
+    {
+        "int_max_num_two_ways_passes" : 10,
+        "flt_window_size_scaling_factor" : 0.5,
+        "lst_str_all_predicting_predicted_vote_count_column_names" :
+        [
+            "USA_MN_20201103_GEN_PRE_DEM_BIDEN",
+            "USA_MN_20201103_GEN_PRE_REP_TRUMP",
+            "USA_MN_20201103_GEN_PRE_ALL_OTHERS",
+
+            "USA_MN_20161108_GEN_PRE_REP_TRUMP",
+            "USA_MN_20161108_GEN_PRE_DEM_CLINTON",
+            "USA_MN_20161108_GEN_PRE_CON_CASTLE",
+            "USA_MN_20161108_GEN_PRE_MAR_VACEK",
+            "USA_MN_20161108_GEN_PRE_SOC_KENNEDY",
+            "USA_MN_20161108_GEN_PRE_GRE_STEIN",
+            "USA_MN_20161108_GEN_PRE_DEL_FUENTE",
+            "USA_MN_20161108_GEN_PRE_IND_MCMULLIN",
+            "USA_MN_20161108_GEN_PRE_LIB_JOHNSON",
+            "USA_MN_20161108_GEN_PRE_OTH_WRITEIN"
+        ]
+    },
+
+    "parametric" :
+    {
+        "bool_use_decimal_type" : false,
+        "int_decimal_computational_precision" : 1024,
+        "int_decimal_reporting_precision" : 16,
+        "int_max_num_iters_for_exact_hypergeom" : 1000000,
+        "int_max_num_iters_for_lanczos_approx_hypergeom" : 500000,
+        "int_max_num_iters_for_spouge_approx_hypergeom" : 500000,
+        "int_min_sample_size_for_approx_normal" : 1000,
+        "flt_max_sample_sz_frac_of_pop_sz_for_approx_normal" : 0.1,
+        "flt_max_abs_diff_pop_categ_frac_of_pop_size_to_half_for_approx_normal" : 0.1,
+        "flt_min_num_std_devs_from_mean_for_sample_categ_for_approx_normal" : 0.0,
+
+        "flt_lasso_alpha_l1_regularization_strength_term" : null,
+        "int_lasso_maximum_number_of_iterations" : 1000000,
+        "int_lasso_optimization_tolerance" : 0.00001,
+        "flt_lasso_cv_length_of_alphas_regularization_path" : 0.001,
+        "int_lasso_cv_num_candidate_alphas_on_regularization_path" : 100,
+        "int_lasso_cv_maximum_number_of_iterations" : 1000000,
+        "int_lasso_cv_optimization_tolerance" : 0.00001,
+        "int_lasso_cv_number_of_folds_in_cross_validation" : 10,
+
+        "bool_estimate_precinct_model_on_aggregated_vote_counts_by_county" : false,
+        "bool_approximate_predictions_for_missing_benchmark_precincts_by_actual_values" : true,
+        "bool_true_each_choice_with_all_other_choices__false_each_choice_with_each_choice" : true,
+        "bool_compute_outlier_score_level_1" : false,
+        "bool_compute_outlier_score_level_2" : true,
+        "bool_compute_outlier_score_level_3" : true,
+
+        "bool_estimate_model_parameters_diagnostics" : false,
+        "bool_save_estimated_models_parameters_to_csv_file" : false,
+        "bool_retain_predicted_vote_counts_columns_in_sorted_precincts_file" : false,
+        "bool_save_outlier_score_stats_to_csv_file" : false,
+        "bool_save_model_diagnostics_to_csv_file" : false,
+
+        "lst_str_predicted_for_actual_vote_count_column_names" :
+        [
+            "USA_MN_20201103_GEN_PRE_DEM_BIDEN",
+            "USA_MN_20201103_GEN_PRE_REP_TRUMP",
+            "USA_MN_20201103_GEN_PRE_ALL_OTHERS"
+        ],
+
+        "lst_str_predicting_from_ln_of_incremented_actual_vote_count_column_names" : [],
+        "lst_str_predicting_from_power_one_quarter_of_actual_vote_count_column_names" : [],
+        "lst_str_predicting_from_square_root_of_actual_vote_count_column_names" : [],
+        "lst_str_predicting_from_power_three_quarters_of_actual_vote_count_column_names" : [],
+        "lst_str_predicting_from_actual_vote_count_column_names" :
+        [
+            "USA_MN_20201103_GEN_PRE_DEM_BIDEN",
+            "USA_MN_20201103_GEN_PRE_REP_TRUMP",
+            "USA_MN_20201103_GEN_PRE_ALL_OTHERS"
+        ],
+        "lst_str_predicting_from_power_one_and_a_half_of_actual_vote_count_column_names" : [],
+        "lst_str_predicting_from_squared_actual_vote_count_column_names" : [],
+
+        "lst_str_predicting_from_ln_of_incremented_benchmark_vote_count_column_names" : [],
+        "lst_str_predicting_from_power_one_quarter_of_benchmark_vote_count_column_names" : [],
+        "lst_str_predicting_from_square_root_of_benchmark_vote_count_column_names" : [],
+        "lst_str_predicting_from_power_three_quarters_of_benchmark_vote_count_column_names" : [],
+        "lst_str_predicting_from_benchmark_vote_count_column_names" :
+        [
+            "USA_MN_20161108_GEN_PRE_REP_TRUMP",
+            "USA_MN_20161108_GEN_PRE_DEM_CLINTON",
+            "USA_MN_20161108_GEN_PRE_CON_CASTLE",
+            "USA_MN_20161108_GEN_PRE_MAR_VACEK",
+            "USA_MN_20161108_GEN_PRE_SOC_KENNEDY",
+            "USA_MN_20161108_GEN_PRE_GRE_STEIN",
+            "USA_MN_20161108_GEN_PRE_DEL_FUENTE",
+            "USA_MN_20161108_GEN_PRE_IND_MCMULLIN",
+            "USA_MN_20161108_GEN_PRE_LIB_JOHNSON",
+            "USA_MN_20161108_GEN_PRE_OTH_WRITEIN"
+        ],
+        "lst_str_predicting_from_power_one_and_a_half_of_benchmark_vote_count_column_names" : [],
+        "lst_str_predicting_from_squared_benchmark_vote_count_column_names" : [],
+
+        "lst_pairs_str_predicting_from_fourth_root_of_actual_interactions_actual_vote_count_column_names" : [],
+        "lst_pairs_str_predicting_from_square_root_of_actual_interactions_actual_vote_count_column_names" : [],
+        "lst_pairs_str_predicting_from_actual_interactions_actual_vote_count_column_names" : [],
+
+        "lst_pairs_str_predicting_from_fourth_root_of_benchmark_interactions_benchmark_vote_count_column_names" : [],
+        "lst_pairs_str_predicting_from_square_root_of_benchmark_interactions_benchmark_vote_count_column_names" : [],
+        "lst_pairs_str_predicting_from_benchmark_interactions_benchmark_vote_count_column_names" : [],
+
+        "lst_pairs_str_predicting_from_fourth_root_of_actual_interactions_benchmark_vote_count_column_names" : [],
+        "lst_pairs_str_predicting_from_square_root_of_actual_interactions_benchmark_vote_count_column_names" : [],
+        "lst_pairs_str_predicting_from_actual_interactions_benchmark_vote_count_column_names" : [],
+
+        
+        "bool_drop_predicted_variable_during_computation_of_predicting_tally" : true,
+        
+        "bool_predicting_from_ln_of_incremented_actual_tally" : false,
+        "bool_predicting_from_power_one_quarter_of_actual_tally" : false,
+        "bool_predicting_from_square_root_of_actual_tally" : false,
+        "bool_predicting_from_power_three_quarters_of_actual_tally" : false,
+        "bool_predicting_from_actual_tally" : false,
+        "bool_predicting_from_power_one_and_a_half_of_actual_tally" : false,
+        "bool_predicting_from_squared_actual_tally" : false,
+
+        "bool_predicting_from_ln_of_incremented_benchmark_tally" : false,
+        "bool_predicting_from_power_one_quarter_of_benchmark_tally" : false,
+        "bool_predicting_from_square_root_of_benchmark_tally" : false,
+        "bool_predicting_from_power_three_quarters_of_benchmark_tally" : false,
+        "bool_predicting_from_benchmark_tally" : false,
+        "bool_predicting_from_power_one_and_a_half_of_benchmark_tally" : false,
+        "bool_predicting_from_squared_benchmark_tally" : false,
+
+        "bool_predicting_from_fourth_root_of_actual_tally_interaction_benchmark_tally" : false,
+        "bool_predicting_from_square_root_of_actual_tally_interaction_benchmark_tally" : false,
+        "bool_predicting_from_actual_tally_interaction_benchmark_tally" : false,
+
+        
+        "bool_predicting_from_ln_of_incremented_actual_tally_interaction_county_indicator" : false,
+        "bool_predicting_from_power_one_quarter_of_actual_tally_interaction_county_indicator" : false,
+        "bool_predicting_from_square_root_of_actual_tally_interaction_county_indicator" : false,
+        "bool_predicting_from_power_three_quarters_of_actual_tally_interaction_county_indicator" : false,
+        "bool_predicting_from_actual_tally_interaction_county_indicator" : false,
+        "bool_predicting_from_power_one_and_a_half_of_actual_tally_interaction_county_indicator" : false,
+        "bool_predicting_from_squared_actual_tally_interaction_county_indicator" : false,
+
+        "bool_predicting_from_ln_of_incremented_benchmark_tally_interaction_county_indicator" : false,
+        "bool_predicting_from_power_one_quarter_of_benchmark_tally_interaction_county_indicator" : false,
+        "bool_predicting_from_square_root_of_benchmark_tally_interaction_county_indicator" : false,
+        "bool_predicting_from_power_three_quarters_of_benchmark_tally_interaction_county_indicator" : false,
+        "bool_predicting_from_benchmark_tally_interaction_county_indicator" : false,
+        "bool_predicting_from_power_one_and_a_half_of_benchmark_tally_interaction_county_indicator" : false,
+        "bool_predicting_from_squared_benchmark_tally_interaction_county_indicator" : false,
+
+        "bool_predicting_from_fourth_root_of_actual_tally_interaction_benchmark_tally_interaction_county_indicator" : false,
+        "bool_predicting_from_square_root_of_actual_tally_interaction_benchmark_tally_interaction_county_indicator" : false,
+        "bool_predicting_from_actual_tally_interaction_benchmark_tally_interaction_county_indicator" : false
+    },
+
+    "graphics" :
+    {
+        "str_plot_title" : "Contest: USA; MN; 2020-Nov-03; General; President; All; Participated.",
+        "str_x_axis_label" : "Cumulative Headcount Percent for Localities Sorted in Descending Order of Predictability.",
+        "str_y_axis_label" : "Contest Choice Percent. Right Tails Show the Impact of Outliers.",
+
+        "lst_str_vote_count_column_names_for_cumulative_tally_for_curves" :
+        [
+            "USA_MN_20201103_GEN_PRE_DEM_BIDEN",
+            "USA_MN_20201103_GEN_PRE_REP_TRUMP",
+            "USA_MN_20201103_GEN_PRE_ALL_OTHERS"
+        ],
+        "lst_str_vote_count_column_name_prefixes_to_use_for_curves" :
+        [
+            "USA_MN_20201103_GEN_PRE_DEM_BIDEN",
+            "USA_MN_20201103_GEN_PRE_REP_TRUMP",
+            "USA_MN_20201103_GEN_PRE_ALL_OTHERS"
+        ],
+        "lst_str_legend_labels_for_curves" :
+        [
+            "Biden (Dem) as % of Tally",
+            "Trump (Rep) as % of Tally",
+            "Others as % of Tally"
+        ],
+        "lst_str_color_names_for_curves" :
+        [
+            "blue",
+            "red",
+            "green"
+        ],
+        "_lst_str_color_names_for_curves" : ["black", "red", "blue", "green", "magenta", "cyan", "yellow"],
+        "lst_str_linestyles_for_curves" :
+        [
+            "-",
+            "-",
+            "-"
+        ],
+        "_lst_str_linestyles_for_curves" : ["-", "--", "-.", ":"],
+        "lst_flt_linewidths_for_curves" :
+        [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "lst_bool_draw_right_tail_circle_for_curves" :
+        [
+            false,
+            true,
+            false
+        ],
+        "lst_str_annotations_for_curves" :
+        [
+            "",
+            "the most unpredictable precincts",
+            ""
+        ],
+        "lst_int_annotation_font_sizes_for_curves" :
+        [
+            6,
+            6,
+            6
+        ],
+        "lst_bool_display_final_cumulative_percent_of_tally_for_curves" :
+        [
+            true,
+            true,
+            true
+        ],
+        "lst_int_final_cumulative_percent_of_tally_font_sizes_for_curves" :
+        [
+            6,
+            6,
+            6
+        ],
+        "lst_int_final_cumulative_percent_of_tally_rounding_precision_for_curves" :
+        [
+            3,
+            3,
+            3
+        ],
+
+        "int_plot_title_font_size" : 7,
+        "int_x_axis_label_font_size" : 7,
+        "int_y_axis_label_font_size" : 7,
+        "int_x_axis_tick_labels_font_size" : 7,
+        "int_y_axis_tick_labels_font_size" : 7,
+        "int_legend_font_size" : 7,
+        "str_legend_loc" : "lower left",
+        "lst_str_text_line_content" :
+        [
+            "https://github.com/quant-manager/election_outliers/blob/main/input_batches_bat/USA_MN_20201103_GEN_PRE_ALL_TLY_BOTH_001_batch.bat",
+            "https://github.com/quant-manager/election_outliers/blob/main/input_jobs_json/USA_MN_20201103_GEN_PRE_ALL_TLY_BOTH_001.json",
+            "https://github.com/quant-manager/election_outliers/tree/main/output_jobs_dir/USA_MN_20201103_GEN_PRE_ALL_TLY_BOTH_001"
+        ],
+        "lst_str_text_line_color" :
+        [
+            "darkblue"
+        ],
+        "int_text_line_font_size" : 4,
+        "flt_text_line_x_loc_as_fraction" : 0.1275,
+        "flt_text_line_lower_y_loc_as_fraction" : 0.14,
+        "flt_text_line_upper_y_loc_as_fraction" : 0.865,
+        "flt_text_line_abs_delta_y_loc_as_fraction" : 0.02,
+        "str_text_line_start_y_loc" : "upper",
+        "bool_display_chart_id" : true,
+        "int_chart_id_font_size" : 7,
+        "bool_include_mac_address_in_chart_id" : true,
+
+        "lst_flt_min_x" : [0.0, 95.0],
+        "lst_flt_max_x" : [100.0, 100.0],
+        "lst_flt_xticks_incr" : [5.0, 1.0],
+        "lst_flt_min_y" : [0.0, 44.0],
+        "lst_flt_max_y" : [100.0, 53.0],
+        "lst_flt_yticks_incr" : [5.0, 0.25],
+        "lst_flt_plot_width_in_inches" : [6.4, 6.4],
+        "lst_flt_plot_height_in_inches" : [4.8, 4.8],
+        "lst_int_dots_per_inch_for_png_and_jpg_plots" : [1200, 1200],
+        "lst_flt_right_tails_circles_radius_in_pct_pnts" : [1.75, 1.75],
+        "lst_str_file_suffix_for_saving_plot" :
+        [
+            "full",
+            "magn"
+        ],
+
+        "bool_show_plot" : true,
+        "bool_save_plot_to_png_file" : false,
+        "bool_save_plot_to_jpg_file" : false,
+        "bool_save_plot_to_pdf_file" : true,
+        "bool_save_plot_to_svg_file" : true
+    }
+}
